@@ -1,6 +1,10 @@
 # 物理学先驱档案 / Physics Pioneers Archive
 
-供后续人物档案网站、时间轴与学科导航使用的双语资料源项目。每人一份档案，包含生平、生卒日期及精度、主要物理贡献、配图、来源和史料说明，按出生时间组织。
+双语物理学人物档案、成果数据库与时间轴网页项目。每人一份档案，包含生平、生卒日期及精度、主要物理贡献、配图、来源和史料说明。源档案按出生时间编号，当前本地网页按代表贡献年代展示。
+
+**当前本地网页：[启动预览](website/design-review/preview.command)** · [网页说明](website/design-review/README.md) · [突破指数计算与维护](docs/physics-breakthrough-index.zh.md)
+
+在项目根目录运行 `python3 website/serve.py --design-review`。当前 v3.0 收录721位人物与691条成果记录；按具体成果的形成／发现年代计算年度指数，右侧以成果文字颜色体现重要性。中英文方法文档、直接评估分数和历史日期依据均保存在项目内。
 
 **[打开物理学先驱网页](index.html)** · [网页源文件与使用说明](website/README.md)
 

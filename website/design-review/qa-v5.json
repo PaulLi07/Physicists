@@ -1,0 +1,101 @@
+{
+  "version": "3.0",
+  "checkedAt": "2026-10-27",
+  "tests": {
+    "passed": 74,
+    "failed": 0
+  },
+  "initial": {
+    "labelRight": 85.0208511352539,
+    "lineLeft": 100.01521301269533,
+    "scroll": 3220,
+    "thumbLeft": 95.01708984375,
+    "year": "1687"
+  },
+  "hover": {
+    "active": "denis-papin",
+    "color": "rgb(112, 64, 71)",
+    "preview": "蒸汽冷凝驱动活塞的构想",
+    "scroll": 3220
+  },
+  "drag": {
+    "cursor": 1945.8949274799124,
+    "range": "1942–1947",
+    "right": "1945 · 主要成果\n反铁磁性与亚铁磁性理论\n1932–1948\n湍流雷诺应力的输运方程研究\n1930–1945\n高速可压缩流动与工程控制分析\n1939–1954",
+    "scroll": 19923,
+    "year": "1945"
+  },
+  "wheel": {
+    "cursor": 1939.3480788862291,
+    "range": "1938–1939",
+    "scroll": 19203,
+    "year": "1939"
+  },
+  "mobile": {
+    "lang": "en",
+    "rowHeight": 46,
+    "rows": 721,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  "final": {
+    "chartBins": 361,
+    "inlineNameDuplicates": 0,
+    "labelRight": 85.0208511352539,
+    "lineLeft": 100.01521301269533,
+    "noBinStrokes": true,
+    "portraitLoaded": true,
+    "preview": "运动定律与万有引力的统一体系",
+    "previewColor": "rgb(223, 36, 52)",
+    "right": "1687 · 主要成果\n运动定律与万有引力的统一体系\n1687",
+    "rows": 721,
+    "scoreNodes": 0,
+    "scroll": 3220,
+    "thumbLeft": 95.01708984375,
+    "year": "1687"
+  },
+  "corpus": {
+    "events": 691,
+    "dated": 689,
+    "indexDated": 686,
+    "linkedPeople": 720,
+    "estimatedEvents": 308,
+    "estimatedPeople": 332,
+    "navigationOnlyPeople": 1,
+    "navigablePeople": 721,
+    "totalPeople": 721
+  },
+  "ledger": {
+    "total": 2828.0,
+    "noSmoothing": true,
+    "kernel": "annual-event-ledger"
+  },
+  "dateCases": {
+    "higgsMechanism": 1964,
+    "higgsDiscovery": 2012,
+    "tychoDataset": [
+      1576,
+      1597
+    ],
+    "keplerThirdLaw": 1618,
+    "newtonFramework": 1687,
+    "copernicusFormation": [
+      1502,
+      1514
+    ]
+  },
+  "bilingualAndDossier": {
+    "englishSwitchVerified": true,
+    "chineseQueryInEnglishVerified": true,
+    "dossierOpens": true,
+    "portraitObjectFit": "contain",
+    "eventTextColorsVerified": true
+  },
+  "notes": [
+    "Native pointer drag and wheel input verified bidirectional synchronization.",
+    "Native hover from Newton to Papin retained scrollTop 3220.",
+    "Year labels end at x85.02; cursor line begins at x100.02; thumb begins at x95.02.",
+    "Narrow viewport 390x844 reset after testing.",
+    "No application browser errors or warnings observed."
+  ]
+}

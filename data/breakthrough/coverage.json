@@ -1,34 +1,5704 @@
 {
-  "asOf": "2026-10-26",
+  "asOf": "2026-10-27",
   "counts": {
-    "events": 390,
-    "dated": 380,
-    "indexDated": 377,
-    "linkedPeople": 399,
-    "estimatedPeople": 325,
+    "events": 691,
+    "dated": 689,
+    "indexDated": 686,
+    "linkedPeople": 720,
+    "estimatedEvents": 308,
+    "estimatedPeople": 332,
+    "navigationOnlyPeople": 1,
     "navigablePeople": 721,
     "totalPeople": 721
   },
   "unanchored": [],
-  "calibration": {
-    "methodVersion": "residual-contribution-v1",
-    "minimumSample": 8,
-    "sampleCount": 394,
-    "defaultAge": 40,
-    "creditFraction": 0.25,
-    "maxPersonalFactor": 0.75,
-    "historicalContextCap": 0.15
-  },
-  "coverage": {
-    "totalPeople": 721,
-    "datedNavigationPeople": 399,
-    "verifiedScoredPeople": 396,
-    "estimatedPeople": 325,
-    "fullyAnchoredPeople": 721,
-    "estimatedTotalFactor": 146.6744,
-    "verifiedTotalWeight": 1030,
-    "estimatedToVerifiedWeightRatio": 0.1424,
-    "estimatedShareOfCombinedWeight": 0.1247,
-    "representedUndatedGroups": 5
+  "navigationOnly": [
+    {
+      "id": "mozi",
+      "names": {
+        "zh": "墨子",
+        "en": "Mozi"
+      }
+    }
+  ],
+  "editorialCoverage": {
+    "asOf": "2026-10-27",
+    "methodVersion": "3.0",
+    "legacyEstimatedPeople": 325,
+    "namedResultAssessments": 300,
+    "existingResultPatches": 8,
+    "coverage": [
+      {
+        "personId": "thales",
+        "legacyEstimateId": "estimate-thales",
+        "eventIds": [
+          "editorial-thales"
+        ],
+        "relationship": "contributor",
+        "score": 1,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": -600,
+          "end": -547,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "mozi",
+        "legacyEstimateId": "estimate-mozi",
+        "eventIds": [
+          "early-mohist-optics"
+        ],
+        "relationship": "represented-school",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": -325,
+          "end": -250,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "dated-existing-result"
+      },
+      {
+        "personId": "democritus",
+        "legacyEstimateId": "estimate-democritus",
+        "eventIds": [
+          "editorial-democritus"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": -450,
+          "end": -370,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "aristotle",
+        "legacyEstimateId": "estimate-aristotle",
+        "eventIds": [
+          "editorial-aristotle"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": -350,
+          "end": -322,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "aristarchus-of-samos",
+        "legacyEstimateId": "estimate-aristarchus-of-samos",
+        "eventIds": [
+          "editorial-aristarchus-of-samos"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": -280,
+          "end": -250,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "hero-of-alexandria",
+        "legacyEstimateId": "estimate-hero-of-alexandria",
+        "eventIds": [
+          "early-hero-pneumatics"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 40,
+          "end": 75,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "dated-existing-result"
+      },
+      {
+        "personId": "ptolemy",
+        "legacyEstimateId": "estimate-ptolemy",
+        "eventIds": [
+          "editorial-ptolemy"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 130,
+          "end": 160,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "hypatia",
+        "legacyEstimateId": "estimate-hypatia",
+        "eventIds": [
+          "editorial-hypatia"
+        ],
+        "relationship": "contributor",
+        "score": 1,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 390,
+          "end": 415,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "al-kindi",
+        "legacyEstimateId": "estimate-al-kindi",
+        "eventIds": [
+          "editorial-al-kindi"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 830,
+          "end": 865,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "thabit-ibn-qurra",
+        "legacyEstimateId": "estimate-thabit-ibn-qurra",
+        "eventIds": [
+          "editorial-thabit-ibn-qurra"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 860,
+          "end": 901,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "al-biruni",
+        "legacyEstimateId": "estimate-al-biruni",
+        "eventIds": [
+          "early-biruni-earth-measurement"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1010,
+          "end": 1030,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "dated-existing-result"
+      },
+      {
+        "personId": "avicenna",
+        "legacyEstimateId": "estimate-avicenna",
+        "eventIds": [
+          "editorial-avicenna"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1010,
+          "end": 1030,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "al-khazini",
+        "legacyEstimateId": "estimate-al-khazini",
+        "eventIds": [
+          "editorial-al-khazini"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1115,
+          "end": 1130,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "robert-grosseteste",
+        "legacyEstimateId": "estimate-robert-grosseteste",
+        "eventIds": [
+          "editorial-robert-grosseteste"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1220,
+          "end": 1235,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "nasir-al-din-al-tusi",
+        "legacyEstimateId": "estimate-nasir-al-din-al-tusi",
+        "eventIds": [
+          "editorial-nasir-al-din-al-tusi"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1259,
+          "end": 1261,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "witelo",
+        "legacyEstimateId": "estimate-witelo",
+        "eventIds": [
+          "editorial-witelo"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1268,
+          "end": 1278,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "theodoric-of-freiberg",
+        "legacyEstimateId": "estimate-theodoric-of-freiberg",
+        "eventIds": [
+          "early-theodoric-rainbow"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1300,
+          "end": 1310,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "dated-existing-result"
+      },
+      {
+        "personId": "kamal-al-din-al-farisi",
+        "legacyEstimateId": "estimate-kamal-al-din-al-farisi",
+        "eventIds": [
+          "early-farisi-rainbow"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1300,
+          "end": 1319,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "dated-existing-result"
+      },
+      {
+        "personId": "jean-buridan",
+        "legacyEstimateId": "estimate-jean-buridan",
+        "eventIds": [
+          "editorial-jean-buridan"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1330,
+          "end": 1360,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "nicole-oresme",
+        "legacyEstimateId": "estimate-nicole-oresme",
+        "eventIds": [
+          "early-oresme-motion-diagrams"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1350,
+          "end": 1365,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "dated-existing-result"
+      },
+      {
+        "personId": "thomas-harriot",
+        "legacyEstimateId": "estimate-thomas-harriot",
+        "eventIds": [
+          "editorial-thomas-harriot"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1600,
+          "end": 1602,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "pierre-gassendi",
+        "legacyEstimateId": "estimate-pierre-gassendi",
+        "eventIds": [
+          "editorial-pierre-gassendi"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1631,
+          "end": 1631,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "otto-von-guericke",
+        "legacyEstimateId": "estimate-otto-von-guericke",
+        "eventIds": [
+          "editorial-otto-von-guericke"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1650,
+          "end": 1654,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "edme-mariotte",
+        "legacyEstimateId": "estimate-edme-mariotte",
+        "eventIds": [
+          "editorial-edme-mariotte"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1668,
+          "end": 1668,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "jacob-bernoulli",
+        "legacyEstimateId": "estimate-jacob-bernoulli",
+        "eventIds": [
+          "editorial-jacob-bernoulli"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1691,
+          "end": 1695,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "johann-bernoulli",
+        "legacyEstimateId": "estimate-johann-bernoulli",
+        "eventIds": [
+          "editorial-johann-bernoulli"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1696,
+          "end": 1697,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "brook-taylor",
+        "legacyEstimateId": "estimate-brook-taylor",
+        "eventIds": [
+          "editorial-brook-taylor"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1715,
+          "end": 1715,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "colin-maclaurin",
+        "legacyEstimateId": "estimate-colin-maclaurin",
+        "eventIds": [
+          "editorial-colin-maclaurin"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1742,
+          "end": 1742,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "pierre-louis-maupertuis",
+        "legacyEstimateId": "estimate-pierre-louis-maupertuis",
+        "eventIds": [
+          "editorial-pierre-louis-maupertuis"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1744,
+          "end": 1746,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "roger-joseph-boscovich",
+        "legacyEstimateId": "estimate-roger-joseph-boscovich",
+        "eventIds": [
+          "editorial-roger-joseph-boscovich"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1750,
+          "end": 1780,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "laura-bassi",
+        "legacyEstimateId": "estimate-laura-bassi",
+        "eventIds": [
+          "editorial-laura-bassi"
+        ],
+        "relationship": "contributor",
+        "score": 1,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1732,
+          "end": 1770,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "mikhail-lomonosov",
+        "legacyEstimateId": "estimate-mikhail-lomonosov",
+        "eventIds": [
+          "editorial-mikhail-lomonosov"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1740,
+          "end": 1750,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "john-michell",
+        "legacyEstimateId": "estimate-john-michell",
+        "eventIds": [
+          "editorial-john-michell"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1760,
+          "end": 1783,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "rene-just-hauy",
+        "legacyEstimateId": "estimate-rene-just-hauy",
+        "eventIds": [
+          "editorial-rene-just-hauy"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1784,
+          "end": 1784,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "gaspard-monge",
+        "legacyEstimateId": "estimate-gaspard-monge",
+        "eventIds": [
+          "editorial-gaspard-monge"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1765,
+          "end": 1795,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "giovanni-battista-venturi",
+        "legacyEstimateId": "estimate-giovanni-battista-venturi",
+        "eventIds": [
+          "editorial-giovanni-battista-venturi"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1797,
+          "end": 1797,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "jacques-charles",
+        "legacyEstimateId": "estimate-jacques-charles",
+        "eventIds": [
+          "editorial-jacques-charles"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1780,
+          "end": 1787,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "pierre-prevost",
+        "legacyEstimateId": "estimate-pierre-prevost",
+        "eventIds": [
+          "editorial-pierre-prevost"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1791,
+          "end": 1791,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "adrien-marie-legendre",
+        "legacyEstimateId": "estimate-adrien-marie-legendre",
+        "eventIds": [
+          "editorial-adrien-marie-legendre"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1782,
+          "end": 1785,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "jean-baptiste-biot",
+        "legacyEstimateId": "estimate-jean-baptiste-biot",
+        "eventIds": [
+          "editorial-biot-savart-law"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1820,
+          "end": 1820,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "andre-marie-ampere",
+        "legacyEstimateId": "estimate-andre-marie-ampere",
+        "eventIds": [
+          "editorial-andre-marie-ampere"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1820,
+          "end": 1826,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "henry-kater",
+        "legacyEstimateId": "estimate-henry-kater",
+        "eventIds": [
+          "editorial-henry-kater"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1817,
+          "end": 1817,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "joseph-louis-gay-lussac",
+        "legacyEstimateId": "estimate-joseph-louis-gay-lussac",
+        "eventIds": [
+          "editorial-joseph-louis-gay-lussac"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1802,
+          "end": 1802,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "humphry-davy",
+        "legacyEstimateId": "estimate-humphry-davy",
+        "eventIds": [
+          "editorial-humphry-davy"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1807,
+          "end": 1808,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "mary-somerville",
+        "legacyEstimateId": "estimate-mary-somerville",
+        "eventIds": [
+          "editorial-mary-somerville"
+        ],
+        "relationship": "contributor",
+        "score": 1,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1831,
+          "end": 1834,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "simeon-denis-poisson",
+        "legacyEstimateId": "estimate-simeon-denis-poisson",
+        "eventIds": [
+          "editorial-simeon-denis-poisson"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1812,
+          "end": 1813,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "friedrich-bessel",
+        "legacyEstimateId": "estimate-friedrich-bessel",
+        "eventIds": [
+          "editorial-friedrich-bessel"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1838,
+          "end": 1838,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "jean-charles-athanase-peltier",
+        "legacyEstimateId": "estimate-jean-charles-athanase-peltier",
+        "eventIds": [
+          "editorial-jean-charles-athanase-peltier"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1834,
+          "end": 1834,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "francois-arago",
+        "legacyEstimateId": "estimate-francois-arago",
+        "eventIds": [
+          "editorial-francois-arago"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1824,
+          "end": 1824,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "augustin-jean-fresnel",
+        "legacyEstimateId": "estimate-augustin-jean-fresnel",
+        "eventIds": [
+          "editorial-augustin-jean-fresnel"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1815,
+          "end": 1823,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "augustin-louis-cauchy",
+        "legacyEstimateId": "estimate-augustin-louis-cauchy",
+        "eventIds": [
+          "editorial-augustin-louis-cauchy"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1822,
+          "end": 1827,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "felix-savart",
+        "legacyEstimateId": "estimate-felix-savart",
+        "eventIds": [
+          "editorial-biot-savart-law"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1820,
+          "end": 1820,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "franz-ernst-neumann",
+        "legacyEstimateId": "estimate-franz-ernst-neumann",
+        "eventIds": [
+          "editorial-franz-ernst-neumann"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1845,
+          "end": 1845,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "julius-plucker",
+        "legacyEstimateId": "estimate-julius-plucker",
+        "eventIds": [
+          "editorial-julius-plucker"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1858,
+          "end": 1864,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "george-biddell-airy",
+        "legacyEstimateId": "estimate-george-biddell-airy",
+        "eventIds": [
+          "editorial-george-biddell-airy"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1835,
+          "end": 1835,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "joseph-plateau",
+        "legacyEstimateId": "estimate-joseph-plateau",
+        "eventIds": [
+          "editorial-joseph-plateau"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1849,
+          "end": 1873,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "charles-wheatstone",
+        "legacyEstimateId": "estimate-charles-wheatstone",
+        "eventIds": [
+          "editorial-charles-wheatstone"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1838,
+          "end": 1838,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "heinrich-gustav-magnus",
+        "legacyEstimateId": "estimate-heinrich-gustav-magnus",
+        "eventIds": [
+          "editorial-heinrich-gustav-magnus"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1852,
+          "end": 1853,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "heinrich-wilhelm-dove",
+        "legacyEstimateId": "estimate-heinrich-wilhelm-dove",
+        "eventIds": [
+          "editorial-heinrich-wilhelm-dove"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1839,
+          "end": 1839,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "heinrich-lenz",
+        "legacyEstimateId": "estimate-heinrich-lenz",
+        "eventIds": [
+          "editorial-heinrich-lenz"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1834,
+          "end": 1834,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "wilhelm-eduard-weber",
+        "legacyEstimateId": "estimate-wilhelm-eduard-weber",
+        "eventIds": [
+          "editorial-weber-kohlrausch-units"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1856,
+          "end": 1856,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "carl-gustav-jacob-jacobi",
+        "legacyEstimateId": "estimate-carl-gustav-jacob-jacobi",
+        "eventIds": [
+          "editorial-carl-gustav-jacob-jacobi"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1837,
+          "end": 1838,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "joseph-petzval",
+        "legacyEstimateId": "estimate-joseph-petzval",
+        "eventIds": [
+          "editorial-joseph-petzval"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1840,
+          "end": 1840,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "joseph-liouville",
+        "legacyEstimateId": "estimate-joseph-liouville",
+        "eventIds": [
+          "editorial-joseph-liouville"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1838,
+          "end": 1838,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "hermann-grassmann",
+        "legacyEstimateId": "estimate-hermann-grassmann",
+        "eventIds": [
+          "editorial-hermann-grassmann"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1844,
+          "end": 1844,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "rudolf-kohlrausch",
+        "legacyEstimateId": "estimate-rudolf-kohlrausch",
+        "eventIds": [
+          "editorial-weber-kohlrausch-units"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1856,
+          "end": 1856,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "henri-victor-regnault",
+        "legacyEstimateId": "estimate-henri-victor-regnault",
+        "eventIds": [
+          "editorial-henri-victor-regnault"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1840,
+          "end": 1870,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "john-william-draper",
+        "legacyEstimateId": "estimate-john-william-draper",
+        "eventIds": [
+          "editorial-john-william-draper"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1841,
+          "end": 1843,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "william-robert-grove",
+        "legacyEstimateId": "estimate-william-robert-grove",
+        "eventIds": [
+          "editorial-william-robert-grove"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1839,
+          "end": 1842,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "heinrich-geissler",
+        "legacyEstimateId": "estimate-heinrich-geissler",
+        "eventIds": [
+          "editorial-heinrich-geissler"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1855,
+          "end": 1857,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "anders-jonas-angstrom",
+        "legacyEstimateId": "estimate-anders-jonas-angstrom",
+        "eventIds": [
+          "editorial-anders-jonas-angstrom"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1862,
+          "end": 1868,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "werner-von-siemens",
+        "legacyEstimateId": "estimate-werner-von-siemens",
+        "eventIds": [
+          "editorial-werner-von-siemens"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1866,
+          "end": 1867,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "hippolyte-fizeau",
+        "legacyEstimateId": "estimate-hippolyte-fizeau",
+        "eventIds": [
+          "editorial-hippolyte-fizeau"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1849,
+          "end": 1851,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "alexandre-edmond-becquerel",
+        "legacyEstimateId": "estimate-alexandre-edmond-becquerel",
+        "eventIds": [
+          "editorial-alexandre-edmond-becquerel"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1839,
+          "end": 1839,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "william-john-macquorn-rankine",
+        "legacyEstimateId": "estimate-william-john-macquorn-rankine",
+        "eventIds": [
+          "editorial-william-john-macquorn-rankine"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1850,
+          "end": 1859,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "john-tyndall",
+        "legacyEstimateId": "estimate-john-tyndall",
+        "eventIds": [
+          "editorial-john-tyndall"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1859,
+          "end": 1861,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "johann-josef-loschmidt",
+        "legacyEstimateId": "estimate-johann-josef-loschmidt",
+        "eventIds": [
+          "editorial-johann-josef-loschmidt"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1865,
+          "end": 1865,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "johann-wilhelm-hittorf",
+        "legacyEstimateId": "estimate-johann-wilhelm-hittorf",
+        "eventIds": [
+          "editorial-johann-wilhelm-hittorf"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1853,
+          "end": 1859,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "carl-anton-bjerknes",
+        "legacyEstimateId": "estimate-carl-anton-bjerknes",
+        "eventIds": [
+          "editorial-carl-anton-bjerknes"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1870,
+          "end": 1880,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "bernhard-riemann",
+        "legacyEstimateId": "estimate-bernhard-riemann",
+        "eventIds": [
+          "editorial-bernhard-riemann"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1854,
+          "end": 1854,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "balfour-stewart",
+        "legacyEstimateId": "estimate-balfour-stewart",
+        "eventIds": [
+          "editorial-balfour-stewart"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1858,
+          "end": 1858,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "carl-gottfried-neumann",
+        "legacyEstimateId": "estimate-carl-gottfried-neumann",
+        "eventIds": [
+          "editorial-carl-gottfried-neumann"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1860,
+          "end": 1877,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "william-crookes",
+        "legacyEstimateId": "estimate-william-crookes",
+        "eventIds": [
+          "editorial-william-crookes"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1875,
+          "end": 1879,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "louis-paul-cailletet",
+        "legacyEstimateId": "estimate-louis-paul-cailletet",
+        "eventIds": [
+          "editorial-louis-paul-cailletet"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1877,
+          "end": 1877,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "norman-lockyer",
+        "legacyEstimateId": "estimate-norman-lockyer",
+        "eventIds": [
+          "editorial-norman-lockyer"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1868,
+          "end": 1868,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "ernst-mach",
+        "legacyEstimateId": "estimate-ernst-mach",
+        "eventIds": [
+          "editorial-ernst-mach"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1886,
+          "end": 1887,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "august-kundt",
+        "legacyEstimateId": "estimate-august-kundt",
+        "eventIds": [
+          "editorial-august-kundt"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1866,
+          "end": 1866,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "friedrich-kohlrausch",
+        "legacyEstimateId": "estimate-friedrich-kohlrausch",
+        "eventIds": [
+          "editorial-friedrich-kohlrausch"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1875,
+          "end": 1876,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "alfred-cornu",
+        "legacyEstimateId": "estimate-alfred-cornu",
+        "eventIds": [
+          "editorial-alfred-cornu"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1873,
+          "end": 1875,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "joseph-boussinesq",
+        "legacyEstimateId": "estimate-joseph-boussinesq",
+        "eventIds": [
+          "editorial-joseph-boussinesq"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1871,
+          "end": 1877,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "james-dewar",
+        "legacyEstimateId": "estimate-james-dewar",
+        "eventIds": [
+          "editorial-james-dewar"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1892,
+          "end": 1892,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "gabriel-lippmann",
+        "legacyEstimateId": "estimate-gabriel-lippmann",
+        "eventIds": [
+          "editorial-gabriel-lippmann"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1891,
+          "end": 1891,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "emil-warburg",
+        "legacyEstimateId": "estimate-emil-warburg",
+        "eventIds": [
+          "editorial-emil-warburg"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1881,
+          "end": 1881,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "raoul-pictet",
+        "legacyEstimateId": "estimate-raoul-pictet",
+        "eventIds": [
+          "editorial-raoul-pictet"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1877,
+          "end": 1877,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "thomas-edison",
+        "legacyEstimateId": "estimate-thomas-edison",
+        "eventIds": [
+          "editorial-thomas-edison"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1883,
+          "end": 1883,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "lorand-eotvos",
+        "legacyEstimateId": "estimate-lorand-eotvos",
+        "eventIds": [
+          "editorial-lorand-eotvos"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1889,
+          "end": 1909,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "margaret-lindsay-huggins",
+        "legacyEstimateId": "estimate-margaret-lindsay-huggins",
+        "eventIds": [
+          "editorial-margaret-lindsay-huggins"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1875,
+          "end": 1899,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "henry-augustus-rowland",
+        "legacyEstimateId": "estimate-henry-augustus-rowland",
+        "eventIds": [
+          "editorial-henry-augustus-rowland"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1882,
+          "end": 1882,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "john-ambrose-fleming",
+        "legacyEstimateId": "estimate-john-ambrose-fleming",
+        "eventIds": [
+          "editorial-john-ambrose-fleming"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1904,
+          "end": 1904,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "sofya-kovalevskaya",
+        "legacyEstimateId": "estimate-sofya-kovalevskaya",
+        "eventIds": [
+          "editorial-sofya-kovalevskaya"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1888,
+          "end": 1889,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "oliver-heaviside",
+        "legacyEstimateId": "estimate-oliver-heaviside",
+        "eventIds": [
+          "editorial-oliver-heaviside"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1884,
+          "end": 1887,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "karl-ferdinand-braun",
+        "legacyEstimateId": "estimate-karl-ferdinand-braun",
+        "eventIds": [
+          "editorial-karl-ferdinand-braun"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1897,
+          "end": 1897,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "augusto-righi",
+        "legacyEstimateId": "estimate-augusto-righi",
+        "eventIds": [
+          "editorial-augusto-righi"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1893,
+          "end": 1895,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "woldemar-voigt",
+        "legacyEstimateId": "estimate-woldemar-voigt",
+        "eventIds": [
+          "editorial-woldemar-voigt"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1887,
+          "end": 1910,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "oliver-lodge",
+        "legacyEstimateId": "estimate-oliver-lodge",
+        "eventIds": [
+          "editorial-oliver-lodge"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1894,
+          "end": 1898,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "george-francis-fitzgerald",
+        "legacyEstimateId": "estimate-george-francis-fitzgerald",
+        "eventIds": [
+          "editorial-george-francis-fitzgerald"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1889,
+          "end": 1889,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "arthur-schuster",
+        "legacyEstimateId": "estimate-arthur-schuster",
+        "eventIds": [
+          "editorial-arthur-schuster"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1905,
+          "end": 1905,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "louis-georges-gouy",
+        "legacyEstimateId": "estimate-louis-georges-gouy",
+        "eventIds": [
+          "editorial-louis-georges-gouy"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1890,
+          "end": 1890,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "henri-poincare",
+        "legacyEstimateId": "estimate-henri-poincare",
+        "eventIds": [
+          "editorial-henri-poincare"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1889,
+          "end": 1890,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "hendrik-willem-bakhuis-roozeboom",
+        "legacyEstimateId": "estimate-hendrik-willem-bakhuis-roozeboom",
+        "eventIds": [
+          "editorial-hendrik-willem-bakhuis-roozeboom"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1887,
+          "end": 1904,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "johannes-rydberg",
+        "legacyEstimateId": "estimate-johannes-rydberg",
+        "eventIds": [
+          "editorial-johannes-rydberg"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1888,
+          "end": 1890,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "julius-elster",
+        "legacyEstimateId": "estimate-julius-elster",
+        "eventIds": [
+          "editorial-elster-geitel-photocells"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1889,
+          "end": 1893,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "c-v-boys",
+        "legacyEstimateId": "estimate-c-v-boys",
+        "eventIds": [
+          "editorial-c-v-boys"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1887,
+          "end": 1895,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "james-alfred-ewing",
+        "legacyEstimateId": "estimate-james-alfred-ewing",
+        "eventIds": [
+          "editorial-james-alfred-ewing"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1881,
+          "end": 1885,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "hans-geitel",
+        "legacyEstimateId": "estimate-hans-geitel",
+        "eventIds": [
+          "editorial-elster-geitel-photocells"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1889,
+          "end": 1893,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "nikola-tesla",
+        "legacyEstimateId": "estimate-nikola-tesla",
+        "eventIds": [
+          "editorial-nikola-tesla"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1887,
+          "end": 1888,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "carl-runge",
+        "legacyEstimateId": "estimate-carl-runge",
+        "eventIds": [
+          "editorial-carl-runge"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1895,
+          "end": 1901,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "aikitsu-tanakadate",
+        "legacyEstimateId": "estimate-aikitsu-tanakadate",
+        "eventIds": [
+          "editorial-aikitsu-tanakadate"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1887,
+          "end": 1896,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "knut-angstrom",
+        "legacyEstimateId": "estimate-knut-angstrom",
+        "eventIds": [
+          "editorial-knut-angstrom"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1893,
+          "end": 1899,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "williamina-fleming",
+        "legacyEstimateId": "estimate-williamina-fleming",
+        "eventIds": [
+          "editorial-williamina-fleming"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1886,
+          "end": 1890,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "joseph-larmor",
+        "legacyEstimateId": "estimate-joseph-larmor",
+        "eventIds": [
+          "editorial-joseph-larmor"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1897,
+          "end": 1897,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "ferdinand-kurlbaum",
+        "legacyEstimateId": "estimate-ferdinand-kurlbaum",
+        "eventIds": [
+          "editorial-rubens-kurlbaum-radiation"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1900,
+          "end": 1900,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "jagadish-chandra-bose",
+        "legacyEstimateId": "estimate-jagadish-chandra-bose",
+        "eventIds": [
+          "editorial-jagadish-chandra-bose"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1894,
+          "end": 1897,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "svante-arrhenius",
+        "legacyEstimateId": "estimate-svante-arrhenius",
+        "eventIds": [
+          "editorial-svante-arrhenius"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1884,
+          "end": 1887,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "charles-edouard-guillaume",
+        "legacyEstimateId": "estimate-charles-edouard-guillaume",
+        "eventIds": [
+          "editorial-charles-edouard-guillaume"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1896,
+          "end": 1897,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "pierre-duhem",
+        "legacyEstimateId": "estimate-pierre-duhem",
+        "eventIds": [
+          "editorial-pierre-duhem"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1886,
+          "end": 1891,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "vilhelm-bjerknes",
+        "legacyEstimateId": "estimate-vilhelm-bjerknes",
+        "eventIds": [
+          "editorial-vilhelm-bjerknes"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1904,
+          "end": 1904,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "philipp-lenard",
+        "legacyEstimateId": "estimate-philipp-lenard",
+        "eventIds": [
+          "editorial-philipp-lenard"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1892,
+          "end": 1894,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "william-henry-bragg",
+        "legacyEstimateId": "estimate-william-henry-bragg",
+        "eventIds": [
+          "editorial-bragg-crystal-analysis"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1912,
+          "end": 1913,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "annie-jump-cannon",
+        "legacyEstimateId": "estimate-annie-jump-cannon",
+        "eventIds": [
+          "editorial-annie-jump-cannon"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1901,
+          "end": 1924,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "wilhelm-wien",
+        "legacyEstimateId": "estimate-wilhelm-wien",
+        "eventIds": [
+          "editorial-wilhelm-wien"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1893,
+          "end": 1893,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "walther-nernst",
+        "legacyEstimateId": "estimate-walther-nernst",
+        "eventIds": [
+          "editorial-walther-nernst"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1906,
+          "end": 1906,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "friedrich-paschen",
+        "legacyEstimateId": "estimate-friedrich-paschen",
+        "eventIds": [
+          "editorial-friedrich-paschen"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1889,
+          "end": 1889,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "heinrich-rubens",
+        "legacyEstimateId": "estimate-heinrich-rubens",
+        "eventIds": [
+          "editorial-rubens-kurlbaum-radiation"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1900,
+          "end": 1900,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "friedrich-pockels",
+        "legacyEstimateId": "estimate-friedrich-pockels",
+        "eventIds": [
+          "editorial-friedrich-pockels"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1893,
+          "end": 1893,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "hantaro-nagaoka",
+        "legacyEstimateId": "estimate-hantaro-nagaoka",
+        "eventIds": [
+          "editorial-hantaro-nagaoka"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1904,
+          "end": 1904,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "pyotr-lebedev",
+        "legacyEstimateId": "estimate-pyotr-lebedev",
+        "eventIds": [
+          "editorial-pyotr-lebedev"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1899,
+          "end": 1901,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "antonia-maury",
+        "legacyEstimateId": "estimate-antonia-maury",
+        "eventIds": [
+          "editorial-antonia-maury"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1897,
+          "end": 1897,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "charles-fabry",
+        "legacyEstimateId": "estimate-charles-fabry",
+        "eventIds": [
+          "editorial-charles-fabry"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1897,
+          "end": 1899,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "kristian-birkeland",
+        "legacyEstimateId": "estimate-kristian-birkeland",
+        "eventIds": [
+          "editorial-kristian-birkeland"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1896,
+          "end": 1908,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "robert-w-wood",
+        "legacyEstimateId": "estimate-robert-w-wood",
+        "eventIds": [
+          "editorial-robert-w-wood"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1902,
+          "end": 1902,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "john-sealy-townsend",
+        "legacyEstimateId": "estimate-john-sealy-townsend",
+        "eventIds": [
+          "editorial-john-sealy-townsend"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1900,
+          "end": 1903,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "arnold-sommerfeld",
+        "legacyEstimateId": "estimate-arnold-sommerfeld",
+        "eventIds": [
+          "editorial-arnold-sommerfeld"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1915,
+          "end": 1916,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "gustaf-dalen",
+        "legacyEstimateId": "estimate-gustaf-dalen",
+        "eventIds": [
+          "editorial-gustaf-dalen"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1906,
+          "end": 1907,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "kotaro-honda",
+        "legacyEstimateId": "estimate-kotaro-honda",
+        "eventIds": [
+          "editorial-kotaro-honda"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1917,
+          "end": 1917,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "jean-baptiste-perrin",
+        "legacyEstimateId": "estimate-jean-baptiste-perrin",
+        "eventIds": [
+          "editorial-jean-baptiste-perrin"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1908,
+          "end": 1909,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "paul-langevin",
+        "legacyEstimateId": "estimate-paul-langevin",
+        "eventIds": [
+          "editorial-paul-langevin"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1908,
+          "end": 1908,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "marian-smoluchowski",
+        "legacyEstimateId": "estimate-marian-smoluchowski",
+        "eventIds": [
+          "editorial-marian-smoluchowski"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1916,
+          "end": 1917,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "lee-de-forest",
+        "legacyEstimateId": "estimate-lee-de-forest",
+        "eventIds": [
+          "editorial-lee-de-forest"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1906,
+          "end": 1907,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "johannes-stark",
+        "legacyEstimateId": "estimate-johannes-stark",
+        "eventIds": [
+          "editorial-johannes-stark"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1913,
+          "end": 1913,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "guglielmo-marconi",
+        "legacyEstimateId": "estimate-guglielmo-marconi",
+        "eventIds": [
+          "editorial-guglielmo-marconi"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1897,
+          "end": 1901,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "friedrich-hasenohrl",
+        "legacyEstimateId": "estimate-friedrich-hasenohrl",
+        "eventIds": [
+          "editorial-friedrich-hasenohrl"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1904,
+          "end": 1905,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "gilbert-n-lewis",
+        "legacyEstimateId": "estimate-gilbert-n-lewis",
+        "eventIds": [
+          "editorial-gilbert-n-lewis"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1907,
+          "end": 1923,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "charles-glover-barkla",
+        "legacyEstimateId": "estimate-charles-glover-barkla",
+        "eventIds": [
+          "editorial-charles-glover-barkla"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1906,
+          "end": 1909,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "francis-william-aston",
+        "legacyEstimateId": "estimate-francis-william-aston",
+        "eventIds": [
+          "editorial-francis-william-aston"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1919,
+          "end": 1920,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "walter-ritz",
+        "legacyEstimateId": "estimate-walter-ritz",
+        "eventIds": [
+          "editorial-walter-ritz"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1908,
+          "end": 1908,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "torahiko-terada",
+        "legacyEstimateId": "estimate-torahiko-terada",
+        "eventIds": [
+          "editorial-torahiko-terada"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1913,
+          "end": 1913,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "owen-willans-richardson",
+        "legacyEstimateId": "estimate-owen-willans-richardson",
+        "eventIds": [
+          "editorial-owen-willans-richardson"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1901,
+          "end": 1903,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "paul-ehrenfest",
+        "legacyEstimateId": "estimate-paul-ehrenfest",
+        "eventIds": [
+          "editorial-paul-ehrenfest"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1927,
+          "end": 1927,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "irving-langmuir",
+        "legacyEstimateId": "estimate-irving-langmuir",
+        "eventIds": [
+          "editorial-irving-langmuir"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1916,
+          "end": 1918,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "richard-c-tolman",
+        "legacyEstimateId": "estimate-richard-c-tolman",
+        "eventIds": [
+          "editorial-richard-c-tolman"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1930,
+          "end": 1930,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "percy-williams-bridgman",
+        "legacyEstimateId": "estimate-percy-williams-bridgman",
+        "eventIds": [
+          "editorial-percy-williams-bridgman"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1909,
+          "end": 1914,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "arthur-eddington",
+        "legacyEstimateId": "estimate-arthur-eddington",
+        "eventIds": [
+          "editorial-arthur-eddington"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1920,
+          "end": 1926,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "hermann-weyl",
+        "legacyEstimateId": "estimate-hermann-weyl",
+        "eventIds": [
+          "editorial-quantum-group-symmetry"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1926,
+          "end": 1931,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "manne-siegbahn",
+        "legacyEstimateId": "estimate-manne-siegbahn",
+        "eventIds": [
+          "editorial-manne-siegbahn"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1913,
+          "end": 1925,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "hedwig-kohn",
+        "legacyEstimateId": "estimate-hedwig-kohn",
+        "eventIds": [
+          "editorial-hedwig-kohn"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1912,
+          "end": 1933,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "frits-zernike",
+        "legacyEstimateId": "estimate-frits-zernike",
+        "eventIds": [
+          "editorial-frits-zernike"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1930,
+          "end": 1934,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "leon-brillouin",
+        "legacyEstimateId": "estimate-leon-brillouin",
+        "eventIds": [
+          "editorial-leon-brillouin"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1930,
+          "end": 1930,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "william-lawrence-bragg",
+        "legacyEstimateId": "estimate-william-lawrence-bragg",
+        "eventIds": [
+          "editorial-bragg-crystal-analysis"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1912,
+          "end": 1913,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "walther-bothe",
+        "legacyEstimateId": "estimate-walther-bothe",
+        "eventIds": [
+          "editorial-walther-bothe"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1924,
+          "end": 1925,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "edward-victor-appleton",
+        "legacyEstimateId": "estimate-edward-victor-appleton",
+        "eventIds": [
+          "editorial-edward-victor-appleton"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1924,
+          "end": 1927,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "walter-baade",
+        "legacyEstimateId": "estimate-walter-baade",
+        "eventIds": [
+          "editorial-walter-baade"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1944,
+          "end": 1944,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "walter-gordon",
+        "legacyEstimateId": "estimate-walter-gordon",
+        "eventIds": [
+          "editorial-klein-gordon-wave-equation"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1926,
+          "end": 1926,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "marietta-blau",
+        "legacyEstimateId": "estimate-marietta-blau",
+        "eventIds": [
+          "editorial-marietta-blau"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1930,
+          "end": 1937,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "oskar-klein",
+        "legacyEstimateId": "estimate-oskar-klein",
+        "eventIds": [
+          "editorial-klein-gordon-wave-equation"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1926,
+          "end": 1926,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "hendrik-kramers",
+        "legacyEstimateId": "estimate-hendrik-kramers",
+        "eventIds": [
+          "editorial-hendrik-kramers"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1940,
+          "end": 1940,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "hertha-sponer",
+        "legacyEstimateId": "estimate-hertha-sponer",
+        "eventIds": [
+          "editorial-hertha-sponer"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1920,
+          "end": 1936,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "friedrich-hund",
+        "legacyEstimateId": "estimate-friedrich-hund",
+        "eventIds": [
+          "editorial-friedrich-hund"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1925,
+          "end": 1927,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "ida-noddack",
+        "legacyEstimateId": "estimate-ida-noddack",
+        "eventIds": [
+          "editorial-ida-noddack"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1934,
+          "end": 1934,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "robert-s-mulliken",
+        "legacyEstimateId": "estimate-robert-s-mulliken",
+        "eventIds": [
+          "editorial-robert-s-mulliken"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1927,
+          "end": 1932,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "wu-youxun",
+        "legacyEstimateId": "estimate-wu-youxun",
+        "eventIds": [
+          "editorial-wu-youxun"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1924,
+          "end": 1926,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "patrick-blackett-baron-blackett",
+        "legacyEstimateId": "estimate-patrick-blackett-baron-blackett",
+        "eventIds": [
+          "editorial-patrick-blackett-baron-blackett"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1932,
+          "end": 1933,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "katharine-burr-blodgett",
+        "legacyEstimateId": "estimate-katharine-burr-blodgett",
+        "eventIds": [
+          "editorial-katharine-burr-blodgett"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1934,
+          "end": 1935,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "gregor-wentzel",
+        "legacyEstimateId": "estimate-gregor-wentzel",
+        "eventIds": [
+          "editorial-gregor-wentzel"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1926,
+          "end": 1926,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "ye-qisun",
+        "legacyEstimateId": "estimate-ye-qisun",
+        "eventIds": [
+          "editorial-ye-qisun"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1921,
+          "end": 1921,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "vladimir-fock",
+        "legacyEstimateId": "estimate-vladimir-fock",
+        "eventIds": [
+          "editorial-vladimir-fock"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1932,
+          "end": 1932,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "john-hasbrouck-van-vleck",
+        "legacyEstimateId": "estimate-john-hasbrouck-van-vleck",
+        "eventIds": [
+          "editorial-john-hasbrouck-van-vleck"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1928,
+          "end": 1932,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "fritz-london",
+        "legacyEstimateId": "estimate-fritz-london",
+        "eventIds": [
+          "editorial-heitler-london-bond"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1927,
+          "end": 1927,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "jan-oort",
+        "legacyEstimateId": "estimate-jan-oort",
+        "eventIds": [
+          "editorial-jan-oort"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1927,
+          "end": 1927,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "maria-telkes",
+        "legacyEstimateId": "estimate-maria-telkes",
+        "eventIds": [
+          "editorial-maria-telkes"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1946,
+          "end": 1948,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "john-c-slater",
+        "legacyEstimateId": "estimate-john-c-slater",
+        "eventIds": [
+          "editorial-john-c-slater"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1929,
+          "end": 1929,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "grete-hermann",
+        "legacyEstimateId": "estimate-grete-hermann",
+        "eventIds": [
+          "editorial-grete-hermann"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1935,
+          "end": 1935,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "robert-j-van-de-graaff",
+        "legacyEstimateId": "estimate-robert-j-van-de-graaff",
+        "eventIds": [
+          "editorial-robert-j-van-de-graaff"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1929,
+          "end": 1931,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "alfred-kastler",
+        "legacyEstimateId": "estimate-alfred-kastler",
+        "eventIds": [
+          "editorial-alfred-kastler"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1950,
+          "end": 1950,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "zhao-zhongyao",
+        "legacyEstimateId": "estimate-zhao-zhongyao",
+        "eventIds": [
+          "editorial-zhao-zhongyao"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1930,
+          "end": 1930,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "rolf-widere",
+        "legacyEstimateId": "estimate-rolf-widere",
+        "eventIds": [
+          "editorial-rolf-widere"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1928,
+          "end": 1928,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "zhou-peiyuan",
+        "legacyEstimateId": "estimate-zhou-peiyuan",
+        "eventIds": [
+          "editorial-zhou-peiyuan"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1930,
+          "end": 1945,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "eugene-wigner",
+        "legacyEstimateId": "estimate-eugene-wigner",
+        "eventIds": [
+          "editorial-quantum-group-symmetry"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1926,
+          "end": 1931,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "igor-kurchatov",
+        "legacyEstimateId": "estimate-igor-kurchatov",
+        "eventIds": [
+          "editorial-igor-kurchatov"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1946,
+          "end": 1946,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "john-von-neumann",
+        "legacyEstimateId": "estimate-john-von-neumann",
+        "eventIds": [
+          "editorial-john-von-neumann"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1932,
+          "end": 1932,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "walter-heitler",
+        "legacyEstimateId": "estimate-walter-heitler",
+        "eventIds": [
+          "editorial-heitler-london-bond"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1927,
+          "end": 1927,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "george-gamow",
+        "legacyEstimateId": "estimate-george-gamow",
+        "eventIds": [
+          "editorial-george-gamow"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1928,
+          "end": 1928,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "ralph-kronig",
+        "legacyEstimateId": "estimate-ralph-kronig",
+        "eventIds": [
+          "editorial-ralph-kronig"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1926,
+          "end": 1927,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "louis-neel",
+        "legacyEstimateId": "estimate-louis-neel",
+        "eventIds": [
+          "editorial-louis-neel"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1932,
+          "end": 1948,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "ernst-stueckelberg",
+        "legacyEstimateId": "estimate-ernst-stueckelberg",
+        "eventIds": [
+          "editorial-ernst-stueckelberg"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1934,
+          "end": 1941,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "nevill-francis-mott",
+        "legacyEstimateId": "estimate-nevill-francis-mott",
+        "eventIds": [
+          "editorial-nevill-francis-mott"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1949,
+          "end": 1958,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "ettore-majorana",
+        "legacyEstimateId": "estimate-ettore-majorana",
+        "eventIds": [
+          "editorial-ettore-majorana"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1937,
+          "end": 1937,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "wu-ta-you",
+        "legacyEstimateId": "estimate-wu-ta-you",
+        "eventIds": [
+          "editorial-wu-ta-you"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1934,
+          "end": 1939,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "vladimir-veksler",
+        "legacyEstimateId": "estimate-vladimir-veksler",
+        "eventIds": [
+          "editorial-vladimir-veksler"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1944,
+          "end": 1944,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "wang-ganchang",
+        "legacyEstimateId": "estimate-wang-ganchang",
+        "eventIds": [
+          "editorial-wang-ganchang"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1942,
+          "end": 1942,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "rudolf-peierls",
+        "legacyEstimateId": "estimate-rudolf-peierls",
+        "eventIds": [
+          "editorial-rudolf-peierls"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1950,
+          "end": 1955,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "konstantin-petrzhak",
+        "legacyEstimateId": "estimate-konstantin-petrzhak",
+        "eventIds": [
+          "editorial-uranium-spontaneous-fission"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1940,
+          "end": 1940,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "zhao-jiuzhang",
+        "legacyEstimateId": "estimate-zhao-jiuzhang",
+        "eventIds": [
+          "editorial-zhao-jiuzhang"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1957,
+          "end": 1965,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "heinz-london",
+        "legacyEstimateId": "estimate-heinz-london",
+        "eventIds": [
+          "editorial-heinz-london"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "documented-manuscript",
+          "kind": "point",
+          "start": 1934,
+          "end": 1934,
+          "dateConfidence": "documented-upper-bound"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "lev-artsimovich",
+        "legacyEstimateId": "estimate-lev-artsimovich",
+        "eventIds": [
+          "editorial-lev-artsimovich"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1958,
+          "end": 1968,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "guo-yonghuai",
+        "legacyEstimateId": "estimate-guo-yonghuai",
+        "eventIds": [
+          "editorial-guo-yonghuai"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1940,
+          "end": 1957,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "stanislaw-ulam",
+        "legacyEstimateId": "estimate-stanislaw-ulam",
+        "eventIds": [
+          "editorial-stanislaw-ulam"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1946,
+          "end": 1949,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "homi-j-bhabha",
+        "legacyEstimateId": "estimate-homi-j-bhabha",
+        "eventIds": [
+          "editorial-homi-j-bhabha"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1936,
+          "end": 1936,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "zhang-wenyu",
+        "legacyEstimateId": "estimate-zhang-wenyu",
+        "eventIds": [
+          "editorial-zhang-wenyu"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1947,
+          "end": 1949,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "john-d-kraus",
+        "legacyEstimateId": "estimate-john-d-kraus",
+        "eventIds": [
+          "editorial-john-d-kraus"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1946,
+          "end": 1947,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "shoichi-sakata",
+        "legacyEstimateId": "estimate-shoichi-sakata",
+        "eventIds": [
+          "editorial-shoichi-sakata"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1956,
+          "end": 1956,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "wang-zhuxi",
+        "legacyEstimateId": "estimate-wang-zhuxi",
+        "eventIds": [
+          "editorial-wang-zhuxi"
+        ],
+        "relationship": "contributor",
+        "score": 1,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1937,
+          "end": 1960,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "luis-walter-alvarez",
+        "legacyEstimateId": "estimate-luis-walter-alvarez",
+        "eventIds": [
+          "editorial-luis-walter-alvarez"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1954,
+          "end": 1964,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "gertrude-scharff-goldhaber",
+        "legacyEstimateId": "estimate-gertrude-scharff-goldhaber",
+        "eventIds": [
+          "editorial-gertrude-scharff-goldhaber"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1948,
+          "end": 1953,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "qian-xuesen",
+        "legacyEstimateId": "estimate-qian-xuesen",
+        "eventIds": [
+          "editorial-qian-xuesen"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1939,
+          "end": 1954,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "martin-schwarzschild",
+        "legacyEstimateId": "estimate-martin-schwarzschild",
+        "eventIds": [
+          "editorial-martin-schwarzschild"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1946,
+          "end": 1958,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "georgy-flerov",
+        "legacyEstimateId": "estimate-georgy-flerov",
+        "eventIds": [
+          "editorial-uranium-spontaneous-fission"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1940,
+          "end": 1940,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "wolfgang-paul",
+        "legacyEstimateId": "estimate-wolfgang-paul",
+        "eventIds": [
+          "editorial-wolfgang-paul"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1953,
+          "end": 1958,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "bruno-pontecorvo",
+        "legacyEstimateId": "estimate-bruno-pontecorvo",
+        "eventIds": [
+          "editorial-bruno-pontecorvo"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1957,
+          "end": 1958,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "qian-sanqiang",
+        "legacyEstimateId": "estimate-qian-sanqiang",
+        "eventIds": [
+          "editorial-uranium-multipart-fission"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1946,
+          "end": 1947,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "he-zehui",
+        "legacyEstimateId": "estimate-he-zehui",
+        "eventIds": [
+          "editorial-uranium-multipart-fission"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1946,
+          "end": 1947,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "yakov-zeldovich",
+        "legacyEstimateId": "estimate-yakov-zeldovich",
+        "eventIds": [
+          "editorial-yakov-zeldovich"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1970,
+          "end": 1972,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "lyman-spitzer",
+        "legacyEstimateId": "estimate-lyman-spitzer",
+        "eventIds": [
+          "editorial-lyman-spitzer"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1951,
+          "end": 1951,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "robert-hofstadter",
+        "legacyEstimateId": "estimate-robert-hofstadter",
+        "eventIds": [
+          "editorial-robert-hofstadter"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1953,
+          "end": 1957,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "evgeny-lifshitz",
+        "legacyEstimateId": "estimate-evgeny-lifshitz",
+        "eventIds": [
+          "editorial-evgeny-lifshitz"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1955,
+          "end": 1956,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "wang-daheng",
+        "legacyEstimateId": "estimate-wang-daheng",
+        "eventIds": [
+          "editorial-wang-daheng"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1952,
+          "end": 1965,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "norman-foster-ramsey-jr",
+        "legacyEstimateId": "estimate-norman-foster-ramsey-jr",
+        "eventIds": [
+          "editorial-norman-foster-ramsey-jr"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1949,
+          "end": 1950,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "clifford-shull",
+        "legacyEstimateId": "estimate-clifford-shull",
+        "eventIds": [
+          "editorial-clifford-shull"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1946,
+          "end": 1949,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "peng-huanwu",
+        "legacyEstimateId": "estimate-peng-huanwu",
+        "eventIds": [
+          "editorial-early-chinese-nuclear-design"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1958,
+          "end": 1967,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "hu-ning",
+        "legacyEstimateId": "estimate-hu-ning",
+        "eventIds": [
+          "editorial-hu-ning"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1965,
+          "end": 1966,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "claude-shannon",
+        "legacyEstimateId": "estimate-claude-shannon",
+        "eventIds": [
+          "editorial-claude-shannon"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1948,
+          "end": 1948,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "alexander-prokhorov",
+        "legacyEstimateId": "estimate-alexander-prokhorov",
+        "eventIds": [
+          "editorial-maser-theoretical-principle"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1952,
+          "end": 1954,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "ilya-prigogine",
+        "legacyEstimateId": "estimate-ilya-prigogine",
+        "eventIds": [
+          "editorial-ilya-prigogine"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1965,
+          "end": 1967,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "james-rainwater",
+        "legacyEstimateId": "estimate-james-rainwater",
+        "eventIds": [
+          "editorial-deformed-nucleus-collective-model"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "first-public-record",
+          "kind": "uncertain-range",
+          "start": 1950,
+          "end": 1953,
+          "dateConfidence": "documented-record"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "kai-siegbahn",
+        "legacyEstimateId": "estimate-kai-siegbahn",
+        "eventIds": [
+          "editorial-kai-siegbahn"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1957,
+          "end": 1967,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "gersh-budker",
+        "legacyEstimateId": "estimate-gersh-budker",
+        "eventIds": [
+          "editorial-gersh-budker"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1966,
+          "end": 1966,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "cheng-kaijia",
+        "legacyEstimateId": "estimate-cheng-kaijia",
+        "eventIds": [
+          "editorial-cheng-kaijia"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1964,
+          "end": 1980,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "martin-ryle",
+        "legacyEstimateId": "estimate-martin-ryle",
+        "eventIds": [
+          "editorial-martin-ryle"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1950,
+          "end": 1962,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "wang-shouwu",
+        "legacyEstimateId": "estimate-wang-shouwu",
+        "eventIds": [
+          "editorial-wang-shouwu"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1956,
+          "end": 1970,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "vikram-sarabhai",
+        "legacyEstimateId": "estimate-vikram-sarabhai",
+        "eventIds": [
+          "editorial-vikram-sarabhai"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1942,
+          "end": 1947,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "huang-kun",
+        "legacyEstimateId": "estimate-huang-kun",
+        "eventIds": [
+          "editorial-huang-kun"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1951,
+          "end": 1951,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "isaak-khalatnikov",
+        "legacyEstimateId": "estimate-isaak-khalatnikov",
+        "eventIds": [
+          "editorial-isaak-khalatnikov"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1949,
+          "end": 1950,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "hermann-bondi",
+        "legacyEstimateId": "estimate-hermann-bondi",
+        "eventIds": [
+          "editorial-hermann-bondi"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1962,
+          "end": 1962,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "nicolaas-bloembergen",
+        "legacyEstimateId": "estimate-nicolaas-bloembergen",
+        "eventIds": [
+          "editorial-nicolaas-bloembergen"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1962,
+          "end": 1965,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "thomas-gold",
+        "legacyEstimateId": "estimate-thomas-gold",
+        "eventIds": [
+          "editorial-thomas-gold"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1968,
+          "end": 1968,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "xie-jialin",
+        "legacyEstimateId": "estimate-xie-jialin",
+        "eventIds": [
+          "editorial-xie-jialin"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1955,
+          "end": 1988,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "bruno-touschek",
+        "legacyEstimateId": "estimate-bruno-touschek",
+        "eventIds": [
+          "editorial-bruno-touschek"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1960,
+          "end": 1961,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "xie-xide",
+        "legacyEstimateId": "estimate-xie-xide",
+        "eventIds": [
+          "editorial-xie-xide"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1950,
+          "end": 1985,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "arthur-leonard-schawlow",
+        "legacyEstimateId": "estimate-arthur-leonard-schawlow",
+        "eventIds": [
+          "editorial-arthur-leonard-schawlow"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1958,
+          "end": 1958,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "andrei-sakharov",
+        "legacyEstimateId": "estimate-andrei-sakharov",
+        "eventIds": [
+          "editorial-andrei-sakharov"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1967,
+          "end": 1967,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "esther-conwell",
+        "legacyEstimateId": "estimate-esther-conwell",
+        "eventIds": [
+          "editorial-esther-conwell"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1950,
+          "end": 1950,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "aage-bohr",
+        "legacyEstimateId": "estimate-aage-bohr",
+        "eventIds": [
+          "editorial-deformed-nucleus-collective-model"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "first-public-record",
+          "kind": "uncertain-range",
+          "start": 1950,
+          "end": 1953,
+          "dateConfidence": "documented-record"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "nikolay-basov",
+        "legacyEstimateId": "estimate-nikolay-basov",
+        "eventIds": [
+          "editorial-maser-theoretical-principle"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1952,
+          "end": 1954,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "bryce-dewitt",
+        "legacyEstimateId": "estimate-bryce-dewitt",
+        "eventIds": [
+          "editorial-bryce-dewitt"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1967,
+          "end": 1967,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "sulamith-goldhaber",
+        "legacyEstimateId": "estimate-sulamith-goldhaber",
+        "eventIds": [
+          "editorial-sulamith-goldhaber"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1955,
+          "end": 1964,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "jack-kilby",
+        "legacyEstimateId": "estimate-jack-kilby",
+        "eventIds": [
+          "editorial-jack-kilby"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1958,
+          "end": 1958,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "deng-jiaxian",
+        "legacyEstimateId": "estimate-deng-jiaxian",
+        "eventIds": [
+          "editorial-early-chinese-nuclear-design"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1958,
+          "end": 1967,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "huang-zuqia",
+        "legacyEstimateId": "estimate-huang-zuqia",
+        "eventIds": [
+          "editorial-huang-zuqia"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1955,
+          "end": 1967,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "efim-fradkin",
+        "legacyEstimateId": "estimate-efim-fradkin",
+        "eventIds": [
+          "editorial-efim-fradkin"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1975,
+          "end": 1983,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "zhu-guangya",
+        "legacyEstimateId": "estimate-zhu-guangya",
+        "eventIds": [
+          "editorial-early-chinese-nuclear-design"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1958,
+          "end": 1967,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "berni-alder",
+        "legacyEstimateId": "estimate-berni-alder",
+        "eventIds": [
+          "editorial-berni-alder"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1957,
+          "end": 1959,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "fay-ajzenberg-selove",
+        "legacyEstimateId": "estimate-fay-ajzenberg-selove",
+        "eventIds": [
+          "editorial-fay-ajzenberg-selove"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1952,
+          "end": 1990,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "ben-roy-mottelson",
+        "legacyEstimateId": "estimate-ben-roy-mottelson",
+        "eventIds": [
+          "editorial-deformed-nucleus-collective-model"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "first-public-record",
+          "kind": "uncertain-range",
+          "start": 1950,
+          "end": 1953,
+          "dateConfidence": "documented-record"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "yu-min",
+        "legacyEstimateId": "estimate-yu-min",
+        "eventIds": [
+          "editorial-early-chinese-nuclear-design"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1958,
+          "end": 1967,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "kazuhiko-nishijima",
+        "legacyEstimateId": "estimate-kazuhiko-nishijima",
+        "eventIds": [
+          "editorial-kazuhiko-nishijima"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1953,
+          "end": 1955,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "dai-yuanben",
+        "legacyEstimateId": "estimate-dai-yuanben",
+        "eventIds": [
+          "editorial-dai-yuanben"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1960,
+          "end": 1990,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "vera-rubin",
+        "legacyEstimateId": "estimate-vera-rubin",
+        "eventIds": [
+          "editorial-vera-rubin"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1970,
+          "end": 1980,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "herbert-kroemer",
+        "legacyEstimateId": "estimate-herbert-kroemer",
+        "eventIds": [
+          "editorial-herbert-kroemer"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1957,
+          "end": 1963,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "vera-kistiakowsky",
+        "legacyEstimateId": "estimate-vera-kistiakowsky",
+        "eventIds": [
+          "editorial-vera-kistiakowsky"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1950,
+          "end": 1975,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "stanley-mandelstam",
+        "legacyEstimateId": "estimate-stanley-mandelstam",
+        "eventIds": [
+          "editorial-stanley-mandelstam"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1958,
+          "end": 1958,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "ivar-giaever",
+        "legacyEstimateId": "estimate-ivar-giaever",
+        "eventIds": [
+          "editorial-ivar-giaever"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1960,
+          "end": 1960,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "zhou-guangzhao",
+        "legacyEstimateId": "estimate-zhou-guangzhao",
+        "eventIds": [
+          "editorial-zhou-guangzhao"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1959,
+          "end": 1961,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "zhores-alferov",
+        "legacyEstimateId": "estimate-zhores-alferov",
+        "eventIds": [
+          "editorial-zhores-alferov"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1963,
+          "end": 1970,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "joel-lebowitz",
+        "legacyEstimateId": "estimate-joel-lebowitz",
+        "eventIds": [
+          "editorial-joel-lebowitz"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1960,
+          "end": 1980,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "hugh-everett-iii",
+        "legacyEstimateId": "estimate-hugh-everett-iii",
+        "eventIds": [
+          "editorial-hugh-everett-iii"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1957,
+          "end": 1957,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "mildred-dresselhaus",
+        "legacyEstimateId": "estimate-mildred-dresselhaus",
+        "eventIds": [
+          "editorial-mildred-dresselhaus"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1960,
+          "end": 1990,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "klaus-hasselmann",
+        "legacyEstimateId": "estimate-klaus-hasselmann",
+        "eventIds": [
+          "editorial-klaus-hasselmann"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1976,
+          "end": 1976,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "li-fanghua",
+        "legacyEstimateId": "estimate-li-fanghua",
+        "eventIds": [
+          "editorial-li-fanghua"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1960,
+          "end": 1985,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "elliott-lieb",
+        "legacyEstimateId": "estimate-elliott-lieb",
+        "eventIds": [
+          "editorial-elliott-lieb"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1967,
+          "end": 1967,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "pierre-gilles-de-gennes",
+        "legacyEstimateId": "estimate-pierre-gilles-de-gennes",
+        "eventIds": [
+          "editorial-pierre-gilles-de-gennes"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1968,
+          "end": 1979,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "claude-cohen-tannoudji",
+        "legacyEstimateId": "estimate-claude-cohen-tannoudji",
+        "eventIds": [
+          "editorial-claude-cohen-tannoudji"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "first-public-record",
+          "kind": "uncertain-range",
+          "start": 1988,
+          "end": 1989,
+          "dateConfidence": "documented-record"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "john-hopfield",
+        "legacyEstimateId": "estimate-john-hopfield",
+        "eventIds": [
+          "editorial-john-hopfield"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "first-public-record",
+          "kind": "point",
+          "start": 1982,
+          "end": 1982,
+          "dateConfidence": "documented-record"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "jeffrey-goldstone",
+        "legacyEstimateId": "estimate-jeffrey-goldstone",
+        "eventIds": [
+          "editorial-jeffrey-goldstone"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1961,
+          "end": 1962,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "ludvig-faddeev",
+        "legacyEstimateId": "estimate-ludvig-faddeev",
+        "eventIds": [
+          "editorial-ludvig-faddeev"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1960,
+          "end": 1961,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "willie-hobbs-moore",
+        "legacyEstimateId": "estimate-willie-hobbs-moore",
+        "eventIds": [
+          "editorial-willie-hobbs-moore"
+        ],
+        "relationship": "contributor",
+        "score": 1,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1965,
+          "end": 1972,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "james-bjorken",
+        "legacyEstimateId": "estimate-james-bjorken",
+        "eventIds": [
+          "editorial-james-bjorken"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1968,
+          "end": 1969,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "donald-lynden-bell",
+        "legacyEstimateId": "estimate-donald-lynden-bell",
+        "eventIds": [
+          "editorial-donald-lynden-bell"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1967,
+          "end": 1967,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "david-ruelle",
+        "legacyEstimateId": "estimate-david-ruelle",
+        "eventIds": [
+          "editorial-david-ruelle"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1971,
+          "end": 1971,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "fang-lizhi",
+        "legacyEstimateId": "estimate-fang-lizhi",
+        "eventIds": [
+          "editorial-fang-lizhi"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1970,
+          "end": 1985,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "sidney-coleman",
+        "legacyEstimateId": "estimate-sidney-coleman",
+        "eventIds": [
+          "editorial-sidney-coleman"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1973,
+          "end": 1973,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "mary-k-gaillard",
+        "legacyEstimateId": "estimate-mary-k-gaillard",
+        "eventIds": [
+          "editorial-mary-k-gaillard"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1974,
+          "end": 1974,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "leonard-susskind",
+        "legacyEstimateId": "estimate-leonard-susskind",
+        "eventIds": [
+          "editorial-leonard-susskind"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1969,
+          "end": 1970,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "john-henry-schwarz",
+        "legacyEstimateId": "estimate-john-henry-schwarz",
+        "eventIds": [
+          "editorial-green-schwarz-anomaly-cancellation"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "first-public-record",
+          "kind": "point",
+          "start": 1984,
+          "end": 1984,
+          "dateConfidence": "documented-record"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "renata-kallosh",
+        "legacyEstimateId": "estimate-renata-kallosh",
+        "eventIds": [
+          "editorial-renata-kallosh"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1976,
+          "end": 1981,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "helen-quinn",
+        "legacyEstimateId": "estimate-helen-quinn",
+        "eventIds": [
+          "editorial-helen-quinn"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1977,
+          "end": 1977,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "alexander-polyakov",
+        "legacyEstimateId": "estimate-alexander-polyakov",
+        "eventIds": [
+          "editorial-alexander-polyakov"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "documented-manuscript",
+          "kind": "point",
+          "start": 1983,
+          "end": 1983,
+          "dateConfidence": "documented-upper-bound"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "michael-green",
+        "legacyEstimateId": "estimate-michael-green",
+        "eventIds": [
+          "editorial-green-schwarz-anomaly-cancellation"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "first-public-record",
+          "kind": "point",
+          "start": 1984,
+          "end": 1984,
+          "dateConfidence": "documented-record"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "gary-gibbons",
+        "legacyEstimateId": "estimate-gary-gibbons",
+        "eventIds": [
+          "editorial-gary-gibbons"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "documented-manuscript",
+          "kind": "point",
+          "start": 1976,
+          "end": 1976,
+          "dateConfidence": "documented-upper-bound"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "shirley-ann-jackson",
+        "legacyEstimateId": "estimate-shirley-ann-jackson",
+        "eventIds": [
+          "editorial-shirley-ann-jackson"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "sustained",
+          "start": 1973,
+          "end": 1985,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "john-cardy",
+        "legacyEstimateId": "estimate-john-cardy",
+        "eventIds": [
+          "editorial-john-cardy"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "uncertain-range",
+          "start": 1984,
+          "end": 1989,
+          "dateConfidence": "editorial-interval"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "robert-wald",
+        "legacyEstimateId": "estimate-robert-wald",
+        "eventIds": [
+          "editorial-robert-wald"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "first-public-record",
+          "kind": "point",
+          "start": 1993,
+          "end": 1993,
+          "dateConfidence": "documented-record"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "saul-teukolsky",
+        "legacyEstimateId": "estimate-saul-teukolsky",
+        "eventIds": [
+          "editorial-saul-teukolsky"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1972,
+          "end": 1972,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "geoffrey-hinton",
+        "legacyEstimateId": "estimate-geoffrey-hinton",
+        "eventIds": [
+          "editorial-geoffrey-hinton"
+        ],
+        "relationship": "contributor",
+        "score": 2,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1985,
+          "end": 1985,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "william-daniel-phillips",
+        "legacyEstimateId": "estimate-william-daniel-phillips",
+        "eventIds": [
+          "editorial-william-daniel-phillips"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "first-public-record",
+          "kind": "point",
+          "start": 1982,
+          "end": 1982,
+          "dateConfidence": "documented-record"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "abhay-ashtekar",
+        "legacyEstimateId": "estimate-abhay-ashtekar",
+        "eventIds": [
+          "editorial-abhay-ashtekar"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "documented-manuscript",
+          "kind": "point",
+          "start": 1985,
+          "end": 1985,
+          "dateConfidence": "documented-upper-bound"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "thibault-damour",
+        "legacyEstimateId": "estimate-thibault-damour",
+        "eventIds": [
+          "editorial-effective-one-body-dynamics"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "first-public-record",
+          "kind": "point",
+          "start": 1998,
+          "end": 1998,
+          "dateConfidence": "documented-record"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "edward-witten",
+        "legacyEstimateId": "estimate-edward-witten",
+        "eventIds": [
+          "editorial-edward-witten"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1988,
+          "end": 1988,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "reinhard-genzel",
+        "legacyEstimateId": "estimate-reinhard-genzel",
+        "eventIds": [
+          "editorial-galactic-centre-stellar-orbits"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "first-public-record",
+          "kind": "point",
+          "start": 2002,
+          "end": 2002,
+          "dateConfidence": "documented-record"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "gary-horowitz",
+        "legacyEstimateId": "estimate-gary-horowitz",
+        "eventIds": [
+          "editorial-gary-horowitz"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1985,
+          "end": 1985,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "ashoke-sen",
+        "legacyEstimateId": "estimate-ashoke-sen",
+        "eventIds": [
+          "editorial-ashoke-sen"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1994,
+          "end": 1994,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "nathan-seiberg",
+        "legacyEstimateId": "estimate-nathan-seiberg",
+        "eventIds": [
+          "editorial-nathan-seiberg"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "first-public-record",
+          "kind": "point",
+          "start": 1994,
+          "end": 1994,
+          "dateConfidence": "documented-record"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "subir-sachdev",
+        "legacyEstimateId": "estimate-subir-sachdev",
+        "eventIds": [
+          "editorial-subir-sachdev"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "first-public-record",
+          "kind": "point",
+          "start": 1992,
+          "end": 1992,
+          "dateConfidence": "documented-record"
+        },
+        "action": "named-result-assessment"
+      },
+      {
+        "personId": "andrea-m-ghez",
+        "legacyEstimateId": "estimate-andrea-m-ghez",
+        "eventIds": [
+          "editorial-galactic-centre-stellar-orbits"
+        ],
+        "relationship": "contributor",
+        "score": 8,
+        "dateModel": {
+          "basis": "first-public-record",
+          "kind": "point",
+          "start": 2002,
+          "end": 2002,
+          "dateConfidence": "documented-record"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "alessandra-buonanno",
+        "legacyEstimateId": "estimate-alessandra-buonanno",
+        "eventIds": [
+          "editorial-effective-one-body-dynamics"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "first-public-record",
+          "kind": "point",
+          "start": 1998,
+          "end": 1998,
+          "dateConfidence": "documented-record"
+        },
+        "action": "merged-shared-result"
+      },
+      {
+        "personId": "nima-arkani-hamed",
+        "legacyEstimateId": "estimate-nima-arkani-hamed",
+        "eventIds": [
+          "editorial-nima-arkani-hamed"
+        ],
+        "relationship": "contributor",
+        "score": 4,
+        "dateModel": {
+          "basis": "editorial-interval",
+          "kind": "point",
+          "start": 1998,
+          "end": 1998,
+          "dateConfidence": "editorial-anchor"
+        },
+        "action": "named-result-assessment"
+      }
+    ],
+    "scoreCounts": {
+      "1": 6,
+      "2": 84,
+      "4": 179,
+      "8": 31,
+      "16": 0
+    },
+    "mergedGroups": [
+      {
+        "eventId": "editorial-biot-savart-law",
+        "people": [
+          "jean-baptiste-biot",
+          "felix-savart"
+        ],
+        "sharedBudget": 4
+      },
+      {
+        "eventId": "editorial-weber-kohlrausch-units",
+        "people": [
+          "wilhelm-eduard-weber",
+          "rudolf-kohlrausch"
+        ],
+        "sharedBudget": 4
+      },
+      {
+        "eventId": "editorial-elster-geitel-photocells",
+        "people": [
+          "julius-elster",
+          "hans-geitel"
+        ],
+        "sharedBudget": 2
+      },
+      {
+        "eventId": "editorial-rubens-kurlbaum-radiation",
+        "people": [
+          "ferdinand-kurlbaum",
+          "heinrich-rubens"
+        ],
+        "sharedBudget": 4
+      },
+      {
+        "eventId": "editorial-bragg-crystal-analysis",
+        "people": [
+          "william-henry-bragg",
+          "william-lawrence-bragg"
+        ],
+        "sharedBudget": 8
+      },
+      {
+        "eventId": "editorial-klein-gordon-wave-equation",
+        "people": [
+          "walter-gordon",
+          "oskar-klein"
+        ],
+        "sharedBudget": 4
+      },
+      {
+        "eventId": "editorial-heitler-london-bond",
+        "people": [
+          "fritz-london",
+          "walter-heitler"
+        ],
+        "sharedBudget": 8
+      },
+      {
+        "eventId": "editorial-uranium-spontaneous-fission",
+        "people": [
+          "konstantin-petrzhak",
+          "georgy-flerov"
+        ],
+        "sharedBudget": 4
+      },
+      {
+        "eventId": "editorial-uranium-multipart-fission",
+        "people": [
+          "qian-sanqiang",
+          "he-zehui"
+        ],
+        "sharedBudget": 2
+      },
+      {
+        "eventId": "editorial-maser-theoretical-principle",
+        "people": [
+          "alexander-prokhorov",
+          "nikolay-basov"
+        ],
+        "sharedBudget": 4
+      },
+      {
+        "eventId": "editorial-deformed-nucleus-collective-model",
+        "people": [
+          "james-rainwater",
+          "aage-bohr",
+          "ben-roy-mottelson"
+        ],
+        "sharedBudget": 8
+      },
+      {
+        "eventId": "editorial-early-chinese-nuclear-design",
+        "people": [
+          "peng-huanwu",
+          "deng-jiaxian",
+          "zhu-guangya",
+          "yu-min"
+        ],
+        "sharedBudget": 2
+      },
+      {
+        "eventId": "editorial-quantum-group-symmetry",
+        "people": [
+          "hermann-weyl",
+          "eugene-wigner"
+        ],
+        "sharedBudget": 8
+      },
+      {
+        "eventId": "editorial-green-schwarz-anomaly-cancellation",
+        "people": [
+          "john-henry-schwarz",
+          "michael-green"
+        ],
+        "sharedBudget": 8
+      },
+      {
+        "eventId": "editorial-galactic-centre-stellar-orbits",
+        "people": [
+          "reinhard-genzel",
+          "andrea-m-ghez"
+        ],
+        "sharedBudget": 8
+      },
+      {
+        "eventId": "editorial-effective-one-body-dynamics",
+        "people": [
+          "thibault-damour",
+          "alessandra-buonanno"
+        ],
+        "sharedBudget": 4
+      }
+    ],
+    "reviewNotes": [
+      "All 325 legacy estimates were manually mapped to named contributions.",
+      "Important shared results are merged; additional coauthors do not multiply scores.",
+      "Primary manuscript/first-preprint dates checked for London equations (1934), Gibbons-Hawking term (1976), BPZ (1983), Ashtekar variables (1985), EOB (1998), Sachdev-Ye (1992).",
+      "Mozi is a school representative for anonymous later Mohist work, not a named author of the later Canons."
+    ]
   }
 }

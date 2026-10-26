@@ -1,0 +1,67 @@
+{
+  "asOf": "2026-10-27",
+  "purpose": "Directory navigation and contributor-density display only; never added to the breakthrough score.",
+  "records": [
+    {
+      "id": "estimate-mozi",
+      "personId": "mozi",
+      "year": -419,
+      "range": [
+        -429,
+        -408
+      ],
+      "estimated": true,
+      "verifiedEvent": false,
+      "method": "navigation-activity-estimate-v3",
+      "yearBasis": "calibrated-contribution-age",
+      "biographicalYearClues": [],
+      "biographicalBounds": {
+        "earliest": -452,
+        "latest": -391,
+        "kind": "documented-death"
+      },
+      "relatedUndatedEvents": [],
+      "excludedEventsNotRecounted": [],
+      "evidencePeopleSource": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy — Mohist Canons",
+          "url": "https://plato.stanford.edu/entries/mohist-canons/"
+        },
+        {
+          "title": "Internet Encyclopedia of Philosophy — Mozi",
+          "url": "https://iep.utm.edu/mozi/"
+        },
+        {
+          "title": "Wikipedia — Mozi",
+          "url": "https://en.wikipedia.org/wiki/Mozi"
+        }
+      ],
+      "evidenceRole": "Biographical inputs, not independent evidence of a dated breakthrough",
+      "calibration": {
+        "scope": "era-and-field",
+        "era": "pre-1500",
+        "fields": [
+          "light"
+        ],
+        "sampleSize": 12,
+        "ageMedian": 51,
+        "ageQ25": 46.5,
+        "ageQ75": 56.25
+      },
+      "purpose": "navigation-only"
+    }
+  ],
+  "anchors": {
+    "mozi": {
+      "year": -419,
+      "eventId": null,
+      "estimateId": "estimate-mozi",
+      "precision": "approximate",
+      "dateRange": [
+        -429,
+        -408
+      ],
+      "estimated": true
+    }
+  }
+}

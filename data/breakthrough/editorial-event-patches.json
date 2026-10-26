@@ -1,0 +1,524 @@
+[
+  {
+    "eventId": "early-mohist-optics",
+    "title": {
+      "zh": "后期墨家关于光影、成像与力的讨论",
+      "en": "Later Mohist discussions of light, imaging and mechanics"
+    },
+    "year": null,
+    "precision": "range",
+    "type": "theory",
+    "field": "light",
+    "people": [],
+    "weight": 4,
+    "score": 4,
+    "rationale": {
+      "zh": "匿名后期墨家文献讨论影、反射、小孔成像、力、运动与平衡，是中国古代物理思想的重要史料。",
+      "en": "Anonymous later Mohist texts discuss shadows, reflection, pinhole images, force, motion and balance, providing important evidence for the history of Chinese physical thought."
+    },
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Mohist Canons",
+        "url": "https://plato.stanford.edu/entries/mohist-canons/"
+      },
+      {
+        "title": "Internet Encyclopedia of Philosophy — Mozi",
+        "url": "https://iep.utm.edu/mozi/"
+      },
+      {
+        "title": "Wikipedia — Mozi",
+        "url": "https://en.wikipedia.org/wiki/Mozi"
+      }
+    ],
+    "dateNote": {
+      "zh": "《墨经》主要编纂于公元前4世纪末至前3世纪中叶，不能全部归为墨子本人所作。这里以约前325至前250年表示这一文献形成时期。",
+      "en": "The Canons were largely compiled between the late fourth and mid-third centuries BCE and cannot all be attributed personally to Mozi. The approximate interval is 325–250 BCE."
+    },
+    "status": "provisional",
+    "indexEligible": true,
+    "eventFamilyId": "early-mohist-optics",
+    "assessment": {
+      "basis": "editorial-estimate",
+      "route": "historical",
+      "rationale": {
+        "zh": "本项评价“后期墨家关于光影、成像与力的讨论”的科学增量。在所属领域提供重要的定量关系、实验证据或可复用方法，具有清楚的后续研究作用。",
+        "en": "This record evaluates the scientific increment in “Later Mohist discussions of light, imaging and mechanics”. A major advance within its field through a quantitative relation, experimental evidence or reusable method, with a clear role in subsequent research."
+      },
+      "confidence": "low",
+      "version": "3.0",
+      "selectedProfileContributions": {
+        "zh": "其学派留下中国早期关于影、反射及小孔成像的讨论。",
+        "en": "His school preserved early Chinese discussions of shadows, reflection and pinhole images."
+      },
+      "scope": "collective-school-result"
+    },
+    "dateModel": {
+      "basis": "editorial-interval",
+      "kind": "uncertain-range",
+      "start": -325,
+      "end": -250,
+      "dateConfidence": "editorial-interval"
+    },
+    "supersedes": [
+      "estimate-mozi"
+    ],
+    "evidenceRole": "Biographical sources establish the contribution identity; importance and non-documented dates are explicit editorial assessments.",
+    "dateRange": [
+      -325,
+      -250
+    ],
+    "representedBy": [
+      "mozi"
+    ],
+    "groups": [
+      "Anonymous later Mohists"
+    ]
+  },
+  {
+    "eventId": "early-hero-pneumatics",
+    "title": {
+      "zh": "气动、液压与蒸汽装置的系统记录",
+      "en": "Systematic accounts of pneumatic, hydraulic and steam devices"
+    },
+    "year": null,
+    "precision": "range",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "hero-of-alexandria"
+    ],
+    "weight": 4,
+    "score": 4,
+    "rationale": {
+      "zh": "在《气动学》中描述利用空气、蒸汽和液体压力工作的装置。",
+      "en": "Described devices operated by air, steam and liquid pressure in the Pneumatica."
+    },
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Hero of Alexandria",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Heron/"
+      },
+      {
+        "title": "Wikipedia — Hero of Alexandria",
+        "url": "https://en.wikipedia.org/wiki/Hero_of_Alexandria"
+      }
+    ],
+    "dateNote": {
+      "zh": "相关工作的形成时期暂估为40至75年，具体完成时间未能精确到单年。",
+      "en": "The formation period is estimated at 40–75; an exact completion year is not established."
+    },
+    "status": "provisional",
+    "indexEligible": true,
+    "eventFamilyId": "early-hero-pneumatics",
+    "assessment": {
+      "basis": "editorial-estimate",
+      "route": "historical",
+      "rationale": {
+        "zh": "本项评价“气动、液压与蒸汽装置的系统记录”的科学增量。在所属领域提供重要的定量关系、实验证据或可复用方法，具有清楚的后续研究作用。",
+        "en": "This record evaluates the scientific increment in “Systematic accounts of pneumatic, hydraulic and steam devices”. A major advance within its field through a quantitative relation, experimental evidence or reusable method, with a clear role in subsequent research."
+      },
+      "confidence": "low",
+      "version": "3.0",
+      "selectedProfileContributions": {
+        "zh": "在《气动学》中描述利用空气、蒸汽和液体压力工作的装置。",
+        "en": "Described devices operated by air, steam and liquid pressure in the Pneumatica."
+      },
+      "scope": "named-result-not-personal-reputation"
+    },
+    "dateModel": {
+      "basis": "editorial-interval",
+      "kind": "uncertain-range",
+      "start": 40,
+      "end": 75,
+      "dateConfidence": "editorial-interval"
+    },
+    "supersedes": [
+      "estimate-hero-of-alexandria"
+    ],
+    "evidenceRole": "Biographical sources establish the contribution identity; importance and non-documented dates are explicit editorial assessments.",
+    "dateRange": [
+      40,
+      75
+    ]
+  },
+  {
+    "eventId": "early-biruni-earth-measurement",
+    "title": {
+      "zh": "比鲁尼的地球半径测量方法",
+      "en": "Al-Biruni's method of measuring Earth's radius"
+    },
+    "year": null,
+    "precision": "range",
+    "type": "theory",
+    "field": "methods",
+    "people": [
+      "al-biruni"
+    ],
+    "weight": 4,
+    "score": 4,
+    "rationale": {
+      "zh": "用几何与角度测量估算地球半径。",
+      "en": "Estimated Earth's radius through geometry and angular measurements."
+    },
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Al-Biruni",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Biruni/"
+      },
+      {
+        "title": "Wikipedia — Al-Biruni",
+        "url": "https://en.wikipedia.org/wiki/Al-Biruni"
+      },
+      {
+        "title": "George Saliba, Cambridge History — Al-Biruni and the sciences of his time",
+        "url": "https://www.cambridge.org/core/books/abs/religion-learning-and-science-in-the-abbasid-period/albiruni-and-the-sciences-of-his-time/311B9E191252A89AC266F6F1687FA0E9"
+      },
+      {
+        "title": "Encyclopaedia Iranica — Biruni, Life",
+        "url": "https://www.iranicaonline.org/articles/biruni-abu-rayhan-index/biruni-abu-rayhan-i-life/"
+      },
+      {
+        "title": "McGill / Springer Biographical Encyclopedia of Astronomers — Biruni",
+        "url": "https://www.islamsci.mcgill.ca/RASI/BEA/Biruni_BEA.htm"
+      }
+    ],
+    "dateNote": {
+      "zh": "相关工作的形成时期暂估为1010至1030年，具体完成时间未能精确到单年。",
+      "en": "The formation period is estimated at 1010–1030; an exact completion year is not established."
+    },
+    "status": "provisional",
+    "indexEligible": true,
+    "eventFamilyId": "early-biruni-earth-measurement",
+    "assessment": {
+      "basis": "editorial-estimate",
+      "route": "historical",
+      "rationale": {
+        "zh": "本项评价“比鲁尼的地球半径测量方法”的科学增量。在所属领域提供重要的定量关系、实验证据或可复用方法，具有清楚的后续研究作用。",
+        "en": "This record evaluates the scientific increment in “Al-Biruni's method of measuring Earth's radius”. A major advance within its field through a quantitative relation, experimental evidence or reusable method, with a clear role in subsequent research."
+      },
+      "confidence": "low",
+      "version": "3.0",
+      "selectedProfileContributions": {
+        "zh": "用几何与角度测量估算地球半径。",
+        "en": "Estimated Earth's radius through geometry and angular measurements."
+      },
+      "scope": "named-result-not-personal-reputation"
+    },
+    "dateModel": {
+      "basis": "editorial-interval",
+      "kind": "uncertain-range",
+      "start": 1010,
+      "end": 1030,
+      "dateConfidence": "editorial-interval"
+    },
+    "supersedes": [
+      "estimate-al-biruni"
+    ],
+    "evidenceRole": "Biographical sources establish the contribution identity; importance and non-documented dates are explicit editorial assessments.",
+    "dateRange": [
+      1010,
+      1030
+    ]
+  },
+  {
+    "eventId": "early-theodoric-rainbow",
+    "title": {
+      "zh": "以水球实验解释主虹与副虹",
+      "en": "Explaining primary and secondary rainbows with water-sphere experiments"
+    },
+    "year": null,
+    "precision": "range",
+    "type": "theory",
+    "field": "light",
+    "people": [
+      "theodoric-of-freiberg"
+    ],
+    "weight": 4,
+    "score": 4,
+    "rationale": {
+      "zh": "利用盛水玻璃球等模型分析光线，解释主虹和副虹中的折射与内部反射。",
+      "en": "Used models such as water-filled glass spheres to analyze refraction and internal reflection in primary and secondary rainbows."
+    },
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Dietrich of Freiberg",
+        "url": "https://plato.stanford.edu/entries/dietrich-freiberg/"
+      },
+      {
+        "title": "Wikipedia — Theodoric of Freiberg",
+        "url": "https://en.wikipedia.org/wiki/Theodoric_of_Freiberg"
+      }
+    ],
+    "dateNote": {
+      "zh": "相关工作的形成时期暂估为1300至1310年，具体完成时间未能精确到单年。",
+      "en": "The formation period is estimated at 1300–1310; an exact completion year is not established."
+    },
+    "status": "provisional",
+    "indexEligible": true,
+    "eventFamilyId": "early-theodoric-rainbow",
+    "assessment": {
+      "basis": "editorial-estimate",
+      "route": "historical",
+      "rationale": {
+        "zh": "本项评价“以水球实验解释主虹与副虹”的科学增量。在所属领域提供重要的定量关系、实验证据或可复用方法，具有清楚的后续研究作用。",
+        "en": "This record evaluates the scientific increment in “Explaining primary and secondary rainbows with water-sphere experiments”. A major advance within its field through a quantitative relation, experimental evidence or reusable method, with a clear role in subsequent research."
+      },
+      "confidence": "low",
+      "version": "3.0",
+      "selectedProfileContributions": {
+        "zh": "利用盛水玻璃球等模型分析光线，解释主虹和副虹中的折射与内部反射。",
+        "en": "Used models such as water-filled glass spheres to analyze refraction and internal reflection in primary and secondary rainbows."
+      },
+      "scope": "named-result-not-personal-reputation"
+    },
+    "dateModel": {
+      "basis": "editorial-interval",
+      "kind": "uncertain-range",
+      "start": 1300,
+      "end": 1310,
+      "dateConfidence": "editorial-interval"
+    },
+    "supersedes": [
+      "estimate-theodoric-of-freiberg"
+    ],
+    "evidenceRole": "Biographical sources establish the contribution identity; importance and non-documented dates are explicit editorial assessments.",
+    "dateRange": [
+      1300,
+      1310
+    ]
+  },
+  {
+    "eventId": "early-farisi-rainbow",
+    "title": {
+      "zh": "球形水滴的折射与内部反射分析",
+      "en": "Refraction and internal reflection in spherical water drops"
+    },
+    "year": null,
+    "precision": "range",
+    "type": "theory",
+    "field": "light",
+    "people": [
+      "kamal-al-din-al-farisi"
+    ],
+    "weight": 4,
+    "score": 4,
+    "rationale": {
+      "zh": "用光在球形水滴中的折射和内部反射解释主虹与副虹。",
+      "en": "Explained primary and secondary rainbows through refraction and internal reflection in spherical water drops."
+    },
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Kamal al-Din al-Farisi",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Farisi/"
+      },
+      {
+        "title": "Wikipedia — Kamal al-Din al-Farisi",
+        "url": "https://en.wikipedia.org/wiki/Kamal_al-Din_al-Farisi"
+      }
+    ],
+    "dateNote": {
+      "zh": "相关工作的形成时期暂估为1300至1319年，具体完成时间未能精确到单年。",
+      "en": "The formation period is estimated at 1300–1319; an exact completion year is not established."
+    },
+    "status": "provisional",
+    "indexEligible": true,
+    "eventFamilyId": "early-farisi-rainbow",
+    "assessment": {
+      "basis": "editorial-estimate",
+      "route": "historical",
+      "rationale": {
+        "zh": "本项评价“球形水滴的折射与内部反射分析”的科学增量。在所属领域提供重要的定量关系、实验证据或可复用方法，具有清楚的后续研究作用。",
+        "en": "This record evaluates the scientific increment in “Refraction and internal reflection in spherical water drops”. A major advance within its field through a quantitative relation, experimental evidence or reusable method, with a clear role in subsequent research."
+      },
+      "confidence": "low",
+      "version": "3.0",
+      "selectedProfileContributions": {
+        "zh": "用光在球形水滴中的折射和内部反射解释主虹与副虹。",
+        "en": "Explained primary and secondary rainbows through refraction and internal reflection in spherical water drops."
+      },
+      "scope": "named-result-not-personal-reputation"
+    },
+    "dateModel": {
+      "basis": "editorial-interval",
+      "kind": "uncertain-range",
+      "start": 1300,
+      "end": 1319,
+      "dateConfidence": "editorial-interval"
+    },
+    "supersedes": [
+      "estimate-kamal-al-din-al-farisi"
+    ],
+    "evidenceRole": "Biographical sources establish the contribution identity; importance and non-documented dates are explicit editorial assessments.",
+    "dateRange": [
+      1300,
+      1319
+    ]
+  },
+  {
+    "eventId": "early-oresme-motion-diagrams",
+    "title": {
+      "zh": "用几何图示表示变化的运动量",
+      "en": "Representing changing motion geometrically"
+    },
+    "year": null,
+    "precision": "range",
+    "type": "theory",
+    "field": "cosmos",
+    "people": [
+      "nicole-oresme"
+    ],
+    "weight": 4,
+    "score": 4,
+    "rationale": {
+      "zh": "用图形表示随位置或时间变化的量，研究匀变运动与平均速度关系。",
+      "en": "Used diagrams to represent quantities varying with position or time and investigated uniformly changing motion and the mean-speed relation."
+    },
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Nicole Oresme",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Oresme/"
+      },
+      {
+        "title": "Bibliothèque nationale de France — Nicole Oresme authority record",
+        "url": "https://catalogue.bnf.fr/ark%3A/12148/cb119181813"
+      },
+      {
+        "title": "Wikipedia — Nicole Oresme",
+        "url": "https://en.wikipedia.org/wiki/Nicole_Oresme"
+      }
+    ],
+    "dateNote": {
+      "zh": "相关工作的形成时期暂估为1350至1365年，具体完成时间未能精确到单年。",
+      "en": "The formation period is estimated at 1350–1365; an exact completion year is not established."
+    },
+    "status": "provisional",
+    "indexEligible": true,
+    "eventFamilyId": "early-oresme-motion-diagrams",
+    "assessment": {
+      "basis": "editorial-estimate",
+      "route": "historical",
+      "rationale": {
+        "zh": "本项评价“用几何图示表示变化的运动量”的科学增量。在所属领域提供重要的定量关系、实验证据或可复用方法，具有清楚的后续研究作用。",
+        "en": "This record evaluates the scientific increment in “Representing changing motion geometrically”. A major advance within its field through a quantitative relation, experimental evidence or reusable method, with a clear role in subsequent research."
+      },
+      "confidence": "low",
+      "version": "3.0",
+      "selectedProfileContributions": {
+        "zh": "用图形表示随位置或时间变化的量，研究匀变运动与平均速度关系。",
+        "en": "Used diagrams to represent quantities varying with position or time and investigated uniformly changing motion and the mean-speed relation."
+      },
+      "scope": "named-result-not-personal-reputation"
+    },
+    "dateModel": {
+      "basis": "editorial-interval",
+      "kind": "uncertain-range",
+      "start": 1350,
+      "end": 1365,
+      "dateConfidence": "editorial-interval"
+    },
+    "supersedes": [
+      "estimate-nicole-oresme"
+    ],
+    "evidenceRole": "Biographical sources establish the contribution identity; importance and non-documented dates are explicit editorial assessments.",
+    "dateRange": [
+      1350,
+      1365
+    ]
+  },
+  {
+    "eventId": "early-archimedes-statics",
+    "score": 4,
+    "weight": 4,
+    "year": null,
+    "precision": "range",
+    "dateRange": [
+      -260,
+      -212
+    ],
+    "eventFamilyId": "early-archimedes-statics",
+    "dateModel": {
+      "basis": "editorial-interval",
+      "kind": "uncertain-range",
+      "start": -260,
+      "end": -212,
+      "dateConfidence": "editorial-interval"
+    },
+    "assessment": {
+      "basis": "editorial-estimate",
+      "route": "historical",
+      "rationale": {
+        "zh": "为具名历史成果补入编辑估计的形成区间；重要性依据数学静力学或天文长期变化的独立认识，不按人物生卒直接产生分数。",
+        "en": "Adds an editorial formation interval to a named historical result, crediting an independent advance in mathematical statics or long-term celestial change rather than the person's existence."
+      },
+      "confidence": "low",
+      "version": "3.0"
+    },
+    "rationale": {
+      "zh": "将平衡问题转化为严格的几何论证。",
+      "en": "Turned equilibrium problems into geometrical demonstrations."
+    },
+    "dateNote": {
+      "zh": "确切成书或发现年不详，这里根据成熟活动期与相关著作背景暂估为-260至-212年。",
+      "en": "The exact composition or discovery year is unknown; the provisional interval -260–-212 is based on mature activity and the work's context."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Archimedes",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Archimedes/"
+      }
+    ],
+    "status": "provisional",
+    "title": {
+      "zh": "杠杆与重心的数学静力学",
+      "en": "Mathematical statics of levers and centres of gravity"
+    }
+  },
+  {
+    "eventId": "early-hipparchus-precession",
+    "score": 4,
+    "weight": 4,
+    "year": null,
+    "precision": "range",
+    "dateRange": [
+      -146,
+      -127
+    ],
+    "eventFamilyId": "early-hipparchus-precession",
+    "dateModel": {
+      "basis": "editorial-interval",
+      "kind": "uncertain-range",
+      "start": -146,
+      "end": -127,
+      "dateConfidence": "editorial-interval"
+    },
+    "assessment": {
+      "basis": "editorial-estimate",
+      "route": "historical",
+      "rationale": {
+        "zh": "为具名历史成果补入编辑估计的形成区间；重要性依据数学静力学或天文长期变化的独立认识，不按人物生卒直接产生分数。",
+        "en": "Adds an editorial formation interval to a named historical result, crediting an independent advance in mathematical statics or long-term celestial change rather than the person's existence."
+      },
+      "confidence": "low",
+      "version": "3.0"
+    },
+    "rationale": {
+      "zh": "通过跨时代观测比较识别天球坐标的长期变化。",
+      "en": "Recognized secular changes through comparisons of observations across epochs."
+    },
+    "dateNote": {
+      "zh": "确切成书或发现年不详，这里根据成熟活动期与相关著作背景暂估为-146至-127年。",
+      "en": "The exact composition or discovery year is unknown; the provisional interval -146–-127 is based on mature activity and the work's context."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Hipparchus",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hipparchus/"
+      }
+    ],
+    "status": "provisional",
+    "title": {
+      "zh": "发现岁差",
+      "en": "Recognition of the precession of the equinoxes"
+    }
+  }
+]

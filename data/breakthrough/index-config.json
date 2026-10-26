@@ -1,0 +1,12 @@
+{
+  "version": "3.0",
+  "reviewedAt": "2026-10-27",
+  "scoreLevels": [1, 2, 4, 8, 16],
+  "display": {
+    "scale": "asinh",
+    "knee": 1,
+    "aggregation": "mean-per-calendar-year",
+    "smoothing": "none",
+    "densityPalette": "ROOT-0-0.25-1"
+  }
+}

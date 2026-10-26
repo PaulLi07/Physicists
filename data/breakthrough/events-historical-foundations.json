@@ -1,0 +1,71 @@
+[
+  {
+    "id": "historical-brahe-planetary-observation-dataset",
+    "title": {
+      "zh": "第谷的高精度行星位置观测资料",
+      "en": "Tycho Brahe’s precision planetary-position observations"
+    },
+    "year": null,
+    "dateRange": [
+      1576,
+      1597
+    ],
+    "precision": "range",
+    "type": "method",
+    "field": "cosmos",
+    "people": [
+      "tycho-brahe"
+    ],
+    "groups": [
+      "Uraniborg and Stjerneborg observers"
+    ],
+    "weight": 8,
+    "score": 8,
+    "rationale": {
+      "zh": "把间断天文测量推进为经校准的长期连续行星位置观测，为开普勒检验并建立行星运动定律提供关键数据基础。",
+      "en": "Turned intermittent astronomy into calibrated, sustained planetary-position observations, providing the decisive data used to test and establish Kepler’s laws."
+    },
+    "assessment": {
+      "basis": "editorial-review",
+      "route": "historical",
+      "rationale": {
+        "zh": "评为8级观测基础设施成果：数据精度、系统校准和轨道覆盖使既有模型可被严格检验；不以没有现代期刊论文为理由降低评分。只给这一观测数据体系一份总评分，不逐年重复给8分。",
+        "en": "Rated level 8 for an observational foundation: precision, calibration and orbital coverage enabled stringent tests of planetary models. Absence of modern journal papers does not reduce the rating; the dataset receives one total budget, not eight points in every year."
+      },
+      "confidence": "high",
+      "version": "3.0"
+    },
+    "eventFamilyId": "brahe-sustained-planetary-position-dataset",
+    "dateModel": {
+      "basis": "observation",
+      "kind": "sustained",
+      "start": 1576,
+      "end": 1597
+    },
+    "dateNote": {
+      "zh": "这里记录汶岛观测中心1576—1597年的重点活动期。皇家图书馆保存的全部观测日志跨1563—1601年，其中行星位置资料后来被开普勒用于轨道研究；《鲁道夫星表》则于1627年出版。",
+      "en": "This record covers the principal Hven observatory period of 1576–1597. The Royal Library’s wider observation logs span 1563–1601; planetary-position data were later used by Kepler for orbital studies, while the Rudolphine Tables appeared in 1627."
+    },
+    "sources": [
+      {
+        "title": "Royal Danish Library — Tycho Brahe: Observationes planetarum, original observation manuscripts",
+        "url": "https://permalink.kb.dk/permalink/2006/manus/742/"
+      },
+      {
+        "title": "Niels Bohr Institute, University of Copenhagen — Tycho Brahe’s Hven observations, 1576–1597",
+        "url": "https://nbi.ku.dk/english/www/tycho/brahe/the_life"
+      },
+      {
+        "title": "Rice University, Galileo Project — calibrated observations and Kepler’s use of the data",
+        "url": "https://galileo.library.rice.edu/sci/brahe.html"
+      }
+    ],
+    "status": "reviewed",
+    "indexEligible": true,
+    "timelineDates": {
+      "observationStarted": 1576,
+      "observationEnded": 1597
+    },
+    "dateConfidence": "documented"
+  }
+]

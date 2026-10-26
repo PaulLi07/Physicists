@@ -1,76 +1,89 @@
 {
-  "asOf": "2026-10-26",
-  "methodVersion": "2.0",
+  "asOf": "2026-10-27",
+  "methodVersion": "3.0",
   "primaryWeights": [
     1,
     2,
     4,
-    8
+    8,
+    16
   ],
   "alternativeWeights": [
     1,
     2,
-    3,
-    4
+    4,
+    6,
+    8
   ],
-  "comparisonYears": [
-    1800,
-    2021
-  ],
-  "annualPearsonCorrelation": 0.9895114382021152,
   "primaryPeaks": [
     {
-      "year": 1964,
-      "value": 11.687022129437413
+      "year": 1932,
+      "value": 44.00218360071301
     },
     {
-      "year": 1926,
-      "value": 11.500348339136709
+      "year": 1967,
+      "value": 40.04524652555962
     },
     {
-      "year": 1983,
-      "value": 7.937186449511841
+      "year": 1905,
+      "value": 35.83150183150183
     },
     {
-      "year": 1947,
-      "value": 6.447358975681102
+      "year": 1950,
+      "value": 30.733333333333338
     },
     {
-      "year": 1910,
-      "value": 6.165655872593801
+      "year": 1982,
+      "value": 28.41070524984187
     },
     {
-      "year": 1999,
-      "value": 5.812964271950272
+      "year": 1995,
+      "value": 24
+    },
+    {
+      "year": 1834,
+      "value": 18.25
+    },
+    {
+      "year": 1877,
+      "value": 17.935468975468975
     }
   ],
   "alternativePeaks": [
     {
-      "year": 1963,
-      "value": 10.097439493907864
+      "year": 1932,
+      "value": 37.66885026737968
     },
     {
-      "year": 1927,
-      "value": 8.418800445856077
+      "year": 1967,
+      "value": 36.04524652555962
     },
     {
-      "year": 1983,
-      "value": 6.81597432829972
+      "year": 1985,
+      "value": 27.432927472064094
     },
     {
-      "year": 1947,
-      "value": 5.475136753458878
+      "year": 1950,
+      "value": 27.07948717948718
     },
     {
-      "year": 1911,
-      "value": 5.377901589680766
+      "year": 1905,
+      "value": 25.831501831501832
     },
     {
-      "year": 1999,
-      "value": 5.212964271950272
+      "year": 1998,
+      "value": 17
+    },
+    {
+      "year": 1834,
+      "value": 16.25
+    },
+    {
+      "year": 1877,
+      "value": 15.935468975468975
     }
   ],
-  "peaksWithinTenYears": 6,
-  "estimatesKeptFixed": true,
-  "note": "Tests source-event weight sensitivity with residual estimates fixed. Does not establish historical completeness or objective importance."
+  "totalScore": 2828.000000000002,
+  "eligibleEventBudget": 2828,
+  "note": "Score-scale sensitivity only. Dates and budgets remain explicit; no person residuals or historical smoothing."
 }

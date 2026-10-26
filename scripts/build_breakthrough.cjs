@@ -3,73 +3,118 @@
 const fs=require('node:fs'),path=require('node:path'),vm=require('node:vm');
 const root=path.resolve(__dirname,'..'),dir=path.join(root,'data/breakthrough');
 const core=require('../website/design-review/breakthrough.js');
-const estimator=require('../website/design-review/person-estimates.js');
+const navigation=require('../website/design-review/person-estimates.js');
 const ctx={};
 vm.runInNewContext(fs.readFileSync(path.join(root,'website/dist/data/archive.js'),'utf8'),ctx);
 vm.runInNewContext(fs.readFileSync(path.join(root,'website/dist/core.js'),'utf8'),ctx);
-const archive=ctx.PHYSICS_ARCHIVE,asOfYear=Number(archive.asOf.slice(0,4));
-const readOptional=(name,fallback)=>fs.existsSync(path.join(dir,name))?JSON.parse(fs.readFileSync(path.join(dir,name),'utf8')):fallback;
+const archive=ctx.PHYSICS_ARCHIVE;
+const read=(name,fallback)=>fs.existsSync(path.join(dir,name))?JSON.parse(fs.readFileSync(path.join(dir,name),'utf8')):fallback;
+const config=read('index-config.json',{}),asOf=config.reviewedAt||archive.asOf,asOfYear=Number(asOf.slice(0,4));
 const files=fs.readdirSync(dir).filter(f=>/^events-.*\.json$/.test(f)).sort();
-if(!files.length)throw Error('No reviewed breakthrough source files');
-const events=files.flatMap(f=>JSON.parse(fs.readFileSync(path.join(dir,f),'utf8')))
-  .sort((a,b)=>(core.spanOf(a)?.[0]??Infinity)-(core.spanOf(b)?.[0]??Infinity)||a.id.localeCompare(b.id));
+if(!files.length)throw Error('No breakthrough source files');
+const events=files.flatMap(f=>read(f,[]).map(e=>({...e,sourceFile:f})));
 const byEvent=new Map(events.map(e=>[e.id,e]));
-const patches=readOptional('existing-source-patches.json',[]);
-for(const patch of patches){
-  const event=byEvent.get(patch.eventId);
-  if(!event)throw Error('Publisher-source patch has no event: '+patch.eventId);
+if(byEvent.size!==events.length)throw Error('Duplicate source event ID');
+function mergeSources(event,sources=[]){
   const urls=new Set(event.sources.map(s=>s.url));
-  for(const source of patch.sources||[])if(!urls.has(source.url)){event.sources.push(source);urls.add(source.url);}
-  if(patch.publisherCollection)event.publisherCollections=[...(event.publisherCollections||[]),patch.publisherCollection];
+  for(const s of sources)if(!urls.has(s.url)){event.sources.push(s);urls.add(s.url);}
 }
-const journalSources=readOptional('journal-sources.json',[]);
-const fields=new Set(ctx.ArchiveCore.domains.map(d=>d.id));
+function applyPatches(patches){
+  for(const patch of patches){
+    const event=byEvent.get(patch.eventId);
+    if(!event)throw Error('Patch has no matching event: '+patch.eventId);
+    const {eventId,sources,publisherCollection,...values}=patch;
+    if(values.score!==undefined){
+      if(values.weight!==undefined&&values.weight!==values.score)throw Error('Patch score/weight mismatch: '+eventId);
+      values.weight=values.score;
+    }
+    Object.assign(event,values);mergeSources(event,sources);
+    if(publisherCollection)event.publisherCollections=[...(event.publisherCollections||[]),publisherCollection];
+  }
+}
 for(const e of events){
-  if(!fields.has(e.field))throw Error('Unknown research field: '+e.id);
-  if(e.weight>=4&&new Set(e.sources.map(s=>s.url)).size<2)throw Error('High-weight event requires independent supporting sources: '+e.id);
+  core.scoreOf(e);
+  e.sourceDate={year:e.year,precision:e.precision,dateRange:e.dateRange||null,yearBasis:e.yearBasis||null};
+}
+applyPatches(read('existing-source-patches.json',[]));
+applyPatches(read('event-assessments.json',[]));
+applyPatches(read('editorial-event-patches.json',[]));
+for(const e of events)for(const id of e.supersedes||[]){
+  const old=byEvent.get(id);
+  if(old&&old.id!==e.id){old.indexEligible=false;old.supersededBy=e.id;}
+}
+for(const e of events){
+  e.score=core.scoreOf(e);e.weight=e.score;
+  if(!e.assessment||e.assessment.version!=='3.0')throw Error('Missing v3 assessment: '+e.id);
+  if(!e.eventFamilyId)throw Error('Missing result family: '+e.id);
+  if(e.dateModel){
+    const {start,end,kind,basis}=e.dateModel;
+    const confidence=e.dateModel.dateConfidence;
+    if(confidence)e.dateConfidence=({'editorial-anchor':'estimated','editorial-interval':'estimated','documented-record':'documented'})[confidence]||confidence;
+    e.year=start===end?start:null;e.dateRange=start===end?undefined:[start,end];
+    e.precision=start===end?(basis==='editorial-interval'?'approximate':e.precision==='approximate'?'approximate':'year'):'range';
+    e.yearBasis=basis;e.dateKind=kind;
+  }
+}
+events.sort((a,b)=>(core.spanOf(a)?.[0]??Infinity)-(core.spanOf(b)?.[0]??Infinity)||a.id.localeCompare(b.id));
+const personIds=new Set(archive.people.map(p=>p.id)),fields=new Set(ctx.ArchiveCore.domains.map(d=>d.id));
+for(const e of events){
+  if(!fields.has(e.field))throw Error('Unknown field: '+e.id);
   if(!['reviewed','provisional'].includes(e.status))throw Error('Invalid review status: '+e.id);
 }
-const verifiedAnchors=core.createAnchors(events);
-const estimates=estimator.createEstimates(archive.people,events,{asOfYear});
-const anchors={...estimates.anchors,...verifiedAnchors};
+core.validate(events,personIds);
+const eventAnchors=core.createAnchors(events);
+// Navigation estimates never enter the score ledger.
+const fallback=navigation.createEstimates(archive.people,events,{asOfYear});
+const navigationRecords=fallback.records.map(record=>{
+  const {contributionFactor,contributionBasis,sharedBudgetId,sharedBudget,sharedParticipants,calibration,...rest}=record;
+  const {creditMedian,...ages}=calibration||{};
+  return {...rest,method:'navigation-activity-estimate-v3',calibration:ages,purpose:'navigation-only'};
+});
+const navigationAnchors=Object.fromEntries(Object.entries(fallback.anchors).map(([id,anchor])=>{
+  const {weight,score,...rest}=anchor;return [id,rest];
+}));
+const anchors={...navigationAnchors,...eventAnchors};
 const unanchored=archive.people.filter(p=>!anchors[p.id]);
-if(unanchored.length)throw Error('All profiles require a contribution-year position: '+unanchored.map(p=>p.id).join(', '));
-const options={asOfYear,personIds:new Set(archive.people.map(p=>p.id)),estimatedContributions:estimates.records};
+if(unanchored.length)throw Error('Missing navigation years: '+unanchored.map(p=>p.id).join(', '));
+const options={asOfYear,personIds,navigationEstimates:navigationRecords};
 const result=core.calculate(events,options);
-const counts={events:events.length,dated:events.filter(e=>core.spanOf(e)).length,
-  indexDated:events.filter(e=>core.spanOf(e)&&e.indexEligible!==false).length,
-  linkedPeople:Object.keys(verifiedAnchors).length,estimatedPeople:estimates.records.length,
+const eligible=events.filter(e=>core.spanOf(e)&&e.indexEligible!==false);
+const scoredPeople=new Set(eligible.flatMap(e=>e.people));
+const counts={events:events.length,dated:events.filter(e=>core.spanOf(e)).length,indexDated:eligible.length,
+  linkedPeople:Object.keys(eventAnchors).length,estimatedEvents:eligible.filter(e=>e.assessment.basis==='editorial-estimate').length,
+  estimatedPeople:new Set(eligible.filter(e=>e.assessment.basis==='editorial-estimate').flatMap(e=>e.people)).size,
+  navigationOnlyPeople:archive.people.filter(p=>!scoredPeople.has(p.id)).length,
   navigablePeople:Object.keys(anchors).length,totalPeople:archive.people.length};
-const data={asOf:archive.asOf,methodVersion:'2.0',counts,files,events,anchors,
-  estimatedContributions:estimates.records,journalSources,...result};
+const journalSources=read('journal-sources.json',[]);
+const data={asOf,biographyAsOf:archive.asOf,methodVersion:'3.0',counts,files,events,anchors,
+  navigationEstimates:navigationRecords,estimatedContributions:[],journalSources,display:config.display,...result};
 const outputDir=path.join(root,'website/design-review/data');fs.mkdirSync(outputDir,{recursive:true});
 function writeJSON(file,value){const tmp=file+'.tmp';fs.writeFileSync(tmp,JSON.stringify(value,null,2)+'\n');fs.renameSync(tmp,file);}
-const annual={asOf:data.asOf,methodVersion:data.methodVersion,counts,kernel:data.kernel,components:result.components,series:data.series};
+const annual={asOf,methodVersion:data.methodVersion,counts,kernel:result.kernel,components:result.components,display:config.display,series:result.series};
 writeJSON(path.join(dir,'yearly-index.json'),annual);
-writeJSON(path.join(dir,'contribution-estimates.json'),{asOf:archive.asOf,...estimates});
-writeJSON(path.join(dir,'coverage.json'),{asOf:archive.asOf,counts,unanchored:[],calibration:estimates.calibration,coverage:estimates.coverage});
+writeJSON(path.join(dir,'navigation-estimates.json'),{asOf,purpose:'Directory navigation and contributor-density display only; never added to the breakthrough score.',records:navigationRecords,anchors:navigationAnchors});
+writeJSON(path.join(dir,'contribution-estimates.json'),{asOf,methodVersion:'3.0',retired:true,records:[],note:'The v2 person residual score is retired. Named contributions are in events-editorial-assessments.json; navigation estimates are in navigation-estimates.json.'});
+writeJSON(path.join(dir,'coverage.json'),{asOf,counts,unanchored:[],navigationOnly:archive.people.filter(p=>!scoredPeople.has(p.id)).map(p=>({id:p.id,names:p.names})),editorialCoverage:read('editorial-coverage.json',[])});
 const dataTmp=path.join(outputDir,'breakthrough-data.js.tmp');
-fs.writeFileSync(dataTmp,'globalThis.BREAKTHROUGH_ARCHIVE = '+JSON.stringify(data)+';\n');
-fs.renameSync(dataTmp,path.join(outputDir,'breakthrough-data.js'));
-writeJSON(path.join(outputDir,'yearly-index.json'),annual);
-writeJSON(path.join(outputDir,'events.json'),events);
-const alternative=core.calculate(events,{...options,weightMap:{1:1,2:2,4:3,8:4}});
-const paired=result.series.map((p,i)=>[p,alternative.series[i]]).filter(([p])=>p.year>=1800&&p.year<=asOfYear-5);
-const mean=a=>a.reduce((s,x)=>s+x,0)/Math.max(1,a.length);
-const xs=paired.map(([p])=>p.value),ys=paired.map(([,p])=>p.value),mx=mean(xs),my=mean(ys);
-const corr=xs.reduce((s,x,i)=>s+(x-mx)*(ys[i]-my),0)/Math.sqrt(xs.reduce((s,x)=>s+(x-mx)**2,0)*ys.reduce((s,y)=>s+(y-my)**2,0));
+fs.writeFileSync(dataTmp,'globalThis.BREAKTHROUGH_ARCHIVE = '+JSON.stringify(data)+';\n');fs.renameSync(dataTmp,path.join(outputDir,'breakthrough-data.js'));
+writeJSON(path.join(outputDir,'yearly-index.json'),annual);writeJSON(path.join(outputDir,'events.json'),events);
+for(const lang of ['zh','en']){
+  const doc=path.join(root,'docs','physics-breakthrough-index.'+lang+'.md');
+  if(fs.existsSync(doc))fs.copyFileSync(doc,path.join(outputDir,'method.'+lang+'.md'));
+}
+const alternative=core.calculate(events,{...options,weightMap:{1:1,2:2,4:4,8:6,16:8}});
 function peaks(series){
   const selected=[];
-  for(const p of series.filter(p=>p.year>=1800&&p.year<=asOfYear-5).sort((a,b)=>b.value-a.value)){
-    if(selected.every(q=>Math.abs(q.year-p.year)>15))selected.push({year:p.year,value:p.value});
-    if(selected.length===6)break;
+  for(const p of series.slice().sort((a,b)=>b.value-a.value)){
+    if(selected.every(q=>Math.abs(core.serial(q.year)-core.serial(p.year))>10))selected.push({year:p.year,value:p.value});
+    if(selected.length===8)break;
   }
   return selected;
 }
-const primaryPeaks=peaks(result.series),alternativePeaks=peaks(alternative.series);
-writeJSON(path.join(dir,'sensitivity.json'),{asOf:archive.asOf,methodVersion:'2.0',primaryWeights:[1,2,4,8],alternativeWeights:[1,2,3,4],
-  comparisonYears:[1800,asOfYear-5],annualPearsonCorrelation:Number.isFinite(corr)?corr:null,primaryPeaks,alternativePeaks,
-  peaksWithinTenYears:primaryPeaks.filter(p=>alternativePeaks.some(q=>Math.abs(q.year-p.year)<=10)).length,
-  estimatesKeptFixed:true,note:'Tests source-event weight sensitivity with residual estimates fixed. Does not establish historical completeness or objective importance.'});
+writeJSON(path.join(dir,'sensitivity.json'),{asOf,methodVersion:'3.0',primaryWeights:[1,2,4,8,16],alternativeWeights:[1,2,4,6,8],
+  primaryPeaks:peaks(result.series),alternativePeaks:peaks(alternative.series),
+  totalScore:result.series.reduce((s,p)=>s+p.value,0),eligibleEventBudget:eligible.reduce((s,e)=>s+e.score,0),
+  note:'Score-scale sensitivity only. Dates and budgets remain explicit; no person residuals or historical smoothing.'});
 console.log(JSON.stringify({...counts,years:result.series.length,from:result.minYear,to:result.maxYear,
-  estimatedShare:estimates.coverage.estimatedShareOfCombinedWeight,peak:Math.max(...result.series.map(y=>y.value))}));
+  totalScore:result.series.reduce((s,p)=>s+p.value,0),peak:Math.max(...result.series.map(p=>p.value))}));

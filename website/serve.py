@@ -25,7 +25,13 @@ def main():
         with build_lock:
             inputs = sorted((base.parent / 'data/breakthrough').glob('events-*.json'))
             inputs += [p for p in [base.parent / 'data/breakthrough/existing-source-patches.json',
-                                   base.parent / 'data/breakthrough/journal-sources.json'] if p.exists()]
+                                   base.parent / 'data/breakthrough/journal-sources.json',
+                                   base.parent / 'data/breakthrough/event-assessments.json',
+                                   base.parent / 'data/breakthrough/editorial-event-patches.json',
+                                   base.parent / 'data/breakthrough/editorial-coverage.json',
+                                   base.parent / 'data/breakthrough/index-config.json',
+                                   base.parent / 'docs/physics-breakthrough-index.zh.md',
+                                   base.parent / 'docs/physics-breakthrough-index.en.md'] if p.exists()]
             inputs += [base / 'dist/data/archive.js', base / 'design-review/breakthrough.js',
                        base / 'design-review/person-estimates.js',
                        base.parent / 'scripts/build_breakthrough.cjs']
