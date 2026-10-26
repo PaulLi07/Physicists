@@ -7,6 +7,7 @@
   <script defer src="../dist/data/archive.js"></script><script defer src="../dist/core.js"></script>
   <script defer src="timeline.js"></script><script defer src="scroll-sync.js"></script><script defer src="breakthrough.js"></script>
   <script defer src="density-palette.js"></script>
+  <script defer src="plot-display.js"></script>
   <script defer src="data/breakthrough-data.js"></script><script defer src="review.js"></script>
 </head>
 <body>
@@ -17,7 +18,8 @@
     <div class="axis-header"><button id="index-method" class="index-title" data-label="indexTitle">物理学突破指数</button><span class="info-dot" aria-hidden="true">i</span></div>
     <button class="axis-year" id="year-detail" title="年度成果"><span id="axis-year">—</span><span aria-hidden="true">↗</span></button>
     <div class="axis-wrap" id="axis-wrap" role="slider" tabindex="0" aria-orientation="vertical"><svg id="time-axis" aria-hidden="true"></svg><div id="axis-tooltip" class="axis-tooltip" hidden></div></div>
-    <div class="color-key"><span data-label="density">贡献人物密度</span><i></i><span id="density-scale"></span></div>
+    <label class="smooth-control"><span data-label="smoothing">平滑</span><input id="plot-smoothing" type="range" min="0" max="6" step="0.5" value="2.5"><output id="smoothing-value">2.5</output></label>
+    <div class="color-key"><div class="color-key-title"><span data-label="density">贡献人物密度</span><span id="density-unit"></span></div><svg id="density-scale" role="img"></svg></div>
     <div class="reading"><span data-label="reading">贡献年代</span><strong id="reading-range">—</strong></div>
     <p class="axis-foot" data-label="axisFoot">贡献年代 · 自适应时间分辨率</p>
   </aside>
@@ -26,7 +28,7 @@
     <div class="filter-bar"><div class="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.7" cy="10.7" r="6.6"/><path d="m16 16 4 4"/></svg><label class="sr-only" for="query" data-label="search">搜索姓名或研究领域</label><input id="query" type="search" autocomplete="off" spellcheck="false"><button id="clear-query" hidden>×</button><kbd>/</kbd></div><label class="field-select"><span class="sr-only" data-label="field">研究领域</span><select id="field"></select></label></div>
     <div class="archive-body">
       <div class="list-pane"><div class="list-summary"><span id="result-status" role="status" aria-live="polite"></span></div><div class="column-labels" aria-hidden="true"><span data-label="contributionYear">贡献年</span><span data-label="person">人物</span><span data-label="field">研究领域</span><span></span></div><section id="list-scroll" class="list-scroll"><div id="people-list"></div><div id="empty" class="empty" hidden><h2 data-label="noResults">没有匹配的人物</h2><p data-label="noResultsHint">尝试其他姓名或研究领域。</p></div></section></div>
-      <aside class="preview-rail"><div id="hover-card" class="hover-card" hidden></div><div class="year-card" id="year-card"></div></aside>
+      <aside class="preview-rail"><div class="year-card" id="year-card"></div></aside>
     </div>
     <footer class="pane-footer"><span id="coverage-status"></span><span id="archive-date"></span></footer>
   </main>

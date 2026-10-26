@@ -1,0 +1,119 @@
+{
+  "version": "display-v6",
+  "checkedAt": "2026-10-27",
+  "tests": {
+    "passed": 82,
+    "failed": 0
+  },
+  "before": {
+    "right": "1687 · 主要成果\n运动定律与万有引力的统一体系\n1687",
+    "scroll": 3228,
+    "scrollHeight": 35982,
+    "year": "1687"
+  },
+  "next": {
+    "active": "denis-papin",
+    "height": 136,
+    "scroll": 3228,
+    "scrollHeight": 35982,
+    "year": "1687"
+  },
+  "previous": {
+    "active": "isaac-newton",
+    "scroll": 3228,
+    "scrollHeight": 35982,
+    "year": "1687"
+  },
+  "edge": {
+    "above": true,
+    "active": "francis-hauksbee",
+    "detail": {
+      "bottom": 600.328125,
+      "height": 88,
+      "left": 380,
+      "right": 949,
+      "top": 512.328125,
+      "width": 569,
+      "x": 380,
+      "y": 512.328125
+    },
+    "pane": {
+      "bottom": 666.0625,
+      "height": 383.734375,
+      "left": 304,
+      "right": 984,
+      "top": 282.328125,
+      "width": 680,
+      "x": 304,
+      "y": 282.328125
+    },
+    "scroll": 3228,
+    "scrollHeight": 35982
+  },
+  "listEndOpen": {
+    "active": "nergis-mavalvala",
+    "height": 136,
+    "max": 7548,
+    "scroll": 7548
+  },
+  "listEndClosed": {
+    "max": 7548,
+    "scroll": 7548
+  },
+  "mobile": {
+    "active": "isaac-newton",
+    "buttonBottom": 440.25,
+    "content": "Born 4 January 1643\n·\nDied 31 March 1727\n\nA unified system of motion and universal gravitation\n\nRead full dossier →",
+    "height": 154,
+    "rowBottom": 454.78125,
+    "scrollWidth": 390
+  },
+  "axisDrag": {
+    "closing": 0,
+    "range": "1939",
+    "scroll": 19298,
+    "year": "1939"
+  },
+  "scrollSync": {
+    "scroll": 18578,
+    "year": "1934"
+  },
+  "smoothing": {
+    "off": "0",
+    "max": "6",
+    "plotChanged": true,
+    "yearUnchanged": true,
+    "yearlyMilestonesUnchanged": true,
+    "offRoughness": 3056.197142298422,
+    "maxRoughness": 268.1125029614567
+  },
+  "final": {
+    "active": "isaac-newton",
+    "expandedHeight": 136,
+    "legendTicks": [
+      "0",
+      "2.1",
+      "4.1",
+      "6.2",
+      "8.3"
+    ],
+    "noGaps": true,
+    "noOutlines": true,
+    "right": "1687 · 主要成果\n运动定律与万有引力的统一体系\n1687",
+    "rows": 721,
+    "scoreNodes": 0,
+    "scroll": 3228,
+    "scrollHeight": 35982,
+    "smoothing": "2.5",
+    "tickPaths": [
+      "M8 7v13",
+      "M54.25 7v13",
+      "M100.5 7v13",
+      "M146.75 7v13",
+      "M193 7v13"
+    ],
+    "year": "1687"
+  },
+  "browserErrors": [],
+  "screenshot": "screenshots/v6-smooth-inline.png"
+}
