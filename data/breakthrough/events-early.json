@@ -1,0 +1,3162 @@
+[
+  {
+    "id": "early-democritus-atomism",
+    "title": {
+      "zh": "原子与虚空的自然哲学",
+      "en": "Atomism and void in natural philosophy"
+    },
+    "year": null,
+    "precision": "range",
+    "type": "theory",
+    "field": "history",
+    "people": [
+      "democritus"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "以微观构成解释物质变化的历史思想，不等同现代原子理论。",
+      "en": "A historical microscopic account of matter, distinct from modern atomic theory."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Democritus",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Democritus/"
+      },
+      {
+        "title": "Cambridge Companion to Early Greek Philosophy — The atomists",
+        "url": "https://www.cambridge.org/core/books/abs/cambridge-companion-to-early-greek-philosophy/atomists/EF5F1B33E8C0BBDD66905800C6404B77"
+      }
+    ],
+    "dateNote": {
+      "zh": "来源明确将原子论的创立置于公元前5世纪；按整世纪编码，不是精确提出年。该思辨理论不计入已成立物理突破指数。",
+      "en": "The authority places the origin in the fifth century BCE, encoded as a century, not an exact year. This speculative proposal is excluded from the established-advances index."
+    },
+    "status": "reviewed",
+    "indexEligible": false,
+    "dateRange": [
+      -500,
+      -401
+    ],
+    "groups": [
+      "Leucippus"
+    ],
+    "yearBasis": "source-range"
+  },
+  {
+    "id": "early-euclid-geometric-optics",
+    "title": {
+      "zh": "欧几里得的几何光学",
+      "en": "Euclidean geometrical optics"
+    },
+    "year": -300,
+    "precision": "approximate",
+    "type": "theory",
+    "field": "light",
+    "people": [
+      "euclid"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "以几何推理系统研究视觉角和表观大小。",
+      "en": "Systematized visual angles and apparent size through geometry."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Euclid",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Euclid/"
+      },
+      {
+        "title": "MacTutor — Classical light",
+        "url": "https://mathshistory.st-andrews.ac.uk/HistTopics/Light_1/"
+      }
+    ],
+    "dateNote": {
+      "zh": "专门光学史给出约公元前300年；保留约年，不人为设定误差宽度。",
+      "en": "The optical history dates Optica to about 300 BCE; no arbitrary uncertainty interval is invented."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "approximate-source-date"
+  },
+  {
+    "id": "early-archimedes-hydrostatics",
+    "title": {
+      "zh": "浮力与浮体平衡理论",
+      "en": "Buoyancy and the equilibrium of floating bodies"
+    },
+    "year": -250,
+    "precision": "approximate",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "archimedes"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "为浮力和浮体稳定性提供数学处理。",
+      "en": "Provided a mathematical treatment of buoyancy and floating stability."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Archimedes",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Archimedes/"
+      },
+      {
+        "title": "Georgia Tech — Mysteries of Floating, John McCuan",
+        "url": "https://math.gatech.edu/news/featured-research-mysteries-floating-john-mccuan"
+      }
+    ],
+    "dateNote": {
+      "zh": "数学研究史列为约公元前250年，不是精确发表年。",
+      "en": "A mathematical research chronology places the work around 250 BCE, not an exact publication year."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "approximate-source-date"
+  },
+  {
+    "id": "early-hipparchus-star-catalogue",
+    "title": {
+      "zh": "喜帕恰斯的恒星星表",
+      "en": "Hipparchus’s stellar catalogue"
+    },
+    "year": -129,
+    "precision": "approximate",
+    "type": "method",
+    "field": "cosmos",
+    "people": [
+      "hipparchus"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "建立定量恒星位置资料，推动观测天文学。",
+      "en": "Advanced quantitative positional astronomy through a stellar catalogue."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Hipparchus",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hipparchus/"
+      }
+    ],
+    "dateNote": {
+      "zh": "来源称星表可能于公元前129年完成，属于约年。",
+      "en": "The source says the catalogue was probably completed in 129 BCE."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "approximate-source-date"
+  },
+  {
+    "id": "early-zhang-heng-seismoscope",
+    "title": {
+      "zh": "候风地动仪",
+      "en": "Zhang Heng’s earthquake-direction instrument"
+    },
+    "year": 132,
+    "precision": "year",
+    "type": "method",
+    "field": "methods",
+    "people": [
+      "zhang-heng"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "将机械响应用于远方地震方向指示。",
+      "en": "Applied a mechanical response to indicating distant earthquake direction."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Zhang_Heng",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Zhang_Heng/"
+      }
+    ],
+    "dateNote": {
+      "zh": "记载的制作年；其内部结构的现代复原存在争论。",
+      "en": "Recorded construction year; modern reconstructions of its mechanism remain debated."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-ptolemy-almagest",
+    "title": {
+      "zh": "《天文学大成》的定量天体模型",
+      "en": "Quantitative celestial models in the Almagest"
+    },
+    "year": 150,
+    "precision": "approximate",
+    "type": "theory",
+    "field": "cosmos",
+    "people": [
+      "ptolemy"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "组织观测和数学模型，形成长期使用的预测体系。",
+      "en": "Organized observations and mathematical models into a durable predictive system."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Ptolemy",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Ptolemy/"
+      },
+      {
+        "title": "Oxford Classical Dictionary — Ptolemy, mathematical writer",
+        "url": "https://academic.oup.com/edited-volume/61673/chapter-abstract/550489423"
+      }
+    ],
+    "dateNote": {
+      "zh": "Oxford Classical Dictionary给出约150年出版。该历史地心模型不作为已成立物理原理计入指数。",
+      "en": "Oxford Classical Dictionary gives publication around 150. The historical geocentric model is excluded from the established-advances index."
+    },
+    "status": "reviewed",
+    "indexEligible": false,
+    "yearBasis": "approximate-source-date"
+  },
+  {
+    "id": "early-aryabhatiya",
+    "title": {
+      "zh": "《阿耶波多历数书》的天体运动计算",
+      "en": "Celestial calculations in the Aryabhatiya"
+    },
+    "year": 499,
+    "precision": "year",
+    "type": "theory",
+    "field": "cosmos",
+    "people": [
+      "aryabhata"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "结合地球自转思想和日月食的几何计算。",
+      "en": "Combined a rotating-Earth account with geometrical eclipse calculations."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Aryabhata_I",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Aryabhata_I/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取作者在书中给出的完成年份。",
+      "en": "Uses the completion year stated by the author."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-philoponus-physics-commentary",
+    "title": {
+      "zh": "对亚里士多德运动学的批判",
+      "en": "Philoponus’s critique of Aristotelian motion"
+    },
+    "year": 517,
+    "precision": "year",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "john-philoponus"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "质疑抛射运动和下落速度的传统解释。",
+      "en": "Challenged traditional accounts of projectile motion and falling speed."
+    },
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — John Philoponus",
+        "url": "https://plato.stanford.edu/entries/philoponus/"
+      }
+    ],
+    "dateNote": {
+      "zh": "《物理学注》的初稿年代为517年，现存文本含后期修订。",
+      "en": "The Physics commentary is dated to 517 but contains later revisions."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-brahmasphutasiddhanta",
+    "title": {
+      "zh": "《婆罗摩修正体系》的数学天文学",
+      "en": "Mathematical astronomy in the Brahmasphutasiddhanta"
+    },
+    "year": 628,
+    "precision": "year",
+    "type": "method",
+    "field": "cosmos",
+    "people": [
+      "brahmagupta"
+    ],
+    "weight": 1,
+    "rationale": {
+      "zh": "改进天体位置、日月食和观测工具的计算。",
+      "en": "Developed calculations of celestial positions, eclipses and instruments."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Brahmagupta",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Brahmagupta/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取著作写作年。",
+      "en": "Uses the work’s composition year."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-ibn-sahl-refraction",
+    "title": {
+      "zh": "伊本·萨赫勒的折射与透镜几何",
+      "en": "Ibn Sahl’s refraction and lens geometry"
+    },
+    "year": 984,
+    "precision": "approximate",
+    "type": "theory",
+    "field": "light",
+    "people": [
+      "ibn-sahl"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "用等价于正弦折射关系的几何方法设计聚焦透镜。",
+      "en": "Used geometry equivalent to a sine refraction relation in lens design."
+    },
+    "sources": [
+      {
+        "title": "Europhysics News 37/3 — history of optics",
+        "url": "https://www.europhysicsnews.org/articles/epn/pdf/2006/03/epn2006-37-3.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "光学论著通常记于约984年，不代表精确实验日期。",
+      "en": "The optical treatise is conventionally dated around 984."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "approximate-source-date"
+  },
+  {
+    "id": "early-haytham-book-optics",
+    "title": {
+      "zh": "《光学书》的视觉与光传播研究",
+      "en": "Vision and light propagation in the Book of Optics"
+    },
+    "year": null,
+    "precision": "range",
+    "type": "theory",
+    "field": "light",
+    "people": [
+      "ibn-al-haytham"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "结合实验与几何分析，系统发展外界光入眼的视觉解释。",
+      "en": "Combined experiments and geometry in a systematic account of vision."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Al-Haytham",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Haytham/"
+      },
+      {
+        "title": "UNESCO — Ibn al-Haytham’s scientific method",
+        "url": "https://www.unesco.org/en/articles/ibn-al-haythams-scientific-method"
+      },
+      {
+        "title": "Cambridge University Press — A Practical Guide to Portable Pupillometry, early history",
+        "url": "https://assets.cambridge.org/97810094/36298/excerpt/9781009436298_excerpt.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "所引Cambridge著作给出1011—1021年写作区间；依赖传记传统，书的精确编写次序仍待专门史学版本复核，因此标暂定。",
+      "en": "The cited Cambridge work gives 1011–1021. The precise composition sequence needs specialist textual review; dating is provisional."
+    },
+    "status": "provisional",
+    "dateRange": [
+      1011,
+      1021
+    ],
+    "indexEligible": true,
+    "yearBasis": "source-range"
+  },
+  {
+    "id": "early-shen-kuo-magnetic-declination",
+    "title": {
+      "zh": "《梦溪笔谈》中的磁偏角与成像记录",
+      "en": "Magnetic declination and imaging in Dream Pool Essays"
+    },
+    "year": null,
+    "precision": "range",
+    "type": "discovery",
+    "field": "light",
+    "people": [
+      "shen-kuo"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "记录磁北与真北的偏离，并讨论小孔成像。",
+      "en": "Recorded magnetic declination and discussed pinhole imaging."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Shen_Kua",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Shen_Kua/"
+      },
+      {
+        "title": "University of Washington Press — Good Formulas, chapter 1",
+        "url": "https://uw.manifoldapp.org/read/good-formulas-a55278c8-9e3b-41b6-af69-c471083061ac/section/c0c96e65-51c5-466e-925e-11d7ecc92581"
+      }
+    ],
+    "dateNote": {
+      "zh": "大学出版研究将《梦溪笔谈》完成置于1088—1095年；按此区间编码，而非指定1088单年。",
+      "en": "The university-press study places completion between 1088 and 1095; the interval is retained."
+    },
+    "status": "reviewed",
+    "dateRange": [
+      1088,
+      1095
+    ],
+    "indexEligible": true,
+    "yearBasis": "source-range"
+  },
+  {
+    "id": "early-roger-bacon-perspectiva",
+    "title": {
+      "zh": "《大著作》中的光学与实验论述",
+      "en": "Optics and experience in the Opus maius"
+    },
+    "year": 1267,
+    "precision": "year",
+    "type": "theory",
+    "field": "light",
+    "people": [
+      "roger-bacon"
+    ],
+    "weight": 1,
+    "rationale": {
+      "zh": "将几何光学和经验研究纳入系统学术论述。",
+      "en": "Integrated geometrical optics and experiential inquiry into a systematic work."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Bacon",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bacon/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取提交《大著作》的年代。",
+      "en": "Uses the year in which the Opus maius was submitted."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-tartaglia-ballistics",
+    "title": {
+      "zh": "《新科学》的定量弹道研究",
+      "en": "Quantitative ballistics in Nova scientia"
+    },
+    "year": 1537,
+    "precision": "year",
+    "type": "method",
+    "field": "mechanics",
+    "people": [
+      "niccolo-tartaglia"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把炮弹轨迹和射角问题纳入系统数学研究。",
+      "en": "Brought projectile paths and firing angles into systematic mathematical study."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Tartaglia",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Tartaglia/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取《新科学》出版年。",
+      "en": "Publication year of Nova scientia."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-copernicus-revolutions",
+    "title": {
+      "zh": "《天体运行论》的日心体系",
+      "en": "The heliocentric system of De revolutionibus"
+    },
+    "year": 1543,
+    "precision": "year",
+    "type": "theory",
+    "field": "cosmos",
+    "people": [
+      "nicolaus-copernicus"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "重组行星运动的数学框架，推动后来的天体力学。",
+      "en": "Reorganized planetary models and helped establish later celestial mechanics."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Copernicus",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Copernicus/"
+      },
+      {
+        "title": "University of Glasgow — Copernicus: De Revolutionibus (1543)",
+        "url": "https://www.gla.ac.uk/myglasgow/archivespecialcollections/digitisedcollections/revolutionsinastronomy/copernicusderevolutionibus/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取正式出版年，不把更早手稿传播另计一次。",
+      "en": "Uses formal publication; earlier manuscript circulation is not counted again."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-benedetti-motion",
+    "title": {
+      "zh": "区分介质阻力与真空落体",
+      "en": "Distinguishing medium resistance and free fall in a vacuum"
+    },
+    "year": 1554,
+    "precision": "year",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "giovanni-battista-benedetti"
+    ],
+    "weight": 1,
+    "rationale": {
+      "zh": "质疑重量与下落速度的简单比例关系。",
+      "en": "Questioned a simple proportionality between weight and falling speed."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Benedetti",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Benedetti/"
+      },
+      {
+        "title": "Edition Open Sources — Science in Court Society: Benedetti’s works",
+        "url": "https://edition-open-sources.org/sources/11/2/index.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "1553年的初步说法仍有介质处理错误；采用1554年修订中把等速下落限定于真空的论述，不重复计初版。",
+      "en": "The 1553 account mishandled resistance; uses the 1554 revision restricting equal fall to a vacuum."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-brahe-new-star",
+    "title": {
+      "zh": "新星位置与天界变化的观测证据",
+      "en": "Positional evidence for a new star and changing heavens"
+    },
+    "year": 1573,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [
+      "tycho-brahe"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "通过视差检验挑战天界不变的传统观念。",
+      "en": "Used parallax tests to challenge an unchanging celestial realm."
+    },
+    "sources": [
+      {
+        "title": "Rice University — Galileo Project: Tycho Brahe",
+        "url": "https://galileo.library.rice.edu/sci/brahe.html"
+      },
+      {
+        "title": "Cambridge University Press — Tycho Brahe, new-star report excerpt",
+        "url": "https://assets.cambridge.org/97805212/42547/excerpt/9780521242547_excerpt.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "新星出现于1572，按1573年公开著作定年。",
+      "en": "The star appeared in 1572; dates the public book of 1573."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-stevin-hydrostatics",
+    "title": {
+      "zh": "斯特芬的流体静压理论",
+      "en": "Stevin’s theory of hydrostatic pressure"
+    },
+    "year": 1586,
+    "precision": "year",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "simon-stevin"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "明确液体压力与深度及受压面的关系。",
+      "en": "Clarified relations among liquid pressure, depth and loaded area."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Stevin",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Stevin/"
+      }
+    ],
+    "dateNote": {
+      "zh": "与静力学著作是不同的流体成果，合作者不重复计数。",
+      "en": "A distinct fluid result, rather than a duplicate author-based count."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-stevin-statics",
+    "title": {
+      "zh": "斯特芬的静力学与力的合成",
+      "en": "Stevin’s statics and composition of forces"
+    },
+    "year": 1586,
+    "precision": "year",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "simon-stevin"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "系统研究斜面、平衡与力的几何关系。",
+      "en": "Systematically treated inclined planes, equilibrium and force geometry."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Stevin",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Stevin/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取《论衡》的出版年。",
+      "en": "Publication year of The Principles of the Art of Weighing."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-brahe-comet-distance",
+    "title": {
+      "zh": "彗星位于月球之外的视差证据",
+      "en": "Parallax evidence that comets lie beyond the Moon"
+    },
+    "year": 1588,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [
+      "tycho-brahe"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "以观测削弱固体天球和天界不变的物理假设。",
+      "en": "Used observations against solid celestial spheres and unchanging heavens."
+    },
+    "sources": [
+      {
+        "title": "University of Oklahoma — Brahe, Complete Works and De mundi aetherei",
+        "url": "https://galileo.ou.edu/exhibits/complete-works.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "观测对象为1577年彗星，按1588年报告出版定位。",
+      "en": "The observations concern the 1577 comet; the report was published in 1588."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-gilbert-magnet",
+    "title": {
+      "zh": "《论磁》的地磁与电性实验",
+      "en": "Terrestrial magnetism and electrical experiments in De magnete"
+    },
+    "year": 1600,
+    "precision": "year",
+    "type": "discovery",
+    "field": "light",
+    "people": [
+      "william-gilbert"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "以系统实验将地球看作磁体，并区分电性与磁性。",
+      "en": "Systematically investigated Earth as a magnet and distinguished electrical effects."
+    },
+    "sources": [
+      {
+        "title": "University of Oklahoma — On the Magnet",
+        "url": "https://galileo.ou.edu/exhibits/magnet.html"
+      },
+      {
+        "title": "Museo Galileo — William Gilbert",
+        "url": "https://catalogo.museogalileo.it/biografia/WilliamGilbert.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "取1600年出版；只计获实验支持的磁学与电学推进，不采纳书中全部宇宙论。",
+      "en": "Uses publication in 1600; only supported magnetic and electrical advances are scored."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-kepler-retinal-image",
+    "title": {
+      "zh": "开普勒的视网膜成像理论",
+      "en": "Kepler’s account of retinal images"
+    },
+    "year": 1604,
+    "precision": "year",
+    "type": "theory",
+    "field": "light",
+    "people": [
+      "johannes-kepler"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把视觉成像作为光学系统的几何问题处理。",
+      "en": "Treated visual imaging as a geometrical optical-system problem."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Kepler",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Kepler/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取Astronomiae pars optica出版年。",
+      "en": "Publication year of Astronomiae pars optica."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-kepler-planetary-laws",
+    "title": {
+      "zh": "行星椭圆轨道与面积定律",
+      "en": "Elliptical planetary orbits and the area law"
+    },
+    "year": 1609,
+    "precision": "year",
+    "type": "theory",
+    "field": "cosmos",
+    "people": [
+      "johannes-kepler"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "用定量定律替换行星圆周运动的传统约束。",
+      "en": "Replaced circular-orbit constraints with quantitative planetary laws."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Kepler",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Kepler/"
+      },
+      {
+        "title": "Bavarian Academy of Sciences — Kepler’s planetary laws",
+        "url": "https://kepler.badw.de/en/on-johannes-kepler/the-planetary-laws.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "取《新天文学》出版年，前两定律作为同一组建模突破计一次。",
+      "en": "Astronomia nova publication; the first two laws form one modelling milestone."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-galileo-star-messenger",
+    "title": {
+      "zh": "《星际信使》中的望远镜天文发现",
+      "en": "Telescopic discoveries in Sidereus nuncius"
+    },
+    "year": 1610,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [
+      "galileo-galilei"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "以新仪器展示月面地形、木星卫星和更多恒星。",
+      "en": "Used telescopes to reveal lunar relief, Jovian moons and additional stars."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Galileo",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Galileo/"
+      }
+    ],
+    "dateNote": {
+      "zh": "把同一观察报告作为一项成果，不按每张图重复。",
+      "en": "Treats the observational report as one event rather than counting each illustration."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-kepler-dioptrice",
+    "title": {
+      "zh": "《折光学》的透镜与望远镜理论",
+      "en": "Lens and telescope theory in Dioptrice"
+    },
+    "year": 1611,
+    "precision": "year",
+    "type": "theory",
+    "field": "light",
+    "people": [
+      "johannes-kepler"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "为折射透镜组合和望远镜提供系统几何分析。",
+      "en": "Provided systematic geometrical analysis of lenses and telescopes."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Kepler",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Kepler/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取《折光学》出版年。",
+      "en": "Publication year of Dioptrice."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-snell-triangulation",
+    "title": {
+      "zh": "大范围三角测量与地球尺度估计",
+      "en": "Large-scale triangulation and Earth measurement"
+    },
+    "year": 1617,
+    "precision": "year",
+    "type": "method",
+    "field": "methods",
+    "people": [
+      "willebrord-snellius"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "将角度测量网络用于地球尺寸的定量估计。",
+      "en": "Used an angular survey network for quantitative Earth measurement."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Willebrord Snell, Eratosthenes Batavus",
+        "url": "https://mathshistory.st-andrews.ac.uk/Strick/snell.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "取Eratosthenes Batavus出版年；不把未刊折射研究虚作同年公开。",
+      "en": "Uses publication of Eratosthenes Batavus, not unpublished refraction research."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-kepler-third-law",
+    "title": {
+      "zh": "行星运动的周期—轨道尺度关系",
+      "en": "The period–orbital-size relation"
+    },
+    "year": 1619,
+    "precision": "year",
+    "type": "theory",
+    "field": "cosmos",
+    "people": [
+      "johannes-kepler"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把不同行星的运动联系到共同数量关系。",
+      "en": "Connected different planetary motions through one quantitative relation."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Kepler",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Kepler/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取《宇宙和谐论》出版年，不另计1618年的研究过程。",
+      "en": "Publication year of Harmonices mundi; the 1618 development is not counted separately."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-castelli-flow",
+    "title": {
+      "zh": "卡斯泰利的流量连续性研究",
+      "en": "Castelli’s study of flow continuity"
+    },
+    "year": 1628,
+    "precision": "year",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "benedetto-castelli"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "推进水流截面、速度与流量的定量联系。",
+      "en": "Advanced quantitative relations between flow area, speed and discharge."
+    },
+    "sources": [
+      {
+        "title": "Museo Galileo Library — Castelli, Della misura delle acque correnti (1628)",
+        "url": "https://opac.museogalileo.it/pdf/acquisti/biblioteca_galileo.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "按1628年首版馆藏记录；部分传记记1629年，原版题录优先。",
+      "en": "Uses the library record of the 1628 first edition; some biographies give 1629."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-mersenne-acoustics",
+    "title": {
+      "zh": "《普遍和谐论》的弦振动研究",
+      "en": "String vibration in Harmonie universelle"
+    },
+    "year": 1636,
+    "precision": "year",
+    "type": "method",
+    "field": "mechanics",
+    "people": [
+      "marin-mersenne"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把声音与弦长、张力和振动频率联系到定量实验。",
+      "en": "Related sound and string properties through quantitative experiments."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Mersenne",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Mersenne/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取《普遍和谐论》出版年。",
+      "en": "Publication year of Harmonie universelle."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-descartes-refraction",
+    "title": {
+      "zh": "《折光学》的折射定律与成像分析",
+      "en": "Refraction and imaging in La Dioptrique"
+    },
+    "year": 1637,
+    "precision": "year",
+    "type": "theory",
+    "field": "light",
+    "people": [
+      "rene-descartes"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "公开系统表述折射关系与透镜成像分析。",
+      "en": "Published a systematic treatment of refraction and lens imaging."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Descartes",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Descartes/"
+      }
+    ],
+    "dateNote": {
+      "zh": "更早的未刊独立发现保留在人物档案，不据此额外增加同一公开成果。",
+      "en": "Earlier unpublished independent work is retained in profiles, not counted as this publication again."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-galileo-two-sciences",
+    "title": {
+      "zh": "《两门新科学》的落体与抛体力学",
+      "en": "Falling bodies and projectiles in Two New Sciences"
+    },
+    "year": 1638,
+    "precision": "year",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "galileo-galilei"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "将定量实验与数学运动规律结合，奠定近代运动学。",
+      "en": "Joined quantitative experiments with mathematical laws of motion."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Galileo",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Galileo/"
+      },
+      {
+        "title": "University of Oklahoma — The New Physics (1638)",
+        "url": "https://galileo.ou.edu/exhibits/a-new-physics.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "同书的落体与抛体成果作为一组关联运动学突破计一次。",
+      "en": "Related falling-body and projectile results are counted as one kinematic milestone."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-torricelli-efflux",
+    "title": {
+      "zh": "流出速度与液面高度的定量关系",
+      "en": "The relation between efflux speed and liquid head"
+    },
+    "year": 1644,
+    "precision": "year",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "evangelista-torricelli"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "为流体流出问题提供数学关系。",
+      "en": "Provided a mathematical relation for fluid discharge."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Torricelli",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Torricelli/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取Opera geometrica出版年。",
+      "en": "Publication year of Opera geometrica."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-torricelli-vacuum",
+    "title": {
+      "zh": "水银柱与大气压的实验证据",
+      "en": "Mercury-column evidence for atmospheric pressure"
+    },
+    "year": 1644,
+    "precision": "year",
+    "type": "discovery",
+    "field": "mechanics",
+    "people": [
+      "evangelista-torricelli"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "以可维持的真空和水银柱阐明大气压力。",
+      "en": "Used a sustained vacuum and mercury column to explain atmospheric pressure."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Torricelli",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Torricelli/"
+      }
+    ],
+    "dateNote": {
+      "zh": "实验始于1643；1644年致Ricci信是可定年的科学报告。",
+      "en": "Experiments began in 1643; the 1644 Ricci letter is a dated scientific report."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-pascal-atmospheric-pressure",
+    "title": {
+      "zh": "气压随海拔变化的实验",
+      "en": "Experiment on atmospheric pressure and altitude"
+    },
+    "year": 1648,
+    "precision": "year",
+    "type": "discovery",
+    "field": "mechanics",
+    "people": [
+      "blaise-pascal"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "用不同高度的水银柱读数检验大气压解释。",
+      "en": "Tested atmospheric-pressure explanations through measurements at different heights."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Pascal",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Pascal/"
+      }
+    ],
+    "dateNote": {
+      "zh": "由Périer等执行的山地实验归为同一成果。",
+      "en": "The mountain experiment carried out by Périer and others is one shared result."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Florin Périer"
+    ],
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-boyle-air-pump-experiments",
+    "title": {
+      "zh": "空气泵实验与空气弹性",
+      "en": "Air-pump experiments and the spring of air"
+    },
+    "year": 1660,
+    "precision": "year",
+    "type": "method",
+    "field": "mechanics",
+    "people": [
+      "robert-boyle",
+      "robert-hooke"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "使真空与低压环境成为可重复研究的实验条件。",
+      "en": "Made low-pressure environments accessible to repeatable experiments."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Boyle",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Boyle/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取New Experiments第一版出版年。",
+      "en": "Publication year of the first edition of New Experiments."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-boyle-pressure-volume",
+    "title": {
+      "zh": "气体压强—体积关系",
+      "en": "The pressure–volume relation of gases"
+    },
+    "year": 1662,
+    "precision": "year",
+    "type": "discovery",
+    "field": "heat",
+    "people": [
+      "robert-boyle"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "建立可复现实验支持的定量气体关系。",
+      "en": "Established a reproducible quantitative gas relation."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Boyle",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Boyle/"
+      }
+    ],
+    "dateNote": {
+      "zh": "关系见1662年第二版附录；Mariotte后来独立研究另保留归属说明。",
+      "en": "The relation appears in the 1662 appendix; later independent work by Mariotte is acknowledged."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-fermat-least-time",
+    "title": {
+      "zh": "最短时间原理推导折射",
+      "en": "Refraction derived from the principle of least time"
+    },
+    "year": 1662,
+    "precision": "year",
+    "type": "theory",
+    "field": "light",
+    "people": [
+      "pierre-de-fermat"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "以变分式原则连接光路与传播速度。",
+      "en": "Connected optical paths and propagation speed through an extremal principle."
+    },
+    "sources": [
+      {
+        "title": "Dictionary of Scientific Biography — Fermat",
+        "url": "https://mathshistory.st-andrews.ac.uk/DSB/Fermat.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "取1662年光学论述，而非更早的一般最简道路表述。",
+      "en": "Uses the 1662 optical derivation rather than earlier general shortest-path statements."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-grimaldi-diffraction",
+    "title": {
+      "zh": "光的衍射研究公开发表",
+      "en": "Publication of Grimaldi’s diffraction studies"
+    },
+    "year": 1665,
+    "precision": "year",
+    "type": "discovery",
+    "field": "light",
+    "people": [
+      "francesco-maria-grimaldi"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "揭示几何光学阴影之外的光传播结构。",
+      "en": "Revealed light structures beyond geometrical shadow boundaries."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Classical light",
+        "url": "https://mathshistory.st-andrews.ac.uk/HistTopics/Light_1/"
+      }
+    ],
+    "dateNote": {
+      "zh": "实验较早完成；取身后著作出版年。",
+      "en": "Experiments preceded the posthumous publication year used here."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-newton-colour",
+    "title": {
+      "zh": "白光的复合性与光色理论",
+      "en": "The composite nature of white light"
+    },
+    "year": 1672,
+    "precision": "year",
+    "type": "discovery",
+    "field": "light",
+    "people": [
+      "isaac-newton"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "把颜色与不同折射性质的光联系起来。",
+      "en": "Connected colours with rays having distinct refractive properties."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Newton",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Newton/"
+      },
+      {
+        "title": "Library of Congress — Newton prism experiment, 1672",
+        "url": "https://www.loc.gov/item/92518608/"
+      }
+    ],
+    "dateNote": {
+      "zh": "实验始于1660年代；取皇家学会公开报告年，旧历可能写1671/72。",
+      "en": "Uses public reporting, not the 1660s experiments; Old Style dates may read 1671/72."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-huygens-pendulum-theory",
+    "title": {
+      "zh": "复摆与圆周运动的数学理论",
+      "en": "Mathematical theory of pendulums and circular motion"
+    },
+    "year": 1673,
+    "precision": "year",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "christiaan-huygens"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "扩展对刚体摆动、等时曲线和离心作用的研究。",
+      "en": "Extended treatments of pendulums, tautochrones and circular motion."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Huygens",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Huygens/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取Horologium oscillatorium出版年。",
+      "en": "Publication year of Horologium oscillatorium."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-romer-light-delay",
+    "title": {
+      "zh": "以木卫食时差推断有限光速",
+      "en": "Finite light speed inferred from Jovian eclipse delays"
+    },
+    "year": 1676,
+    "precision": "year",
+    "type": "discovery",
+    "field": "light",
+    "people": [
+      "ole-romer"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "为光传播需要时间提供天文观测证据。",
+      "en": "Provided astronomical evidence that light propagation takes time."
+    },
+    "sources": [
+      {
+        "title": "Physics Today — Rømer and the finite speed of light",
+        "url": "https://physicstoday.aip.org/letters/r%C3%B8mer-and-the-finite-speed-of-light"
+      },
+      {
+        "title": "Dansk Biografisk Leksikon — Ole Rømer",
+        "url": "https://biografiskleksikon.lex.dk/Ole_R%C3%B8mer"
+      }
+    ],
+    "dateNote": {
+      "zh": "取1676年法文报告，1677年英文转述不再次计数。",
+      "en": "Uses the 1676 French report; the 1677 English account is not recounted."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-hooke-elasticity",
+    "title": {
+      "zh": "弹性形变的线性定律",
+      "en": "The linear law of elastic deformation"
+    },
+    "year": 1678,
+    "precision": "year",
+    "type": "discovery",
+    "field": "mechanics",
+    "people": [
+      "robert-hooke"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "建立弹性力与形变的定量联系。",
+      "en": "Established a quantitative relation between elastic force and deformation."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Hooke",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hooke/"
+      }
+    ],
+    "dateNote": {
+      "zh": "发现于1660年前后；一般定律于1678年Of Spring公开。",
+      "en": "Discovered around 1660; the general law was publicly stated in Of Spring in 1678."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-huygens-wave-optics",
+    "title": {
+      "zh": "《光论》的波动光学",
+      "en": "Wave optics in the Treatise on Light"
+    },
+    "year": 1678,
+    "precision": "year",
+    "type": "theory",
+    "field": "light",
+    "people": [
+      "christiaan-huygens"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "以传播波前解释反射、折射及双折射。",
+      "en": "Explained reflection, refraction and double refraction through propagating wavefronts."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Huygens",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Huygens/"
+      },
+      {
+        "title": "Kanazawa Institute of Technology — Traité de la lumière (1690), first announced in 1678",
+        "url": "https://www.kanazawa-it.ac.jp/dawn/eng/110_e/169001.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "取1678年法国科学院首次报告年；1690年正式出版不重复计数。部分简短传记混淆报告与出版，已以大学原版馆藏说明核对。",
+      "en": "Uses the 1678 French Academy presentation; the 1690 printed edition is not counted again."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-leibniz-calculus",
+    "title": {
+      "zh": "微分法的公开发表",
+      "en": "Publication of differential calculus"
+    },
+    "year": 1684,
+    "precision": "year",
+    "type": "method",
+    "field": "methods",
+    "people": [
+      "gottfried-wilhelm-leibniz"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "为运动、变化和极值问题提供可推广的分析工具。",
+      "en": "Provided general analytical tools for motion, change and extrema."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Leibniz",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Leibniz/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取Nova methodus出版年，独立发明及优先权问题另作历史说明。",
+      "en": "Uses publication of Nova methodus, while preserving independent-development qualifications."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-newton-principia",
+    "title": {
+      "zh": "运动定律与万有引力的统一体系",
+      "en": "A unified system of motion and universal gravitation"
+    },
+    "year": 1687,
+    "precision": "year",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "isaac-newton"
+    ],
+    "weight": 8,
+    "rationale": {
+      "zh": "以统一数学框架连接地面运动与天体运动。",
+      "en": "Unified terrestrial and celestial motion in a mathematical framework."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Newton",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Newton/"
+      },
+      {
+        "title": "University of Glasgow — Newton: Principia, first edition 1687",
+        "url": "https://www.gla.ac.uk/myglasgow/archivespecialcollections/digitisedcollections/revolutionsinastronomy/sirisaacnewtonprincipia/"
+      }
+    ],
+    "dateNote": {
+      "zh": "《原理》三卷作为同一框架成果，不逐条定律重复计分。",
+      "en": "The three books of Principia form one framework event, not one score per law."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-papin-piston-steam",
+    "title": {
+      "zh": "蒸汽冷凝驱动活塞的构想",
+      "en": "A piston driven by steam condensation"
+    },
+    "year": 1690,
+    "precision": "year",
+    "type": "method",
+    "field": "heat",
+    "people": [
+      "denis-papin"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把蒸汽、真空和活塞联系成热动力装置方案。",
+      "en": "Connected steam, vacuum and a piston in a heat-engine proposal."
+    },
+    "sources": [
+      {
+        "title": "Science Museum Group — apparatus proposed by Denis Papin, 1690",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co50873"
+      }
+    ],
+    "dateNote": {
+      "zh": "装置方案的公开年代；不是声称已实现工业发动机。",
+      "en": "Dates the public apparatus proposal, not a completed industrial engine."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-halley-comet-prediction",
+    "title": {
+      "zh": "预测周期彗星的回归",
+      "en": "Prediction of a periodic comet’s return"
+    },
+    "year": 1705,
+    "precision": "year",
+    "type": "theory",
+    "field": "cosmos",
+    "people": [
+      "edmond-halley"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把牛顿动力学用于跨历次观测的轨道预测。",
+      "en": "Applied Newtonian dynamics to orbital prediction across apparitions."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Halley",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Halley/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取预测的发表年，而不是1758年回归年。",
+      "en": "Uses publication of the prediction, not the 1758 return."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-hauksbee-discharge",
+    "title": {
+      "zh": "气体放电与摩擦电实验体系",
+      "en": "Gas-discharge and frictional-electricity experiments"
+    },
+    "year": 1709,
+    "precision": "year",
+    "type": "method",
+    "field": "light",
+    "people": [
+      "francis-hauksbee"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "改进电与低压气体发光的实验方法。",
+      "en": "Developed experimental methods for electricity and low-pressure luminescence."
+    },
+    "sources": [
+      {
+        "title": "Wellcome Collection — Hauksbee, Physico-mechanical experiments, 1709",
+        "url": "https://wellcomecollection.org/works/rkbseaaw"
+      }
+    ],
+    "dateNote": {
+      "zh": "取实验专著公开年，书中较早实验不再次按章节重复计数。",
+      "en": "Uses the experimental monograph’s publication, without recounting its earlier experiments."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-newcomen-engine",
+    "title": {
+      "zh": "实用大气式蒸汽机",
+      "en": "A practical atmospheric steam engine"
+    },
+    "year": 1712,
+    "precision": "year",
+    "type": "method",
+    "field": "heat",
+    "people": [
+      "thomas-newcomen"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把蒸汽冷凝与大气压转化为实用机械功。",
+      "en": "Turned steam condensation and atmospheric pressure into practical mechanical work."
+    },
+    "sources": [
+      {
+        "title": "National Museums Scotland — Newcomen engine",
+        "url": "https://www.nms.ac.uk/discover-catalogue/the-newcomen-engine-and-its-role-in-britains-industrial-revolution"
+      }
+    ],
+    "dateNote": {
+      "zh": "取首台实用装置的公开运行年。",
+      "en": "Uses the first practical engine’s public operation year."
+    },
+    "status": "reviewed",
+    "groups": [
+      "John Calley"
+    ],
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-fahrenheit-scale",
+    "title": {
+      "zh": "可复现的华氏温标",
+      "en": "The reproducible Fahrenheit temperature scale"
+    },
+    "year": 1724,
+    "precision": "year",
+    "type": "method",
+    "field": "heat",
+    "people": [
+      "daniel-gabriel-fahrenheit"
+    ],
+    "weight": 1,
+    "rationale": {
+      "zh": "推进温度测量的标准化与跨实验比较。",
+      "en": "Advanced reproducible thermometry and comparison across experiments."
+    },
+    "sources": [
+      {
+        "title": "NIST — Kelvin: History",
+        "url": "https://www.nist.gov/si-redefinition/kelvin/kelvin-history"
+      }
+    ],
+    "dateNote": {
+      "zh": "取温标公开年，不把更早水银温度计另算同一温标成果。",
+      "en": "Dates the announced scale rather than earlier mercury thermometers."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-bradley-aberration",
+    "title": {
+      "zh": "恒星光行差的公开报告",
+      "en": "Public report of stellar aberration"
+    },
+    "year": 1729,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [
+      "james-bradley"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把有限光速与地球公转联系到观测位移。",
+      "en": "Connected finite light speed and Earth’s orbit with observed stellar displacement."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Bradley",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bradley/"
+      }
+    ],
+    "dateNote": {
+      "zh": "常见发现年1728；此处按1729年1月皇家学会宣读的报告定年。",
+      "en": "Often dated as a 1728 discovery; uses the January 1729 Royal Society report."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-gray-conduction",
+    "title": {
+      "zh": "导电与绝缘实验的公开报告",
+      "en": "Public report of conduction and insulation experiments"
+    },
+    "year": 1731,
+    "precision": "year",
+    "type": "discovery",
+    "field": "light",
+    "people": [
+      "stephen-gray"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "区分电性传递与材料绝缘作用。",
+      "en": "Distinguished the transmission of electrical effects and insulating behaviour."
+    },
+    "sources": [
+      {
+        "title": "Royal Society Archives — Gray’s electrical experiments (1731)",
+        "url": "https://makingscience.royalsociety.org/items/rbo_15_86"
+      }
+    ],
+    "dateNote": {
+      "zh": "实验始于1729，按1731年5月皇家学会宣读报告定年。",
+      "en": "Experiments began in 1729; uses the Royal Society report read in May 1731."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-dufay-two-electricities",
+    "title": {
+      "zh": "两种电性与吸引排斥关系",
+      "en": "Two kinds of electricity and their interactions"
+    },
+    "year": 1733,
+    "precision": "year",
+    "type": "discovery",
+    "field": "light",
+    "people": [
+      "charles-francois-de-cisternay-du-fay"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "区分两类带电行为，为电荷理论提供实验基础。",
+      "en": "Distinguished two electrical behaviours that informed later charge theories."
+    },
+    "sources": [
+      {
+        "title": "Du Fay — Concerning electricity, Philosophical Transactions, 1733",
+        "url": "https://doi.org/10.1098/rstl.1733.0040"
+      }
+    ],
+    "dateNote": {
+      "zh": "按原始论文的卷年1733记录；部分印本标1733–34。",
+      "en": "Uses the original paper’s volume year 1733; some imprints span 1733–34."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-euler-mechanica",
+    "title": {
+      "zh": "解析方法系统处理质点动力学",
+      "en": "Analytical treatment of particle dynamics"
+    },
+    "year": 1736,
+    "precision": "year",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "leonhard-euler"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把运动问题系统写成可分析的微分方程。",
+      "en": "Systematically cast dynamical problems into differential equations."
+    },
+    "sources": [
+      {
+        "title": "Euler Archive — Mechanica, volume 2 (1736)",
+        "url": "https://scholarlycommons.pacific.edu/euler-works/16/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取Mechanica出版年。",
+      "en": "Publication year of Mechanica."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-bernoulli-hydrodynamica",
+    "title": {
+      "zh": "《流体动力学》的压力与流速研究",
+      "en": "Pressure and flow speed in Hydrodynamica"
+    },
+    "year": 1738,
+    "precision": "year",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "daniel-bernoulli"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "将能量思路用于流体运动的定量分析。",
+      "en": "Applied energetic reasoning to quantitative fluid motion."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Bernoulli_Daniel",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bernoulli_Daniel/"
+      },
+      {
+        "title": "MAA — Daniel Bernoulli’s Hydrodynamica (1738)",
+        "url": "https://old.maa.org/press/periodicals/convergence/mathematical-treasure-daniel-bernoulli-s-hydrodynamica"
+      }
+    ],
+    "dateNote": {
+      "zh": "1734年已有稿本，采用1738年出版年。",
+      "en": "A draft existed in 1734; uses publication in 1738."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-bernoulli-kinetic-gases",
+    "title": {
+      "zh": "气体压强的粒子运动解释",
+      "en": "A kinetic explanation of gas pressure"
+    },
+    "year": 1738,
+    "precision": "year",
+    "type": "theory",
+    "field": "heat",
+    "people": [
+      "daniel-bernoulli"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "以粒子运动解释气体宏观性质的早期定量模型。",
+      "en": "An early quantitative model relating particle motion to macroscopic gas properties."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Bernoulli_Daniel",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bernoulli_Daniel/"
+      }
+    ],
+    "dateNote": {
+      "zh": "与同书流体结果为不同物理主张，未把后来的完整气体动理论归于此时。",
+      "en": "A distinct claim in the same book, not the later fully developed kinetic theory."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-chatelet-physics",
+    "title": {
+      "zh": "《物理学基础》的力学与能量讨论",
+      "en": "Mechanics and vis viva in Institutions de physique"
+    },
+    "year": 1740,
+    "precision": "year",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "emilie-du-chatelet"
+    ],
+    "weight": 1,
+    "rationale": {
+      "zh": "把牛顿与莱布尼茨传统的关键问题纳入系统讨论。",
+      "en": "Systematically examined issues across Newtonian and Leibnizian traditions."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Chatelet",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Chatelet/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取Institutions de physique出版年。",
+      "en": "Publication year of Institutions de physique."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-celsius-scale",
+    "title": {
+      "zh": "以水的相变固定点定义百分温标",
+      "en": "A hundred-degree scale defined by water phase points"
+    },
+    "year": 1742,
+    "precision": "year",
+    "type": "method",
+    "field": "heat",
+    "people": [
+      "anders-celsius"
+    ],
+    "weight": 1,
+    "rationale": {
+      "zh": "使温标与可重复的相变固定点关联。",
+      "en": "Related a temperature scale to reproducible phase-transition fixed points."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Celsius",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Celsius/"
+      }
+    ],
+    "dateNote": {
+      "zh": "原始刻度沸点为0、冰点为100，与后来的常用方向相反。",
+      "en": "The original scale assigned 0 to boiling and 100 to freezing."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-robins-ballistic-pendulum",
+    "title": {
+      "zh": "弹道摆与高速抛射体测量",
+      "en": "The ballistic pendulum and projectile measurement"
+    },
+    "year": 1742,
+    "precision": "year",
+    "type": "method",
+    "field": "mechanics",
+    "people": [
+      "benjamin-robins"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "用动量转移把高速运动转化为可测的摆动。",
+      "en": "Converted high-speed motion into measurable pendulum displacement."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Robins",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Robins/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取New Principles of Gunnery出版年。",
+      "en": "Publication year of New Principles of Gunnery."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-clairaut-earth-figure",
+    "title": {
+      "zh": "地球形状、转动与引力的定量理论",
+      "en": "A quantitative theory of Earth’s figure and gravity"
+    },
+    "year": 1743,
+    "precision": "year",
+    "type": "theory",
+    "field": "cosmos",
+    "people": [
+      "alexis-clairaut"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "将大地测量与旋转流体的引力理论连接。",
+      "en": "Connected geodetic measurements with rotating-fluid gravitation."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Clairaut",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Clairaut/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取Théorie de la figure de la Terre出版年。",
+      "en": "Publication year of Théorie de la figure de la Terre."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-dalembert-principle",
+    "title": {
+      "zh": "达朗贝尔原理",
+      "en": "D’Alembert’s principle"
+    },
+    "year": 1743,
+    "precision": "year",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "jean-le-rond-dalembert"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把约束系统动力学联系到平衡与虚功分析。",
+      "en": "Related constrained dynamics to equilibrium and virtual-work reasoning."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — DAlembert",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/DAlembert/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取Traité de dynamique出版年。",
+      "en": "Publication year of Traité de dynamique."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-dalembert-wave-equation",
+    "title": {
+      "zh": "振动弦的波动方程",
+      "en": "The wave equation for a vibrating string"
+    },
+    "year": 1747,
+    "precision": "year",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "jean-le-rond-dalembert"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把波动运动表述为偏微分方程。",
+      "en": "Expressed wave motion through a partial differential equation."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — DAlembert",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/DAlembert/"
+      },
+      {
+        "title": "MacTutor — Archibald on mathematicians and music: the 1747 vibrating-string memoir",
+        "url": "https://mathshistory.st-andrews.ac.uk/Extras/Archibald_music_3/"
+      },
+      {
+        "title": "Treccani, Storia della Scienza — d’Alembert’s 1747 presentation of the vibrating-string memoirs",
+        "url": "https://www.treccani.it/enciclopedia/l-eta-dei-lumi-matematica-le-equazioni-differenziali_%28Storia-della-Scienza%29/"
+      }
+    ],
+    "dateNote": {
+      "zh": "采用1747年向柏林科学院提交论文的年代；对应卷实际稍后印刷，不能把卷年误当印刷年。",
+      "en": "Uses the 1747 academy presentation; the corresponding volume was printed later."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-franklin-electric-theory",
+    "title": {
+      "zh": "正负电性与电荷转移的系统实验",
+      "en": "Systematic experiments on electrical charge and transfer"
+    },
+    "year": 1751,
+    "precision": "year",
+    "type": "theory",
+    "field": "light",
+    "people": [
+      "benjamin-franklin"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把多种静电现象组织成可检验的电性解释。",
+      "en": "Organized electrostatic phenomena into a testable electrical account."
+    },
+    "sources": [
+      {
+        "title": "Royal Society Archives — Franklin to Collinson, electrical experiments (1751)",
+        "url": "https://makingscience.royalsociety.org/items/l-and-p_2_198/letter-of-electrical-experiments-from-benjamin-franklin-to-peter-collinson"
+      },
+      {
+        "title": "Library of Congress — Franklin: Experiments in electricity",
+        "url": "https://wwws.loc.gov/exhibits/franklin/franklin-scientist.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "取首版论著公开年；较早通信与后续版本不重复累加。",
+      "en": "Uses the first published edition; earlier letters and later editions are not counted repeatedly."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-euler-fluid-equations",
+    "title": {
+      "zh": "理想流体运动的一般方程",
+      "en": "General equations of ideal-fluid motion"
+    },
+    "year": 1757,
+    "precision": "year",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "leonhard-euler"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "建立连续介质流动的统一微分方程表述。",
+      "en": "Established a general differential-equation formulation of continuum flow."
+    },
+    "sources": [
+      {
+        "title": "Euler Archive — General principles of fluid motion (1757)",
+        "url": "https://scholarlycommons.pacific.edu/euler-works/226/"
+      },
+      {
+        "title": "Bibliothèque nationale de France — Euler et les jets d’eau de Sans-Souci",
+        "url": "https://www.bnf.fr/fr/mediatheque/vanite-de-la-geometrie-euler-et-les-jets-deau-de-sans-souci"
+      }
+    ],
+    "dateNote": {
+      "zh": "论文写于1755，卷题亦含1755，实际出版于1757。",
+      "en": "Written in 1755 in a volume labelled 1755, but published in 1757."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-boscovich-force-theory",
+    "title": {
+      "zh": "以距离相关力描述点状物质",
+      "en": "Point-matter and distance-dependent forces"
+    },
+    "year": 1758,
+    "precision": "year",
+    "type": "theory",
+    "field": "history",
+    "people": [
+      "roger-joseph-boscovich"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "探索统一的物质相互作用模型，具有历史影响但非现代原子理论。",
+      "en": "Explored a historically influential unified interaction model, not modern atomic theory."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Boscovich",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Boscovich/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取Theoria philosophiae naturalis出版年。 历史思想记录，不作为已成立物理原理计入突破指数。",
+      "en": "Publication year of Theoria philosophiae naturalis. Historical proposal; excluded from the index of established physical advances."
+    },
+    "status": "reviewed",
+    "indexEligible": false,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-aepinus-electricity",
+    "title": {
+      "zh": "电与磁现象的数学理论",
+      "en": "A mathematical theory of electrical and magnetic phenomena"
+    },
+    "year": 1759,
+    "precision": "year",
+    "type": "theory",
+    "field": "light",
+    "people": [
+      "franz-aepinus"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把电荷作用与感应问题纳入数学化模型。",
+      "en": "Brought electrical interactions and induction into a mathematical model."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Aepinus",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Aepinus/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取Tentamen出版年。",
+      "en": "Publication year of Tentamen."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-lambert-photometry",
+    "title": {
+      "zh": "定量光度学与漫反射定律",
+      "en": "Quantitative photometry and diffuse reflection"
+    },
+    "year": 1760,
+    "precision": "year",
+    "type": "theory",
+    "field": "light",
+    "people": [
+      "johann-heinrich-lambert"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "建立可测量的光强与几何关系。",
+      "en": "Established measurable relations between illumination and geometry."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Lambert",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Lambert/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取Photometria出版年；不将此前Bouguer的吸收研究重复归功。",
+      "en": "Publication year of Photometria; earlier absorption work by Bouguer is not reassigned."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-black-latent-heat",
+    "title": {
+      "zh": "潜热与比热的公开报告",
+      "en": "Public report of latent and specific heat"
+    },
+    "year": 1762,
+    "precision": "year",
+    "type": "discovery",
+    "field": "heat",
+    "people": [
+      "joseph-black"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "区分热量输入与温度变化，推进定量热学。",
+      "en": "Distinguished heat input from temperature change in quantitative thermal study."
+    },
+    "sources": [
+      {
+        "title": "University of Edinburgh — Joseph Black",
+        "url": "https://chem.ed.ac.uk/about-us/history/professors/joseph-black"
+      }
+    ],
+    "dateNote": {
+      "zh": "实验常记1761；按1762年格拉斯哥学会报告定年，生前未正式出版。",
+      "en": "Experiments are often dated 1761; uses the 1762 Glasgow society report, not a lifetime publication."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-euler-rigid-body",
+    "title": {
+      "zh": "刚体转动的系统理论",
+      "en": "A systematic theory of rigid-body rotation"
+    },
+    "year": 1765,
+    "precision": "year",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "leonhard-euler"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "将动力学从质点扩展到一般刚体运动。",
+      "en": "Extended dynamics from particles to general rigid-body motion."
+    },
+    "sources": [
+      {
+        "title": "Euler Archive — Theory of the motion of rigid bodies (1765)",
+        "url": "https://scholarlycommons.pacific.edu/euler-works/289/"
+      },
+      {
+        "title": "ETH Library — Theoria motus corporum solidorum (1765)",
+        "url": "https://www.e-rara.ch/zut/content/titleinfo/2692471"
+      }
+    ],
+    "dateNote": {
+      "zh": "著作写于1760，按1765年出版定年。",
+      "en": "Written in 1760; dated by publication in 1765."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-watt-separate-condenser",
+    "title": {
+      "zh": "独立冷凝器的公开专利",
+      "en": "The separate-condenser patent"
+    },
+    "year": 1769,
+    "precision": "year",
+    "type": "method",
+    "field": "heat",
+    "people": [
+      "james-watt"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "减少汽缸反复冷却的损失，改进热机效率。",
+      "en": "Reduced repeated cylinder-cooling losses and improved heat-engine efficiency."
+    },
+    "sources": [
+      {
+        "title": "Science Museum — James Watt and the separate condenser",
+        "url": "https://blog.sciencemuseum.org.uk/james-watt-and-the-separate-condenser/"
+      },
+      {
+        "title": "Powerhouse Collection — Watt’s separate condenser patent (1769)",
+        "url": "https://collection.powerhouse.com.au/object/119115"
+      }
+    ],
+    "dateNote": {
+      "zh": "1765年模型与1769年专利合并为一项，按公开专利年定位。",
+      "en": "The 1765 models and 1769 patent form one event, anchored to the public patent."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-atwood-machine",
+    "title": {
+      "zh": "阿特伍德机的首次公开描述",
+      "en": "The first published description of Atwood’s machine"
+    },
+    "year": 1780,
+    "precision": "year",
+    "type": "method",
+    "field": "mechanics",
+    "people": [
+      "george-atwood"
+    ],
+    "weight": 1,
+    "rationale": {
+      "zh": "降低有效加速度以测量和展示运动规律。",
+      "en": "Reduced effective acceleration to measure and demonstrate motion."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Atwood",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Atwood/"
+      }
+    ],
+    "dateNote": {
+      "zh": "首个法文描述为1780年；常见1784年为作者英文专著。",
+      "en": "The first French description dates to 1780; the familiar 1784 date is his English treatise."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-lavoisier-laplace-calorimetry",
+    "title": {
+      "zh": "冰量热计与定量热量测量",
+      "en": "Ice calorimetry and quantitative heat measurement"
+    },
+    "year": 1780,
+    "precision": "year",
+    "type": "method",
+    "field": "heat",
+    "people": [
+      "antoine-lavoisier",
+      "pierre-simon-laplace"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "用融冰量测量物体、化学变化与呼吸放热。",
+      "en": "Used ice melting to quantify heat from bodies, reactions and respiration."
+    },
+    "sources": [
+      {
+        "title": "Smithsonian — Lavoisier–Laplace calorimeter and Memoir sur la Chaleur (1783)",
+        "url": "https://www.si.edu/object/calorimeter%3Anmah_1842305"
+      },
+      {
+        "title": "Science Museum Group — Replica of Lavoisier’s calorimeter",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co2543/replica-of-lavoisiers-calorimeter"
+      },
+      {
+        "title": "University of Vienna — Ice calorimeter: first presentation in 1780",
+        "url": "https://bibliothek.univie.ac.at/sammlungen/objekt_des_monats/003891.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "维也纳大学馆藏史将仪器原理首次向巴黎科学院提出记为1780；1783年热学论文的后续发表不另计。",
+      "en": "Vienna’s collection history dates the first academy presentation to 1780; the later 1783 heat memoir is not counted again."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-herschel-uranus",
+    "title": {
+      "zh": "发现天王星",
+      "en": "Discovery of Uranus"
+    },
+    "year": 1781,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [
+      "william-herschel"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把太阳系行星的观测范围扩展到古代已知行星之外。",
+      "en": "Extended the observed planetary system beyond the planets known in antiquity."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Herschel_William",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Herschel_William/"
+      }
+    ],
+    "dateNote": {
+      "zh": "最初报告为彗星状天体，行星身份随后确立。",
+      "en": "Initially reported as a comet-like object; planetary identification followed."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-carnot-machines",
+    "title": {
+      "zh": "《论一般机器》的机械效应分析",
+      "en": "Mechanical-effect analysis in Essay on Machines"
+    },
+    "year": 1783,
+    "precision": "year",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "lazare-carnot"
+    ],
+    "weight": 1,
+    "rationale": {
+      "zh": "以统一机械分析讨论碰撞与机器中的效应损失。",
+      "en": "Analyzed losses of mechanical effect in impacts and machines."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Carnot",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Carnot/"
+      }
+    ],
+    "dateNote": {
+      "zh": "1778年初稿、1781年修订，采用1783年公开出版年。",
+      "en": "Drafted in 1778 and revised in 1781; uses publication in 1783."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-coulomb-law",
+    "title": {
+      "zh": "静电力的平方反比定律",
+      "en": "The inverse-square law of electrostatic force"
+    },
+    "year": 1785,
+    "precision": "year",
+    "type": "discovery",
+    "field": "light",
+    "people": [
+      "charles-augustin-de-coulomb"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把静电相互作用建立为定量实验定律。",
+      "en": "Established electrostatic interaction as a quantitative experimental law."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Coulomb",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Coulomb/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取首组扭秤论文的提交与出版年代。",
+      "en": "Dates the first torsion-balance memoirs."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-caroline-herschel-comet",
+    "title": {
+      "zh": "卡罗琳·赫歇尔独立发现彗星",
+      "en": "Caroline Herschel’s independent comet discovery"
+    },
+    "year": 1786,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [
+      "caroline-herschel"
+    ],
+    "weight": 1,
+    "rationale": {
+      "zh": "贡献独立天体观测，扩充可靠的太阳系资料。",
+      "en": "Added independent observations to reliable Solar System records."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Herschel_Caroline",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Herschel_Caroline/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取1786年8月1日观测；不以个人荣誉代替物理成果。",
+      "en": "Uses the observation of 1 August 1786, rather than a personal award."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-chladni-nodal-figures",
+    "title": {
+      "zh": "以砂粒显示振动板的节线",
+      "en": "Visualizing nodal lines of vibrating plates"
+    },
+    "year": 1787,
+    "precision": "year",
+    "type": "method",
+    "field": "mechanics",
+    "people": [
+      "ernst-chladni"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "使固体振动模态成为可重复观察的实验图样。",
+      "en": "Made solid-body vibration modes visible in repeatable experiments."
+    },
+    "sources": [
+      {
+        "title": "University of Geneva — Voir le son",
+        "url": "https://www.unige.ch/math/cartes-postales/voir-le-son"
+      },
+      {
+        "title": "MacTutor — figures from Chladni’s 1787 book",
+        "url": "https://mathshistory.st-andrews.ac.uk/Extras/Chladni_figures/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取实验著作出版年，而非后来演示器件的制造年代。",
+      "en": "Uses publication of the experiments, not the manufacture of later apparatus."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-lagrange-analytical-mechanics",
+    "title": {
+      "zh": "《分析力学》的广义坐标体系",
+      "en": "Generalized-coordinate mechanics in Mécanique analytique"
+    },
+    "year": 1788,
+    "precision": "year",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "joseph-louis-lagrange"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "以统一分析方法处理受约束的机械系统。",
+      "en": "Unified the analytical treatment of constrained mechanical systems."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Lagrange",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Lagrange/"
+      },
+      {
+        "title": "MacTutor — Lagrange, Analytical Mechanics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Extras/Lagrange_Analytical_Mechanics/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取1788年首版，后续版本不重复计分。",
+      "en": "Uses the 1788 first edition; later editions are not recounted."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-galvani-animal-electricity",
+    "title": {
+      "zh": "电刺激与肌肉收缩的系统研究",
+      "en": "Electrical stimulation and muscular contraction"
+    },
+    "year": 1789,
+    "precision": "year",
+    "type": "discovery",
+    "field": "light",
+    "people": [
+      "luigi-galvani"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "为电与生理过程的关系提供系统实验。",
+      "en": "Provided systematic experiments linking electricity and physiological processes."
+    },
+    "sources": [
+      {
+        "title": "University of Bologna — Luigi Galvani",
+        "url": "https://www.unibo.it/it/ateneo/chi-siamo/la-nostra-storia/alumni-e-personaggi-celebri/luigi-galvani"
+      },
+      {
+        "title": "University of Bologna Museum — Galvani’s 1791 experiment",
+        "url": "https://sma.unibo.it/it/qr-code/righi-e-linsegnamento-della-fisica/esperimento-galvani"
+      }
+    ],
+    "dateNote": {
+      "zh": "按Bologna大学所记1789年学院报告定位；1791年出版的同一成果不重复计数。",
+      "en": "Uses the academy presentation in 1789 recorded by Bologna; the same result’s 1791 publication is not recounted."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-caroline-star-catalogue",
+    "title": {
+      "zh": "订正并扩充弗拉姆斯蒂德星表",
+      "en": "Correction and extension of Flamsteed’s catalogue"
+    },
+    "year": 1798,
+    "precision": "year",
+    "type": "method",
+    "field": "cosmos",
+    "people": [
+      "caroline-herschel"
+    ],
+    "weight": 1,
+    "rationale": {
+      "zh": "纠正观测索引并补入遗漏恒星，改善观测基础资料。",
+      "en": "Corrected observational indexing and added omitted stars."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Herschel_Caroline",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Herschel_Caroline/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取向皇家学会提交并出版星表索引的年代。",
+      "en": "Dates submission and publication of the catalogue index."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-cavendish-earth-density",
+    "title": {
+      "zh": "扭秤测定地球平均密度",
+      "en": "Torsion-balance determination of Earth’s mean density"
+    },
+    "year": 1798,
+    "precision": "year",
+    "type": "discovery",
+    "field": "mechanics",
+    "people": [
+      "henry-cavendish"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把微弱引力的实验测量用于确定地球密度。",
+      "en": "Used measurements of weak gravitational attraction to determine Earth’s density."
+    },
+    "sources": [
+      {
+        "title": "Royal Society Archives — Experiments to determine the density of the earth (1798)",
+        "url": "https://makingscience.royalsociety.org/items/l-and-p_11_68/paper-experiments-to-determine-the-density-of-the-earth-by-henry-cavendish"
+      },
+      {
+        "title": "Cavendish — Experiments to determine the density of the earth",
+        "url": "https://doi.org/10.1098/rstl.1798.0022"
+      }
+    ],
+    "dateNote": {
+      "zh": "原论文目标是地球密度，不把它直接表述为作者测量G。",
+      "en": "The original target was Earth’s density, not a claimed direct measurement of G."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-rumford-friction-heat",
+    "title": {
+      "zh": "摩擦持续生热的实验",
+      "en": "Experiments on sustained heat production by friction"
+    },
+    "year": 1798,
+    "precision": "year",
+    "type": "discovery",
+    "field": "heat",
+    "people": [
+      "benjamin-thompson"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "用机械摩擦不断生热质疑热质作为有限物质的解释。",
+      "en": "Used sustained frictional heating to challenge material caloric accounts."
+    },
+    "sources": [
+      {
+        "title": "Rumford — Inquiry concerning heat excited by friction (1798)",
+        "url": "https://www3.nd.edu/~powers/ame.20231/thompson1798.pdf"
+      },
+      {
+        "title": "Smithsonian Libraries — Philosophical Transactions 88 (1798)",
+        "url": "https://library.si.edu/digital-library/book/philosophicaltr88roya"
+      }
+    ],
+    "dateNote": {
+      "zh": "取1798年皇家学会宣读和出版年。",
+      "en": "Uses the 1798 Royal Society reading and publication year."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-herschel-infrared",
+    "title": {
+      "zh": "发现红外辐射",
+      "en": "Discovery of infrared radiation"
+    },
+    "year": 1800,
+    "precision": "year",
+    "type": "discovery",
+    "field": "light",
+    "people": [
+      "william-herschel"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把辐射研究扩展到可见光谱之外。",
+      "en": "Extended the study of radiation beyond the visible spectrum."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Herschel_William",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Herschel_William/"
+      }
+    ],
+    "dateNote": {
+      "zh": "取实验报告年，与1781年发现天王星分别计为独立成果。",
+      "en": "Dates the experimental report; distinct from the discovery of Uranus."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-volta-pile",
+    "title": {
+      "zh": "伏打电堆与持续电流",
+      "en": "The voltaic pile and sustained electric current"
+    },
+    "year": 1800,
+    "precision": "year",
+    "type": "method",
+    "field": "light",
+    "people": [
+      "alessandro-volta"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "提供持续电流的可用实验来源，开启新的电化学与电磁研究。",
+      "en": "Provided a sustained-current source for new electrochemical and electromagnetic experiments."
+    },
+    "sources": [
+      {
+        "title": "Volta — Electricity excited by contact of conducting substances (1800)",
+        "url": "https://doi.org/10.1098/rstl.1800.0018"
+      },
+      {
+        "title": "University of Virginia — Electricity and Magnetism History",
+        "url": "https://galileoandeinstein.phys.virginia.edu/more_stuff/E%26M_Hist.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "取1800年3月致Banks信及同年公开报告，不按电池单元数重复计数。",
+      "en": "Dates the March 1800 Banks letter and public report, not individual battery cells."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "first-public-report-or-publication"
+  },
+  {
+    "id": "early-archimedes-statics",
+    "title": {
+      "zh": "杠杆与重心的数学静力学",
+      "en": "Mathematical statics of levers and centres of gravity"
+    },
+    "year": null,
+    "precision": "unknown",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "archimedes"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "将平衡问题转化为严格的几何论证。",
+      "en": "Turned equilibrium problems into geometrical demonstrations."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Archimedes",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Archimedes/"
+      }
+    ],
+    "dateNote": {
+      "zh": "《论平面图形的平衡》的成书年份不详。",
+      "en": "The year of composition of On the Equilibrium of Planes is uncertain."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "undated-work"
+  },
+  {
+    "id": "early-aristarchus-heliocentrism",
+    "title": {
+      "zh": "阿里斯塔克斯的日心构想",
+      "en": "Aristarchus’s heliocentric proposal"
+    },
+    "year": null,
+    "precision": "unknown",
+    "type": "theory",
+    "field": "cosmos",
+    "people": [
+      "aristarchus-of-samos"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "提出地球运动的早期宇宙模型；现存依据主要为后人记述。",
+      "en": "An early moving-Earth cosmology known mainly through later testimony."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Aristarchus",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Aristarchus/"
+      }
+    ],
+    "dateNote": {
+      "zh": "没有可核验的单一发表年份。 历史思想记录，不作为已成立物理原理计入突破指数。",
+      "en": "No securely attested publication year. Historical proposal; excluded from the index of established physical advances."
+    },
+    "status": "reviewed",
+    "indexEligible": false,
+    "yearBasis": "undated-work"
+  },
+  {
+    "id": "early-biruni-earth-measurement",
+    "title": {
+      "zh": "比鲁尼的地球半径测量方法",
+      "en": "Al-Biruni’s method of measuring Earth’s radius"
+    },
+    "year": null,
+    "precision": "unknown",
+    "type": "method",
+    "field": "methods",
+    "people": [
+      "al-biruni"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "将山高与俯角测量结合到地球尺度的几何估计。",
+      "en": "Combined height and dip-angle measurements in a geometrical Earth estimate."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Al-Biruni",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Biruni/"
+      }
+    ],
+    "dateNote": {
+      "zh": "具体测量年未可靠确定，未采用常见但不充分支持的单年。",
+      "en": "The measurement year is not securely established in the consulted source."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "undated-work"
+  },
+  {
+    "id": "early-buridan-impetus",
+    "title": {
+      "zh": "布里丹的冲力说",
+      "en": "Buridan’s impetus account"
+    },
+    "year": null,
+    "precision": "unknown",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "jean-buridan"
+    ],
+    "weight": 1,
+    "rationale": {
+      "zh": "推进对持续运动及阻力的中世纪讨论，不等同牛顿惯性。",
+      "en": "Advanced medieval accounts of persistence and resistance, distinct from Newtonian inertia."
+    },
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — John Buridan",
+        "url": "https://plato.stanford.edu/entries/buridan/"
+      }
+    ],
+    "dateNote": {
+      "zh": "论述见多次讲授及修订的作品，未强行指定单年。 历史思想记录，不作为已成立物理原理计入突破指数。",
+      "en": "The account occurs in repeatedly taught and revised works. Historical proposal; excluded from the index of established physical advances."
+    },
+    "status": "reviewed",
+    "indexEligible": false,
+    "yearBasis": "undated-work"
+  },
+  {
+    "id": "early-farisi-rainbow",
+    "title": {
+      "zh": "法里西的彩虹光学分析",
+      "en": "Al-Farisi’s optical analysis of the rainbow"
+    },
+    "year": null,
+    "precision": "unknown",
+    "type": "theory",
+    "field": "light",
+    "people": [
+      "kamal-al-din-al-farisi"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "用实验模型和光路分析推进彩虹解释。",
+      "en": "Advanced rainbow explanations with experimental models and ray paths."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Al-Farisi",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Farisi/"
+      }
+    ],
+    "dateNote": {
+      "zh": "光学修订著作的单一年份缺乏足够核验。",
+      "en": "The optical revision has not been securely assigned a single year."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "undated-work"
+  },
+  {
+    "id": "early-hero-pneumatics",
+    "title": {
+      "zh": "希罗的气动与蒸汽装置",
+      "en": "Hero’s pneumatic and steam devices"
+    },
+    "year": null,
+    "precision": "unknown",
+    "type": "method",
+    "field": "mechanics",
+    "people": [
+      "hero-of-alexandria"
+    ],
+    "weight": 1,
+    "rationale": {
+      "zh": "记录压力驱动装置与反作用旋转装置。",
+      "en": "Recorded pressure-driven mechanisms and a reaction-driven rotating device."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Heron",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Heron/"
+      }
+    ],
+    "dateNote": {
+      "zh": "《气动学》具体成书年份不详。",
+      "en": "The exact composition year of Pneumatica is uncertain."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "undated-work"
+  },
+  {
+    "id": "early-hipparchus-precession",
+    "title": {
+      "zh": "发现岁差",
+      "en": "Recognition of the precession of the equinoxes"
+    },
+    "year": null,
+    "precision": "unknown",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [
+      "hipparchus"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "通过跨时代观测比较识别天球坐标的长期变化。",
+      "en": "Recognized secular changes through comparisons of observations across epochs."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Hipparchus",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hipparchus/"
+      }
+    ],
+    "dateNote": {
+      "zh": "发现过程缺少可靠单年日期。",
+      "en": "The discovery process lacks a securely established single year."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "undated-work"
+  },
+  {
+    "id": "early-mohist-optics",
+    "title": {
+      "zh": "后期墨家关于光影与成像的讨论",
+      "en": "Later Mohist analysis of light and images"
+    },
+    "year": null,
+    "precision": "unknown",
+    "type": "theory",
+    "field": "light",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "中国早期光学的系统论述；不是现代意义上的完整光学理论。",
+      "en": "A systematic early Chinese treatment of optics, not a modern optical theory."
+    },
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Mohist Canons",
+        "url": "https://plato.stanford.edu/entries/mohist-canons/"
+      }
+    ],
+    "dateNote": {
+      "zh": "约战国晚期；匿名后期墨家作品，不直接归为墨子亲作。",
+      "en": "Late Warring States compilation by later Mohists; not securely authored by Mozi."
+    },
+    "status": "reviewed",
+    "groups": [
+      "后期墨家 / Later Mohists"
+    ],
+    "indexEligible": true,
+    "yearBasis": "undated-work"
+  },
+  {
+    "id": "early-oresme-motion-diagrams",
+    "title": {
+      "zh": "用几何图示表示变化的运动量",
+      "en": "Geometrical diagrams of varying motion"
+    },
+    "year": null,
+    "precision": "unknown",
+    "type": "method",
+    "field": "mechanics",
+    "people": [
+      "nicole-oresme"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "以几何面积和图形分析均匀变化的量。",
+      "en": "Used geometrical areas and figures to analyze uniformly varying quantities."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Oresme",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Oresme/"
+      }
+    ],
+    "dateNote": {
+      "zh": "相关手稿的成书年代不确定。",
+      "en": "The relevant manuscripts are not securely dated."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "undated-work"
+  },
+  {
+    "id": "early-theodoric-rainbow",
+    "title": {
+      "zh": "以水球实验解释主虹与副虹",
+      "en": "A water-sphere explanation of primary and secondary rainbows"
+    },
+    "year": null,
+    "precision": "unknown",
+    "type": "theory",
+    "field": "light",
+    "people": [
+      "theodoric-of-freiberg"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把单个水滴中的折射和内反射与虹的形成联系起来。",
+      "en": "Linked refraction and internal reflection in drops with rainbow formation."
+    },
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Dietrich of Freiberg",
+        "url": "https://plato.stanford.edu/entries/dietrich-freiberg/"
+      }
+    ],
+    "dateNote": {
+      "zh": "没有把作者活动年份直接当成著作完成年。",
+      "en": "Biographical activity dates are not substituted for the work’s date."
+    },
+    "status": "reviewed",
+    "indexEligible": true,
+    "yearBasis": "undated-work"
+  }
+]

@@ -1,0 +1,5050 @@
+[
+  {
+    "id": "pauli-neutrino-hypothesis",
+    "title": {
+      "zh": "泡利提出中微子假说",
+      "en": "Pauli proposes the neutrino"
+    },
+    "year": 1930,
+    "precision": "year",
+    "type": "theory",
+    "field": "particle",
+    "people": [
+      "wolfgang-pauli"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "以中性粒子解释β衰变的连续能谱，开启中微子物理。",
+      "en": "A neutral particle accounted for missing beta-decay energy and opened neutrino physics."
+    },
+    "sources": [
+      {
+        "title": "Pauli proposes the neutrino",
+        "url": "https://cds.cern.ch/record/264021/"
+      }
+    ],
+    "dateNote": {
+      "zh": "以1930年12月4日公开信为起点；当时称其为中子，后改称中微子。",
+      "en": "Dated to the letter of 4 December 1930; the proposed particle was subsequently named the neutrino."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "chandrasekhar-white-dwarf-limit",
+    "title": {
+      "zh": "白矮星质量上限",
+      "en": "The white-dwarf mass limit"
+    },
+    "year": 1931,
+    "precision": "year",
+    "type": "theory",
+    "field": "cosmos",
+    "people": [
+      "subrahmanyan-chandrasekhar"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "相对论性电子简并压导出恒星遗迹的质量上限。",
+      "en": "Relativistic electron degeneracy established a limiting mass for white dwarfs."
+    },
+    "sources": [
+      {
+        "title": "The white-dwarf mass limit",
+        "url": "https://doi.org/10.1086/143324"
+      }
+    ],
+    "dateNote": {
+      "zh": "采用1931年论文；早期数值随成分假设而异，相关先驱包括Stoner和Anderson。",
+      "en": "Dated to the 1931 paper; early numerical limits depended on composition, with earlier work by Stoner and Anderson."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "cyclotron-first-demonstration",
+    "title": {
+      "zh": "回旋加速器首次运行",
+      "en": "The first working cyclotron"
+    },
+    "year": 1931,
+    "precision": "year",
+    "type": "method",
+    "field": "particle",
+    "people": [
+      "ernest-lawrence"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "循环加速使核反应研究进入更高能量范围。",
+      "en": "Repeated acceleration made higher-energy nuclear experiments practical."
+    },
+    "sources": [
+      {
+        "title": "The first working cyclotron",
+        "url": "https://www.nobelprize.org/prizes/themes/accelerators-and-nobel-laureates/"
+      }
+    ],
+    "dateNote": {
+      "zh": "采用1929—1931年研制过程的首次成功运行年。",
+      "en": "Dated to successful operation in 1931 after development beginning in 1929."
+    },
+    "status": "reviewed",
+    "groups": [
+      "M. Stanley Livingston"
+    ]
+  },
+  {
+    "id": "electron-microscope",
+    "title": {
+      "zh": "首台电子显微镜",
+      "en": "The first electron microscope"
+    },
+    "year": 1931,
+    "precision": "year",
+    "type": "method",
+    "field": "methods",
+    "people": [
+      "ernst-ruska"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "电子透镜成像开辟超越光学显微镜分辨率的路线。",
+      "en": "Electron optics opened a route beyond optical microscopy resolution."
+    },
+    "sources": [
+      {
+        "title": "The first electron microscope",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co7928/replica-of-the-first-electron-microscope"
+      }
+    ],
+    "dateNote": {
+      "zh": "1931年为首台原型；1933年改进仪器才超过光学显微镜分辨率。",
+      "en": "1931 dates the first prototype; improved resolution beyond optical microscopes followed in 1933."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Max Knoll"
+    ]
+  },
+  {
+    "id": "onsager-reciprocity",
+    "title": {
+      "zh": "昂萨格倒易关系",
+      "en": "Onsager reciprocal relations"
+    },
+    "year": 1931,
+    "precision": "year",
+    "type": "theory",
+    "field": "heat",
+    "people": [
+      "lars-onsager"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把微观可逆性与非平衡线性输运系数联系起来。",
+      "en": "Microscopic reversibility constrained coupled transport near equilibrium."
+    },
+    "sources": [
+      {
+        "title": "Onsager reciprocal relations",
+        "url": "https://doi.org/10.1103/PhysRev.37.405"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "accelerator-nuclear-transmutation",
+    "title": {
+      "zh": "加速质子引发核嬗变",
+      "en": "Nuclear transmutation with accelerated protons"
+    },
+    "year": 1932,
+    "precision": "year",
+    "type": "method",
+    "field": "particle",
+    "people": [
+      "john-cockcroft",
+      "ernest-walton"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "人工加速粒子首次实现可控的核反应实验。",
+      "en": "Artificially accelerated particles enabled controlled nuclear-reaction experiments."
+    },
+    "sources": [
+      {
+        "title": "Nuclear transmutation with accelerated protons",
+        "url": "https://cern-courier.web.cern.ch/a/cockcrofts-subatomic-legacy-splitting-the-atom/"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "neutron-discovery",
+    "title": {
+      "zh": "中子的发现",
+      "en": "Discovery of the neutron"
+    },
+    "year": 1932,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [
+      "james-chadwick"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "中性核子的确认奠定现代核结构与中子反应研究。",
+      "en": "The neutral nucleon transformed nuclear structure and neutron-reaction research."
+    },
+    "sources": [
+      {
+        "title": "Discovery of the neutron",
+        "url": "https://www.aps.org/apsnews/2007/05/may-1932-chadwick-discovery-neutron"
+      },
+      {
+        "title": "Possible Existence of a Neutron (1932)",
+        "url": "https://www.nature.com/articles/129312a0"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "positron-discovery",
+    "title": {
+      "zh": "正电子的发现",
+      "en": "Discovery of the positron"
+    },
+    "year": 1932,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [
+      "carl-david-anderson"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "首个反粒子的观测验证了反物质的物理实在性。",
+      "en": "Observation of the first antiparticle established antimatter experimentally."
+    },
+    "sources": [
+      {
+        "title": "Discovery of the positron",
+        "url": "https://www.aps.org/apsnews/2004/08/discovery-positron-1932"
+      },
+      {
+        "title": "Anderson: The apparent existence of easily deflectable positives (1932)",
+        "url": "https://doi.org/10.1126/science.76.1967.238"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "coma-dark-matter",
+    "title": {
+      "zh": "星系团暗物质证据",
+      "en": "Missing mass in the Coma cluster"
+    },
+    "year": 1933,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [
+      "fritz-zwicky"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "星系运动与可见质量的不符推动暗物质问题形成。",
+      "en": "Cluster dynamics exposed a mismatch between luminous and gravitating mass."
+    },
+    "sources": [
+      {
+        "title": "Missing mass in the Coma cluster",
+        "url": "https://www.energy.gov/science/doe-explainsdark-matter"
+      }
+    ],
+    "dateNote": {
+      "zh": "此项记录质量缺失推断，并非暗物质粒子的直接探测。",
+      "en": "This records a missing-mass inference, not direct detection of a dark-matter particle."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "galactic-radio-emission",
+    "title": {
+      "zh": "银河系射电辐射",
+      "en": "Galactic radio emission"
+    },
+    "year": 1933,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [
+      "karl-jansky"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "识别来自银河的无线电信号，开辟射电天文学。",
+      "en": "Identifying Galactic radio emission opened radio astronomy."
+    },
+    "sources": [
+      {
+        "title": "Galactic radio emission",
+        "url": "https://www.nrao.edu/archives/nrao-timeline"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "meissner-effect",
+    "title": {
+      "zh": "迈斯纳效应",
+      "en": "The Meissner effect"
+    },
+    "year": 1933,
+    "precision": "year",
+    "type": "discovery",
+    "field": "matter",
+    "people": [
+      "walther-meissner"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "超导体排斥磁场，表明超导是一种独立热力学相。",
+      "en": "Magnetic-field expulsion distinguished superconductivity as a thermodynamic phase."
+    },
+    "sources": [
+      {
+        "title": "The Meissner effect",
+        "url": "https://www.nationalacademies.org/read/10372/chapter/6"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Robert Ochsenfeld"
+    ]
+  },
+  {
+    "id": "artificial-radioactivity",
+    "title": {
+      "zh": "人工放射性的发现",
+      "en": "Discovery of artificial radioactivity"
+    },
+    "year": 1934,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [
+      "irene-joliot-curie",
+      "frederic-joliot-curie"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "核反应产生新放射性核素，扩展同位素研究与应用。",
+      "en": "Induced radioactive nuclides expanded isotope research and applications."
+    },
+    "sources": [
+      {
+        "title": "Discovery of artificial radioactivity",
+        "url": "https://www.nature.com/articles/133201a0"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "cherenkov-radiation",
+    "title": {
+      "zh": "切伦科夫辐射",
+      "en": "Cherenkov radiation"
+    },
+    "year": 1934,
+    "precision": "year",
+    "type": "discovery",
+    "field": "light",
+    "people": [
+      "pavel-cherenkov",
+      "igor-tamm",
+      "ilya-frank"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "介质中高速带电粒子的特征辐射成为粒子鉴别工具。",
+      "en": "Characteristic radiation from fast charges became a particle-identification tool."
+    },
+    "sources": [
+      {
+        "title": "Cherenkov radiation",
+        "url": "https://www.energy.gov/ne/articles/cherenkov-radiation-explained"
+      }
+    ],
+    "dateNote": {
+      "zh": "1934年发现，Frank和Tamm于1937年给出理论解释。",
+      "en": "Discovered in 1934; Frank and Tamm supplied the theory in 1937."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "fermi-beta-decay-theory",
+    "title": {
+      "zh": "费米β衰变理论",
+      "en": "Fermi theory of beta decay"
+    },
+    "year": 1934,
+    "precision": "year",
+    "type": "theory",
+    "field": "particle",
+    "people": [
+      "enrico-fermi"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "建立弱相互作用的首个定量理论和有效相互作用范式。",
+      "en": "A quantitative beta-decay theory established the weak-interaction effective description."
+    },
+    "sources": [
+      {
+        "title": "Fermi theory of beta decay",
+        "url": "https://doi.org/10.1007/BF01351864"
+      },
+      {
+        "title": "ETH Library: Pauli’s neutrino and Fermi’s beta-decay theory",
+        "url": "https://library.ethz.ch/en/collections-and-archives/platforms/virtual-exhibitions/wolfgang-pauli-and-modern-physics/the-neutrino.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "简报发表于1933年，完整理论发表于1934年；此处采用完整论文年。",
+      "en": "An initial note appeared in 1933; this dates the full 1934 theory paper."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "slow-neutron-activation",
+    "title": {
+      "zh": "慢中子增强核反应",
+      "en": "Enhanced reactions with slow neutrons"
+    },
+    "year": 1934,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [
+      "enrico-fermi"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "减速中子显著增强活化，成为反应堆和核实验的重要依据。",
+      "en": "Neutron moderation enhanced activation and informed reactor physics."
+    },
+    "sources": [
+      {
+        "title": "Enhanced reactions with slow neutrons",
+        "url": "https://arxiv.org/abs/physics/0201028"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Rome neutron group"
+    ]
+  },
+  {
+    "id": "epr-entanglement",
+    "title": {
+      "zh": "EPR关联与量子完备性问题",
+      "en": "The EPR argument and quantum correlations"
+    },
+    "year": 1935,
+    "precision": "year",
+    "type": "theory",
+    "field": "quantum",
+    "people": [
+      "albert-einstein"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "使量子关联与局域实在性的冲突成为可精确讨论的问题。",
+      "en": "Quantum correlations made locality and completeness sharply testable questions."
+    },
+    "sources": [
+      {
+        "title": "The EPR argument and quantum correlations",
+        "url": "https://doi.org/10.1103/PhysRev.47.777"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Boris Podolsky",
+      "Nathan Rosen"
+    ]
+  },
+  {
+    "id": "yukawa-meson-theory",
+    "title": {
+      "zh": "汤川介子核力理论",
+      "en": "Yukawa meson theory of nuclear forces"
+    },
+    "year": 1935,
+    "precision": "year",
+    "type": "theory",
+    "field": "particle",
+    "people": [
+      "hideki-yukawa"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "用有质量交换粒子说明核力的短程性质。",
+      "en": "Massive exchanged particles explained the short range of nuclear forces."
+    },
+    "sources": [
+      {
+        "title": "Yukawa meson theory of nuclear forces",
+        "url": "https://www.jstage.jst.go.jp/article/ppmsj1919/17/0/17_0_48/_article"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "muon-discovery",
+    "title": {
+      "zh": "μ子的发现",
+      "en": "Discovery of the muon"
+    },
+    "year": 1937,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [
+      "carl-david-anderson",
+      "seth-neddermeyer"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "发现不同于电子的新轻子，扩展基本粒子的谱系。",
+      "en": "A heavier lepton extended the known particle families."
+    },
+    "sources": [
+      {
+        "title": "Discovery of the muon",
+        "url": "https://www.fnal.gov/pub/science/particle-physics-101/worldwide-discoveries.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "采用1937年正式论文年；相关宇宙线证据在1936年已出现。",
+      "en": "Dated to the 1937 paper; related cosmic-ray evidence appeared in 1936."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "helium-four-superfluidity",
+    "title": {
+      "zh": "氦-4超流性的发现",
+      "en": "Discovery of helium-4 superfluidity"
+    },
+    "year": 1938,
+    "precision": "year",
+    "type": "discovery",
+    "field": "matter",
+    "people": [
+      "pyotr-kapitsa"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "宏观无黏滞流动开辟量子流体物理。",
+      "en": "Macroscopic frictionless flow established quantum-fluid physics."
+    },
+    "sources": [
+      {
+        "title": "Discovery of helium-4 superfluidity",
+        "url": "https://doi.org/10.1038/141074a0"
+      },
+      {
+        "title": "Allen and Misener: Flow of Liquid Helium II (1938)",
+        "url": "https://www.nature.com/articles/141075a0"
+      }
+    ],
+    "dateNote": {
+      "zh": "实验完成于1937年；两组论文于1938年1月相邻发表。",
+      "en": "Experiments were performed in 1937; independent papers appeared together in January 1938."
+    },
+    "status": "reviewed",
+    "groups": [
+      "John F. Allen",
+      "Don Misener"
+    ]
+  },
+  {
+    "id": "molecular-beam-magnetic-resonance",
+    "title": {
+      "zh": "分子束磁共振",
+      "en": "Molecular-beam magnetic resonance"
+    },
+    "year": 1938,
+    "precision": "year",
+    "type": "method",
+    "field": "quantum",
+    "people": [
+      "isidor-isaac-rabi",
+      "polykarp-kusch"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "共振测量显著提高核磁矩与原子性质的精度。",
+      "en": "Resonance methods enabled precision nuclear-moment and atomic measurements."
+    },
+    "sources": [
+      {
+        "title": "Molecular-beam magnetic resonance",
+        "url": "https://doi.org/10.1103/PhysRev.53.318"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed",
+    "groups": [
+      "J. R. Zacharias",
+      "S. Millman"
+    ]
+  },
+  {
+    "id": "nuclear-fission",
+    "title": {
+      "zh": "核裂变的发现与解释",
+      "en": "Discovery and interpretation of nuclear fission"
+    },
+    "year": 1938,
+    "precision": "range",
+    "type": "discovery",
+    "field": "particle",
+    "people": [
+      "otto-hahn",
+      "fritz-strassmann",
+      "lise-meitner",
+      "otto-robert-frisch"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "化学证据与核物理解释共同建立重核裂变过程。",
+      "en": "Chemical evidence and physical interpretation established heavy-nucleus fission."
+    },
+    "sources": [
+      {
+        "title": "Discovery and interpretation of nuclear fission",
+        "url": "https://ndaarchives.gov.uk/history/1930s/"
+      },
+      {
+        "title": "Meitner and Frisch: Disintegration of Uranium by Neutrons: a New Type of Nuclear Reaction (1939)",
+        "url": "https://www.nature.com/articles/143239a0"
+      }
+    ],
+    "dateNote": {
+      "zh": "1938年12月获得实验结果，1939年发表与解释；合并为一个成果事件。",
+      "en": "Experiments were obtained in December 1938 and published and interpreted in 1939; counted once."
+    },
+    "status": "reviewed",
+    "dateRange": [
+      1938,
+      1939
+    ]
+  },
+  {
+    "id": "gravitational-collapse-model",
+    "title": {
+      "zh": "持续引力坍缩模型",
+      "en": "A model of continued gravitational collapse"
+    },
+    "year": 1939,
+    "precision": "year",
+    "type": "theory",
+    "field": "cosmos",
+    "people": [
+      "j-robert-oppenheimer"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "相对论坍缩解揭示黑洞形成的一条理论路径。",
+      "en": "A relativistic collapse solution revealed a route to black-hole formation."
+    },
+    "sources": [
+      {
+        "title": "A model of continued gravitational collapse",
+        "url": "https://doi.org/10.1103/PhysRev.56.455"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Hartland Snyder"
+    ]
+  },
+  {
+    "id": "stellar-energy-fusion",
+    "title": {
+      "zh": "恒星核聚变能量机制",
+      "en": "Nuclear fusion as the source of stellar energy"
+    },
+    "year": 1939,
+    "precision": "year",
+    "type": "theory",
+    "field": "cosmos",
+    "people": [
+      "hans-bethe",
+      "carl-friedrich-von-weizsacker"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "定量建立质子链与碳氮循环解释恒星能源。",
+      "en": "Proton-chain and carbon–nitrogen reactions explained stellar energy generation."
+    },
+    "sources": [
+      {
+        "title": "Nuclear fusion as the source of stellar energy",
+        "url": "https://doi.org/10.1103/PhysRev.55.434"
+      }
+    ],
+    "dateNote": {
+      "zh": "采用Bethe综合论文发表年；关键工作亦包括1938年Bethe–Critchfield及Weizsäcker论文。",
+      "en": "Dated to Bethe’s synthesis; important 1938 contributions included Bethe–Critchfield and Weizsäcker."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "kolmogorov-turbulence-scaling",
+    "title": {
+      "zh": "湍流惯性区的标度理论",
+      "en": "Inertial-range scaling theory of turbulence"
+    },
+    "year": 1941,
+    "precision": "year",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "用能量级联与局部统计假设描述高雷诺数湍流。",
+      "en": "Energy cascades and local statistical assumptions described high-Reynolds-number turbulence."
+    },
+    "sources": [
+      {
+        "title": "Inertial-range scaling theory of turbulence — original paper or institutional source",
+        "url": "https://www.ams.jhu.edu/~eyink/Turbulence/classics/Kolmogorov41a.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "1941年原始论文；链接为英文重印。标度依赖局部各向同性等假设。",
+      "en": "Original paper in 1941, linked as an English reprint; scaling assumes local isotropy and related conditions."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Andrey Kolmogorov"
+    ]
+  },
+  {
+    "id": "alfven-waves",
+    "title": {
+      "zh": "阿尔芬波",
+      "en": "Alfvén waves"
+    },
+    "year": 1942,
+    "precision": "year",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "hannes-alfven"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "耦合磁场与导电流体运动，奠定磁流体波理论。",
+      "en": "Coupling magnetic fields to conducting-fluid motion established magnetohydrodynamic waves."
+    },
+    "sources": [
+      {
+        "title": "Alfvén waves",
+        "url": "https://doi.org/10.1038/150405d0"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "controlled-nuclear-chain-reaction",
+    "title": {
+      "zh": "首个受控自持核链式反应",
+      "en": "The first controlled self-sustaining nuclear chain reaction"
+    },
+    "year": 1942,
+    "precision": "year",
+    "type": "method",
+    "field": "particle",
+    "people": [
+      "enrico-fermi",
+      "leo-szilard"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "Chicago Pile-1验证了可控释放核裂变能的可行性。",
+      "en": "Chicago Pile-1 demonstrated controlled release of nuclear-fission energy."
+    },
+    "sources": [
+      {
+        "title": "The first controlled self-sustaining nuclear chain reaction",
+        "url": "https://www.energy.gov/lm/metallurgical-laboratory-university-chicago"
+      }
+    ],
+    "dateNote": {
+      "zh": "1942年12月2日首次达到临界。",
+      "en": "First criticality was achieved on 2 December 1942."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Chicago Pile-1 team"
+    ]
+  },
+  {
+    "id": "onsager-exact-ising-solution",
+    "title": {
+      "zh": "二维Ising模型的精确解",
+      "en": "Exact solution of the two-dimensional Ising model"
+    },
+    "year": 1944,
+    "precision": "year",
+    "type": "theory",
+    "field": "heat",
+    "people": [
+      "lars-onsager"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "精确可解的相变展示非平均场临界行为。",
+      "en": "An exact phase-transition solution demonstrated non-mean-field critical behaviour."
+    },
+    "sources": [
+      {
+        "title": "Exact solution of the two-dimensional Ising model — original paper or institutional source",
+        "url": "https://doi.org/10.1103/PhysRev.65.117"
+      }
+    ],
+    "dateNote": {
+      "zh": "按原始成果发表年；较晚的重印或译本年份不作成果年。",
+      "en": "Dated by original publication, not a later reprint or translation."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "bulk-nuclear-magnetic-resonance",
+    "title": {
+      "zh": "凝聚物质核磁共振",
+      "en": "Nuclear magnetic resonance in bulk matter"
+    },
+    "year": 1946,
+    "precision": "year",
+    "type": "method",
+    "field": "quantum",
+    "people": [
+      "felix-bloch",
+      "edward-mills-purcell"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "独立方法实现体材料核磁共振，成为光谱与成像基础。",
+      "en": "Independent bulk-resonance methods became foundations for spectroscopy and imaging."
+    },
+    "sources": [
+      {
+        "title": "Nuclear magnetic resonance in bulk matter",
+        "url": "https://doi.org/10.1103/PhysRev.69.37"
+      },
+      {
+        "title": "Bloch: Nuclear Induction (1946)",
+        "url": "https://doi.org/10.1103/PhysRev.70.460"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Harvard and Stanford NMR teams"
+    ]
+  },
+  {
+    "id": "renormalized-qed",
+    "title": {
+      "zh": "重整化量子电动力学",
+      "en": "Renormalized quantum electrodynamics"
+    },
+    "year": 1946,
+    "precision": "range",
+    "type": "theory",
+    "field": "particle",
+    "people": [
+      "sin-itiro-tomonaga",
+      "julian-schwinger",
+      "richard-feynman",
+      "freeman-dyson",
+      "hans-bethe"
+    ],
+    "weight": 8,
+    "rationale": {
+      "zh": "建立可计算且高精度的量子场论，成为现代规范理论的范式。",
+      "en": "A predictive quantum field theory became a template for modern gauge theories."
+    },
+    "sources": [
+      {
+        "title": "Renormalized quantum electrodynamics",
+        "url": "https://doi.org/10.1103/PhysRev.73.416"
+      },
+      {
+        "title": "Feynman: Space-Time Approach to Quantum Electrodynamics (1949)",
+        "url": "https://doi.org/10.1103/PhysRev.76.769"
+      },
+      {
+        "title": "Dyson: The Radiation Theories of Tomonaga, Schwinger, and Feynman (1949)",
+        "url": "https://doi.org/10.1103/PhysRev.75.486"
+      },
+      {
+        "title": "IOP: 100 incredible years — particle physics",
+        "url": "https://www.iop.org/about/iop-history/100th-anniversary/100-incredible-years/particle-physics"
+      },
+      {
+        "title": "Tomonaga: On a Relativistically Invariant Formulation of the Quantum Theory of Wave Fields (1946)",
+        "url": "https://www.jstage.jst.go.jp/article/ptp1946/1/2/1_2_27/_article"
+      }
+    ],
+    "dateNote": {
+      "zh": "整合1946—1949年的独立理论及统一工作；轴上以形成期起点1946年排序。",
+      "en": "Combines independent formulations and their synthesis in 1946–1949; sorted at the start of that interval."
+    },
+    "status": "reviewed",
+    "dateRange": [
+      1946,
+      1949
+    ]
+  },
+  {
+    "id": "electron-anomalous-moment",
+    "title": {
+      "zh": "电子反常磁矩",
+      "en": "The electron anomalous magnetic moment"
+    },
+    "year": 1947,
+    "precision": "year",
+    "type": "discovery",
+    "field": "quantum",
+    "people": [
+      "polykarp-kusch"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "电子磁矩偏离Dirac值，为量子辐射效应提供精密检验。",
+      "en": "A deviation from the Dirac moment provided a precision test of radiative effects."
+    },
+    "sources": [
+      {
+        "title": "The electron anomalous magnetic moment",
+        "url": "https://doi.org/10.1103/PhysRev.72.1256.2"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Henry Foley"
+    ]
+  },
+  {
+    "id": "lamb-shift",
+    "title": {
+      "zh": "兰姆移位",
+      "en": "The Lamb shift"
+    },
+    "year": 1947,
+    "precision": "year",
+    "type": "discovery",
+    "field": "quantum",
+    "people": [
+      "willis-lamb"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "氢原子精细能级差推动辐射修正与量子电动力学重整化。",
+      "en": "A hydrogen-level splitting drove radiative corrections and QED renormalization."
+    },
+    "sources": [
+      {
+        "title": "The Lamb shift",
+        "url": "https://doi.org/10.1103/PhysRev.72.241"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Robert Retherford"
+    ]
+  },
+  {
+    "id": "pion-discovery",
+    "title": {
+      "zh": "π介子的发现",
+      "en": "Discovery of the pion"
+    },
+    "year": 1947,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [
+      "c-f-powell",
+      "giuseppe-occhialini"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "核乳胶揭示参与强相互作用的介子与其衰变链。",
+      "en": "Nuclear emulsions revealed the strongly interacting meson and its decay chain."
+    },
+    "sources": [
+      {
+        "title": "Discovery of the pion",
+        "url": "https://doi.org/10.1038/159694a0"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed",
+    "groups": [
+      "César Lattes",
+      "Hugh Muirhead"
+    ]
+  },
+  {
+    "id": "point-contact-transistor",
+    "title": {
+      "zh": "点接触晶体管",
+      "en": "The point-contact transistor"
+    },
+    "year": 1947,
+    "precision": "year",
+    "type": "method",
+    "field": "matter",
+    "people": [
+      "john-bardeen",
+      "walter-houser-brattain",
+      "william-shockley"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "半导体中实现信号放大，开启固态电子学时代。",
+      "en": "Semiconductor amplification opened the era of solid-state electronics."
+    },
+    "sources": [
+      {
+        "title": "The point-contact transistor",
+        "url": "https://educationalgames.nobelprize.org/educational/physics/transistor/history/index.html"
+      },
+      {
+        "title": "Bardeen and Brattain: The Transistor, A Semi-Conductor Triode (1948)",
+        "url": "https://doi.org/10.1103/PhysRev.74.230"
+      }
+    ],
+    "dateNote": {
+      "zh": "1947年为Bardeen和Brattain的点接触器件；Shockley随后发展结型晶体管。",
+      "en": "1947 dates Bardeen and Brattain’s point-contact device; Shockley subsequently developed the junction transistor."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "casimir-vacuum-force",
+    "title": {
+      "zh": "卡西米尔真空力",
+      "en": "The Casimir vacuum force"
+    },
+    "year": 1948,
+    "precision": "year",
+    "type": "theory",
+    "field": "quantum",
+    "people": [
+      "hendrik-casimir"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "边界条件改变量子电磁零点能，预言中性导体间的力。",
+      "en": "Boundary conditions changed electromagnetic zero-point energy, predicting a force between neutral conductors."
+    },
+    "sources": [
+      {
+        "title": "The Casimir vacuum force — original paper or institutional source",
+        "url": "https://static.sif.it/SIF/resources/public/files/congr10/mc/capasso.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "1948年原始论文；链接含原文复现。此项为理论预言，实验检验另有后续。",
+      "en": "Original proposal in 1948; the link reproduces the paper. Experimental tests followed later."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "holography-principle",
+    "title": {
+      "zh": "全息成像原理",
+      "en": "The principle of holography"
+    },
+    "year": 1948,
+    "precision": "year",
+    "type": "method",
+    "field": "light",
+    "people": [
+      "dennis-gabor"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "记录波前相位与振幅，使三维波前重建成为可能。",
+      "en": "Recording phase and amplitude enabled reconstruction of wavefronts."
+    },
+    "sources": [
+      {
+        "title": "The principle of holography",
+        "url": "https://www.nature.com/articles/161777a0"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "relic-radiation-prediction",
+    "title": {
+      "zh": "宇宙遗迹辐射预言",
+      "en": "Prediction of relic cosmic radiation"
+    },
+    "year": 1948,
+    "precision": "year",
+    "type": "theory",
+    "field": "cosmos",
+    "people": [
+      "ralph-alpher",
+      "robert-herman"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "从热宇宙演化推导今天仍应存在的背景辐射。",
+      "en": "Hot-universe evolution predicted a surviving radiation background."
+    },
+    "sources": [
+      {
+        "title": "Prediction of relic cosmic radiation",
+        "url": "https://www.nature.com/articles/162774b0"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "nuclear-shell-model",
+    "title": {
+      "zh": "核壳层模型",
+      "en": "The nuclear shell model"
+    },
+    "year": 1949,
+    "precision": "year",
+    "type": "theory",
+    "field": "particle",
+    "people": [
+      "maria-goeppert-mayer",
+      "j-hans-d-jensen"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "自旋轨道耦合解释核幻数与稳定性规律。",
+      "en": "Spin–orbit coupling explained nuclear magic numbers and shell stability."
+    },
+    "sources": [
+      {
+        "title": "The nuclear shell model",
+        "url": "https://doi.org/10.1103/PhysRev.75.1969"
+      },
+      {
+        "title": "Maria Goeppert Mayer: Nobel official facts",
+        "url": "https://www.nobelprize.org/laureate/79"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Otto Haxel",
+      "Hans Suess"
+    ]
+  },
+  {
+    "id": "ginzburg-landau-theory",
+    "title": {
+      "zh": "金兹堡–朗道超导理论",
+      "en": "Ginzburg–Landau theory of superconductivity"
+    },
+    "year": 1950,
+    "precision": "year",
+    "type": "theory",
+    "field": "matter",
+    "people": [
+      "vitaly-ginzburg",
+      "lev-landau"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "序参量与自由能泛函描述超导相与空间非均匀结构。",
+      "en": "An order parameter and free-energy functional described superconducting phases and spatial structure."
+    },
+    "sources": [
+      {
+        "title": "On the Theory of Superconductivity (1950): original-paper reproduction in CERN teaching material",
+        "url": "https://indico.cern.ch/event/1166991/contributions/4976438/attachments/2501335/4296881/Fayard3.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "按原始成果发表年；较晚的重印或译本年份不作成果年。",
+      "en": "Dated by original publication, not a later reprint or translation."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "spin-echo",
+    "title": {
+      "zh": "自旋回波",
+      "en": "Spin echoes"
+    },
+    "year": 1950,
+    "precision": "year",
+    "type": "method",
+    "field": "quantum",
+    "people": [
+      "erwin-hahn"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "通过重新聚相测量自旋弛豫，拓展核磁共振控制。",
+      "en": "Refocusing spin ensembles enabled new relaxation measurements and coherent control."
+    },
+    "sources": [
+      {
+        "title": "Spin echoes",
+        "url": "https://doi.org/10.1103/PhysRev.80.580"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "bubble-chamber",
+    "title": {
+      "zh": "气泡室",
+      "en": "The bubble chamber"
+    },
+    "year": 1952,
+    "precision": "year",
+    "type": "method",
+    "field": "methods",
+    "people": [
+      "donald-a-glaser"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "过热液体中的粒子轨迹成像成为高能实验的重要方法。",
+      "en": "Tracks in superheated liquid became a major high-energy detection method."
+    },
+    "sources": [
+      {
+        "title": "The bubble chamber",
+        "url": "https://doi.org/10.1103/PhysRev.87.665"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "metropolis-sampling",
+    "title": {
+      "zh": "Metropolis蒙特卡洛采样",
+      "en": "Metropolis Monte Carlo sampling"
+    },
+    "year": 1953,
+    "precision": "year",
+    "type": "method",
+    "field": "methods",
+    "people": [
+      "nicholas-metropolis",
+      "marshall-rosenbluth",
+      "edward-teller"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "用平衡分布采样计算多体体系，广泛影响统计物理。",
+      "en": "Equilibrium-distribution sampling made many-body statistical calculations practical."
+    },
+    "sources": [
+      {
+        "title": "Metropolis Monte Carlo sampling",
+        "url": "https://doi.org/10.1063/1.1699114"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Arianna Rosenbluth",
+      "Augusta Teller"
+    ]
+  },
+  {
+    "id": "maser",
+    "title": {
+      "zh": "首台微波激射器",
+      "en": "The first maser"
+    },
+    "year": 1954,
+    "precision": "year",
+    "type": "method",
+    "field": "light",
+    "people": [
+      "charles-hard-townes"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "受激辐射产生相干微波，为激光与精密频标奠基。",
+      "en": "Stimulated emission produced coherent microwaves for lasers and precision standards."
+    },
+    "sources": [
+      {
+        "title": "The first maser",
+        "url": "https://doi.org/10.1103/PhysRev.95.282"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed",
+    "groups": [
+      "James Gordon",
+      "Herbert Zeiger"
+    ]
+  },
+  {
+    "id": "yang-mills-gauge-theory",
+    "title": {
+      "zh": "杨–米尔斯规范理论",
+      "en": "Yang–Mills gauge theory"
+    },
+    "year": 1954,
+    "precision": "year",
+    "type": "theory",
+    "field": "particle",
+    "people": [
+      "chen-ning-yang",
+      "robert-mills"
+    ],
+    "weight": 8,
+    "rationale": {
+      "zh": "把局域对称性推广到非阿贝尔群，成为标准模型的基础结构。",
+      "en": "Non-Abelian local symmetry supplied the structural foundation of the Standard Model."
+    },
+    "sources": [
+      {
+        "title": "Yang–Mills gauge theory",
+        "url": "https://doi.org/10.1103/PhysRev.96.191"
+      },
+      {
+        "title": "Rooted in symmetry: Yang reflects on a life of physics — CERN Courier",
+        "url": "https://cerncourier.com/a/rooted-in-symmetry-yang-reflects-on-a-life-of-physics/"
+      },
+      {
+        "title": "50 Years of Yang–Mills Theory — CERN Courier",
+        "url": "https://cern-courier.web.cern.ch/a/50-years-of-yang-mills-theory/"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "antiproton-discovery",
+    "title": {
+      "zh": "反质子的发现",
+      "en": "Discovery of the antiproton"
+    },
+    "year": 1955,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [
+      "owen-chamberlain",
+      "emilio-g-segre"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "在加速器中确认反重子，扩展对反物质的实验研究。",
+      "en": "Accelerator production established antibaryons and expanded antimatter research."
+    },
+    "sources": [
+      {
+        "title": "Discovery of the antiproton",
+        "url": "https://doi.org/10.1103/PhysRev.100.947"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Clyde Wiegand",
+      "Thomas Ypsilantis"
+    ]
+  },
+  {
+    "id": "free-neutrino-detection",
+    "title": {
+      "zh": "自由中微子的探测",
+      "en": "Detection of the free neutrino"
+    },
+    "year": 1956,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [
+      "clyde-cowan",
+      "frederick-reines"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "反应堆反中微子反应首次确证这一弱相互作用粒子。",
+      "en": "Reactor antineutrino interactions established the elusive weakly interacting particle."
+    },
+    "sources": [
+      {
+        "title": "Detection of the free neutrino",
+        "url": "https://doi.org/10.1126/science.124.3212.103"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed",
+    "groups": [
+      "F. B. Harrison",
+      "H. W. Kruse",
+      "A. D. McGuire"
+    ]
+  },
+  {
+    "id": "weak-parity-violation",
+    "title": {
+      "zh": "弱相互作用宇称不守恒",
+      "en": "Parity violation in the weak interaction"
+    },
+    "year": 1956,
+    "precision": "range",
+    "type": "discovery",
+    "field": "particle",
+    "people": [
+      "tsung-dao-lee",
+      "chen-ning-yang",
+      "chien-shiung-wu"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "理论检验建议与钴-60实验推翻弱作用的镜像对称性。",
+      "en": "Theoretical scrutiny and cobalt-60 experiments overturned weak-interaction mirror symmetry."
+    },
+    "sources": [
+      {
+        "title": "Parity violation in the weak interaction",
+        "url": "https://doi.org/10.1103/PhysRev.105.1413"
+      },
+      {
+        "title": "Lee and Yang: Question of Parity Conservation in Weak Interactions (1956)",
+        "url": "https://doi.org/10.1103/PhysRev.104.254"
+      }
+    ],
+    "dateNote": {
+      "zh": "1956年提出检验，1956年末完成关键实验，1957年正式发表。",
+      "en": "Tests were proposed in 1956; key experiments occurred late that year and were published in 1957."
+    },
+    "status": "reviewed",
+    "groups": [
+      "NBS–Columbia parity experiment team"
+    ],
+    "dateRange": [
+      1956,
+      1957
+    ]
+  },
+  {
+    "id": "abrikosov-vortex-lattice",
+    "title": {
+      "zh": "第二类超导体的涡旋晶格",
+      "en": "The vortex lattice in type-II superconductors"
+    },
+    "year": 1957,
+    "precision": "year",
+    "type": "theory",
+    "field": "matter",
+    "people": [
+      "alexei-alexeyevich-abrikosov"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "磁通量子化涡旋说明第二类超导体的混合态。",
+      "en": "Quantized flux vortices explained the mixed state of type-II superconductors."
+    },
+    "sources": [
+      {
+        "title": "The vortex lattice in type-II superconductors — original paper or institutional source",
+        "url": "https://jetp.ras.ru/cgi-bin/dn/e_005_06_1170.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "按原始成果发表年；较晚的重印或译本年份不作成果年。",
+      "en": "Dated by original publication, not a later reprint or translation."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "bcs-superconductivity",
+    "title": {
+      "zh": "BCS超导理论",
+      "en": "BCS theory of superconductivity"
+    },
+    "year": 1957,
+    "precision": "year",
+    "type": "theory",
+    "field": "matter",
+    "people": [
+      "john-bardeen",
+      "leon-cooper",
+      "john-robert-schrieffer"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "库珀对与集体凝聚给出常规超导的微观理论。",
+      "en": "Cooper pairing and condensation provided a microscopic theory of conventional superconductivity."
+    },
+    "sources": [
+      {
+        "title": "BCS theory of superconductivity",
+        "url": "https://doi.org/10.1103/PhysRev.108.1175"
+      },
+      {
+        "title": "Cooper: Bound Electron Pairs in a Degenerate Fermi Gas (1956)",
+        "url": "https://doi.org/10.1103/PhysRev.104.1189"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "stellar-nucleosynthesis-synthesis",
+    "title": {
+      "zh": "恒星核合成的系统理论",
+      "en": "A synthesis of stellar nucleosynthesis"
+    },
+    "year": 1957,
+    "precision": "year",
+    "type": "theory",
+    "field": "cosmos",
+    "people": [
+      "margaret-burbidge",
+      "geoffrey-burbidge",
+      "william-alfred-fowler",
+      "fred-hoyle"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "系统关联恒星反应与元素起源，建立现代核天体物理路线。",
+      "en": "Stellar reaction networks connected element origins with nuclear astrophysics."
+    },
+    "sources": [
+      {
+        "title": "A synthesis of stellar nucleosynthesis",
+        "url": "https://doi.org/10.1103/RevModPhys.29.547"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "anderson-localization",
+    "title": {
+      "zh": "安德森局域化",
+      "en": "Anderson localization"
+    },
+    "year": 1958,
+    "precision": "year",
+    "type": "theory",
+    "field": "matter",
+    "people": [
+      "philip-warren-anderson"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "无序可抑制波的扩散，改变对固体输运的认识。",
+      "en": "Disorder can suppress wave diffusion, changing the understanding of electronic transport."
+    },
+    "sources": [
+      {
+        "title": "Anderson localization",
+        "url": "https://doi.org/10.1103/PhysRev.109.1492"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年或机构记载的首次公开年。",
+      "en": "Dated by the cited publication or institutional record of first disclosure."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "mossbauer-effect",
+    "title": {
+      "zh": "穆斯堡尔效应",
+      "en": "The Mössbauer effect"
+    },
+    "year": 1958,
+    "precision": "year",
+    "type": "discovery",
+    "field": "quantum",
+    "people": [
+      "rudolf-mossbauer"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "无反冲γ共振吸收开辟极高精度的核光谱。",
+      "en": "Recoil-free gamma resonance enabled exceptionally precise nuclear spectroscopy."
+    },
+    "sources": [
+      {
+        "title": "The Mössbauer effect",
+        "url": "https://doi.org/10.1007/BF01344210"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年。",
+      "en": "Dated by publication of the cited paper."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "semiconductor-tunnel-diode",
+    "title": {
+      "zh": "半导体隧道二极管",
+      "en": "The semiconductor tunnel diode"
+    },
+    "year": 1958,
+    "precision": "year",
+    "type": "discovery",
+    "field": "matter",
+    "people": [
+      "leo-esaki"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "半导体中的量子隧穿表现为负微分电阻。",
+      "en": "Quantum tunnelling produced negative differential resistance in semiconductors."
+    },
+    "sources": [
+      {
+        "title": "The semiconductor tunnel diode",
+        "url": "https://doi.org/10.1103/PhysRev.109.603"
+      }
+    ],
+    "dateNote": {
+      "zh": "实验于1957年完成，1958年发表。",
+      "en": "The experiment was performed in 1957 and published in 1958."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "aharonov-bohm-effect",
+    "title": {
+      "zh": "阿哈罗诺夫–玻姆效应",
+      "en": "The Aharonov–Bohm effect"
+    },
+    "year": 1959,
+    "precision": "year",
+    "type": "theory",
+    "field": "quantum",
+    "people": [
+      "yakir-aharonov",
+      "david-bohm"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "说明无局域电磁力的路径仍可出现可观测量子相位差。",
+      "en": "Quantum phase differences can arise along paths without local electromagnetic forces."
+    },
+    "sources": [
+      {
+        "title": "The Aharonov–Bohm effect",
+        "url": "https://doi.org/10.1103/PhysRev.115.485"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年。",
+      "en": "Dated by publication of the cited paper."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "ruby-laser",
+    "title": {
+      "zh": "红宝石激光器",
+      "en": "The ruby laser"
+    },
+    "year": 1960,
+    "precision": "year",
+    "type": "method",
+    "field": "light",
+    "people": [
+      "theodore-maiman"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "首次实现相干光受激放大，成为现代光学核心工具。",
+      "en": "Coherent optical amplification established a central tool of modern optics."
+    },
+    "sources": [
+      {
+        "title": "The ruby laser",
+        "url": "https://www.nature.com/articles/187493a0"
+      },
+      {
+        "title": "APS: May 16, 1960 — Maiman demonstrates first laser",
+        "url": "https://www.aps.org/apsnews/2010/05/physics-history"
+      }
+    ],
+    "dateNote": {
+      "zh": "1960年5月首次运行，8月发表论文。",
+      "en": "First operated in May 1960; the paper appeared in August."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "landauer-erasure-bound",
+    "title": {
+      "zh": "信息擦除的热力学代价",
+      "en": "The thermodynamic cost of information erasure"
+    },
+    "year": 1961,
+    "precision": "year",
+    "type": "theory",
+    "field": "heat",
+    "people": [
+      "rolf-landauer"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把逻辑不可逆的信息擦除与最低散热联系起来。",
+      "en": "Logically irreversible information erasure was linked with a minimum heat cost."
+    },
+    "sources": [
+      {
+        "title": "The thermodynamic cost of information erasure — original paper or institutional source",
+        "url": "https://www.cpt.univ-mrs.fr/~verga/pdfs/Landauer-1961uq.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "按原始成果发表年；较晚的重印或译本年份不作成果年。",
+      "en": "Dated by original publication, not a later reprint or translation."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "josephson-effect",
+    "title": {
+      "zh": "约瑟夫森效应",
+      "en": "The Josephson effect"
+    },
+    "year": 1962,
+    "precision": "year",
+    "type": "theory",
+    "field": "matter",
+    "people": [
+      "brian-david-josephson"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "预测超导结中相干库珀对隧穿，连接量子相位与电测量。",
+      "en": "Coherent Cooper-pair tunnelling linked quantum phase with electrical measurement."
+    },
+    "sources": [
+      {
+        "title": "The Josephson effect",
+        "url": "https://doi.org/10.1016/0031-9163(62)91369-0"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年。",
+      "en": "Dated by publication of the cited paper."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "muon-neutrino-discovery",
+    "title": {
+      "zh": "μ子中微子的发现",
+      "en": "Discovery of the muon neutrino"
+    },
+    "year": 1962,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [
+      "leon-m-lederman",
+      "melvin-schwartz",
+      "jack-steinberger"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "加速器中微子束证实轻子具有不同味。",
+      "en": "Accelerator neutrino beams established distinct lepton flavours."
+    },
+    "sources": [
+      {
+        "title": "Discovery of the muon neutrino",
+        "url": "https://doi.org/10.1103/PhysRevLett.9.36"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年。",
+      "en": "Dated by publication of the cited paper."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Brookhaven–Columbia neutrino team"
+    ]
+  },
+  {
+    "id": "hubbard-correlated-electrons",
+    "title": {
+      "zh": "强关联电子的Hubbard模型",
+      "en": "The Hubbard model of correlated electrons"
+    },
+    "year": 1963,
+    "precision": "year",
+    "type": "theory",
+    "field": "matter",
+    "people": [
+      "john-hubbard"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "以局域相互作用和电子跃迁研究金属、磁性与绝缘态。",
+      "en": "Local interactions and hopping provided a model for metals, magnetism, and insulating states."
+    },
+    "sources": [
+      {
+        "title": "The Hubbard model of correlated electrons — original paper or institutional source",
+        "url": "https://doi.org/10.1098/rspa.1963.0204"
+      }
+    ],
+    "dateNote": {
+      "zh": "Hubbard、Gutzwiller与Kanamori于1963年独立提出相关模型，合并计一次。",
+      "en": "Hubbard, Gutzwiller, and Kanamori independently developed related models in 1963; counted once."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Martin Gutzwiller",
+      "Junjiro Kanamori"
+    ]
+  },
+  {
+    "id": "kerr-black-hole",
+    "title": {
+      "zh": "旋转黑洞的Kerr解",
+      "en": "The Kerr solution for a rotating black hole"
+    },
+    "year": 1963,
+    "precision": "year",
+    "type": "theory",
+    "field": "cosmos",
+    "people": [
+      "roy-kerr"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "获得旋转真空时空的精确解，成为天体黑洞模型基础。",
+      "en": "An exact rotating vacuum solution became central to astrophysical black-hole models."
+    },
+    "sources": [
+      {
+        "title": "The Kerr solution for a rotating black hole",
+        "url": "https://doi.org/10.1103/PhysRevLett.11.237"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年。",
+      "en": "Dated by publication of the cited paper."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "lorenz-deterministic-chaos",
+    "title": {
+      "zh": "确定性非周期流与混沌",
+      "en": "Deterministic nonperiodic flow and chaos"
+    },
+    "year": 1963,
+    "precision": "year",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "低维确定性流体模型展示对初始条件的敏感依赖。",
+      "en": "A low-dimensional deterministic fluid model exhibited sensitive dependence on initial conditions."
+    },
+    "sources": [
+      {
+        "title": "Deterministic nonperiodic flow and chaos — original paper or institutional source",
+        "url": "https://cdanfort.w3.uvm.edu/research/lorenz-1963.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "按原始成果发表年；较晚的重印或译本年份不作成果年。",
+      "en": "Dated by original publication, not a later reprint or translation."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Edward Lorenz"
+    ]
+  },
+  {
+    "id": "quantum-optical-coherence",
+    "title": {
+      "zh": "光学相干的量子理论",
+      "en": "Quantum theory of optical coherence"
+    },
+    "year": 1963,
+    "precision": "year",
+    "type": "theory",
+    "field": "light",
+    "people": [
+      "roy-j-glauber",
+      "e-c-george-sudarshan"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "用量子态与关联函数系统描述光子统计。",
+      "en": "Quantum states and correlation functions systematized photon statistics."
+    },
+    "sources": [
+      {
+        "title": "Quantum theory of optical coherence",
+        "url": "https://doi.org/10.1103/PhysRev.131.2766"
+      }
+    ],
+    "dateNote": {
+      "zh": "Glauber与Sudarshan在1963年分别提出重要的量子光学描述。",
+      "en": "Glauber and Sudarshan independently developed important quantum-optical descriptions in 1963."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "quasar-redshift",
+    "title": {
+      "zh": "类星体宇宙学红移",
+      "en": "Cosmological redshift of a quasar"
+    },
+    "year": 1963,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "3C 273的红移揭示致密高光度河外天体。",
+      "en": "The redshift of 3C 273 revealed compact, extremely luminous extragalactic objects."
+    },
+    "sources": [
+      {
+        "title": "Cosmological redshift of a quasar",
+        "url": "https://www.nature.com/articles/1971040a0"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年。",
+      "en": "Dated by publication of the cited paper."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Maarten Schmidt",
+      "Cyril Hazard and collaborators"
+    ]
+  },
+  {
+    "id": "bell-theorem",
+    "title": {
+      "zh": "贝尔定理",
+      "en": "Bell’s theorem"
+    },
+    "year": 1964,
+    "precision": "year",
+    "type": "theory",
+    "field": "quantum",
+    "people": [
+      "john-stewart-bell"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "把局域隐变量模型与量子理论的差异化为可检验不等式。",
+      "en": "A testable inequality separated local hidden-variable models from quantum predictions."
+    },
+    "sources": [
+      {
+        "title": "Bell’s theorem",
+        "url": "https://doi.org/10.1103/PhysicsPhysiqueFizika.1.195"
+      },
+      {
+        "title": "Clauser, Horne, Shimony and Holt: Proposed Experiment to Test Local Hidden-Variable Theories (1969)",
+        "url": "https://doi.org/10.1103/PhysRevLett.23.880"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年。",
+      "en": "Dated by publication of the cited paper."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "cp-violation-kaons",
+    "title": {
+      "zh": "中性K介子中的CP破坏",
+      "en": "CP violation in neutral kaons"
+    },
+    "year": 1964,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [
+      "james-cronin",
+      "val-logsdon-fitch"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "首次发现电荷共轭与宇称联合变换并非严格对称。",
+      "en": "The first observation showed that combined charge–parity symmetry is not exact."
+    },
+    "sources": [
+      {
+        "title": "CP violation in neutral kaons",
+        "url": "https://doi.org/10.1103/PhysRevLett.13.138"
+      },
+      {
+        "title": "Brookhaven: the 1980 Nobel Prize and the 1964 CP discovery",
+        "url": "https://www.bnl.gov/bnlweb/history/nobel/1980.php"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年。",
+      "en": "Dated by publication of the cited paper."
+    },
+    "status": "reviewed",
+    "groups": [
+      "James Christenson",
+      "René Turlay"
+    ]
+  },
+  {
+    "id": "density-functional-theory",
+    "title": {
+      "zh": "密度泛函理论的基础",
+      "en": "Foundations of density-functional theory"
+    },
+    "year": 1964,
+    "precision": "range",
+    "type": "method",
+    "field": "matter",
+    "people": [
+      "pierre-hohenberg",
+      "walter-kohn",
+      "lu-jeu-sham"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "以电子密度及辅助单粒子方程处理多电子体系。",
+      "en": "Electron density and auxiliary single-particle equations made many-electron calculations tractable."
+    },
+    "sources": [
+      {
+        "title": "Foundations of density-functional theory",
+        "url": "https://doi.org/10.1103/PhysRev.136.B864"
+      },
+      {
+        "title": "Kohn and Sham: Self-Consistent Equations Including Exchange and Correlation Effects (1965)",
+        "url": "https://doi.org/10.1103/PhysRev.140.A1133"
+      }
+    ],
+    "dateNote": {
+      "zh": "Hohenberg–Kohn定理发表于1964年，Kohn–Sham方程发表于1965年。",
+      "en": "The Hohenberg–Kohn theorem appeared in 1964 and Kohn–Sham equations in 1965."
+    },
+    "status": "reviewed",
+    "dateRange": [
+      1964,
+      1965
+    ]
+  },
+  {
+    "id": "higgs-mechanism",
+    "title": {
+      "zh": "自发对称性破缺与规范玻色子质量",
+      "en": "Spontaneous symmetry breaking and gauge-boson masses"
+    },
+    "year": 1964,
+    "precision": "year",
+    "type": "theory",
+    "field": "particle",
+    "people": [
+      "francois-englert",
+      "robert-brout",
+      "peter-higgs",
+      "tom-kibble"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "使规范理论容纳有质量矢量玻色子，支撑电弱理论。",
+      "en": "Gauge theories could accommodate massive vector bosons, enabling electroweak theory."
+    },
+    "sources": [
+      {
+        "title": "Spontaneous symmetry breaking and gauge-boson masses",
+        "url": "https://doi.org/10.1103/PhysRevLett.13.321"
+      },
+      {
+        "title": "Higgs: Broken Symmetries and the Masses of Gauge Bosons (1964)",
+        "url": "https://doi.org/10.1103/PhysRevLett.13.508"
+      },
+      {
+        "title": "Guralnik, Hagen and Kibble: Global Conservation Laws and Massless Particles (1964)",
+        "url": "https://doi.org/10.1103/PhysRevLett.13.585"
+      }
+    ],
+    "dateNote": {
+      "zh": "1964年三组相关工作合并计一次；粒子实验发现另记2012年。",
+      "en": "Three related 1964 contributions are counted once; experimental discovery is recorded separately in 2012."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Gerald Guralnik",
+      "C. R. Hagen"
+    ]
+  },
+  {
+    "id": "quark-model",
+    "title": {
+      "zh": "夸克模型",
+      "en": "The quark model"
+    },
+    "year": 1964,
+    "precision": "year",
+    "type": "theory",
+    "field": "particle",
+    "people": [
+      "murray-gell-mann",
+      "george-zweig"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "用分数电荷组分组织强子的谱系与量子数。",
+      "en": "Fractionally charged constituents organized hadron spectra and quantum numbers."
+    },
+    "sources": [
+      {
+        "title": "The quark model",
+        "url": "https://doi.org/10.1016/S0031-9163(64)92001-3"
+      },
+      {
+        "title": "Zweig: An SU(3) model for strong interaction symmetry and its breaking (1964)",
+        "url": "https://ep-news.web.cern.ch/sites/default/files/issues/Concrete%20Quarks%2012-12-14.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "Gell-Mann和Zweig于1964年独立提出；合为一个模型事件。",
+      "en": "Gell-Mann and Zweig proposed the model independently in 1964; counted once."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "cosmic-microwave-background",
+    "title": {
+      "zh": "宇宙微波背景的发现",
+      "en": "Discovery of the cosmic microwave background"
+    },
+    "year": 1965,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [
+      "arno-allan-penzias",
+      "robert-woodrow-wilson",
+      "jim-peebles"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "全天微波背景为热大爆炸提供关键观测证据。",
+      "en": "An all-sky microwave background supplied decisive evidence for a hot early universe."
+    },
+    "sources": [
+      {
+        "title": "Discovery of the cosmic microwave background",
+        "url": "https://doi.org/10.1086/148307"
+      },
+      {
+        "title": "Dicke, Peebles, Roll and Wilkinson: Cosmic Black-Body Radiation (1965)",
+        "url": "https://doi.org/10.1086/148306"
+      }
+    ],
+    "dateNote": {
+      "zh": "1965年观测与宇宙学解释分别发表。",
+      "en": "The observation and cosmological interpretation were published separately in 1965."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Robert Dicke",
+      "Peter Roll",
+      "David Wilkinson"
+    ]
+  },
+  {
+    "id": "penrose-singularity-theorem",
+    "title": {
+      "zh": "彭罗斯奇性定理",
+      "en": "Penrose’s singularity theorem"
+    },
+    "year": 1965,
+    "precision": "year",
+    "type": "theory",
+    "field": "cosmos",
+    "people": [
+      "roger-penrose"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "证明引力坍缩产生时空不完备性并非球对称模型特例。",
+      "en": "Gravitational collapse implied spacetime incompleteness beyond symmetric idealizations."
+    },
+    "sources": [
+      {
+        "title": "Penrose’s singularity theorem",
+        "url": "https://doi.org/10.1103/PhysRevLett.14.57"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年。",
+      "en": "Dated by publication of the cited paper."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "low-loss-fibre-proposal",
+    "title": {
+      "zh": "低损耗光纤通信原理",
+      "en": "The route to low-loss optical fibres"
+    },
+    "year": 1966,
+    "precision": "year",
+    "type": "method",
+    "field": "light",
+    "people": [
+      "charles-k-kao"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "指出纯化玻璃可降低损耗，建立长距光纤通信路线。",
+      "en": "Glass purification offered a route to low-loss long-distance optical communication."
+    },
+    "sources": [
+      {
+        "title": "The route to low-loss optical fibres",
+        "url": "https://doi.org/10.1049/piee.1966.0189"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年。",
+      "en": "Dated by publication of the cited paper."
+    },
+    "status": "reviewed",
+    "groups": [
+      "George Hockham"
+    ]
+  },
+  {
+    "id": "electroweak-unification",
+    "title": {
+      "zh": "电弱统一理论",
+      "en": "Electroweak unification"
+    },
+    "year": 1967,
+    "precision": "year",
+    "type": "theory",
+    "field": "particle",
+    "people": [
+      "sheldon-lee-glashow",
+      "steven-weinberg",
+      "abdus-salam"
+    ],
+    "weight": 8,
+    "rationale": {
+      "zh": "用自发破缺的规范理论统一电磁与弱相互作用。",
+      "en": "A spontaneously broken gauge theory unified electromagnetic and weak interactions."
+    },
+    "sources": [
+      {
+        "title": "Electroweak unification",
+        "url": "https://doi.org/10.1103/PhysRevLett.19.1264"
+      },
+      {
+        "title": "Glashow: Partial-symmetries of weak interactions (1961)",
+        "url": "https://doi.org/10.1016/0029-5582(61)90469-2"
+      },
+      {
+        "title": "IOP: 100 incredible years — particle physics",
+        "url": "https://www.iop.org/about/iop-history/100th-anniversary/100-incredible-years/particle-physics"
+      }
+    ],
+    "dateNote": {
+      "zh": "1967年论文为代表；Glashow的规范结构发表于1961年，Salam于1968年发表相关理论。",
+      "en": "The representative paper is from 1967; Glashow’s gauge structure dates to 1961 and Salam’s formulation to 1968."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "pulsar-discovery",
+    "title": {
+      "zh": "脉冲星的发现",
+      "en": "Discovery of pulsars"
+    },
+    "year": 1967,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [
+      "jocelyn-bell-burnell",
+      "antony-hewish"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "规律射电脉冲揭示快速旋转中子星这一新类天体。",
+      "en": "Regular radio pulses revealed a new class of rapidly rotating neutron stars."
+    },
+    "sources": [
+      {
+        "title": "Discovery of pulsars",
+        "url": "https://www.nature.com/articles/217709a0"
+      }
+    ],
+    "dateNote": {
+      "zh": "首次信号记录于1967年；发现论文发表于1968年。",
+      "en": "Signals were first recorded in 1967; the discovery paper was published in 1968."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Cambridge radio-astronomy team"
+    ]
+  },
+  {
+    "id": "radiative-convective-climate-model",
+    "title": {
+      "zh": "辐射–对流气候模型",
+      "en": "A radiative–convective climate model"
+    },
+    "year": 1967,
+    "precision": "year",
+    "type": "method",
+    "field": "heat",
+    "people": [
+      "syukuro-manabe"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "耦合辐射、对流和水汽反馈，定量研究二氧化碳增温。",
+      "en": "Radiation, convection, and water-vapour feedback enabled quantitative carbon-dioxide warming calculations."
+    },
+    "sources": [
+      {
+        "title": "A radiative–convective climate model — original paper or institutional source",
+        "url": "https://geosci.uchicago.edu/~archer/warming_papers/manabe.1967.rad_conv_eq.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "按原始成果发表年；较晚的重印或译本年份不作成果年。",
+      "en": "Dated by original publication, not a later reprint or translation."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Richard Wetherald"
+    ]
+  },
+  {
+    "id": "deep-inelastic-scattering",
+    "title": {
+      "zh": "深度非弹性散射中的点状组分",
+      "en": "Pointlike constituents in deep-inelastic scattering"
+    },
+    "year": 1968,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [
+      "jerome-isaac-friedman",
+      "henry-way-kendall",
+      "richard-e-taylor"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "质子内点状散射中心为夸克图像提供实验支柱。",
+      "en": "Pointlike scattering centres inside protons supplied experimental support for quarks."
+    },
+    "sources": [
+      {
+        "title": "Pointlike constituents in deep-inelastic scattering",
+        "url": "https://journals.aps.org/collections/50-years-QCD"
+      },
+      {
+        "title": "Breidenbach et al.: Observed Behavior of Highly Inelastic Electron-Proton Scattering (1969)",
+        "url": "https://doi.org/10.1103/PhysRevLett.23.935"
+      }
+    ],
+    "dateNote": {
+      "zh": "关键结果于1968年报告，主要论文于1969年发表。",
+      "en": "Key results were reported in 1968; principal papers appeared in 1969."
+    },
+    "status": "reviewed",
+    "groups": [
+      "SLAC–MIT collaboration"
+    ]
+  },
+  {
+    "id": "multiwire-proportional-chamber",
+    "title": {
+      "zh": "多丝正比室",
+      "en": "The multiwire proportional chamber"
+    },
+    "year": 1968,
+    "precision": "year",
+    "type": "method",
+    "field": "methods",
+    "people": [
+      "georges-charpak"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "电子读出实现快速定位粒子轨迹，革新探测器数据采集。",
+      "en": "Electronic readout enabled fast particle localization and transformed detector acquisition."
+    },
+    "sources": [
+      {
+        "title": "The multiwire proportional chamber",
+        "url": "https://doi.org/10.1016/0029-554X(68)90371-6"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年。",
+      "en": "Dated by publication of the cited paper."
+    },
+    "status": "reviewed",
+    "groups": [
+      "CERN detector group"
+    ]
+  },
+  {
+    "id": "solar-neutrino-problem",
+    "title": {
+      "zh": "太阳中微子亏缺",
+      "en": "The solar-neutrino deficit"
+    },
+    "year": 1968,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [
+      "raymond-davis-jr"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "太阳中微子计数偏低，开启太阳模型与中微子性质的交叉检验。",
+      "en": "Low solar-neutrino counts initiated tests of solar models and neutrino properties."
+    },
+    "sources": [
+      {
+        "title": "The solar-neutrino deficit",
+        "url": "https://www.bnl.gov/bnlweb/history/nobel/2002.php"
+      }
+    ],
+    "dateNote": {
+      "zh": "1968年首批结果报告亏缺；后续多年观测确认，并非当年已完成振荡解释。",
+      "en": "Initial results in 1968 revealed a deficit; its oscillation explanation developed later."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Homestake collaboration",
+      "John Bahcall"
+    ]
+  },
+  {
+    "id": "charge-coupled-device",
+    "title": {
+      "zh": "电荷耦合器件",
+      "en": "The charge-coupled device"
+    },
+    "year": 1969,
+    "precision": "year",
+    "type": "method",
+    "field": "methods",
+    "people": [
+      "willard-boyle",
+      "george-e-smith"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "可转移电荷阵列为高灵敏数字成像提供基础。",
+      "en": "Transferable charge arrays enabled sensitive digital imaging."
+    },
+    "sources": [
+      {
+        "title": "The charge-coupled device",
+        "url": "https://vtda.org/pubs/BSTJ/vol49-1970/articles/bstj49-4-587.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "概念形成于1969年，首篇论文发表于1970年。",
+      "en": "The concept dates to 1969; the first paper was published in 1970."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "bkt-transition",
+    "title": {
+      "zh": "二维拓扑相变",
+      "en": "The Berezinskii–Kosterlitz–Thouless transition"
+    },
+    "year": 1970,
+    "precision": "range",
+    "type": "theory",
+    "field": "matter",
+    "people": [
+      "vadim-berezinskii",
+      "j-michael-kosterlitz",
+      "david-j-thouless"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "涡旋束缚与解离建立超越通常对称性破缺的相变机制。",
+      "en": "Vortex binding and unbinding established a transition beyond conventional symmetry breaking."
+    },
+    "sources": [
+      {
+        "title": "The Berezinskii–Kosterlitz–Thouless transition",
+        "url": "https://doi.org/10.1088/0022-3719/6/7/010"
+      },
+      {
+        "title": "Berezinskii: Destruction of Long-Range Order in One-Dimensional and Two-Dimensional Systems (1970; English 1971)",
+        "url": "https://www.jetp.ras.ru/cgi-bin/dn/e_032_03_0493.pdf"
+      },
+      {
+        "title": "Topological Phases — American Physical Society",
+        "url": "https://physics.aps.org/topological-phases"
+      }
+    ],
+    "dateNote": {
+      "zh": "Berezinskii俄文原文发表于1970年、英译于1971年；Kosterlitz–Thouless发表于1973年，合并为同一机制。DOI页面2002年的上线时间不是成果年。",
+      "en": "Berezinskii’s Russian paper appeared in 1970, its English translation in 1971, and Kosterlitz–Thouless in 1973. The DOI page’s 2002 online date is not the event year."
+    },
+    "status": "reviewed",
+    "dateRange": [
+      1970,
+      1973
+    ]
+  },
+  {
+    "id": "gim-mechanism",
+    "title": {
+      "zh": "GIM机制",
+      "en": "The GIM mechanism"
+    },
+    "year": 1970,
+    "precision": "year",
+    "type": "theory",
+    "field": "particle",
+    "people": [
+      "sheldon-lee-glashow",
+      "john-iliopoulos",
+      "luciano-maiani"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "通过粲夸克解释味改变中性流的抑制。",
+      "en": "A charm quark explained the suppression of flavour-changing neutral currents."
+    },
+    "sources": [
+      {
+        "title": "The GIM mechanism",
+        "url": "https://doi.org/10.1103/PhysRevD.2.1285"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年。",
+      "en": "Dated by publication of the cited paper."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "gauge-theory-renormalizability",
+    "title": {
+      "zh": "破缺规范理论的可重整性",
+      "en": "Renormalizability of broken gauge theories"
+    },
+    "year": 1971,
+    "precision": "year",
+    "type": "theory",
+    "field": "particle",
+    "people": [
+      "gerard-t-hooft",
+      "martinus-j-g-veltman"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "证明有质量规范理论可系统计算量子修正。",
+      "en": "Massive gauge theories became systematically calculable beyond classical order."
+    },
+    "sources": [
+      {
+        "title": "Renormalizability of broken gauge theories",
+        "url": "https://doi.org/10.1016/0550-3213(71)90139-8"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年。",
+      "en": "Dated by publication of the cited paper."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "wilson-renormalization-group",
+    "title": {
+      "zh": "临界现象的重整化群",
+      "en": "Renormalization group for critical phenomena"
+    },
+    "year": 1971,
+    "precision": "year",
+    "type": "theory",
+    "field": "heat",
+    "people": [
+      "kenneth-g-wilson"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "不同尺度上的有效理论解释临界指数与普适性。",
+      "en": "Scale-dependent effective theories explained critical exponents and universality."
+    },
+    "sources": [
+      {
+        "title": "Renormalization group for critical phenomena",
+        "url": "https://doi.org/10.1103/PhysRevB.4.3174"
+      },
+      {
+        "title": "Wilson and Fisher: Critical Exponents in 3.99 Dimensions (1972)",
+        "url": "https://doi.org/10.1103/PhysRevLett.28.240"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年。",
+      "en": "Dated by publication of the cited paper."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Leo Kadanoff and other scaling-theory contributors"
+    ]
+  },
+  {
+    "id": "bell-inequality-experiments",
+    "title": {
+      "zh": "贝尔不等式的光子实验",
+      "en": "Photon tests of Bell inequalities"
+    },
+    "year": 1972,
+    "precision": "range",
+    "type": "discovery",
+    "field": "quantum",
+    "people": [
+      "john-clauser",
+      "alain-aspect"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "受控纠缠实验排除一大类局域隐变量解释。",
+      "en": "Controlled entanglement tests ruled out broad classes of local hidden-variable accounts."
+    },
+    "sources": [
+      {
+        "title": "Photon tests of Bell inequalities",
+        "url": "https://doi.org/10.1103/PhysRevLett.28.938"
+      },
+      {
+        "title": "Aspect, Dalibard and Roger: Experimental Test of Bell’s Inequalities Using Time-Varying Analyzers (1982)",
+        "url": "https://doi.org/10.1103/PhysRevLett.49.1804"
+      }
+    ],
+    "dateNote": {
+      "zh": "从1972年Freedman–Clauser实验至1982年Aspect系列实验合并记录；无漏洞检验另记2015年。",
+      "en": "Combines Freedman–Clauser in 1972 and Aspect’s 1982 series; loophole-free tests are separate."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Stuart Freedman",
+      "Philippe Grangier",
+      "Gérard Roger"
+    ],
+    "dateRange": [
+      1972,
+      1982
+    ]
+  },
+  {
+    "id": "helium-three-superfluidity",
+    "title": {
+      "zh": "氦-3超流性的发现",
+      "en": "Discovery of helium-3 superfluidity"
+    },
+    "year": 1972,
+    "precision": "year",
+    "type": "discovery",
+    "field": "matter",
+    "people": [
+      "douglas-osheroff",
+      "david-lee-physicist",
+      "robert-coleman-richardson",
+      "anthony-james-leggett"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "费米原子配对产生多种量子流体相。",
+      "en": "Pairing of fermionic atoms produced multiple quantum-fluid phases."
+    },
+    "sources": [
+      {
+        "title": "Discovery of helium-3 superfluidity",
+        "url": "https://www.aps.org/apsnews/2021/10/publication-discovery-superfluid-helium3"
+      }
+    ],
+    "dateNote": {
+      "zh": "1971年观察异常，1972年确认液体超流相并发表；Leggett的解释随后发展。",
+      "en": "Anomalies were observed in 1971; liquid superfluid phases were established in 1972, followed by Leggett’s interpretation."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "black-hole-entropy",
+    "title": {
+      "zh": "黑洞熵",
+      "en": "Black-hole entropy"
+    },
+    "year": 1973,
+    "precision": "year",
+    "type": "theory",
+    "field": "cosmos",
+    "people": [
+      "jacob-bekenstein"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把视界面积与熵联系，建立广义第二定律的研究路线。",
+      "en": "Horizon area was linked to entropy, motivating the generalized second law."
+    },
+    "sources": [
+      {
+        "title": "Black-hole entropy — original paper or institutional source",
+        "url": "https://doi.org/10.1103/PhysRevD.7.2333"
+      }
+    ],
+    "dateNote": {
+      "zh": "采用1973年系统论文；黑洞熵并非天体黑洞热量的直接实验测量。",
+      "en": "Dated to the systematic 1973 paper; this is not a direct thermal measurement of an astrophysical black hole."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "kobayashi-maskawa-cp-model",
+    "title": {
+      "zh": "三代夸克的CP破坏机制",
+      "en": "The Kobayashi–Maskawa CP mechanism"
+    },
+    "year": 1973,
+    "precision": "year",
+    "type": "theory",
+    "field": "particle",
+    "people": [
+      "makoto-kobayashi-physicist",
+      "toshihide-maskawa"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "三代夸克混合中的复相位为CP破坏提供机制。",
+      "en": "A complex phase in three-generation quark mixing supplied a CP-violation mechanism."
+    },
+    "sources": [
+      {
+        "title": "The Kobayashi–Maskawa CP mechanism",
+        "url": "https://doi.org/10.1143/PTP.49.652"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年。",
+      "en": "Dated by publication of the cited paper."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "magnetic-resonance-imaging",
+    "title": {
+      "zh": "磁共振空间成像",
+      "en": "Spatial magnetic-resonance imaging"
+    },
+    "year": 1973,
+    "precision": "year",
+    "type": "method",
+    "field": "methods",
+    "people": [
+      "paul-lauterbur",
+      "peter-mansfield"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "磁场梯度编码空间位置，使核磁共振发展为成像方法。",
+      "en": "Magnetic gradients encoded spatial position and turned NMR into imaging."
+    },
+    "sources": [
+      {
+        "title": "Spatial magnetic-resonance imaging",
+        "url": "https://www.nature.com/articles/242190a0"
+      }
+    ],
+    "dateNote": {
+      "zh": "Lauterbur的空间成像与Mansfield的梯度/傅里叶方法均发表于1973年；不采用2003年获奖年。",
+      "en": "Lauterbur’s imaging and Mansfield’s gradient/Fourier methods appeared in 1973; the 2003 award is not the event date."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "qcd-asymptotic-freedom",
+    "title": {
+      "zh": "量子色动力学与渐近自由",
+      "en": "Quantum chromodynamics and asymptotic freedom"
+    },
+    "year": 1973,
+    "precision": "year",
+    "type": "theory",
+    "field": "particle",
+    "people": [
+      "david-gross",
+      "frank-wilczek",
+      "hugh-david-politzer",
+      "murray-gell-mann"
+    ],
+    "weight": 8,
+    "rationale": {
+      "zh": "颜色规范理论与高能耦合减弱建立强相互作用的现代框架。",
+      "en": "Colour gauge theory and weakening high-energy coupling established the modern strong-interaction framework."
+    },
+    "sources": [
+      {
+        "title": "Quantum chromodynamics and asymptotic freedom",
+        "url": "https://doi.org/10.1103/PhysRevLett.30.1343"
+      },
+      {
+        "title": "Politzer: Reliable Perturbative Results for Strong Interactions? (1973)",
+        "url": "https://doi.org/10.1103/PhysRevLett.30.1346"
+      },
+      {
+        "title": "Fritzsch, Gell-Mann and Leutwyler: Advantages of the Color Octet Gluon Picture (1973)",
+        "url": "https://doi.org/10.1016/0370-2693(73)90625-4"
+      },
+      {
+        "title": "APS: 50 Years of QCD",
+        "url": "https://journals.aps.org/collections/50-years-QCD"
+      }
+    ],
+    "dateNote": {
+      "zh": "QCD形成于此前工作基础上；1973年渐近自由及颜色规范理论明确化合并计一次。",
+      "en": "Earlier colour work preceded the 1973 asymptotic-freedom and gauge-theory synthesis; counted once."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Harald Fritzsch",
+      "Heinrich Leutwyler"
+    ]
+  },
+  {
+    "id": "weak-neutral-currents",
+    "title": {
+      "zh": "弱中性流的发现",
+      "en": "Discovery of weak neutral currents"
+    },
+    "year": 1973,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "无带电轻子的中微子散射为电弱理论提供关键支持。",
+      "en": "Neutrino scattering without charged leptons supported electroweak theory."
+    },
+    "sources": [
+      {
+        "title": "Discovery of weak neutral currents",
+        "url": "https://doi.org/10.1016/0370-2693(73)90499-1"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年。",
+      "en": "Dated by publication of the cited paper."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Gargamelle collaboration"
+    ]
+  },
+  {
+    "id": "binary-pulsar-discovery",
+    "title": {
+      "zh": "双星脉冲星",
+      "en": "The binary pulsar"
+    },
+    "year": 1974,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [
+      "russell-alan-hulse",
+      "joseph-hooton-taylor-jr"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "双中子星轨道衰减成为引力辐射的精密间接检验。",
+      "en": "A neutron-star binary enabled precision indirect tests of gravitational radiation."
+    },
+    "sources": [
+      {
+        "title": "The binary pulsar",
+        "url": "https://doi.org/10.1086/181708"
+      }
+    ],
+    "dateNote": {
+      "zh": "发现于1974年，论文发表于1975年；轨道衰减证据来自后续观测。",
+      "en": "Discovered in 1974 and published in 1975; orbital-decay evidence accumulated later."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "hawking-radiation",
+    "title": {
+      "zh": "霍金辐射",
+      "en": "Hawking radiation"
+    },
+    "year": 1974,
+    "precision": "year",
+    "type": "theory",
+    "field": "cosmos",
+    "people": [
+      "stephen-hawking"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "弯曲时空量子场论预言黑洞热辐射，联结引力与热力学。",
+      "en": "Quantum fields in curved spacetime predicted thermal black-hole radiation."
+    },
+    "sources": [
+      {
+        "title": "Hawking radiation",
+        "url": "https://www.nature.com/articles/248030a0"
+      },
+      {
+        "title": "Hawking: Particle Creation by Black Holes (1975)",
+        "url": "https://doi.org/10.1007/BF02345020"
+      }
+    ],
+    "dateNote": {
+      "zh": "1974年提出，1975年详细推导；此项为理论预言，尚无天体黑洞霍金辐射直接探测。",
+      "en": "Proposed in 1974 and derived in detail in 1975; astrophysical Hawking radiation has not been directly detected."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "jpsi-charmonium-discovery",
+    "title": {
+      "zh": "J/ψ与粲偶素的发现",
+      "en": "Discovery of the J/ψ and charmonium"
+    },
+    "year": 1974,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [
+      "samuel-c-c-ting",
+      "burton-richter"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "独立共振观测确立粲夸克并推动标准模型建立。",
+      "en": "Independent resonance discoveries established charm and strengthened the Standard Model."
+    },
+    "sources": [
+      {
+        "title": "Discovery of the J/ψ and charmonium",
+        "url": "https://doi.org/10.1103/PhysRevLett.33.1404"
+      },
+      {
+        "title": "Augustin et al.: Discovery of a Narrow Resonance in e+e− Annihilation (1974)",
+        "url": "https://doi.org/10.1103/PhysRevLett.33.1406"
+      }
+    ],
+    "dateNote": {
+      "zh": "1974年11月两组独立发现同一粒子，仅计一个事件。",
+      "en": "Two groups independently discovered the same particle in November 1974; counted once."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Brookhaven E598 collaboration",
+      "SLAC–LBL collaboration"
+    ]
+  },
+  {
+    "id": "tau-lepton-discovery",
+    "title": {
+      "zh": "τ轻子的发现",
+      "en": "Discovery of the tau lepton"
+    },
+    "year": 1975,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [
+      "martin-lewis-perl"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "新重轻子揭示第三代轻子结构。",
+      "en": "A new heavy lepton revealed a third lepton generation."
+    },
+    "sources": [
+      {
+        "title": "Discovery of the tau lepton",
+        "url": "https://doi.org/10.1103/PhysRevLett.35.1489"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年。",
+      "en": "Dated by publication of the cited paper."
+    },
+    "status": "reviewed",
+    "groups": [
+      "SLAC–LBL collaboration"
+    ]
+  },
+  {
+    "id": "bottom-quark-discovery",
+    "title": {
+      "zh": "底夸克的发现",
+      "en": "Discovery of the bottom quark"
+    },
+    "year": 1977,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [
+      "leon-m-lederman"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "Υ共振建立第三代夸克的重要证据。",
+      "en": "Upsilon resonances established the bottom member of a third quark generation."
+    },
+    "sources": [
+      {
+        "title": "Discovery of the bottom quark",
+        "url": "https://doi.org/10.1103/PhysRevLett.39.252"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年。",
+      "en": "Dated by publication of the cited paper."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Fermilab E288 collaboration"
+    ]
+  },
+  {
+    "id": "laser-cooling-trapped-ions",
+    "title": {
+      "zh": "受囚离子的激光冷却",
+      "en": "Laser cooling of trapped ions"
+    },
+    "year": 1978,
+    "precision": "year",
+    "type": "method",
+    "field": "quantum",
+    "people": [
+      "david-j-wineland",
+      "hans-georg-dehmelt"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "辐射压力冷却受囚粒子，为精密频标和量子控制提供技术基础。",
+      "en": "Radiation-pressure cooling of trapped particles enabled precision standards and quantum control."
+    },
+    "sources": [
+      {
+        "title": "Laser cooling of trapped ions",
+        "url": "https://tf.nist.gov/general/pdf/780.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "1978年两组独立演示受囚离子冷却，合并计一次。",
+      "en": "Two groups independently demonstrated trapped-ion cooling in 1978; counted once."
+    },
+    "status": "reviewed",
+    "groups": [
+      "R. E. Drullinger",
+      "F. L. Walls",
+      "Neuhauser–Hohenstatt–Toschek–Dehmelt group"
+    ]
+  },
+  {
+    "id": "gluon-three-jet-evidence",
+    "title": {
+      "zh": "三喷注中的胶子证据",
+      "en": "Gluon evidence in three-jet events"
+    },
+    "year": 1979,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [
+      "sau-lan-wu"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "电子正电子湮灭的三喷注事件验证强力规范玻色子。",
+      "en": "Three-jet electron–positron events established the strong-force gauge boson."
+    },
+    "sources": [
+      {
+        "title": "Gluon evidence in three-jet events",
+        "url": "https://www.desy.de/research/accelerators/petra_iii/30_years_of_gluon/index_eng.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "1979年PETRA多实验的结果合并计一次。",
+      "en": "Results from several PETRA experiments in 1979 are counted once."
+    },
+    "status": "reviewed",
+    "groups": [
+      "TASSO",
+      "MARK-J",
+      "PLUTO",
+      "JADE"
+    ]
+  },
+  {
+    "id": "parisi-spin-glass-order",
+    "title": {
+      "zh": "自旋玻璃的复制对称性破缺",
+      "en": "Replica-symmetry breaking in spin glasses"
+    },
+    "year": 1979,
+    "precision": "year",
+    "type": "theory",
+    "field": "heat",
+    "people": [
+      "giorgio-parisi"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "层级序参量描述无序与受挫系统的复杂平衡结构。",
+      "en": "Hierarchical order parameters described complex equilibrium structures in disordered, frustrated systems."
+    },
+    "sources": [
+      {
+        "title": "Replica-symmetry breaking in spin glasses — original paper or institutional source",
+        "url": "https://doi.org/10.1103/PhysRevLett.43.1754"
+      }
+    ],
+    "dateNote": {
+      "zh": "按原始成果发表年；较晚的重印或译本年份不作成果年。",
+      "en": "Dated by original publication, not a later reprint or translation."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "cosmic-inflation",
+    "title": {
+      "zh": "早期宇宙暴胀模型的发展",
+      "en": "Development of early cosmic-inflation models"
+    },
+    "year": 1980,
+    "precision": "range",
+    "type": "theory",
+    "field": "cosmos",
+    "people": [
+      "alan-guth",
+      "alexei-starobinsky",
+      "andrei-linde"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "早期加速膨胀为宇宙平坦性、视界及结构起源提供理论路线。",
+      "en": "Early accelerated expansion offered explanations for flatness, horizons, and primordial structure."
+    },
+    "sources": [
+      {
+        "title": "Cosmic inflation",
+        "url": "https://doi.org/10.1103/PhysRevD.23.347"
+      },
+      {
+        "title": "Linde: A New Inflationary Universe Scenario (1982)",
+        "url": "https://doi.org/10.1016/0370-2693(82)91219-9"
+      },
+      {
+        "title": "Starobinsky: A new type of isotropic cosmological models without singularity (1980)",
+        "url": "https://doi.org/10.1016/0370-2693(80)90670-X"
+      }
+    ],
+    "dateNote": {
+      "zh": "合并Starobinsky的1980年模型、Guth的1981年暴胀模型和Linde的1982年新暴胀路线，作为1980—1982年的单个里程碑族；按范围分摊而非集中记于1981年。具体暴胀机制尚无直接确证，重要性暂定。",
+      "en": "Combines Starobinsky’s 1980 model, Guth’s 1981 inflation model, and Linde’s 1982 new-inflation scenario as one 1980–1982 milestone family. Its score is spread over the interval rather than assigned solely to 1981. The specific mechanism is not directly established; importance remains provisional."
+    },
+    "status": "provisional",
+    "dateRange": [
+      1980,
+      1982
+    ]
+  },
+  {
+    "id": "integer-quantum-hall-effect",
+    "title": {
+      "zh": "整数量子霍尔效应",
+      "en": "The integer quantum Hall effect"
+    },
+    "year": 1980,
+    "precision": "year",
+    "type": "discovery",
+    "field": "matter",
+    "people": [
+      "klaus-von-klitzing"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "精确量子化的霍尔电阻连接拓扑物态与电阻计量。",
+      "en": "Precisely quantized Hall resistance linked quantum matter with electrical metrology."
+    },
+    "sources": [
+      {
+        "title": "The integer quantum Hall effect",
+        "url": "https://doi.org/10.1103/PhysRevLett.45.494"
+      },
+      {
+        "title": "NIST: Quantum Hall resistance and electrical metrology",
+        "url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=934044"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年。",
+      "en": "Dated by publication of the cited paper."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Gerhard Dorda",
+      "Michael Pepper"
+    ]
+  },
+  {
+    "id": "scanning-tunnelling-microscope",
+    "title": {
+      "zh": "扫描隧道显微镜",
+      "en": "The scanning tunnelling microscope"
+    },
+    "year": 1981,
+    "precision": "year",
+    "type": "method",
+    "field": "methods",
+    "people": [
+      "gerd-binnig",
+      "heinrich-rohrer"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "隧穿电流实现导电表面的原子尺度成像。",
+      "en": "Tunnelling currents enabled atomic-scale imaging of conducting surfaces."
+    },
+    "sources": [
+      {
+        "title": "The scanning tunnelling microscope",
+        "url": "https://doi.org/10.1103/PhysRevLett.49.57"
+      },
+      {
+        "title": "Scanning tunneling microscope — IBM history",
+        "url": "https://www.ibm.com/history/scanning-tunneling-microscope"
+      }
+    ],
+    "dateNote": {
+      "zh": "1981年首次运行，主要论文发表于1982年。",
+      "en": "First operated in 1981; principal publications appeared in 1982."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Christoph Gerber",
+      "Edmund Weibel"
+    ]
+  },
+  {
+    "id": "fractional-quantum-hall-effect",
+    "title": {
+      "zh": "分数量子霍尔效应",
+      "en": "The fractional quantum Hall effect"
+    },
+    "year": 1982,
+    "precision": "year",
+    "type": "discovery",
+    "field": "matter",
+    "people": [
+      "daniel-c-tsui",
+      "horst-ludwig-stormer",
+      "robert-b-laughlin"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "强关联电子产生分数量子化与分数电荷准粒子。",
+      "en": "Correlated electrons produced fractional quantization and fractionally charged quasiparticles."
+    },
+    "sources": [
+      {
+        "title": "The fractional quantum Hall effect",
+        "url": "https://doi.org/10.1103/PhysRevLett.48.1559"
+      },
+      {
+        "title": "Laughlin: Anomalous Quantum Hall Effect: An Incompressible Quantum Fluid with Fractionally Charged Excitations (1983)",
+        "url": "https://doi.org/10.1103/PhysRevLett.50.1395"
+      }
+    ],
+    "dateNote": {
+      "zh": "1982年发现，Laughlin于1983年提出解释。",
+      "en": "Discovered in 1982; Laughlin’s explanation followed in 1983."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Arthur Gossard"
+    ]
+  },
+  {
+    "id": "w-z-boson-discovery",
+    "title": {
+      "zh": "W与Z玻色子的发现",
+      "en": "Discovery of the W and Z bosons"
+    },
+    "year": 1983,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [
+      "carlo-rubbia",
+      "simon-van-der-meer"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "直接产生弱力媒介粒子，检验电弱统一的核心预言。",
+      "en": "Direct production tested a central prediction of electroweak unification."
+    },
+    "sources": [
+      {
+        "title": "Discovery of the W and Z bosons",
+        "url": "https://home.cern/carrying-weak-force-thirty-years-w-boson/"
+      },
+      {
+        "title": "W boson turns 40 — CERN (2023)",
+        "url": "https://home.cern/w-boson-turns-40/"
+      },
+      {
+        "title": "UA1: Experimental observation of isolated large transverse energy electrons with associated missing energy (1983)",
+        "url": "https://doi.org/10.1016/0370-2693(83)91177-2"
+      }
+    ],
+    "dateNote": {
+      "zh": "1983年W与Z的发现合为一次核心理论检验；不采用1984年获奖年。",
+      "en": "The 1983 W and Z discoveries are combined as one central test; the 1984 award is not used."
+    },
+    "status": "reviewed",
+    "groups": [
+      "UA1 collaboration",
+      "UA2 collaboration"
+    ]
+  },
+  {
+    "id": "bb84-quantum-key-distribution",
+    "title": {
+      "zh": "BB84量子密钥分发",
+      "en": "BB84 quantum key distribution"
+    },
+    "year": 1984,
+    "precision": "year",
+    "type": "method",
+    "field": "quantum",
+    "people": [
+      "charles-bennett"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "非正交量子态使窃听引入可检测扰动，奠定量子密码路线。",
+      "en": "Nonorthogonal states made eavesdropping disturbance detectable and founded a quantum-cryptography route."
+    },
+    "sources": [
+      {
+        "title": "BB84 quantum key distribution",
+        "url": "https://arxiv.org/abs/2003.06557"
+      }
+    ],
+    "dateNote": {
+      "zh": "原始会议论文发表于1984年；所链arXiv为作者上传的重印本。",
+      "en": "The original conference paper dates to 1984; the linked arXiv version is an author-posted reprint."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Gilles Brassard"
+    ]
+  },
+  {
+    "id": "berry-geometric-phase",
+    "title": {
+      "zh": "贝里几何相位",
+      "en": "Berry’s geometric phase"
+    },
+    "year": 1984,
+    "precision": "year",
+    "type": "theory",
+    "field": "quantum",
+    "people": [
+      "michael-berry"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "绝热循环的量子态可积累由参数空间几何决定的相位。",
+      "en": "Adiabatic cycles can acquire a phase determined by parameter-space geometry."
+    },
+    "sources": [
+      {
+        "title": "Berry’s geometric phase",
+        "url": "https://doi.org/10.1098/rspa.1984.0023"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文发表年。",
+      "en": "Dated by publication of the cited paper."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "chirped-pulse-amplification",
+    "title": {
+      "zh": "啁啾脉冲放大",
+      "en": "Chirped-pulse amplification"
+    },
+    "year": 1985,
+    "precision": "year",
+    "type": "method",
+    "field": "light",
+    "people": [
+      "donna-strickland",
+      "gerard-mourou"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "先展宽再放大压缩的方案突破超短激光的损伤限制。",
+      "en": "Stretching, amplifying, and recompressing pulses overcame damage limits for intense ultrashort lasers."
+    },
+    "sources": [
+      {
+        "title": "Chirped-pulse amplification",
+        "url": "https://doi.org/10.1016/0030-4018(85)90120-8"
+      }
+    ],
+    "dateNote": {
+      "zh": "1985年原文及勘正版本；链接为同年修订版本。",
+      "en": "The original and corrected versions appeared in 1985; the link is the corrected version."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "macroscopic-quantum-circuit",
+    "title": {
+      "zh": "宏观电路的量子隧穿与能级",
+      "en": "Quantum tunnelling and energy levels in macroscopic circuits"
+    },
+    "year": 1985,
+    "precision": "year",
+    "type": "discovery",
+    "field": "quantum",
+    "people": [
+      "john-clarke-physicist",
+      "michel-devoret",
+      "john-m-martinis"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "超导电路表现量子隧穿和离散能级，为电路量子技术奠基。",
+      "en": "Superconducting circuits displayed tunnelling and discrete levels, enabling circuit quantum technologies."
+    },
+    "sources": [
+      {
+        "title": "Quantum tunnelling and energy levels in macroscopic circuits",
+        "url": "https://doi.org/10.1103/PhysRevLett.55.1908"
+      }
+    ],
+    "dateNote": {
+      "zh": "1985年隧穿与能级实验合为一个电路量子化事件；不采用2025年获奖年。",
+      "en": "Related 1985 tunnelling and energy-level experiments are combined; the 2025 award is not used."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "optical-molasses-neutral-atoms",
+    "title": {
+      "zh": "中性原子的光学黏团冷却",
+      "en": "Optical molasses for neutral atoms"
+    },
+    "year": 1985,
+    "precision": "year",
+    "type": "method",
+    "field": "quantum",
+    "people": [
+      "steven-chu"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "多束激光阻尼原子运动，开辟可控超冷原子实验。",
+      "en": "Multiple laser beams damped atomic motion and enabled controlled ultracold-atom experiments."
+    },
+    "sources": [
+      {
+        "title": "Optical molasses for neutral atoms",
+        "url": "https://doi.org/10.1103/PhysRevLett.55.48"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文首次公开年。",
+      "en": "Dated by first public publication of the cited work."
+    },
+    "status": "reviewed",
+    "groups": [
+      "L. Hollberg",
+      "J. Bjorkholm",
+      "A. Cable",
+      "A. Ashkin"
+    ]
+  },
+  {
+    "id": "universal-quantum-computer",
+    "title": {
+      "zh": "通用量子计算机模型",
+      "en": "The universal quantum computer"
+    },
+    "year": 1985,
+    "precision": "year",
+    "type": "theory",
+    "field": "quantum",
+    "people": [
+      "david-deutsch"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "形式化可执行普适量子计算的计算模型。",
+      "en": "A formal model established universal quantum computation."
+    },
+    "sources": [
+      {
+        "title": "The universal quantum computer",
+        "url": "https://doi.org/10.1098/rspa.1985.0070"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文首次公开年。",
+      "en": "Dated by first public publication of the cited work."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "atomic-force-microscope",
+    "title": {
+      "zh": "原子力显微镜",
+      "en": "The atomic force microscope"
+    },
+    "year": 1986,
+    "precision": "year",
+    "type": "method",
+    "field": "methods",
+    "people": [
+      "gerd-binnig"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "力探针成像扩展到非导电表面的纳米结构。",
+      "en": "Force-based probes extended nanoscale imaging to insulating surfaces."
+    },
+    "sources": [
+      {
+        "title": "The atomic force microscope",
+        "url": "https://doi.org/10.1103/PhysRevLett.56.930"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文首次公开年。",
+      "en": "Dated by first public publication of the cited work."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Calvin Quate",
+      "Christoph Gerber"
+    ]
+  },
+  {
+    "id": "cuprate-high-temperature-superconductivity",
+    "title": {
+      "zh": "铜氧化物高温超导",
+      "en": "High-temperature superconductivity in cuprates"
+    },
+    "year": 1986,
+    "precision": "year",
+    "type": "discovery",
+    "field": "matter",
+    "people": [
+      "georg-bednorz",
+      "k-alex-muller"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "铜氧化物中超导温度突破传统预期，开辟强关联超导研究。",
+      "en": "Cuprates exceeded conventional temperature expectations and opened correlated-superconductor research."
+    },
+    "sources": [
+      {
+        "title": "High-temperature superconductivity in cuprates",
+        "url": "https://doi.org/10.1007/BF01303701"
+      },
+      {
+        "title": "IBM: High-temperature superconductivity",
+        "url": "https://www.ibm.com/history/high-temperature-super-conductors"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文首次公开年。",
+      "en": "Dated by first public publication of the cited work."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "supernova-neutrinos",
+    "title": {
+      "zh": "超新星1987A的中微子",
+      "en": "Neutrinos from supernova 1987A"
+    },
+    "year": 1987,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [
+      "masatoshi-koshiba"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "首次探测恒星坍缩中微子爆发，直接检验超新星核心机制。",
+      "en": "A stellar-collapse neutrino burst directly tested supernova-core physics."
+    },
+    "sources": [
+      {
+        "title": "Neutrinos from supernova 1987A",
+        "url": "https://doi.org/10.1103/PhysRevLett.58.1490"
+      }
+    ],
+    "dateNote": {
+      "zh": "1987年2月23日的多个探测器信号合并计一次。",
+      "en": "Signals in several detectors on 23 February 1987 are counted once."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Kamiokande-II",
+      "IMB",
+      "Baksan"
+    ]
+  },
+  {
+    "id": "giant-magnetoresistance",
+    "title": {
+      "zh": "巨磁电阻",
+      "en": "Giant magnetoresistance"
+    },
+    "year": 1988,
+    "precision": "year",
+    "type": "discovery",
+    "field": "matter",
+    "people": [
+      "albert-fert",
+      "peter-grunberg"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "自旋相关输运使磁多层膜电阻剧变，推动自旋电子学。",
+      "en": "Spin-dependent transport in magnetic multilayers drove spintronics."
+    },
+    "sources": [
+      {
+        "title": "Giant magnetoresistance",
+        "url": "https://doi.org/10.1103/PhysRevLett.61.2472"
+      }
+    ],
+    "dateNote": {
+      "zh": "1988年独立发现；Grünberg组完整PRB论文于1989年发表。",
+      "en": "Independent discoveries date to 1988; the Grünberg group’s full PRB paper appeared in 1989."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Fert and Grünberg research groups"
+    ]
+  },
+  {
+    "id": "efficient-blue-led",
+    "title": {
+      "zh": "高效蓝光LED的关键进展",
+      "en": "Key advances toward efficient blue LEDs"
+    },
+    "year": 1989,
+    "precision": "range",
+    "type": "method",
+    "field": "light",
+    "people": [
+      "isamu-akasaki",
+      "hiroshi-amano",
+      "shuji-nakamura"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "GaN的p型掺杂和异质结构解决高效蓝光发射关键难题。",
+      "en": "P-type GaN and heterostructures solved key barriers to efficient blue emission."
+    },
+    "sources": [
+      {
+        "title": "Key advances toward efficient blue LEDs",
+        "url": "https://ssleec.ucsb.edu/nakamura/publications"
+      }
+    ],
+    "dateNote": {
+      "zh": "1989年p型GaN至1993年高亮度异质结器件合并为一条技术路线。",
+      "en": "Combines p-type GaN in 1989 with bright heterostructure devices in 1993."
+    },
+    "status": "reviewed",
+    "groups": [
+      "GaN research teams"
+    ],
+    "dateRange": [
+      1989,
+      1993
+    ]
+  },
+  {
+    "id": "cobe-blackbody-spectrum",
+    "title": {
+      "zh": "COBE测得微波背景黑体谱",
+      "en": "COBE measures the CMB blackbody spectrum"
+    },
+    "year": 1990,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [
+      "john-c-mather"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "精密黑体谱验证宇宙早期的热平衡辐射图像。",
+      "en": "A precise blackbody spectrum tested the thermal early-universe picture."
+    },
+    "sources": [
+      {
+        "title": "COBE measures the CMB blackbody spectrum",
+        "url": "https://articles.adsabs.harvard.edu/pdf/1990ApJ...354L..37M"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文首次公开年。",
+      "en": "Dated by first public publication of the cited work."
+    },
+    "status": "reviewed",
+    "groups": [
+      "COBE FIRAS team"
+    ]
+  },
+  {
+    "id": "cobe-cmb-anisotropies",
+    "title": {
+      "zh": "COBE发现原初背景各向异性",
+      "en": "COBE detects primordial CMB anisotropies"
+    },
+    "year": 1992,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [
+      "george-smoot"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "探测大尺度温度涨落，把结构形成研究与早期宇宙相连。",
+      "en": "Large-scale temperature fluctuations connected structure formation with the early universe."
+    },
+    "sources": [
+      {
+        "title": "COBE detects primordial CMB anisotropies",
+        "url": "https://doi.org/10.1086/186504"
+      },
+      {
+        "title": "NASA LAMBDA: COBE overview and results",
+        "url": "https://lambda.gsfc.nasa.gov/product/cobe/"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文首次公开年。",
+      "en": "Dated by first public publication of the cited work."
+    },
+    "status": "reviewed",
+    "groups": [
+      "COBE DMR team"
+    ]
+  },
+  {
+    "id": "quantum-teleportation-protocol",
+    "title": {
+      "zh": "量子隐形传态协议",
+      "en": "The quantum teleportation protocol"
+    },
+    "year": 1993,
+    "precision": "year",
+    "type": "method",
+    "field": "quantum",
+    "people": [
+      "charles-bennett",
+      "asher-peres"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "纠缠与经典通信共同转移未知量子态，拓展量子通信范式。",
+      "en": "Entanglement and classical communication enabled transfer of an unknown quantum state."
+    },
+    "sources": [
+      {
+        "title": "The quantum teleportation protocol",
+        "url": "https://doi.org/10.1103/PhysRevLett.70.1895"
+      }
+    ],
+    "dateNote": {
+      "zh": "传递的是量子态，协议不允许超光速通信。",
+      "en": "The protocol transfers a quantum state and does not enable faster-than-light communication."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Gilles Brassard",
+      "Claude Crépeau",
+      "Richard Jozsa",
+      "William Wootters"
+    ]
+  },
+  {
+    "id": "shor-algorithm",
+    "title": {
+      "zh": "Shor量子算法",
+      "en": "Shor’s quantum algorithm"
+    },
+    "year": 1994,
+    "precision": "year",
+    "type": "method",
+    "field": "quantum",
+    "people": [
+      "peter-shor"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "量子计算可高效求整数分解和离散对数，显示复杂性优势。",
+      "en": "Efficient factoring and discrete logarithms demonstrated a quantum computational advantage in principle."
+    },
+    "sources": [
+      {
+        "title": "Shor’s quantum algorithm",
+        "url": "https://math.mit.edu/~shor/papers/algsfqc-dlf.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文首次公开年。",
+      "en": "Dated by first public publication of the cited work."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "dilute-gas-bose-einstein-condensation",
+    "title": {
+      "zh": "稀薄原子气体的玻色–爱因斯坦凝聚",
+      "en": "Bose–Einstein condensation in dilute atomic gases"
+    },
+    "year": 1995,
+    "precision": "year",
+    "type": "discovery",
+    "field": "quantum",
+    "people": [
+      "eric-allin-cornell",
+      "carl-wieman",
+      "wolfgang-ketterle"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "实现可操控的宏观相干原子物质波。",
+      "en": "Controllable macroscopic coherent atomic matter waves became experimentally accessible."
+    },
+    "sources": [
+      {
+        "title": "Bose–Einstein condensation in dilute atomic gases",
+        "url": "https://doi.org/10.1126/science.269.5221.198"
+      },
+      {
+        "title": "Davis et al.: Bose-Einstein Condensation in a Gas of Sodium Atoms (1995)",
+        "url": "https://doi.org/10.1103/PhysRevLett.75.3969"
+      }
+    ],
+    "dateNote": {
+      "zh": "1995年铷和钠原子实验合并计一次；氢凝聚等后续实现不重复计入。",
+      "en": "Rubidium and sodium demonstrations in 1995 are counted once; later species are not separate events."
+    },
+    "status": "reviewed",
+    "groups": [
+      "JILA rubidium team",
+      "MIT sodium team"
+    ]
+  },
+  {
+    "id": "exoplanet-solar-type-star",
+    "title": {
+      "zh": "类太阳恒星周围的系外行星",
+      "en": "An exoplanet orbiting a Sun-like star"
+    },
+    "year": 1995,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [
+      "michel-mayor",
+      "didier-queloz"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "51 Pegasi b开辟主序类太阳恒星系外行星研究。",
+      "en": "51 Pegasi b opened exoplanet studies around Sun-like main-sequence stars."
+    },
+    "sources": [
+      {
+        "title": "An exoplanet orbiting a Sun-like star",
+        "url": "https://www.nature.com/articles/378355a0"
+      }
+    ],
+    "dateNote": {
+      "zh": "仅指类太阳主序星；脉冲星行星于1992年已发现。",
+      "en": "Specifically a Sun-like main-sequence star; pulsar planets had been discovered in 1992."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "quantum-error-correction",
+    "title": {
+      "zh": "量子纠错码",
+      "en": "Quantum error-correcting codes"
+    },
+    "year": 1995,
+    "precision": "year",
+    "type": "method",
+    "field": "quantum",
+    "people": [
+      "peter-shor"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把量子信息编码为逻辑态，说明未知态也可抗局域误差。",
+      "en": "Encoding logical states showed that unknown quantum information could resist local errors."
+    },
+    "sources": [
+      {
+        "title": "Quantum error-correcting codes",
+        "url": "https://doi.org/10.1103/PhysRevA.52.R2493"
+      }
+    ],
+    "dateNote": {
+      "zh": "Shor首码于1995年发表；Steane等于1996年发展独立代码。",
+      "en": "Shor’s first code appeared in 1995; Steane and others developed independent codes in 1996."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Andrew Steane and subsequent code developers"
+    ]
+  },
+  {
+    "id": "top-quark-discovery",
+    "title": {
+      "zh": "顶夸克的发现",
+      "en": "Discovery of the top quark"
+    },
+    "year": 1995,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "Tevatron两实验补齐三代夸克谱系。",
+      "en": "Two Tevatron experiments completed the three-generation quark spectrum."
+    },
+    "sources": [
+      {
+        "title": "Discovery of the top quark",
+        "url": "https://doi.org/10.1103/PhysRevLett.74.2626"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文首次公开年。",
+      "en": "Dated by first public publication of the cited work."
+    },
+    "status": "reviewed",
+    "groups": [
+      "CDF collaboration",
+      "DØ collaboration"
+    ]
+  },
+  {
+    "id": "trapped-ion-quantum-gate",
+    "title": {
+      "zh": "受囚离子量子逻辑门",
+      "en": "A trapped-ion quantum logic gate"
+    },
+    "year": 1995,
+    "precision": "year",
+    "type": "method",
+    "field": "quantum",
+    "people": [
+      "david-j-wineland"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "离子内部态与运动耦合实现可控量子逻辑操作。",
+      "en": "Coupling internal and motional states enabled controlled quantum logic."
+    },
+    "sources": [
+      {
+        "title": "A trapped-ion quantum logic gate",
+        "url": "https://doi.org/10.1103/PhysRevLett.75.4714"
+      }
+    ],
+    "dateNote": {
+      "zh": "实验门与Cirac–Zoller同年方案相互关联；不是通用量子计算机已完成。",
+      "en": "The experiment accompanied the Cirac–Zoller proposal; it did not constitute a completed universal computer."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Christopher Monroe",
+      "D. M. Meekhof",
+      "B. E. King",
+      "W. M. Itano"
+    ]
+  },
+  {
+    "id": "ads-cft-correspondence",
+    "title": {
+      "zh": "AdS/CFT对应",
+      "en": "The AdS/CFT correspondence"
+    },
+    "year": 1997,
+    "precision": "year",
+    "type": "theory",
+    "field": "particle",
+    "people": [
+      "juan-maldacena"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "提出引力与低维量子场论对偶，为强耦合与量子引力提供工具。",
+      "en": "A gravity–field-theory duality supplied tools for strong coupling and quantum gravity."
+    },
+    "sources": [
+      {
+        "title": "The AdS/CFT correspondence",
+        "url": "https://arxiv.org/abs/hep-th/9711200"
+      },
+      {
+        "title": "Witten: Anti De Sitter Space And Holography (1998)",
+        "url": "https://arxiv.org/abs/hep-th/9802150"
+      }
+    ],
+    "dateNote": {
+      "zh": "1997年预印本，1998年期刊发表；对应关系有大量检验，但并非普遍数学证明或自然界实验确认。",
+      "en": "Preprint in 1997, journal publication in 1998; extensively tested as a conjectured duality, not universally proved or experimentally established in nature."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "experimental-quantum-teleportation",
+    "title": {
+      "zh": "光子量子隐形传态实验",
+      "en": "Experimental photon quantum teleportation"
+    },
+    "year": 1997,
+    "precision": "year",
+    "type": "discovery",
+    "field": "quantum",
+    "people": [
+      "anton-zeilinger"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "以纠缠光子验证量子态转移协议。",
+      "en": "Entangled photons experimentally demonstrated quantum-state transfer."
+    },
+    "sources": [
+      {
+        "title": "Experimental photon quantum teleportation",
+        "url": "https://www.nature.com/articles/37539"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文首次公开年。",
+      "en": "Dated by first public publication of the cited work."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Dik Bouwmeester",
+      "Jian-Wei Pan",
+      "Klaus Mattle",
+      "Manfred Eibl",
+      "Harald Weinfurter"
+    ]
+  },
+  {
+    "id": "accelerating-universe",
+    "title": {
+      "zh": "宇宙加速膨胀",
+      "en": "Accelerating expansion of the universe"
+    },
+    "year": 1998,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [
+      "saul-perlmutter",
+      "brian-schmidt",
+      "adam-riess"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "Ia型超新星距离关系显示晚期宇宙膨胀加速。",
+      "en": "Type-Ia supernova distances revealed accelerated late-time cosmic expansion."
+    },
+    "sources": [
+      {
+        "title": "Accelerating expansion of the universe",
+        "url": "https://doi.org/10.1086/300499"
+      },
+      {
+        "title": "Perlmutter et al.: Measurements of Omega and Lambda from 42 High-Redshift Supernovae (1999)",
+        "url": "https://doi.org/10.1086/307221"
+      }
+    ],
+    "dateNote": {
+      "zh": "1998年两组公开关键结果；Perlmutter组主要期刊论文发表于1999年。",
+      "en": "Both teams reported key results in 1998; the main Perlmutter-team journal paper appeared in 1999."
+    },
+    "status": "reviewed",
+    "groups": [
+      "High-z Supernova Search Team",
+      "Supernova Cosmology Project"
+    ]
+  },
+  {
+    "id": "neutrino-flavour-oscillations",
+    "title": {
+      "zh": "中微子振荡与味转变",
+      "en": "Neutrino oscillations and flavour transformation"
+    },
+    "year": 1998,
+    "precision": "range",
+    "type": "discovery",
+    "field": "particle",
+    "people": [
+      "takaaki-kajita",
+      "arthur-b-mcdonald"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "大气和太阳中微子的味变化证明中微子具有非零质量差。",
+      "en": "Atmospheric and solar flavour changes established nonzero neutrino mass differences."
+    },
+    "sources": [
+      {
+        "title": "Neutrino oscillations and flavour transformation",
+        "url": "https://doi.org/10.1103/PhysRevLett.81.1562"
+      },
+      {
+        "title": "SNO: Direct Evidence for Neutrino Flavor Transformation from Neutral-Current Interactions (2002)",
+        "url": "https://doi.org/10.1103/PhysRevLett.89.011301"
+      }
+    ],
+    "dateNote": {
+      "zh": "1998年大气振荡证据与2001—2002年太阳味转变证据合并为一个基础发现。",
+      "en": "Combines atmospheric evidence in 1998 with solar flavour transformation in 2001–2002 as one foundational discovery."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Super-Kamiokande collaboration",
+      "SNO collaboration"
+    ],
+    "dateRange": [
+      1998,
+      2002
+    ]
+  },
+  {
+    "id": "slow-light-ultracold-gas",
+    "title": {
+      "zh": "超冷原子中的慢光",
+      "en": "Slow light in an ultracold gas"
+    },
+    "year": 1999,
+    "precision": "year",
+    "type": "discovery",
+    "field": "light",
+    "people": [
+      "lene-hau"
+    ],
+    "weight": 1,
+    "rationale": {
+      "zh": "相干透明介质显著降低光脉冲群速度，推进光物质控制。",
+      "en": "Coherent transparency slowed optical group velocity and advanced light–matter control."
+    },
+    "sources": [
+      {
+        "title": "Slow light in an ultracold gas",
+        "url": "https://www.nature.com/articles/17561"
+      }
+    ],
+    "dateNote": {
+      "zh": "测量的是介质中的群速度；真空光速并未改变。",
+      "en": "The result concerns group velocity in a medium; vacuum light speed is unchanged."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Stephen Harris",
+      "Zachary Dutton",
+      "Cyrus Behroozi"
+    ]
+  },
+  {
+    "id": "tau-neutrino-discovery",
+    "title": {
+      "zh": "τ中微子的直接发现",
+      "en": "Direct observation of the tau neutrino"
+    },
+    "year": 2000,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [],
+    "weight": 1,
+    "rationale": {
+      "zh": "DONUT直接辨识τ中微子相互作用，补齐三味中微子。",
+      "en": "DONUT directly identified tau-neutrino interactions, completing the three-flavour set."
+    },
+    "sources": [
+      {
+        "title": "Direct observation of the tau neutrino",
+        "url": "https://doi.org/10.1016/S0370-2693(01)00307-0"
+      }
+    ],
+    "dateNote": {
+      "zh": "2000年宣布，论文发表于2001年。",
+      "en": "Announced in 2000; the paper was published in 2001."
+    },
+    "status": "reviewed",
+    "groups": [
+      "DONUT collaboration"
+    ]
+  },
+  {
+    "id": "attosecond-light-pulses",
+    "title": {
+      "zh": "阿秒光脉冲与测量",
+      "en": "Attosecond light pulses and metrology"
+    },
+    "year": 2001,
+    "precision": "year",
+    "type": "method",
+    "field": "light",
+    "people": [
+      "pierre-agostini",
+      "ferenc-krausz",
+      "paul-corkum",
+      "anne-l-huillier"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "阿秒脉冲列与孤立脉冲使电子运动的时间分辨测量成为可能。",
+      "en": "Pulse trains and isolated pulses enabled time-resolved studies of electronic motion."
+    },
+    "sources": [
+      {
+        "title": "Attosecond light pulses and metrology",
+        "url": "https://www.nature.com/articles/35107000"
+      }
+    ],
+    "dateNote": {
+      "zh": "2001年脉冲列与孤立脉冲两项独立实现合并；此前高次谐波研究为其基础。",
+      "en": "Independent pulse-train and isolated-pulse demonstrations in 2001 are combined; earlier high-harmonic work underpinned them."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Pierre Paul and collaborators",
+      "Max Hentschel and collaborators"
+    ]
+  },
+  {
+    "id": "ultracold-mott-transition",
+    "title": {
+      "zh": "光晶格中的量子相变",
+      "en": "A quantum phase transition in an optical lattice"
+    },
+    "year": 2002,
+    "precision": "year",
+    "type": "discovery",
+    "field": "quantum",
+    "people": [
+      "immanuel-bloch",
+      "theodor-w-hansch"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "可调原子体系实现超流体到Mott绝缘体转变，推进量子模拟。",
+      "en": "Tunable atoms realized a superfluid–Mott transition and advanced quantum simulation."
+    },
+    "sources": [
+      {
+        "title": "A quantum phase transition in an optical lattice",
+        "url": "https://doi.org/10.1038/415039a"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文首次公开年。",
+      "en": "Dated by first public publication of the cited work."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Markus Greiner",
+      "Olaf Mandel",
+      "Tilman Esslinger"
+    ]
+  },
+  {
+    "id": "fermionic-pair-condensation",
+    "title": {
+      "zh": "费米原子对凝聚",
+      "en": "Condensation of fermionic atom pairs"
+    },
+    "year": 2004,
+    "precision": "year",
+    "type": "discovery",
+    "field": "quantum",
+    "people": [
+      "deborah-s-jin"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "在可调相互作用的费米气体中连接分子凝聚与配对超流。",
+      "en": "Tunable Fermi gases connected molecular condensation with paired superfluidity."
+    },
+    "sources": [
+      {
+        "title": "Condensation of fermionic atom pairs",
+        "url": "https://doi.org/10.1103/PhysRevLett.92.040403"
+      }
+    ],
+    "dateNote": {
+      "zh": "采用2004年配对凝聚论文；2003年分子产生与分子BEC是相关前序成果。",
+      "en": "Dated to the 2004 pair-condensation paper; molecule creation and molecular BEC in 2003 were precursors."
+    },
+    "status": "reviewed",
+    "groups": [
+      "C. A. Regal",
+      "M. Greiner"
+    ]
+  },
+  {
+    "id": "graphene-isolation",
+    "title": {
+      "zh": "石墨烯电学器件",
+      "en": "Electrical devices from atomically thin graphene"
+    },
+    "year": 2004,
+    "precision": "year",
+    "type": "discovery",
+    "field": "matter",
+    "people": [
+      "andre-geim",
+      "konstantin-novoselov"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "稳定二维碳材料及其电场效应开辟二维电子体系研究。",
+      "en": "Stable atomically thin carbon and its field effect opened two-dimensional electronic-material research."
+    },
+    "sources": [
+      {
+        "title": "Electrical devices from atomically thin graphene",
+        "url": "https://doi.org/10.1126/science.1102896"
+      },
+      {
+        "title": "Novoselov et al.: Two-dimensional gas of massless Dirac fermions in graphene (2005)",
+        "url": "https://www.nature.com/articles/nature04233"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文首次公开年。",
+      "en": "Dated by first public publication of the cited work."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Manchester–Chernogolovka collaboration"
+    ]
+  },
+  {
+    "id": "numerical-black-hole-merger",
+    "title": {
+      "zh": "数值模拟完整双黑洞合并",
+      "en": "Numerical evolution of a binary black-hole merger"
+    },
+    "year": 2005,
+    "precision": "year",
+    "type": "method",
+    "field": "cosmos",
+    "people": [
+      "frans-pretorius"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "稳定演化穿过合并与铃宕，建立引力波波形计算路线。",
+      "en": "Stable merger and ringdown evolution opened reliable gravitational-wave waveform calculations."
+    },
+    "sources": [
+      {
+        "title": "Numerical evolution of a binary black-hole merger",
+        "url": "https://doi.org/10.1103/PhysRevLett.95.121101"
+      }
+    ],
+    "dateNote": {
+      "zh": "2005年首次成功演化；2005—2006年其他团队的移动穿刺方法进一步推进。",
+      "en": "Dated to the first successful evolution in 2005; moving-puncture methods followed in 2005–2006."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "strongly-coupled-quark-gluon-plasma",
+    "title": {
+      "zh": "强耦合夸克–胶子等离子体",
+      "en": "Strongly coupled quark–gluon plasma"
+    },
+    "year": 2005,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "RHIC重离子结果显示热QCD物质可呈近理想液体行为。",
+      "en": "RHIC results showed hot QCD matter behaving as a nearly ideal liquid."
+    },
+    "sources": [
+      {
+        "title": "Strongly coupled quark–gluon plasma",
+        "url": "https://www.bnl.gov/newsroom/news.php?a=222753"
+      }
+    ],
+    "dateNote": {
+      "zh": "2005年四合作组评述确认新物质及强耦合特征；并非把此前所有重离子证据抹去。",
+      "en": "Dated to the four RHIC assessments in 2005, following earlier heavy-ion evidence."
+    },
+    "status": "reviewed",
+    "groups": [
+      "BRAHMS",
+      "PHENIX",
+      "PHOBOS",
+      "STAR"
+    ]
+  },
+  {
+    "id": "quantum-spin-hall-insulator",
+    "title": {
+      "zh": "量子自旋霍尔绝缘体",
+      "en": "The quantum spin Hall insulator"
+    },
+    "year": 2007,
+    "precision": "year",
+    "type": "discovery",
+    "field": "matter",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "HgTe量子阱实现零外磁场下具有边缘导电态的拓扑相。",
+      "en": "HgTe quantum wells realized a topological phase with conducting edges at zero magnetic field."
+    },
+    "sources": [
+      {
+        "title": "The quantum spin Hall insulator",
+        "url": "https://doi.org/10.1126/science.1148047"
+      }
+    ],
+    "dateNote": {
+      "zh": "采用2007年实验验证；相关理论发表于2005—2006年。",
+      "en": "Dated to experimental verification in 2007, following theory in 2005–2006."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Markus König and collaborators",
+      "Bernevig–Hughes–Zhang theory team"
+    ]
+  },
+  {
+    "id": "higgs-boson-discovery",
+    "title": {
+      "zh": "希格斯玻色子的发现",
+      "en": "Discovery of the Higgs boson"
+    },
+    "year": 2012,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [
+      "fabiola-gianotti"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "两实验发现与希格斯机制预期相符的新玻色子，完成标准模型关键检验。",
+      "en": "Two experiments found the boson associated with the Higgs mechanism, completing a central Standard Model test."
+    },
+    "sources": [
+      {
+        "title": "Discovery of the Higgs boson",
+        "url": "https://atlas.cern/updates/news/atlas-higgs-search-update"
+      },
+      {
+        "title": "CMS: Observation of a New Boson at a Mass of 125 GeV (2012)",
+        "url": "https://doi.org/10.1016/j.physletb.2012.08.021"
+      },
+      {
+        "title": "ATLAS: Observation of a new particle in the search for the Standard Model Higgs boson (2012)",
+        "url": "https://doi.org/10.1016/j.physletb.2012.08.020"
+      }
+    ],
+    "dateNote": {
+      "zh": "首次公开为2012年7月4日；两合作组共同成果，仅计一次，个人关联不代表全部作者。",
+      "en": "First announced on 4 July 2012; the two collaborations are counted once, and linked individuals do not represent all authors."
+    },
+    "status": "reviewed",
+    "groups": [
+      "ATLAS collaboration",
+      "CMS collaboration"
+    ]
+  },
+  {
+    "id": "icecube-astrophysical-neutrinos",
+    "title": {
+      "zh": "高能天体中微子的发现",
+      "en": "High-energy astrophysical neutrinos"
+    },
+    "year": 2013,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [
+      "francis-halzen"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "IceCube建立地外高能中微子通量，开辟高能中微子天文学。",
+      "en": "IceCube established an extraterrestrial high-energy flux, opening high-energy neutrino astronomy."
+    },
+    "sources": [
+      {
+        "title": "High-energy astrophysical neutrinos",
+        "url": "https://doi.org/10.1126/science.1242856"
+      }
+    ],
+    "dateNote": {
+      "zh": "按2013年论文；数据取自2010—2012年，不采用后来的获奖年。",
+      "en": "Dated to the 2013 paper using 2010–2012 data, not a later award."
+    },
+    "status": "reviewed",
+    "groups": [
+      "IceCube collaboration"
+    ]
+  },
+  {
+    "id": "loophole-free-bell-tests",
+    "title": {
+      "zh": "同时关闭主要漏洞的贝尔检验",
+      "en": "Loophole-free Bell tests"
+    },
+    "year": 2015,
+    "precision": "year",
+    "type": "discovery",
+    "field": "quantum",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "实验同时处理局域性与探测漏洞，强化量子非局域关联证据。",
+      "en": "Tests addressed locality and detection loopholes together, strengthening quantum-correlation evidence."
+    },
+    "sources": [
+      {
+        "title": "Loophole-free Bell tests",
+        "url": "https://doi.org/10.1038/nature15759"
+      }
+    ],
+    "dateNote": {
+      "zh": "2015年多组独立实验合并计一次；“无漏洞”指特定主要实验漏洞。",
+      "en": "Independent 2015 demonstrations are counted once; “loophole-free” concerns specified major experimental loopholes."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Delft team",
+      "NIST team",
+      "Vienna team"
+    ]
+  },
+  {
+    "id": "weyl-semimetal-discovery",
+    "title": {
+      "zh": "Weyl半金属的实验发现",
+      "en": "Experimental discovery of Weyl semimetals"
+    },
+    "year": 2015,
+    "precision": "year",
+    "type": "discovery",
+    "field": "matter",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "晶体中的Weyl准粒子与费米弧连接拓扑能带和输运。",
+      "en": "Weyl quasiparticles and Fermi arcs connected topological bands with transport."
+    },
+    "sources": [
+      {
+        "title": "Experimental discovery of Weyl semimetals",
+        "url": "https://doi.org/10.1126/science.aaa9297"
+      }
+    ],
+    "dateNote": {
+      "zh": "此处为凝聚态准粒子，不是发现新的基本Weyl粒子。",
+      "en": "These are condensed-matter quasiparticles, not newly discovered fundamental Weyl particles."
+    },
+    "status": "reviewed",
+    "groups": [
+      "S.-Y. Xu and collaborators",
+      "B. Q. Lv and collaborators"
+    ]
+  },
+  {
+    "id": "direct-gravitational-wave-detection",
+    "title": {
+      "zh": "引力波的首次直接探测",
+      "en": "The first direct detection of gravitational waves"
+    },
+    "year": 2016,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [
+      "rainer-weiss",
+      "kip-thorne",
+      "barry-barish",
+      "nergis-mavalvala"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "双黑洞信号直接验证动态时空辐射，开启引力波天文学。",
+      "en": "A binary-black-hole signal established dynamical spacetime radiation and gravitational-wave astronomy."
+    },
+    "sources": [
+      {
+        "title": "The first direct detection of gravitational waves",
+        "url": "https://doi.org/10.1103/PhysRevLett.116.061102"
+      },
+      {
+        "title": "LIGO: Gravitational Waves Detected 100 Years After Einstein’s Prediction",
+        "url": "https://ligo.org/gravitational-waves-detected-100-years-after-einsteins-general-relativity/"
+      }
+    ],
+    "dateNote": {
+      "zh": "信号于2015年9月14日检测；首次公开与论文为2016年2月11日，轴采用2016年。",
+      "en": "Detected on 14 September 2015; first announcement and publication were on 11 February 2016, which sets the event year."
+    },
+    "status": "reviewed",
+    "groups": [
+      "LIGO Scientific Collaboration",
+      "Virgo Collaboration"
+    ]
+  },
+  {
+    "id": "binary-neutron-star-multimessenger",
+    "title": {
+      "zh": "双中子星合并的多信使观测",
+      "en": "Multi-messenger observations of a neutron-star merger"
+    },
+    "year": 2017,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "引力波、γ射线和千新星关联检验中子星合并及重元素起源。",
+      "en": "Gravitational waves, gamma rays, and a kilonova tested merger physics and heavy-element origins."
+    },
+    "sources": [
+      {
+        "title": "Multi-messenger observations of a neutron-star merger",
+        "url": "https://doi.org/10.3847/2041-8213/aa91c9"
+      }
+    ],
+    "dateNote": {
+      "zh": "2017年8月17日观测，10月16日联合公开。",
+      "en": "Observed on 17 August 2017 and jointly announced on 16 October."
+    },
+    "status": "reviewed",
+    "groups": [
+      "LIGO–Virgo",
+      "Fermi and INTEGRAL",
+      "Global electromagnetic follow-up teams"
+    ]
+  },
+  {
+    "id": "magic-angle-twisted-graphene",
+    "title": {
+      "zh": "魔角扭转石墨烯的超导",
+      "en": "Superconductivity in magic-angle twisted graphene"
+    },
+    "year": 2018,
+    "precision": "year",
+    "type": "discovery",
+    "field": "matter",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "可调莫尔能带产生关联绝缘与超导，开辟扭转电子学。",
+      "en": "Tunable moiré bands produced correlated insulation and superconductivity, opening twistronics."
+    },
+    "sources": [
+      {
+        "title": "Superconductivity in magic-angle twisted graphene",
+        "url": "https://www.nature.com/articles/nature26160"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文首次公开年。",
+      "en": "Dated by first public publication of the cited work."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Yuan Cao",
+      "Pablo Jarillo-Herrero and collaborators"
+    ]
+  },
+  {
+    "id": "event-horizon-telescope-m87",
+    "title": {
+      "zh": "M87黑洞阴影成像",
+      "en": "Imaging the M87 black-hole shadow"
+    },
+    "year": 2019,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [],
+    "weight": 4,
+    "rationale": {
+      "zh": "地球尺度毫米波干涉测量解析黑洞附近的亮环与阴影。",
+      "en": "Earth-scale millimetre interferometry resolved a bright ring and shadow near a black hole."
+    },
+    "sources": [
+      {
+        "title": "Imaging the M87 black-hole shadow",
+        "url": "https://doi.org/10.3847/2041-8213/ab0ec7"
+      },
+      {
+        "title": "ESO: First Image of a Black Hole (10 April 2019)",
+        "url": "https://www.eso.org/public/news/eso1907/"
+      }
+    ],
+    "dateNote": {
+      "zh": "数据采于2017年；首次公开图像为2019年4月10日，轴采用2019年。",
+      "en": "Data were collected in 2017; the first public image was released on 10 April 2019."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Event Horizon Telescope collaboration"
+    ]
+  },
+  {
+    "id": "solar-cno-neutrinos",
+    "title": {
+      "zh": "太阳CNO循环中微子的探测",
+      "en": "Detection of solar CNO-cycle neutrinos"
+    },
+    "year": 2020,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [],
+    "weight": 1,
+    "rationale": {
+      "zh": "直接测得CNO燃烧链的中微子证据，检验恒星核反应。",
+      "en": "Neutrino evidence for CNO burning directly tested stellar nuclear reactions."
+    },
+    "sources": [
+      {
+        "title": "Detection of solar CNO-cycle neutrinos",
+        "url": "https://doi.org/10.1038/s41586-020-2934-0"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引论文首次公开年。",
+      "en": "Dated by first public publication of the cited work."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Borexino collaboration"
+    ]
+  },
+  {
+    "id": "fusion-target-ignition",
+    "title": {
+      "zh": "惯性约束聚变靶增益超过一",
+      "en": "Inertial-fusion target gain above unity"
+    },
+    "year": 2022,
+    "precision": "year",
+    "type": "method",
+    "field": "particle",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "NIF靶丸聚变能量首次超过入射激光能，验证燃烧等离子体路线。",
+      "en": "NIF fusion output first exceeded incident laser energy, advancing burning-plasma experiments."
+    },
+    "sources": [
+      {
+        "title": "Inertial-fusion target gain above unity",
+        "url": "https://www.llnl.gov/news/ignition"
+      }
+    ],
+    "dateNote": {
+      "zh": "2022年12月5日实验，12月13日宣布；仅为靶丸层面的能量增益，不是整设施净发电。",
+      "en": "Experiment on 5 December 2022, announced on 13 December; this is target gain, not facility-wide net electricity."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Lawrence Livermore National Laboratory",
+      "NIF collaboration"
+    ]
+  },
+  {
+    "id": "nanohertz-gravitational-wave-evidence",
+    "title": {
+      "zh": "纳赫兹引力波背景的证据",
+      "en": "Evidence for a nanohertz gravitational-wave background"
+    },
+    "year": 2023,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "脉冲星到达时刻的相关结构开启纳赫兹引力波观测窗口。",
+      "en": "Correlated pulsar timing opened the nanohertz gravitational-wave observational window."
+    },
+    "sources": [
+      {
+        "title": "Evidence for a nanohertz gravitational-wave background",
+        "url": "https://nanograv.org/15yr/Summary/Background"
+      }
+    ],
+    "dateNote": {
+      "zh": "2023年多组报告统计证据；背景天体来源和谱细节仍在检验，重要性暂定。",
+      "en": "Several arrays reported statistical evidence in 2023; source populations and spectral details remain under study, so importance is provisional."
+    },
+    "status": "provisional",
+    "groups": [
+      "NANOGrav",
+      "EPTA and InPTA",
+      "PPTA",
+      "CPTA"
+    ]
+  },
+  {
+    "id": "below-threshold-quantum-error-correction",
+    "title": {
+      "zh": "低于阈值的表面码量子纠错",
+      "en": "Below-threshold surface-code quantum error correction"
+    },
+    "year": 2024,
+    "precision": "year",
+    "type": "method",
+    "field": "quantum",
+    "people": [],
+    "weight": 1,
+    "rationale": {
+      "zh": "扩大逻辑存储码可降低错误率，为可扩展容错计算提供实验依据。",
+      "en": "Larger logical memory codes reduced errors, supporting scalable fault-tolerant computation."
+    },
+    "sources": [
+      {
+        "title": "Below-threshold surface-code quantum error correction",
+        "url": "https://doi.org/10.1038/s41586-024-08449-y"
+      },
+      {
+        "title": "Author Correction (28 April 2026)",
+        "url": "https://www.nature.com/articles/s41586-026-10559-8"
+      }
+    ],
+    "dateNote": {
+      "zh": "2024年12月9日在线发表、2025年卷期；2026年更正图3a的重复码横轴及图例标签。此项记录逻辑存储实验，长期影响暂定。",
+      "en": "Online publication on 9 December 2024, in a 2025 issue; a 2026 correction fixed repetition-code axis and legend labels in Fig. 3a. This records a logical-memory experiment; long-term impact remains provisional."
+    },
+    "status": "provisional",
+    "groups": [
+      "Google Quantum AI and collaborators"
+    ]
+  },
+  {
+    "id": "baryon-cp-violation",
+    "title": {
+      "zh": "重子衰变中的CP破坏",
+      "en": "CP violation in baryon decays"
+    },
+    "year": 2025,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [],
+    "weight": 1,
+    "rationale": {
+      "zh": "Λb衰变首次达到重子CP破坏的观测标准，扩展味物理检验。",
+      "en": "Lambda-b decays established baryonic CP violation and extended flavour-physics tests."
+    },
+    "sources": [
+      {
+        "title": "CP violation in baryon decays",
+        "url": "https://www.nature.com/articles/s41586-025-09119-3"
+      }
+    ],
+    "dateNote": {
+      "zh": "2025年3月公开，7月发表；是CP破坏的新体系观测，非标准模型之外的证明，重要性暂定。",
+      "en": "Announced in March 2025 and published in July; this extends CP tests to baryons and does not establish physics beyond the Standard Model."
+    },
+    "status": "provisional",
+    "groups": [
+      "LHCb collaboration"
+    ]
+  }
+]

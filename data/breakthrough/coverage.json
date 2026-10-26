@@ -1,0 +1,1404 @@
+{
+  "asOf": "2026-10-26",
+  "counts": {
+    "events": 342,
+    "dated": 332,
+    "indexDated": 329,
+    "linkedPeople": 373,
+    "totalPeople": 721
+  },
+  "unanchored": [
+    {
+      "id": "thales",
+      "name": "泰勒斯"
+    },
+    {
+      "id": "mozi",
+      "name": "墨子"
+    },
+    {
+      "id": "aristotle",
+      "name": "亚里士多德"
+    },
+    {
+      "id": "aristarchus-of-samos",
+      "name": "阿里斯塔克斯"
+    },
+    {
+      "id": "hero-of-alexandria",
+      "name": "希罗"
+    },
+    {
+      "id": "hypatia",
+      "name": "希帕蒂娅"
+    },
+    {
+      "id": "al-kindi",
+      "name": "肯迪"
+    },
+    {
+      "id": "thabit-ibn-qurra",
+      "name": "萨比特·伊本·库拉"
+    },
+    {
+      "id": "al-biruni",
+      "name": "比鲁尼"
+    },
+    {
+      "id": "avicenna",
+      "name": "伊本·西那（阿维森纳）"
+    },
+    {
+      "id": "al-khazini",
+      "name": "哈齐尼"
+    },
+    {
+      "id": "robert-grosseteste",
+      "name": "罗伯特·格罗斯泰斯特"
+    },
+    {
+      "id": "nasir-al-din-al-tusi",
+      "name": "纳西尔丁·图西"
+    },
+    {
+      "id": "witelo",
+      "name": "维特罗"
+    },
+    {
+      "id": "theodoric-of-freiberg",
+      "name": "弗赖贝格的狄奥多里克"
+    },
+    {
+      "id": "kamal-al-din-al-farisi",
+      "name": "卡迈勒丁·法里西"
+    },
+    {
+      "id": "jean-buridan",
+      "name": "让·布里丹"
+    },
+    {
+      "id": "nicole-oresme",
+      "name": "尼科尔·奥雷姆"
+    },
+    {
+      "id": "thomas-harriot",
+      "name": "托马斯·哈里奥特"
+    },
+    {
+      "id": "pierre-gassendi",
+      "name": "皮埃尔·伽桑狄"
+    },
+    {
+      "id": "otto-von-guericke",
+      "name": "奥托·冯·格里克"
+    },
+    {
+      "id": "edme-mariotte",
+      "name": "埃德姆·马略特"
+    },
+    {
+      "id": "jacob-bernoulli",
+      "name": "雅各布·伯努利"
+    },
+    {
+      "id": "johann-bernoulli",
+      "name": "约翰·伯努利"
+    },
+    {
+      "id": "brook-taylor",
+      "name": "布鲁克·泰勒"
+    },
+    {
+      "id": "colin-maclaurin",
+      "name": "科林·麦克劳林"
+    },
+    {
+      "id": "pierre-louis-maupertuis",
+      "name": "皮埃尔·路易·莫佩尔蒂"
+    },
+    {
+      "id": "laura-bassi",
+      "name": "劳拉·巴西"
+    },
+    {
+      "id": "mikhail-lomonosov",
+      "name": "米哈伊尔·罗蒙诺索夫"
+    },
+    {
+      "id": "john-michell",
+      "name": "约翰·米歇尔"
+    },
+    {
+      "id": "rene-just-hauy",
+      "name": "勒内·朱斯特·阿维"
+    },
+    {
+      "id": "gaspard-monge",
+      "name": "加斯帕尔·蒙日"
+    },
+    {
+      "id": "giovanni-battista-venturi",
+      "name": "乔瓦尼·巴蒂斯塔·文丘里"
+    },
+    {
+      "id": "jacques-charles",
+      "name": "雅克·夏尔"
+    },
+    {
+      "id": "pierre-prevost",
+      "name": "皮埃尔·普雷沃斯特"
+    },
+    {
+      "id": "adrien-marie-legendre",
+      "name": "阿德里安·玛丽·勒让德"
+    },
+    {
+      "id": "jean-baptiste-biot",
+      "name": "让·巴蒂斯特·毕奥"
+    },
+    {
+      "id": "andre-marie-ampere",
+      "name": "安德烈·玛丽·安培"
+    },
+    {
+      "id": "henry-kater",
+      "name": "亨利·卡特"
+    },
+    {
+      "id": "joseph-louis-gay-lussac",
+      "name": "约瑟夫·路易·盖-吕萨克"
+    },
+    {
+      "id": "humphry-davy",
+      "name": "汉弗里·戴维"
+    },
+    {
+      "id": "mary-somerville",
+      "name": "玛丽·萨默维尔"
+    },
+    {
+      "id": "simeon-denis-poisson",
+      "name": "西梅翁·德尼·泊松"
+    },
+    {
+      "id": "friedrich-bessel",
+      "name": "弗里德里希·贝塞尔"
+    },
+    {
+      "id": "jean-charles-athanase-peltier",
+      "name": "让·夏尔·阿塔纳斯·珀耳帖"
+    },
+    {
+      "id": "francois-arago",
+      "name": "弗朗索瓦·阿拉戈"
+    },
+    {
+      "id": "augustin-jean-fresnel",
+      "name": "奥古斯丁·让·菲涅耳"
+    },
+    {
+      "id": "augustin-louis-cauchy",
+      "name": "奥古斯丁·路易·柯西"
+    },
+    {
+      "id": "felix-savart",
+      "name": "费利克斯·萨伐尔"
+    },
+    {
+      "id": "franz-ernst-neumann",
+      "name": "弗朗茨·恩斯特·诺伊曼"
+    },
+    {
+      "id": "julius-plucker",
+      "name": "尤利乌斯·普吕克尔"
+    },
+    {
+      "id": "george-biddell-airy",
+      "name": "乔治·比德尔·艾里"
+    },
+    {
+      "id": "joseph-plateau",
+      "name": "约瑟夫·普拉托"
+    },
+    {
+      "id": "charles-wheatstone",
+      "name": "查尔斯·惠斯通"
+    },
+    {
+      "id": "heinrich-gustav-magnus",
+      "name": "古斯塔夫·马格努斯"
+    },
+    {
+      "id": "heinrich-wilhelm-dove",
+      "name": "海因里希·威廉·多夫"
+    },
+    {
+      "id": "heinrich-lenz",
+      "name": "海因里希·楞次"
+    },
+    {
+      "id": "wilhelm-eduard-weber",
+      "name": "威廉·爱德华·韦伯"
+    },
+    {
+      "id": "carl-gustav-jacob-jacobi",
+      "name": "卡尔·古斯塔夫·雅可比"
+    },
+    {
+      "id": "joseph-petzval",
+      "name": "约瑟夫·佩兹伐尔"
+    },
+    {
+      "id": "joseph-liouville",
+      "name": "约瑟夫·刘维尔"
+    },
+    {
+      "id": "hermann-grassmann",
+      "name": "赫尔曼·格拉斯曼"
+    },
+    {
+      "id": "rudolf-kohlrausch",
+      "name": "鲁道夫·科尔劳施"
+    },
+    {
+      "id": "henri-victor-regnault",
+      "name": "亨利·维克托·勒尼奥"
+    },
+    {
+      "id": "john-william-draper",
+      "name": "约翰·威廉·德雷珀"
+    },
+    {
+      "id": "william-robert-grove",
+      "name": "威廉·罗伯特·格罗夫"
+    },
+    {
+      "id": "heinrich-geissler",
+      "name": "海因里希·盖斯勒"
+    },
+    {
+      "id": "anders-jonas-angstrom",
+      "name": "安德斯·约纳斯·埃格斯特朗"
+    },
+    {
+      "id": "werner-von-siemens",
+      "name": "维尔纳·冯·西门子"
+    },
+    {
+      "id": "hippolyte-fizeau",
+      "name": "伊波利特·斐索"
+    },
+    {
+      "id": "alexandre-edmond-becquerel",
+      "name": "亚历山大·埃德蒙·贝克勒尔"
+    },
+    {
+      "id": "william-john-macquorn-rankine",
+      "name": "威廉·约翰·麦夸恩·兰金"
+    },
+    {
+      "id": "john-tyndall",
+      "name": "约翰·廷德尔"
+    },
+    {
+      "id": "johann-josef-loschmidt",
+      "name": "约翰·约瑟夫·洛施密特"
+    },
+    {
+      "id": "johann-wilhelm-hittorf",
+      "name": "约翰·威廉·希托夫"
+    },
+    {
+      "id": "carl-anton-bjerknes",
+      "name": "卡尔·安东·比耶克内斯"
+    },
+    {
+      "id": "bernhard-riemann",
+      "name": "伯恩哈德·黎曼"
+    },
+    {
+      "id": "balfour-stewart",
+      "name": "巴尔福·斯图尔特"
+    },
+    {
+      "id": "carl-gottfried-neumann",
+      "name": "卡尔·戈特弗里德·诺伊曼"
+    },
+    {
+      "id": "william-crookes",
+      "name": "威廉·克鲁克斯"
+    },
+    {
+      "id": "louis-paul-cailletet",
+      "name": "路易·保罗·卡耶泰"
+    },
+    {
+      "id": "norman-lockyer",
+      "name": "诺曼·洛克耶"
+    },
+    {
+      "id": "ernst-mach",
+      "name": "恩斯特·马赫"
+    },
+    {
+      "id": "august-kundt",
+      "name": "奥古斯特·孔特"
+    },
+    {
+      "id": "friedrich-kohlrausch",
+      "name": "弗里德里希·科尔劳施"
+    },
+    {
+      "id": "alfred-cornu",
+      "name": "阿尔弗雷德·科尔纽"
+    },
+    {
+      "id": "joseph-boussinesq",
+      "name": "约瑟夫·布西涅斯克"
+    },
+    {
+      "id": "james-dewar",
+      "name": "詹姆斯·杜瓦"
+    },
+    {
+      "id": "gabriel-lippmann",
+      "name": "加布里埃尔·李普曼"
+    },
+    {
+      "id": "emil-warburg",
+      "name": "埃米尔·瓦尔堡"
+    },
+    {
+      "id": "raoul-pictet",
+      "name": "拉乌尔·皮克泰"
+    },
+    {
+      "id": "thomas-edison",
+      "name": "托马斯·爱迪生"
+    },
+    {
+      "id": "lorand-eotvos",
+      "name": "洛兰德·厄特沃什"
+    },
+    {
+      "id": "margaret-lindsay-huggins",
+      "name": "玛格丽特·林赛·哈金斯"
+    },
+    {
+      "id": "henry-augustus-rowland",
+      "name": "亨利·奥古斯都·罗兰"
+    },
+    {
+      "id": "john-ambrose-fleming",
+      "name": "约翰·安布罗斯·弗莱明"
+    },
+    {
+      "id": "sofya-kovalevskaya",
+      "name": "索菲娅·柯瓦列夫斯卡娅"
+    },
+    {
+      "id": "oliver-heaviside",
+      "name": "奥利弗·赫维赛德"
+    },
+    {
+      "id": "karl-ferdinand-braun",
+      "name": "卡尔·费迪南德·布劳恩"
+    },
+    {
+      "id": "augusto-righi",
+      "name": "奥古斯托·里吉"
+    },
+    {
+      "id": "woldemar-voigt",
+      "name": "沃尔德马·福格特"
+    },
+    {
+      "id": "oliver-lodge",
+      "name": "奥利弗·洛奇"
+    },
+    {
+      "id": "george-francis-fitzgerald",
+      "name": "乔治·弗朗西斯·菲茨杰拉德"
+    },
+    {
+      "id": "arthur-schuster",
+      "name": "阿瑟·舒斯特"
+    },
+    {
+      "id": "louis-georges-gouy",
+      "name": "路易·乔治·古伊"
+    },
+    {
+      "id": "henri-poincare",
+      "name": "亨利·庞加莱"
+    },
+    {
+      "id": "hendrik-willem-bakhuis-roozeboom",
+      "name": "亨德里克·威廉·巴克豪斯·罗泽布姆"
+    },
+    {
+      "id": "johannes-rydberg",
+      "name": "约翰内斯·里德伯"
+    },
+    {
+      "id": "julius-elster",
+      "name": "尤利乌斯·埃尔斯特"
+    },
+    {
+      "id": "c-v-boys",
+      "name": "查尔斯·弗农·博伊斯"
+    },
+    {
+      "id": "james-alfred-ewing",
+      "name": "詹姆斯·阿尔弗雷德·尤因"
+    },
+    {
+      "id": "hans-geitel",
+      "name": "汉斯·盖特尔"
+    },
+    {
+      "id": "nikola-tesla",
+      "name": "尼古拉·特斯拉"
+    },
+    {
+      "id": "carl-runge",
+      "name": "卡尔·龙格"
+    },
+    {
+      "id": "aikitsu-tanakadate",
+      "name": "田中馆爱橘"
+    },
+    {
+      "id": "knut-angstrom",
+      "name": "克努特·埃格斯特朗"
+    },
+    {
+      "id": "williamina-fleming",
+      "name": "威廉敏娜·弗莱明"
+    },
+    {
+      "id": "joseph-larmor",
+      "name": "约瑟夫·拉莫尔"
+    },
+    {
+      "id": "ferdinand-kurlbaum",
+      "name": "费迪南德·库尔鲍姆"
+    },
+    {
+      "id": "jagadish-chandra-bose",
+      "name": "贾加迪什·钱德拉·玻色"
+    },
+    {
+      "id": "svante-arrhenius",
+      "name": "斯万特·阿伦尼乌斯"
+    },
+    {
+      "id": "charles-edouard-guillaume",
+      "name": "夏尔·纪尧姆"
+    },
+    {
+      "id": "pierre-duhem",
+      "name": "皮埃尔·迪昂"
+    },
+    {
+      "id": "vilhelm-bjerknes",
+      "name": "威廉·比耶克内斯"
+    },
+    {
+      "id": "philipp-lenard",
+      "name": "菲利普·莱纳德"
+    },
+    {
+      "id": "william-henry-bragg",
+      "name": "威廉·亨利·布拉格"
+    },
+    {
+      "id": "annie-jump-cannon",
+      "name": "安妮·詹普·坎农"
+    },
+    {
+      "id": "wilhelm-wien",
+      "name": "威廉·维恩"
+    },
+    {
+      "id": "walther-nernst",
+      "name": "瓦尔特·能斯特"
+    },
+    {
+      "id": "friedrich-paschen",
+      "name": "弗里德里希·帕邢"
+    },
+    {
+      "id": "heinrich-rubens",
+      "name": "海因里希·鲁本斯"
+    },
+    {
+      "id": "friedrich-pockels",
+      "name": "弗里德里希·波克尔斯"
+    },
+    {
+      "id": "hantaro-nagaoka",
+      "name": "长冈半太郎"
+    },
+    {
+      "id": "pyotr-lebedev",
+      "name": "彼得·列别捷夫"
+    },
+    {
+      "id": "antonia-maury",
+      "name": "安东尼娅·莫里"
+    },
+    {
+      "id": "charles-fabry",
+      "name": "夏尔·法布里"
+    },
+    {
+      "id": "kristian-birkeland",
+      "name": "克里斯蒂安·比尔克兰"
+    },
+    {
+      "id": "robert-w-wood",
+      "name": "罗伯特·威廉斯·伍德"
+    },
+    {
+      "id": "john-sealy-townsend",
+      "name": "约翰·西利·汤森"
+    },
+    {
+      "id": "arnold-sommerfeld",
+      "name": "阿诺德·索末菲"
+    },
+    {
+      "id": "gustaf-dalen",
+      "name": "古斯塔夫·达伦"
+    },
+    {
+      "id": "kotaro-honda",
+      "name": "本多光太郎"
+    },
+    {
+      "id": "jean-baptiste-perrin",
+      "name": "让·佩兰"
+    },
+    {
+      "id": "paul-langevin",
+      "name": "保罗·朗之万"
+    },
+    {
+      "id": "marian-smoluchowski",
+      "name": "马里安·斯莫卢霍夫斯基"
+    },
+    {
+      "id": "lee-de-forest",
+      "name": "李·德福雷斯特"
+    },
+    {
+      "id": "johannes-stark",
+      "name": "约翰内斯·斯塔克"
+    },
+    {
+      "id": "guglielmo-marconi",
+      "name": "古列尔莫·马可尼"
+    },
+    {
+      "id": "friedrich-hasenohrl",
+      "name": "弗里德里希·哈森厄尔"
+    },
+    {
+      "id": "gilbert-n-lewis",
+      "name": "吉尔伯特·牛顿·路易斯"
+    },
+    {
+      "id": "charles-glover-barkla",
+      "name": "查尔斯·巴克拉"
+    },
+    {
+      "id": "francis-william-aston",
+      "name": "弗朗西斯·威廉·阿斯顿"
+    },
+    {
+      "id": "walter-ritz",
+      "name": "瓦尔特·里兹"
+    },
+    {
+      "id": "torahiko-terada",
+      "name": "寺田寅彦"
+    },
+    {
+      "id": "owen-willans-richardson",
+      "name": "欧文·理查森"
+    },
+    {
+      "id": "paul-ehrenfest",
+      "name": "保罗·埃伦费斯特"
+    },
+    {
+      "id": "irving-langmuir",
+      "name": "欧文·朗缪尔"
+    },
+    {
+      "id": "richard-c-tolman",
+      "name": "理查德·托尔曼"
+    },
+    {
+      "id": "percy-williams-bridgman",
+      "name": "珀西·布里奇曼"
+    },
+    {
+      "id": "arthur-eddington",
+      "name": "阿瑟·爱丁顿"
+    },
+    {
+      "id": "hermann-weyl",
+      "name": "赫尔曼·外尔"
+    },
+    {
+      "id": "manne-siegbahn",
+      "name": "曼内·西格巴恩"
+    },
+    {
+      "id": "hedwig-kohn",
+      "name": "海德薇·科恩"
+    },
+    {
+      "id": "frits-zernike",
+      "name": "弗里茨·泽尔尼克"
+    },
+    {
+      "id": "leon-brillouin",
+      "name": "莱昂·布里渊"
+    },
+    {
+      "id": "william-lawrence-bragg",
+      "name": "威廉·劳伦斯·布拉格"
+    },
+    {
+      "id": "walther-bothe",
+      "name": "瓦尔特·博特"
+    },
+    {
+      "id": "edward-victor-appleton",
+      "name": "爱德华·阿普尔顿"
+    },
+    {
+      "id": "walter-baade",
+      "name": "瓦尔特·巴德"
+    },
+    {
+      "id": "walter-gordon",
+      "name": "瓦尔特·戈登"
+    },
+    {
+      "id": "marietta-blau",
+      "name": "玛丽埃塔·布劳"
+    },
+    {
+      "id": "oskar-klein",
+      "name": "奥斯卡·克莱因"
+    },
+    {
+      "id": "hendrik-kramers",
+      "name": "亨德里克·克拉默斯"
+    },
+    {
+      "id": "hertha-sponer",
+      "name": "赫塔·施波纳"
+    },
+    {
+      "id": "friedrich-hund",
+      "name": "弗里德里希·洪德"
+    },
+    {
+      "id": "ida-noddack",
+      "name": "伊达·诺达克"
+    },
+    {
+      "id": "robert-s-mulliken",
+      "name": "罗伯特·桑德森·穆利肯"
+    },
+    {
+      "id": "wu-youxun",
+      "name": "吴有训"
+    },
+    {
+      "id": "patrick-blackett-baron-blackett",
+      "name": "帕特里克·布莱克特"
+    },
+    {
+      "id": "katharine-burr-blodgett",
+      "name": "凯瑟琳·伯尔·布洛杰特"
+    },
+    {
+      "id": "gregor-wentzel",
+      "name": "格雷戈尔·文策尔"
+    },
+    {
+      "id": "ye-qisun",
+      "name": "叶企孙"
+    },
+    {
+      "id": "vladimir-fock",
+      "name": "弗拉基米尔·福克"
+    },
+    {
+      "id": "john-hasbrouck-van-vleck",
+      "name": "约翰·范弗莱克"
+    },
+    {
+      "id": "fritz-london",
+      "name": "弗里茨·伦敦"
+    },
+    {
+      "id": "jan-oort",
+      "name": "扬·奥尔特"
+    },
+    {
+      "id": "george-uhlenbeck",
+      "name": "乔治·乌伦贝克"
+    },
+    {
+      "id": "maria-telkes",
+      "name": "玛丽娅·泰尔克什"
+    },
+    {
+      "id": "john-c-slater",
+      "name": "约翰·克拉克·斯莱特"
+    },
+    {
+      "id": "grete-hermann",
+      "name": "格蕾特·赫尔曼"
+    },
+    {
+      "id": "robert-j-van-de-graaff",
+      "name": "罗伯特·范德格拉夫"
+    },
+    {
+      "id": "alfred-kastler",
+      "name": "阿尔弗雷德·卡斯特勒"
+    },
+    {
+      "id": "zhao-zhongyao",
+      "name": "赵忠尧"
+    },
+    {
+      "id": "rolf-widere",
+      "name": "罗尔夫·维德勒"
+    },
+    {
+      "id": "samuel-goudsmit",
+      "name": "塞缪尔·古兹米特"
+    },
+    {
+      "id": "zhou-peiyuan",
+      "name": "周培源"
+    },
+    {
+      "id": "eugene-wigner",
+      "name": "尤金·维格纳"
+    },
+    {
+      "id": "igor-kurchatov",
+      "name": "伊戈尔·库尔恰托夫"
+    },
+    {
+      "id": "john-von-neumann",
+      "name": "约翰·冯·诺伊曼"
+    },
+    {
+      "id": "walter-heitler",
+      "name": "瓦尔特·海特勒"
+    },
+    {
+      "id": "george-gamow",
+      "name": "乔治·伽莫夫"
+    },
+    {
+      "id": "ralph-kronig",
+      "name": "拉尔夫·克罗尼格"
+    },
+    {
+      "id": "louis-neel",
+      "name": "路易·奈尔"
+    },
+    {
+      "id": "ernst-stueckelberg",
+      "name": "恩斯特·施蒂克尔贝格"
+    },
+    {
+      "id": "bruno-rossi",
+      "name": "布鲁诺·罗西"
+    },
+    {
+      "id": "nevill-francis-mott",
+      "name": "内维尔·莫特"
+    },
+    {
+      "id": "ettore-majorana",
+      "name": "埃托雷·马约拉纳"
+    },
+    {
+      "id": "wu-ta-you",
+      "name": "吴大猷"
+    },
+    {
+      "id": "vladimir-veksler",
+      "name": "弗拉基米尔·韦克斯勒"
+    },
+    {
+      "id": "wang-ganchang",
+      "name": "王淦昌"
+    },
+    {
+      "id": "rudolf-peierls",
+      "name": "鲁道夫·佩尔斯"
+    },
+    {
+      "id": "konstantin-petrzhak",
+      "name": "康斯坦丁·彼得扎克"
+    },
+    {
+      "id": "zhao-jiuzhang",
+      "name": "赵九章"
+    },
+    {
+      "id": "heinz-london",
+      "name": "海因茨·伦敦"
+    },
+    {
+      "id": "lev-artsimovich",
+      "name": "列夫·阿尔齐莫维奇"
+    },
+    {
+      "id": "guo-yonghuai",
+      "name": "郭永怀"
+    },
+    {
+      "id": "stanislaw-ulam",
+      "name": "斯坦尼斯瓦夫·乌拉姆"
+    },
+    {
+      "id": "homi-j-bhabha",
+      "name": "霍米·贾汉吉尔·巴巴"
+    },
+    {
+      "id": "zhang-wenyu",
+      "name": "张文裕"
+    },
+    {
+      "id": "john-d-kraus",
+      "name": "约翰·丹尼尔·克劳斯"
+    },
+    {
+      "id": "shoichi-sakata",
+      "name": "坂田昌一"
+    },
+    {
+      "id": "maurice-goldhaber",
+      "name": "莫里斯·戈德哈伯"
+    },
+    {
+      "id": "wang-zhuxi",
+      "name": "王竹溪"
+    },
+    {
+      "id": "luis-walter-alvarez",
+      "name": "路易斯·阿尔瓦雷茨"
+    },
+    {
+      "id": "john-archibald-wheeler",
+      "name": "约翰·阿奇博尔德·惠勒"
+    },
+    {
+      "id": "gertrude-scharff-goldhaber",
+      "name": "格特鲁德·沙尔夫-戈德哈伯"
+    },
+    {
+      "id": "qian-xuesen",
+      "name": "钱学森"
+    },
+    {
+      "id": "martin-schwarzschild",
+      "name": "马丁·施瓦西"
+    },
+    {
+      "id": "georgy-flerov",
+      "name": "格奥尔基·弗廖罗夫"
+    },
+    {
+      "id": "wolfgang-paul",
+      "name": "沃尔夫冈·保罗"
+    },
+    {
+      "id": "bruno-pontecorvo",
+      "name": "布鲁诺·蓬泰科尔沃"
+    },
+    {
+      "id": "qian-sanqiang",
+      "name": "钱三强"
+    },
+    {
+      "id": "he-zehui",
+      "name": "何泽慧"
+    },
+    {
+      "id": "yakov-zeldovich",
+      "name": "雅科夫·泽尔多维奇"
+    },
+    {
+      "id": "lyman-spitzer",
+      "name": "莱曼·斯皮策"
+    },
+    {
+      "id": "robert-hofstadter",
+      "name": "罗伯特·霍夫施塔特"
+    },
+    {
+      "id": "evgeny-lifshitz",
+      "name": "叶夫根尼·利夫希茨"
+    },
+    {
+      "id": "wang-daheng",
+      "name": "王大珩"
+    },
+    {
+      "id": "norman-foster-ramsey-jr",
+      "name": "诺曼·拉姆齐"
+    },
+    {
+      "id": "clifford-shull",
+      "name": "克利福德·沙尔"
+    },
+    {
+      "id": "peng-huanwu",
+      "name": "彭桓武"
+    },
+    {
+      "id": "hu-ning",
+      "name": "胡宁"
+    },
+    {
+      "id": "claude-shannon",
+      "name": "克劳德·香农"
+    },
+    {
+      "id": "alexander-prokhorov",
+      "name": "亚历山大·普罗霍罗夫"
+    },
+    {
+      "id": "ilya-prigogine",
+      "name": "伊利亚·普里戈金"
+    },
+    {
+      "id": "james-rainwater",
+      "name": "利奥·雷恩沃特"
+    },
+    {
+      "id": "kai-siegbahn",
+      "name": "凯·西格巴恩"
+    },
+    {
+      "id": "gersh-budker",
+      "name": "格尔什·布德克尔"
+    },
+    {
+      "id": "bertram-brockhouse",
+      "name": "伯特伦·布罗克豪斯"
+    },
+    {
+      "id": "cheng-kaijia",
+      "name": "程开甲"
+    },
+    {
+      "id": "martin-ryle",
+      "name": "马丁·赖尔"
+    },
+    {
+      "id": "wang-shouwu",
+      "name": "王守武"
+    },
+    {
+      "id": "vikram-sarabhai",
+      "name": "维克拉姆·萨拉巴伊"
+    },
+    {
+      "id": "huang-kun",
+      "name": "黄昆"
+    },
+    {
+      "id": "isaak-khalatnikov",
+      "name": "伊萨克·哈拉特尼科夫"
+    },
+    {
+      "id": "hermann-bondi",
+      "name": "赫尔曼·邦迪"
+    },
+    {
+      "id": "nicolaas-bloembergen",
+      "name": "尼古拉斯·布隆伯根"
+    },
+    {
+      "id": "thomas-gold",
+      "name": "托马斯·戈尔德"
+    },
+    {
+      "id": "xie-jialin",
+      "name": "谢家麟"
+    },
+    {
+      "id": "yoichiro-nambu",
+      "name": "南部阳一郎"
+    },
+    {
+      "id": "bruno-touschek",
+      "name": "布鲁诺·陶歇克"
+    },
+    {
+      "id": "xie-xide",
+      "name": "谢希德"
+    },
+    {
+      "id": "arthur-leonard-schawlow",
+      "name": "阿瑟·肖洛"
+    },
+    {
+      "id": "andrei-sakharov",
+      "name": "安德烈·萨哈罗夫"
+    },
+    {
+      "id": "esther-conwell",
+      "name": "埃丝特·康韦尔"
+    },
+    {
+      "id": "aage-bohr",
+      "name": "奥格·玻尔"
+    },
+    {
+      "id": "arthur-ashkin",
+      "name": "阿瑟·阿什金"
+    },
+    {
+      "id": "nikolay-basov",
+      "name": "尼古拉·巴索夫"
+    },
+    {
+      "id": "bryce-dewitt",
+      "name": "布赖斯·德威特"
+    },
+    {
+      "id": "bruno-zumino",
+      "name": "布鲁诺·祖米诺"
+    },
+    {
+      "id": "sulamith-goldhaber",
+      "name": "苏拉米特·戈德哈伯"
+    },
+    {
+      "id": "jack-kilby",
+      "name": "杰克·基尔比"
+    },
+    {
+      "id": "deng-jiaxian",
+      "name": "邓稼先"
+    },
+    {
+      "id": "huang-zuqia",
+      "name": "黄祖洽"
+    },
+    {
+      "id": "efim-fradkin",
+      "name": "叶菲姆·弗拉德金"
+    },
+    {
+      "id": "zhu-guangya",
+      "name": "朱光亚"
+    },
+    {
+      "id": "berni-alder",
+      "name": "伯尼·阿尔德"
+    },
+    {
+      "id": "fay-ajzenberg-selove",
+      "name": "费伊·阿伊岑贝格-塞洛夫"
+    },
+    {
+      "id": "ben-roy-mottelson",
+      "name": "本·莫特森"
+    },
+    {
+      "id": "yu-min",
+      "name": "于敏"
+    },
+    {
+      "id": "kazuhiko-nishijima",
+      "name": "西岛和彦"
+    },
+    {
+      "id": "dai-yuanben",
+      "name": "戴元本"
+    },
+    {
+      "id": "vera-rubin",
+      "name": "薇拉·鲁宾"
+    },
+    {
+      "id": "herbert-kroemer",
+      "name": "赫伯特·克勒默"
+    },
+    {
+      "id": "vera-kistiakowsky",
+      "name": "薇拉·基斯佳科夫斯基"
+    },
+    {
+      "id": "stanley-mandelstam",
+      "name": "斯坦利·曼德尔斯塔姆"
+    },
+    {
+      "id": "ivar-giaever",
+      "name": "伊瓦尔·贾埃弗"
+    },
+    {
+      "id": "zhou-guangzhao",
+      "name": "周光召"
+    },
+    {
+      "id": "zhores-alferov",
+      "name": "若雷斯·阿尔费罗夫"
+    },
+    {
+      "id": "joel-lebowitz",
+      "name": "乔尔·莱博维茨"
+    },
+    {
+      "id": "hugh-everett-iii",
+      "name": "休·埃弗里特三世"
+    },
+    {
+      "id": "mildred-dresselhaus",
+      "name": "米尔德里德·德雷斯尔豪斯"
+    },
+    {
+      "id": "stanley-deser",
+      "name": "斯坦利·德泽尔"
+    },
+    {
+      "id": "riccardo-giacconi",
+      "name": "里卡尔多·贾科尼"
+    },
+    {
+      "id": "klaus-hasselmann",
+      "name": "克劳斯·哈塞尔曼"
+    },
+    {
+      "id": "li-fanghua",
+      "name": "李方华"
+    },
+    {
+      "id": "h-dieter-zeh",
+      "name": "海因茨-迪特尔·策"
+    },
+    {
+      "id": "elliott-lieb",
+      "name": "埃利奥特·利布"
+    },
+    {
+      "id": "pierre-gilles-de-gennes",
+      "name": "皮埃尔-吉勒·德热纳"
+    },
+    {
+      "id": "claude-cohen-tannoudji",
+      "name": "克洛德·科恩-塔诺季"
+    },
+    {
+      "id": "john-hopfield",
+      "name": "约翰·霍普菲尔德"
+    },
+    {
+      "id": "jeffrey-goldstone",
+      "name": "杰弗里·戈德斯通"
+    },
+    {
+      "id": "ludvig-faddeev",
+      "name": "路德维格·法捷耶夫"
+    },
+    {
+      "id": "willie-hobbs-moore",
+      "name": "威莉·霍布斯·穆尔"
+    },
+    {
+      "id": "james-bjorken",
+      "name": "詹姆斯·比约肯"
+    },
+    {
+      "id": "john-l-hall",
+      "name": "约翰·霍尔"
+    },
+    {
+      "id": "n-david-mermin",
+      "name": "纳撒尼尔·戴维·默明"
+    },
+    {
+      "id": "donald-lynden-bell",
+      "name": "唐纳德·林登-贝尔"
+    },
+    {
+      "id": "nicola-cabibbo",
+      "name": "尼古拉·卡比博"
+    },
+    {
+      "id": "david-ruelle",
+      "name": "戴维·吕埃尔"
+    },
+    {
+      "id": "fang-lizhi",
+      "name": "方励之"
+    },
+    {
+      "id": "sidney-coleman",
+      "name": "西德尼·科尔曼"
+    },
+    {
+      "id": "peter-van-nieuwenhuizen",
+      "name": "彼得·范纽文赫伊曾"
+    },
+    {
+      "id": "daniel-freedman",
+      "name": "丹尼尔·弗里德曼"
+    },
+    {
+      "id": "mary-k-gaillard",
+      "name": "玛丽·盖拉德"
+    },
+    {
+      "id": "leonard-susskind",
+      "name": "伦纳德·萨斯坎德"
+    },
+    {
+      "id": "guido-altarelli",
+      "name": "圭多·阿尔塔雷利"
+    },
+    {
+      "id": "john-henry-schwarz",
+      "name": "约翰·施瓦茨"
+    },
+    {
+      "id": "gabriele-veneziano",
+      "name": "加布里埃莱·韦内齐亚诺"
+    },
+    {
+      "id": "renata-kallosh",
+      "name": "雷娜塔·卡洛什"
+    },
+    {
+      "id": "helen-quinn",
+      "name": "海伦·奎因"
+    },
+    {
+      "id": "serge-haroche",
+      "name": "塞尔日·阿罗什"
+    },
+    {
+      "id": "sergio-ferrara",
+      "name": "塞尔焦·费拉拉"
+    },
+    {
+      "id": "alexander-polyakov",
+      "name": "亚历山大·波利亚科夫"
+    },
+    {
+      "id": "michael-green",
+      "name": "迈克尔·格林"
+    },
+    {
+      "id": "gary-gibbons",
+      "name": "加里·吉本斯"
+    },
+    {
+      "id": "shirley-ann-jackson",
+      "name": "雪莉·安·杰克逊"
+    },
+    {
+      "id": "john-cardy",
+      "name": "约翰·卡迪"
+    },
+    {
+      "id": "robert-wald",
+      "name": "罗伯特·瓦尔德"
+    },
+    {
+      "id": "saul-teukolsky",
+      "name": "索尔·托伊科尔斯基"
+    },
+    {
+      "id": "geoffrey-hinton",
+      "name": "杰弗里·辛顿"
+    },
+    {
+      "id": "william-daniel-phillips",
+      "name": "威廉·丹尼尔·菲利普斯"
+    },
+    {
+      "id": "abhay-ashtekar",
+      "name": "阿拜·阿什特卡"
+    },
+    {
+      "id": "wojciech-zurek",
+      "name": "沃伊切赫·祖雷克"
+    },
+    {
+      "id": "thibault-damour",
+      "name": "蒂博·达穆尔"
+    },
+    {
+      "id": "edward-witten",
+      "name": "爱德华·威滕"
+    },
+    {
+      "id": "duncan-haldane",
+      "name": "邓肯·霍尔丹"
+    },
+    {
+      "id": "reinhard-genzel",
+      "name": "赖因哈德·根策尔"
+    },
+    {
+      "id": "gary-horowitz",
+      "name": "加里·霍罗威茨"
+    },
+    {
+      "id": "ashoke-sen",
+      "name": "阿肖克·森"
+    },
+    {
+      "id": "nathan-seiberg",
+      "name": "内森·塞伯格"
+    },
+    {
+      "id": "artur-ekert",
+      "name": "阿图尔·埃克特"
+    },
+    {
+      "id": "subir-sachdev",
+      "name": "苏比尔·萨奇德夫"
+    },
+    {
+      "id": "lisa-randall",
+      "name": "丽莎·兰德尔"
+    },
+    {
+      "id": "andrea-m-ghez",
+      "name": "安德烈娅·盖兹"
+    },
+    {
+      "id": "jun-ye",
+      "name": "叶军"
+    },
+    {
+      "id": "alessandra-buonanno",
+      "name": "阿莱桑德拉·布奥南诺"
+    },
+    {
+      "id": "nima-arkani-hamed",
+      "name": "尼玛·阿尔卡尼-哈米德"
+    }
+  ]
+}

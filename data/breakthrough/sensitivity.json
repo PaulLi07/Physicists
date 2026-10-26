@@ -1,0 +1,74 @@
+{
+  "asOf": "2026-10-26",
+  "primaryWeights": [
+    1,
+    2,
+    4,
+    8
+  ],
+  "alternativeWeights": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "comparisonYears": [
+    1800,
+    2021
+  ],
+  "annualPearsonCorrelation": 0.986206891223152,
+  "primaryPeaks": [
+    {
+      "year": 1926,
+      "value": 9.666666666666666
+    },
+    {
+      "year": 1964,
+      "value": 8.111111111111112
+    },
+    {
+      "year": 1910,
+      "value": 5.388888888888889
+    },
+    {
+      "year": 1947,
+      "value": 5.277777777777777
+    },
+    {
+      "year": 1983,
+      "value": 4.762626262626262
+    },
+    {
+      "year": 1999,
+      "value": 3.316666666666666
+    }
+  ],
+  "alternativePeaks": [
+    {
+      "year": 1927,
+      "value": 6.75
+    },
+    {
+      "year": 1964,
+      "value": 6.708333333333334
+    },
+    {
+      "year": 1911,
+      "value": 4.638888888888889
+    },
+    {
+      "year": 1947,
+      "value": 4.305555555555555
+    },
+    {
+      "year": 1984,
+      "value": 4.142424242424242
+    },
+    {
+      "year": 2000,
+      "value": 2.65
+    }
+  ],
+  "peaksWithinTenYears": 6,
+  "note": "Only tests sensitivity to editorial weights. It does not establish historical completeness or objective importance."
+}

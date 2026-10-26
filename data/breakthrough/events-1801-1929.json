@@ -1,0 +1,3369 @@
+[
+  {
+    "id": "ritter-ultraviolet",
+    "title": {
+      "zh": "发现紫外辐射",
+      "en": "Ultraviolet radiation"
+    },
+    "year": 1801,
+    "precision": "year",
+    "type": "discovery",
+    "field": "light",
+    "people": [
+      "johann-wilhelm-ritter"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "将可测电磁辐射拓展到可见紫光之外。",
+      "en": "Extended experimental radiation studies beyond visible violet."
+    },
+    "sources": [
+      {
+        "title": "Florida State University — Optics timeline, 1800–1833",
+        "url": "https://micro.magnet.fsu.edu/optics/timeline/1800-1833.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "young-interference",
+    "title": {
+      "zh": "光的干涉原理",
+      "en": "Interference of light"
+    },
+    "year": 1801,
+    "precision": "year",
+    "type": "theory",
+    "field": "light",
+    "people": [
+      "thomas-young"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "以波的叠加解释明暗条纹，奠定波动光学。",
+      "en": "Made wave superposition central to physical optics."
+    },
+    "sources": [
+      {
+        "title": "Florida State University — Optics timeline, 1800–1833",
+        "url": "https://micro.magnet.fsu.edu/optics/timeline/1800-1833.html"
+      },
+      {
+        "title": "MacTutor — Thomas Young",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Young_Thomas/"
+      },
+      {
+        "title": "Royal Society — Young’s Bakerian Lecture, original archive and publication dates",
+        "url": "https://makingscience.royalsociety.org/items/l-and-p_11_172/paper-on-the-theory-of-light-and-colours-bakerian-lecture-by-thomas-young"
+      }
+    ],
+    "dateNote": {
+      "zh": "1801年11月12日在皇家学会宣读；1802年论文刊印，本条按首次公开报告年定位。",
+      "en": "Read to the Royal Society on 12 November 1801 and printed in 1802; anchored to the public lecture."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "dalton-atomic-theory",
+    "title": {
+      "zh": "定量原子学说",
+      "en": "Quantitative atomic theory"
+    },
+    "year": 1803,
+    "precision": "year",
+    "type": "theory",
+    "field": "quantum",
+    "people": [
+      "john-dalton"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "以原子量和简单结合比例连接微观假说与实验计量。",
+      "en": "Connected atomism to quantitative composition and atomic weights."
+    },
+    "sources": [
+      {
+        "title": "ACS — Atomic Celebrations",
+        "url": "https://pubs.acs.org/doi/10.1021/cen-v081n043.p041"
+      },
+      {
+        "title": "ACS — Three Millennia of Atoms and Molecules",
+        "url": "https://pubs.acs.org/doi/10.1021/bk-2013-1122.ch001"
+      }
+    ],
+    "dateNote": {
+      "zh": "按1803年10月公开报告定位；1808年著作作进一步系统阐述。",
+      "en": "Anchored to the October 1803 public report; the 1808 book developed the account."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "malus-polarization",
+    "title": {
+      "zh": "反射光的偏振",
+      "en": "Polarization by reflection"
+    },
+    "year": 1808,
+    "precision": "year",
+    "type": "discovery",
+    "field": "light",
+    "people": [
+      "etienne-louis-malus"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "揭示光的偏振性质，为横波解释提供实验问题。",
+      "en": "Established a key polarization phenomenon for wave optics."
+    },
+    "sources": [
+      {
+        "title": "Florida State University — Optics timeline, 1800–1833",
+        "url": "https://micro.magnet.fsu.edu/optics/timeline/1800-1833.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "gauss-observational-errors",
+    "title": {
+      "zh": "天文观测误差的概率处理",
+      "en": "Probabilistic treatment of observational errors"
+    },
+    "year": 1809,
+    "precision": "year",
+    "type": "method",
+    "field": "methods",
+    "people": [
+      "carl-friedrich-gauss"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "将最小二乘与误差概率、轨道测定系统联系。",
+      "en": "Linked least squares to error probability and orbit determination."
+    },
+    "sources": [
+      {
+        "title": "University of York — Legendre on least squares, translated primary text",
+        "url": "https://www.york.ac.uk/depts/maths/histstat/legendre.htm"
+      }
+    ],
+    "dateNote": {
+      "zh": "勒让德此前已公开最小二乘方法；本条仅计高斯1809年的概率论证与天文系统化，不宣称其首创最小二乘。",
+      "en": "Legendre published least squares earlier; this event concerns Gauss’s 1809 probabilistic justification and astronomical treatment."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "avogadro-molecular-hypothesis",
+    "title": {
+      "zh": "同温同压气体的分子数假说",
+      "en": "Avogadro’s molecular hypothesis"
+    },
+    "year": 1811,
+    "precision": "year",
+    "type": "theory",
+    "field": "quantum",
+    "people": [
+      "amedeo-avogadro"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "区分原子与分子并解释气体结合体积。",
+      "en": "Connected gas-volume relations with a molecular description."
+    },
+    "sources": [
+      {
+        "title": "ACS — Assembling the Modern Periodic Table",
+        "url": "https://inchemistry.acs.org/atomic-news/assembling-the-periodic-table.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "fraunhofer-spectral-lines",
+    "title": {
+      "zh": "太阳光谱暗线的系统测量",
+      "en": "Systematic mapping of solar absorption lines"
+    },
+    "year": 1817,
+    "precision": "year",
+    "type": "method",
+    "field": "light",
+    "people": [
+      "joseph-von-fraunhofer"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "建立以谱线作为精密测量基准的研究方法。",
+      "en": "Established spectral lines as precise observational reference points."
+    },
+    "sources": [
+      {
+        "title": "Florida State University — Optics timeline, 1800–1833",
+        "url": "https://micro.magnet.fsu.edu/optics/timeline/1800-1833.html"
+      },
+      {
+        "title": "Fraunhofer — Optical-glass and spectral-line paper (1817)",
+        "url": "https://doi.org/10.1002/andp.18170560706"
+      }
+    ],
+    "dateNote": {
+      "zh": "测量主要在1812–1814年进行；论文1817年出版，以发表年定位。",
+      "en": "Measurements were made mainly in 1812–1814; the report was published in 1817."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "dulong-petit-heat-capacity",
+    "title": {
+      "zh": "固体原子热容经验定律",
+      "en": "Dulong–Petit heat-capacity law"
+    },
+    "year": 1819,
+    "precision": "year",
+    "type": "discovery",
+    "field": "heat",
+    "people": [
+      "pierre-louis-dulong",
+      "alexis-therese-petit"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "揭示固体热容与原子量的规律性联系。",
+      "en": "Established an empirical connection between heat capacity and atomic weight."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Alexis Petit",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Petit/"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "oersted-electromagnetism",
+    "title": {
+      "zh": "电流对磁针的作用",
+      "en": "Magnetic action of electric current"
+    },
+    "year": 1820,
+    "precision": "year",
+    "type": "discovery",
+    "field": "light",
+    "people": [
+      "hans-christian-orsted"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "首次明确建立电流与磁现象的实验联系。",
+      "en": "Established the experimental connection between current and magnetism."
+    },
+    "sources": [
+      {
+        "title": "APS — July 1820: Oersted and Electromagnetism",
+        "url": "https://www.aps.org/apsnews/2008/07/1820-oersted-electromagnetism"
+      },
+      {
+        "title": "Florida State University — Optics timeline, 1800–1833",
+        "url": "https://micro.magnet.fsu.edu/optics/timeline/1800-1833.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "faraday-electromagnetic-rotation",
+    "title": {
+      "zh": "电磁旋转实验",
+      "en": "Electromagnetic rotation"
+    },
+    "year": 1821,
+    "precision": "year",
+    "type": "method",
+    "field": "light",
+    "people": [
+      "michael-faraday"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把电磁相互作用转化为持续机械运动。",
+      "en": "Converted electromagnetic interaction into sustained mechanical rotation."
+    },
+    "sources": [
+      {
+        "title": "APS — September 1821 and August 1831: Faraday and Electromagnetism",
+        "url": "https://print.aps.org/pdf/2001-08.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "seebeck-thermoelectricity",
+    "title": {
+      "zh": "温差产生电流的实验",
+      "en": "Thermoelectric effect"
+    },
+    "year": 1821,
+    "precision": "year",
+    "type": "discovery",
+    "field": "heat",
+    "people": [
+      "thomas-johann-seebeck"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "建立温差与电流之间的新实验联系。",
+      "en": "Established an experimental link between temperature difference and current."
+    },
+    "sources": [
+      {
+        "title": "NIST — Thermoelectric measurements, Journal of Applied Physics 108, 121101",
+        "url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=903887"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "fourier-heat-theory",
+    "title": {
+      "zh": "热传导解析理论",
+      "en": "Analytical theory of heat"
+    },
+    "year": 1822,
+    "precision": "year",
+    "type": "theory",
+    "field": "heat",
+    "people": [
+      "joseph-fourier"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "以偏微分方程与级数建立可计算的热传导理论。",
+      "en": "Established a mathematical framework for heat conduction."
+    },
+    "sources": [
+      {
+        "title": "APS — Fourier and the analytical theory of heat",
+        "url": "https://www.aps.org/apsnews/2010/03/this-month-in-physics-history"
+      },
+      {
+        "title": "MacTutor — Joseph Fourier",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Fourier/"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "carnot-heat-engine",
+    "title": {
+      "zh": "理想热机与效率极限",
+      "en": "Ideal heat engine and efficiency limit"
+    },
+    "year": 1824,
+    "precision": "year",
+    "type": "theory",
+    "field": "heat",
+    "people": [
+      "nicolas-leonard-sadi-carnot"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "提出热机效率极限，成为热力学的基础节点。",
+      "en": "Established the limiting-efficiency problem at the foundation of thermodynamics."
+    },
+    "sources": [
+      {
+        "title": "APS — June 12, 1824: Carnot publishes his treatise",
+        "url": "https://www.aps.org/apsnews/2009/05/sadi-carnot-heat-engines"
+      },
+      {
+        "title": "ASME — Carnot’s 1824 Reflections, historical landmark",
+        "url": "https://www.asme.org/getmedia/86ef5356-ffdd-4990-a017-cfe3ec05364b/275-Carnot-Brochure.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "ohm-circuit-law",
+    "title": {
+      "zh": "电流、电压与电阻的定量关系",
+      "en": "Ohm’s circuit law"
+    },
+    "year": 1827,
+    "precision": "year",
+    "type": "theory",
+    "field": "light",
+    "people": [
+      "georg-ohm"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "把稳恒电路研究纳入统一的定量关系。",
+      "en": "Made steady-current circuits quantitatively tractable."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Georg Simon Ohm",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Ohm/"
+      },
+      {
+        "title": "Smithsonian Libraries — Die galvanische Kette, original 1827 edition record",
+        "url": "https://www.si.edu/object/die-galvanische-kette-mathematisch-bearbeitet-von-dr-gs-ohm%3Asiris_sil_227673"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "green-potential-theory",
+    "title": {
+      "zh": "电磁势理论与格林方法",
+      "en": "Green’s potential-theory methods"
+    },
+    "year": 1828,
+    "precision": "year",
+    "type": "method",
+    "field": "methods",
+    "people": [
+      "george-green"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "建立后来广泛用于边值问题的势函数方法。",
+      "en": "Established mathematical methods fundamental to physical boundary-value problems."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — George Green",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Green/"
+      },
+      {
+        "title": "Green — An Essay on Electricity and Magnetism (1828), transcribed original",
+        "url": "https://arxiv.org/abs/0807.0088"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "faraday-induction",
+    "title": {
+      "zh": "电磁感应",
+      "en": "Electromagnetic induction"
+    },
+    "year": 1831,
+    "precision": "year",
+    "type": "discovery",
+    "field": "light",
+    "people": [
+      "michael-faraday",
+      "joseph-henry"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "揭示变化磁场产生电流，打开电磁能量转换研究。",
+      "en": "Established current induction by changing magnetic conditions."
+    },
+    "sources": [
+      {
+        "title": "Smithsonian Libraries — Faraday original induction papers",
+        "url": "https://library.si.edu/digital-library/book/oninductionofele00fara"
+      },
+      {
+        "title": "Smithsonian Archives — Henry’s Early Research in Electromagnetism",
+        "url": "https://siarchives.si.edu/collections/siris_sic_329"
+      }
+    ],
+    "dateNote": {
+      "zh": "按法拉第1831年公开报告定位；亨利独立研究及不同发表时序在来源中保留。",
+      "en": "Anchored to Faraday’s 1831 report; Henry’s independent work and publication timing remain distinguished."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "clapeyron-heat-cycle",
+    "title": {
+      "zh": "热机循环的图解与数学化",
+      "en": "Mathematical and graphical heat-cycle analysis"
+    },
+    "year": 1834,
+    "precision": "year",
+    "type": "method",
+    "field": "heat",
+    "people": [
+      "benoit-paul-emile-clapeyron"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把卡诺循环转为可操作的图形和数学表达。",
+      "en": "Made Carnot’s analysis mathematically and graphically operational."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Émile Clapeyron",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Clapeyron/"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "hamilton-dynamics",
+    "title": {
+      "zh": "哈密顿动力学",
+      "en": "Hamiltonian dynamics"
+    },
+    "year": 1834,
+    "precision": "year",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "william-rowan-hamilton"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "形成经典动力学与后续量子理论的重要数学语言。",
+      "en": "Established a central mathematical formulation of dynamics."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — William Rowan Hamilton",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hamilton/"
+      },
+      {
+        "title": "Hamilton — On a General Method in Dynamics (1834)",
+        "url": "https://doi.org/10.1098/rstl.1834.0017"
+      }
+    ],
+    "dateNote": {
+      "zh": "1834、1835年两篇动力学论文构成连续成果；按首篇发表年计一次。",
+      "en": "The 1834 and 1835 dynamics papers form one development, counted at the first paper."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "coriolis-relative-motion",
+    "title": {
+      "zh": "旋转参照系的相对运动方程",
+      "en": "Dynamics in a rotating frame"
+    },
+    "year": 1835,
+    "precision": "year",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "gaspard-gustave-de-coriolis"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "明确旋转体系中与相对速度相关的惯性项。",
+      "en": "Identified velocity-dependent inertial terms in rotating systems."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Gaspard-Gustave de Coriolis",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Coriolis/"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "doppler-frequency-shift",
+    "title": {
+      "zh": "多普勒频移",
+      "en": "Doppler frequency shift"
+    },
+    "year": 1842,
+    "precision": "year",
+    "type": "theory",
+    "field": "light",
+    "people": [
+      "christian-doppler"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把波的观测频率与相对运动联系起来。",
+      "en": "Connected observed wave frequency with relative motion."
+    },
+    "sources": [
+      {
+        "title": "Florida State University — Optics timeline, 1834–1866",
+        "url": "https://micro.magnet.fsu.edu/optics/timeline/1834-1866.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "mayer-energy-equivalence",
+    "title": {
+      "zh": "力与热转化的能量等价论证",
+      "en": "Energy equivalence of mechanical and thermal processes"
+    },
+    "year": 1842,
+    "precision": "year",
+    "type": "theory",
+    "field": "heat",
+    "people": [
+      "julius-robert-von-mayer"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "以早期独立论证把热与机械过程联系起来，作为能量守恒综合表述的先驱节点。",
+      "en": "An independent precursor connecting heat and mechanical processes, distinguished from later comprehensive formulations."
+    },
+    "sources": [
+      {
+        "title": "Mayer — Bemerkungen über die Kräfte der unbelebten Natur (1842)",
+        "url": "https://doi.org/10.1002/jlac.18420420212"
+      },
+      {
+        "title": "TU Graz — Robert Mayer and energy conservation",
+        "url": "https://www.tugraz.at/fileadmin/user_upload/Events/Eninnov2014/files/allg/Robert_Mayer_Energieerhaltungssatz.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "以1842年公开论文定位；未将更早未发表稿件作为公开成果。",
+      "en": "Anchored to the public 1842 article, not earlier unpublished manuscripts."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "faraday-magneto-optics",
+    "title": {
+      "zh": "磁致偏振面旋转",
+      "en": "Faraday magneto-optic rotation"
+    },
+    "year": 1845,
+    "precision": "year",
+    "type": "discovery",
+    "field": "light",
+    "people": [
+      "michael-faraday"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "直接建立光与磁场作用的实验联系。",
+      "en": "Established a direct experimental connection between light and magnetism."
+    },
+    "sources": [
+      {
+        "title": "Florida State University — Optics timeline, 1834–1866",
+        "url": "https://micro.magnet.fsu.edu/optics/timeline/1834-1866.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "stokes-viscous-flow",
+    "title": {
+      "zh": "黏性流体运动方程",
+      "en": "Equations of viscous flow"
+    },
+    "year": 1845,
+    "precision": "year",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "george-gabriel-stokes"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "建立具有广泛适用性的连续介质黏性描述。",
+      "en": "Established a general continuum description of viscous motion."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — George Gabriel Stokes",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Stokes/"
+      },
+      {
+        "title": "Royal Society — Stokes obituary and bibliography",
+        "url": "https://mathshistory.st-andrews.ac.uk/RS/stokes_rs.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "本条计斯托克斯1845年独立推导与本构论证；纳维、泊松等更早研究不被抹去，未将多次推导重复拆项。",
+      "en": "Anchored to Stokes’s 1845 derivation; earlier work by Navier, Poisson and others is retained in the source history."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "helmholtz-energy-conservation",
+    "title": {
+      "zh": "能量守恒的系统表述",
+      "en": "Systematic conservation-of-energy argument"
+    },
+    "year": 1847,
+    "precision": "year",
+    "type": "theory",
+    "field": "heat",
+    "people": [
+      "hermann-von-helmholtz"
+    ],
+    "weight": 8,
+    "rationale": {
+      "zh": "把多类物理过程纳入统一守恒原则。",
+      "en": "Unified physical processes under a conservation principle."
+    },
+    "sources": [
+      {
+        "title": "TU Wien — Über die Erhaltung der Kraft (1847), original edition",
+        "url": "https://doi.org/10.34726/dig.17739802"
+      },
+      {
+        "title": "Helmholtz Association — Nichts geht verloren",
+        "url": "https://www.helmholtz.de/newsroom/artikel/nichts-geht-verloren-1/"
+      }
+    ],
+    "dateNote": {
+      "zh": "以亥姆霍兹1847年论文的综合表述定位；此前迈尔、焦耳独立理论与实验工作在来源中明确，不将其写成三人合著。",
+      "en": "Anchored to Helmholtz’s synthesis; earlier independent work by Mayer and Joule is acknowledged, not attributed as coauthorship."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "kelvin-absolute-scale",
+    "title": {
+      "zh": "绝对温标",
+      "en": "Absolute thermometric scale"
+    },
+    "year": 1848,
+    "precision": "year",
+    "type": "theory",
+    "field": "heat",
+    "people": [
+      "william-thomson-1st-baron-kelvin"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "以热力学方式建立温度的统一尺度。",
+      "en": "Established an absolute basis for thermometry."
+    },
+    "sources": [
+      {
+        "title": "NIST — Kelvin: History",
+        "url": "https://www.nist.gov/si-redefinition/kelvin/kelvin-history"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "clausius-heat-work",
+    "title": {
+      "zh": "热功关系与第二定律的早期表述",
+      "en": "Heat–work relation and the second law"
+    },
+    "year": 1850,
+    "precision": "year",
+    "type": "theory",
+    "field": "heat",
+    "people": [
+      "rudolf-clausius"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "在能量守恒下重新建立热机与热流的理论关系。",
+      "en": "Recast heat engines and heat flow within energy conservation."
+    },
+    "sources": [
+      {
+        "title": "Clausius — Ueber die bewegende Kraft der Wärme (1850)",
+        "url": "https://doi.org/10.1002/andp.18501550306"
+      },
+      {
+        "title": "MacTutor — Rudolf Clausius",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Clausius/"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "joule-heat-equivalent",
+    "title": {
+      "zh": "热功当量的精密测量",
+      "en": "Precision mechanical equivalent of heat"
+    },
+    "year": 1850,
+    "precision": "year",
+    "type": "method",
+    "field": "heat",
+    "people": [
+      "james-prescott-joule"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "定量检验功与热之间的等效关系。",
+      "en": "Quantitatively tested the equivalence of work and heat."
+    },
+    "sources": [
+      {
+        "title": "Joule — On the Mechanical Equivalent of Heat (1850), original paper",
+        "url": "https://www2.lawrence.edu/fast/STONEKIM/COURSES/Joule_1850.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "焦耳1843年已报告相关结果；本条针对1850年精密摩擦实验报告，不再另计早期测量。",
+      "en": "Joule reported earlier work in 1843; this event records the definitive 1850 measurements without counting the earlier trials again."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "foucault-pendulum",
+    "title": {
+      "zh": "傅科摆展示地球自转",
+      "en": "Foucault pendulum"
+    },
+    "year": 1851,
+    "precision": "year",
+    "type": "method",
+    "field": "mechanics",
+    "people": [
+      "leon-foucault"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "用地面力学实验直接展示地球自转效应。",
+      "en": "Demonstrated Earth’s rotation with a terrestrial mechanics experiment."
+    },
+    "sources": [
+      {
+        "title": "APS — February 3, 1851: Foucault demonstrates Earth’s rotation",
+        "url": "https://www.aps.org/apsnews/2007/02/foucault-earth-rotates"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "stokes-drag-law",
+    "title": {
+      "zh": "小球黏性阻力定律",
+      "en": "Stokes drag law"
+    },
+    "year": 1851,
+    "precision": "year",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "george-gabriel-stokes"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "使低雷诺数阻力与沉降过程可定量求解。",
+      "en": "Made slow viscous drag and sedimentation quantitatively solvable."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — George Gabriel Stokes",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Stokes/"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "foote-gas-heating",
+    "title": {
+      "zh": "不同气体日照升温实验",
+      "en": "Solar heating of different gases"
+    },
+    "year": 1856,
+    "precision": "year",
+    "type": "discovery",
+    "field": "heat",
+    "people": [
+      "eunice-newton-foote"
+    ],
+    "weight": 1,
+    "rationale": {
+      "zh": "把气体成分与大气温度问题联系起来。",
+      "en": "Linked gas composition to atmospheric warming questions."
+    },
+    "sources": [
+      {
+        "title": "APS — Eunice Foote’s 1856 experiments",
+        "url": "https://www.aps.org/apsnews/2023/07/carbon-dioxide-atmosphere-eunice-foote"
+      }
+    ],
+    "dateNote": {
+      "zh": "本条明确是日照升温实验及其推论，不把它写成现代红外吸收光谱测量。",
+      "en": "This was a solar-heating experiment and inference, not a modern infrared absorption measurement."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "kirchhoff-spectral-analysis",
+    "title": {
+      "zh": "谱线吸收与元素识别",
+      "en": "Spectral absorption and elemental identification"
+    },
+    "year": 1859,
+    "precision": "year",
+    "type": "method",
+    "field": "light",
+    "people": [
+      "gustav-kirchhoff",
+      "robert-bunsen"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "用光谱连接实验室物质与天体成分分析。",
+      "en": "Made spectra a bridge between laboratory matter and astronomical composition."
+    },
+    "sources": [
+      {
+        "title": "MacTutor — Gustav Kirchhoff",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Kirchhoff/"
+      },
+      {
+        "title": "Florida State University — Optics timeline, 1834–1866",
+        "url": "https://micro.magnet.fsu.edu/optics/timeline/1834-1866.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "按1859年公开的谱线吸收解释定位；1860–1861年系统光谱分析继续发展，作为同一成果族保留。",
+      "en": "Anchored to the 1859 absorption interpretation; the 1860–1861 developments remain part of this event family."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "maxwell-velocity-distribution",
+    "title": {
+      "zh": "气体分子速率分布",
+      "en": "Molecular velocity distribution"
+    },
+    "year": 1860,
+    "precision": "year",
+    "type": "theory",
+    "field": "heat",
+    "people": [
+      "james-clerk-maxwell"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "以统计分布替代单一分子速度，推进统计物理。",
+      "en": "Introduced statistical velocity distributions into kinetic theory."
+    },
+    "sources": [
+      {
+        "title": "Maxwell — Illustrations of the Dynamical Theory of Gases (1860)",
+        "url": "https://doi.org/10.1080/14786446008642902"
+      },
+      {
+        "title": "MacTutor — Maxwell distribution, historical mathematical usage",
+        "url": "https://mathshistory.st-andrews.ac.uk/Miller/mathword/m/"
+      }
+    ],
+    "dateNote": {
+      "zh": "1859年曾在学会报告；此条以1860年正式论文定位。",
+      "en": "Presented in 1859; this record uses the 1860 journal publication."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "maxwell-electromagnetic-field",
+    "title": {
+      "zh": "电磁场统一理论与电磁波",
+      "en": "Unified electromagnetic-field theory"
+    },
+    "year": 1864,
+    "precision": "year",
+    "type": "theory",
+    "field": "light",
+    "people": [
+      "james-clerk-maxwell"
+    ],
+    "weight": 8,
+    "rationale": {
+      "zh": "把电、磁与光纳入同一场论框架。",
+      "en": "Unified electricity, magnetism and light in a field framework."
+    },
+    "sources": [
+      {
+        "title": "Royal Society Archives — Maxwell electromagnetic-field manuscript (1864)",
+        "url": "https://makingscience.royalsociety.org/items/pt_72_7/paper-a-dynamical-theory-of-the-electromagnetic-field-by-j-james-clerk-maxwell"
+      },
+      {
+        "title": "Smithsonian Libraries — Maxwell’s electromagnetic-field paper (1865)",
+        "url": "https://library.si.edu/digital-library/book/dynamicaltheoryo00maxw"
+      },
+      {
+        "title": "Nobel Prize — Historical account of the 1864 field theory",
+        "url": "https://www.nobelprize.org/prizes/physics/the-dual-nature-of-light-as-reflected-in-the-nobel-archives/"
+      }
+    ],
+    "dateNote": {
+      "zh": "1864年12月宣读并刊出摘要；1865年全文发表于《Philosophical Transactions》，以首次公开报告年定位。",
+      "en": "Read and abstracted in 1864; the full Philosophical Transactions paper appeared in 1865."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "clausius-entropy",
+    "title": {
+      "zh": "熵的定义与热力学表述",
+      "en": "Entropy and thermodynamic formulation"
+    },
+    "year": 1865,
+    "precision": "year",
+    "type": "theory",
+    "field": "heat",
+    "people": [
+      "rudolf-clausius"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "把可逆热量与温度关系组织为新的状态量。",
+      "en": "Established entropy as a thermodynamic state quantity."
+    },
+    "sources": [
+      {
+        "title": "Clausius — Ueber verschiedene … Hauptgleichungen der mechanischen Wärmetheorie (1865)",
+        "url": "https://doi.org/10.1002/andp.18652010702"
+      },
+      {
+        "title": "MacTutor — Clausius’s entropy research",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Clausius/"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列原文的发表或公开报告年份定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public report, not by the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "huggins-stellar-radial-velocity",
+    "title": {
+      "zh": "恒星光谱径向速度测量",
+      "en": "Stellar radial-velocity spectroscopy"
+    },
+    "year": 1868,
+    "precision": "year",
+    "type": "method",
+    "field": "cosmos",
+    "people": [
+      "william-huggins"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "使恒星运动可由光谱位移定量研究。",
+      "en": "Made stellar line-of-sight motion accessible through spectroscopy."
+    },
+    "sources": [
+      {
+        "title": "Florida State University — Optics timeline, 1867–1899",
+        "url": "https://micro.magnet.fsu.edu/optics/timeline/1867-1899.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "rayleigh-scattering",
+    "title": {
+      "zh": "短波散射与天空颜色",
+      "en": "Rayleigh scattering"
+    },
+    "year": 1871,
+    "precision": "year",
+    "type": "theory",
+    "field": "light",
+    "people": [
+      "john-strutt-3rd-baron-rayleigh"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "建立小尺度散射的定量波长规律。",
+      "en": "Established a quantitative wavelength law for small-particle scattering."
+    },
+    "sources": [
+      {
+        "title": "Florida State University — Optics timeline, 1867–1899",
+        "url": "https://micro.magnet.fsu.edu/optics/timeline/1867-1899.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "boltzmann-transport-h-theorem",
+    "title": {
+      "zh": "气体输运方程与H定理",
+      "en": "Kinetic transport equation and H-theorem"
+    },
+    "year": 1872,
+    "precision": "year",
+    "type": "theory",
+    "field": "heat",
+    "people": [
+      "ludwig-boltzmann"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "在碰撞统计假设下研究趋于热平衡的过程。",
+      "en": "Connected kinetic collisions to approach toward equilibrium."
+    },
+    "sources": [
+      {
+        "title": "Boltzmann — Weitere Studien (1872), collected original paper",
+        "url": "https://doi.org/10.1017/CBO9781139381420.023"
+      },
+      {
+        "title": "APS — Statistical dynamics and the 1872 H-theorem",
+        "url": "https://doi.org/10.1103/PhysRevE.76.011104"
+      }
+    ],
+    "dateNote": {
+      "zh": "原证明依赖分子混沌等假设，不把不可逆性写成无条件的纯力学定理。",
+      "en": "The result depends on collision-statistical assumptions, including molecular chaos."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "abbe-diffraction-resolution",
+    "title": {
+      "zh": "显微成像的衍射理论",
+      "en": "Diffraction theory of microscopic resolution"
+    },
+    "year": 1873,
+    "precision": "year",
+    "type": "theory",
+    "field": "light",
+    "people": [
+      "ernst-abbe"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "明确显微分辨率与波长、孔径之间的限制。",
+      "en": "Established the wavelength and aperture limits of microscopy."
+    },
+    "sources": [
+      {
+        "title": "Florida State University — Optics timeline, 1867–1899",
+        "url": "https://micro.magnet.fsu.edu/optics/timeline/1867-1899.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "van-der-waals-equation",
+    "title": {
+      "zh": "真实气体与液体状态方程",
+      "en": "Equation of state for real gases and liquids"
+    },
+    "year": 1873,
+    "precision": "year",
+    "type": "theory",
+    "field": "heat",
+    "people": [
+      "johannes-diderik-van-der-waals"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "以分子体积与吸引力解释非理想行为。",
+      "en": "Connected nonideal fluid behavior to molecular size and attraction."
+    },
+    "sources": [
+      {
+        "title": "Nobel Prize — Johannes Diderik van der Waals, Facts",
+        "url": "https://www.nobelprize.org/prizes/physics/1910/waals/facts/"
+      },
+      {
+        "title": "Van der Waals — Nobel lecture, referring to the 1873 treatise",
+        "url": "https://www.nobelprize.org/uploads/2018/06/waals-lecture.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "gibbs-heterogeneous-equilibrium",
+    "title": {
+      "zh": "非均匀物质的平衡理论",
+      "en": "Equilibrium of heterogeneous substances"
+    },
+    "year": 1876,
+    "precision": "year",
+    "type": "theory",
+    "field": "heat",
+    "people": [
+      "josiah-willard-gibbs"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "建立多相平衡、化学势与热力学势的系统方法。",
+      "en": "Established a systematic thermodynamic treatment of multiphase equilibrium."
+    },
+    "sources": [
+      {
+        "title": "Yale University Library — Josiah Willard Gibbs papers",
+        "url": "https://ead-pdfs.library.yale.edu/584.pdf"
+      },
+      {
+        "title": "Yale Library — Connecticut Academy records",
+        "url": "https://ead-pdfs.library.yale.edu/3660.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "论文分1876和1878年两部分发表，按首部分年份计一次。",
+      "en": "Published in two parts in 1876 and 1878, counted once at the first part."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "boltzmann-statistical-entropy",
+    "title": {
+      "zh": "熵与微观状态概率的联系",
+      "en": "Statistical entropy and microscopic configurations"
+    },
+    "year": 1877,
+    "precision": "year",
+    "type": "theory",
+    "field": "heat",
+    "people": [
+      "ludwig-boltzmann"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "用微观构型计数连接概率与宏观热力学。",
+      "en": "Connected microscopic configuration counting with macroscopic entropy."
+    },
+    "sources": [
+      {
+        "title": "University of Vienna — Boltzmann collected scientific papers, volume II",
+        "url": "https://phaidra.univie.ac.at/view/o:63651"
+      },
+      {
+        "title": "University of Graz — Boltzmann research catalogue",
+        "url": "https://static.uni-graz.at/fileadmin/Wissenschaftsgeschichte/katalog.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "本条是1877年的构型概率论证，区别于1872年的输运方程；墓碑上的现代公式排版不是原文逐字表达。",
+      "en": "This records the 1877 configurational argument, distinct from the 1872 kinetic equation; the later epitaph notation is not quoted as original wording."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "hall-effect",
+    "title": {
+      "zh": "霍尔效应",
+      "en": "Hall effect"
+    },
+    "year": 1879,
+    "precision": "year",
+    "type": "discovery",
+    "field": "matter",
+    "people": [
+      "edwin-hall"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "为电荷输运与载流子研究提供横向电压探针。",
+      "en": "Provided a transverse-voltage probe of electrical transport."
+    },
+    "sources": [
+      {
+        "title": "APS — Elucidating the Hall Effect",
+        "url": "https://www.aps.org/apsnews/1998/12/elucidating-the-hall-effect"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "stefan-radiation-law",
+    "title": {
+      "zh": "热辐射四次方经验定律",
+      "en": "Fourth-power thermal-radiation law"
+    },
+    "year": 1879,
+    "precision": "year",
+    "type": "discovery",
+    "field": "heat",
+    "people": [
+      "jozef-stefan"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "建立总热辐射随绝对温度变化的定量规律。",
+      "en": "Established a quantitative temperature law for total thermal radiation."
+    },
+    "sources": [
+      {
+        "title": "TU Braunschweig — Josef Stefan",
+        "url": "https://www.pci.tu-bs.de/aggericke/Personen/Stefan_Josef.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "curie-piezoelectricity",
+    "title": {
+      "zh": "压电效应",
+      "en": "Piezoelectricity"
+    },
+    "year": 1880,
+    "precision": "year",
+    "type": "discovery",
+    "field": "matter",
+    "people": [
+      "pierre-curie"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "建立机械应力与晶体电极化的联系。",
+      "en": "Connected mechanical stress with electrical polarization in crystals."
+    },
+    "sources": [
+      {
+        "title": "ESPCI — Pierre Curie’s crystal research",
+        "url": "https://www2.espci.fr/presentation/radioactivity.htm"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Jacques Curie"
+    ]
+  },
+  {
+    "id": "reynolds-flow-transition",
+    "title": {
+      "zh": "流动转捩与相似准则",
+      "en": "Flow transition and dynamical similarity"
+    },
+    "year": 1883,
+    "precision": "year",
+    "type": "method",
+    "field": "mechanics",
+    "people": [
+      "osborne-reynolds"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "使层流与湍流的转变可进行定量比较。",
+      "en": "Made laminar–turbulent transition quantitatively comparable."
+    },
+    "sources": [
+      {
+        "title": "Reynolds — Experimental investigation of direct or sinuous water motion (1883)",
+        "url": "https://doi.org/10.1098/rstl.1883.0029"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "boltzmann-radiation-derivation",
+    "title": {
+      "zh": "热辐射定律的热力学推导",
+      "en": "Thermodynamic derivation of the radiation law"
+    },
+    "year": 1884,
+    "precision": "year",
+    "type": "theory",
+    "field": "heat",
+    "people": [
+      "ludwig-boltzmann"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把经验辐射规律与电磁场热力学联系起来。",
+      "en": "Connected an empirical radiation law to field thermodynamics."
+    },
+    "sources": [
+      {
+        "title": "Boltzmann — Derivation of Stefan’s law (1884)",
+        "url": "https://doi.org/10.1002/andp.18842580616"
+      },
+      {
+        "title": "MacTutor — Ludwig Boltzmann",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Boltzmann/"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "poynting-energy-flow",
+    "title": {
+      "zh": "电磁场能流定理",
+      "en": "Electromagnetic energy-flow theorem"
+    },
+    "year": 1884,
+    "precision": "year",
+    "type": "theory",
+    "field": "light",
+    "people": [
+      "john-henry-poynting"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "明确电磁能量在空间中的流动与局部守恒。",
+      "en": "Made electromagnetic energy flow and local conservation explicit."
+    },
+    "sources": [
+      {
+        "title": "Poynting — On the transfer of energy in the electromagnetic field (1884)",
+        "url": "https://doi.org/10.1098/rstl.1884.0016"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "balmer-hydrogen-spectrum",
+    "title": {
+      "zh": "氢光谱的巴耳末关系",
+      "en": "Balmer relation for hydrogen spectra"
+    },
+    "year": 1885,
+    "precision": "year",
+    "type": "discovery",
+    "field": "quantum",
+    "people": [
+      "johann-jakob-balmer"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "找出氢谱线的简单定量结构，为原子模型提供约束。",
+      "en": "Exposed quantitative structure in hydrogen spectral lines."
+    },
+    "sources": [
+      {
+        "title": "Balmer — Notiz über die Spectrallinien des Wasserstoffs (1885)",
+        "url": "https://doi.org/10.1002/andp.18852610506"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "michelson-morley-experiment",
+    "title": {
+      "zh": "迈克耳孙—莫雷干涉实验",
+      "en": "Michelson–Morley experiment"
+    },
+    "year": 1887,
+    "precision": "year",
+    "type": "method",
+    "field": "light",
+    "people": [
+      "albert-abraham-michelson"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "以精密干涉限制以太漂移模型。",
+      "en": "Used precision interferometry to constrain ether-drift models."
+    },
+    "sources": [
+      {
+        "title": "Florida State University — Optics timeline, 1867–1899",
+        "url": "https://micro.magnet.fsu.edu/optics/timeline/1867-1899.html"
+      },
+      {
+        "title": "Michelson and Morley — On the Relative Motion of the Earth and the Luminiferous Ether (1887)",
+        "url": "https://doi.org/10.2475/ajs.s3-34.203.333"
+      }
+    ],
+    "dateNote": {
+      "zh": "本条专指1887年合作实验，区别于迈克耳孙1881年的先行实验；协作者Edward Morley尚未建立独立档案。",
+      "en": "This records the 1887 joint experiment, distinct from Michelson’s 1881 trial; Edward Morley is not yet separately archived."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Edward W. Morley"
+    ]
+  },
+  {
+    "id": "hertz-electromagnetic-waves",
+    "title": {
+      "zh": "电磁波的产生与验证",
+      "en": "Generation and verification of electromagnetic waves"
+    },
+    "year": 1888,
+    "precision": "year",
+    "type": "discovery",
+    "field": "light",
+    "people": [
+      "heinrich-hertz"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "用独立实验检验电磁波的传播与光学性质。",
+      "en": "Experimentally established electromagnetic-wave propagation and optical properties."
+    },
+    "sources": [
+      {
+        "title": "Florida State University — Optics timeline, 1867–1899",
+        "url": "https://micro.magnet.fsu.edu/optics/timeline/1867-1899.html"
+      },
+      {
+        "title": "Nobel Prize — Physics 1901–2000, electromagnetism history",
+        "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/"
+      }
+    ],
+    "dateNote": {
+      "zh": "1886–1889年连续研究；本条以1888年系统验证节点计一次。",
+      "en": "A series of studies ran from 1886 to 1889; this event is anchored to the 1888 systematic verification."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "pockels-surface-film-balance",
+    "title": {
+      "zh": "表面薄膜的定量测量",
+      "en": "Quantitative measurements of surface films"
+    },
+    "year": 1891,
+    "precision": "year",
+    "type": "method",
+    "field": "matter",
+    "people": [
+      "agnes-pockels"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "建立控制表面面积、测量薄膜性质的实验方法。",
+      "en": "Established controlled-area methods for studying surface films."
+    },
+    "sources": [
+      {
+        "title": "University of Kiel — Agnes Pockels research biography",
+        "url": "https://www.uni-kiel.de/anorg/lagaly/group/klausSchiver/pockels.pdf"
+      },
+      {
+        "title": "Pockels — Surface Tension (1891)",
+        "url": "https://doi.org/10.1038/043437c0"
+      }
+    ],
+    "dateNote": {
+      "zh": "早期实验始于1880年代；以1891年《Nature》首次公开报告定位。",
+      "en": "Experiments began in the 1880s; anchored to the first Nature report in 1891."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "rontgen-x-rays",
+    "title": {
+      "zh": "发现X射线",
+      "en": "Discovery of X-rays"
+    },
+    "year": 1895,
+    "precision": "year",
+    "type": "discovery",
+    "field": "light",
+    "people": [
+      "wilhelm-rontgen"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "发现新的穿透性辐射并开辟结构探测方法。",
+      "en": "Opened new radiation and structural-probing methods."
+    },
+    "sources": [
+      {
+        "title": "Nobel Prize — Wilhelm Conrad Röntgen, Facts",
+        "url": "https://www.nobelprize.org/prizes/physics/1901/rontgen/facts/"
+      },
+      {
+        "title": "Florida State University — X-rays and late nineteenth-century optics",
+        "url": "https://micro.magnet.fsu.edu/optics/timeline/1867-1899.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "becquerel-radioactivity",
+    "title": {
+      "zh": "铀的自发放射性",
+      "en": "Spontaneous uranium radioactivity"
+    },
+    "year": 1896,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [
+      "henri-becquerel"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "揭示原子内部自发辐射的全新现象。",
+      "en": "Established spontaneous radiation as a new atomic phenomenon."
+    },
+    "sources": [
+      {
+        "title": "Nobel Prize — Physics 1901–2000, historical survey",
+        "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/"
+      },
+      {
+        "title": "NASA HEASARC — High-energy astronomy chronology, 1800–1899",
+        "url": "https://heasarc.gsfc.nasa.gov/docs/heasarc/headates/1800.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "zeeman-splitting",
+    "title": {
+      "zh": "磁场导致谱线分裂",
+      "en": "Magnetic splitting of spectral lines"
+    },
+    "year": 1896,
+    "precision": "year",
+    "type": "discovery",
+    "field": "light",
+    "people": [
+      "pieter-zeeman",
+      "hendrik-lorentz"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "以光谱检验带电粒子与磁场的相互作用。",
+      "en": "Connected atomic spectra to magnetic interactions."
+    },
+    "sources": [
+      {
+        "title": "Nobel Prize — Physics 1901–2000, historical survey",
+        "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "thomson-electron",
+    "title": {
+      "zh": "阴极射线中的电子",
+      "en": "Electron in cathode rays"
+    },
+    "year": 1897,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [
+      "j-j-thomson"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "确认比原子更轻的普遍带电组分。",
+      "en": "Established a light charged constituent of matter."
+    },
+    "sources": [
+      {
+        "title": "Fermilab — 1897: J. J. Thomson and the electron",
+        "url": "https://www.fnal.gov/pub/inquiring/timeline/02.html"
+      },
+      {
+        "title": "APS — October 1897: The Discovery of the Electron",
+        "url": "https://www.aps.org/apsnews/2000/10/discovery-of-the-electron"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "curies-polonium-radium",
+    "title": {
+      "zh": "发现钋与镭",
+      "en": "Discovery of polonium and radium"
+    },
+    "year": 1898,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [
+      "marie-curie",
+      "pierre-curie"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "发展放射性测量并揭示新的强放射性物质。",
+      "en": "Expanded radioactivity research through newly identified substances."
+    },
+    "sources": [
+      {
+        "title": "Nobel Prize — Discovery of polonium and radium",
+        "url": "https://www.nobelprize.org/prizes/themes/marie-and-pierre-curie-and-the-discovery-of-polonium-and-radium-/"
+      },
+      {
+        "title": "AIP — Curie discovery paper, translated original (1898)",
+        "url": "https://history.aip.org/exhibits/curie/discover_text.htm"
+      }
+    ],
+    "dateNote": {
+      "zh": "钋于7月、镭于12月报告；作为同一研究计划的成果族合并计一次，未把1903或1911获奖年当发现年。",
+      "en": "Polonium was reported in July and radium in December; counted as one discovery family rather than at the award dates."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Gustave Bémont (radium report)"
+    ]
+  },
+  {
+    "id": "drude-electron-metals",
+    "title": {
+      "zh": "金属的经典电子输运模型",
+      "en": "Classical electron transport in metals"
+    },
+    "year": 1900,
+    "precision": "year",
+    "type": "theory",
+    "field": "matter",
+    "people": [
+      "paul-drude"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "用电子动力学统一讨论金属电导与热导。",
+      "en": "Connected metallic electrical and thermal transport to electron dynamics."
+    },
+    "sources": [
+      {
+        "title": "Drude — Zur Elektronentheorie der Metalle (1900)",
+        "url": "https://doi.org/10.1002/andp.19003060312"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列原文的发表或公开报告年份定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public report, not by the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "planck-energy-quanta",
+    "title": {
+      "zh": "黑体辐射与能量量子",
+      "en": "Blackbody radiation and energy quanta"
+    },
+    "year": 1900,
+    "precision": "year",
+    "type": "theory",
+    "field": "quantum",
+    "people": [
+      "max-planck"
+    ],
+    "weight": 8,
+    "rationale": {
+      "zh": "把量子常数与离散能量引入辐射理论。",
+      "en": "Introduced energy quantization into the foundations of radiation theory."
+    },
+    "sources": [
+      {
+        "title": "Nobel Prize — Max Planck, Facts",
+        "url": "https://www.nobelprize.org/prizes/physics/1918/planck/facts/"
+      },
+      {
+        "title": "Glauber Nobel lecture — Planck’s 1900 quantum hypothesis",
+        "url": "https://www.nobelprize.org/uploads/2018/06/glauber-slides.pdf"
+      },
+      {
+        "title": "Florida State University — The quantum revolution in 1900",
+        "url": "https://micro.magnet.fsu.edu/optics/timeline/1900-1933.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "1900年10月提出辐射公式、12月作量子推导；作为同一成果族计一次。",
+      "en": "The October radiation formula and December quantum derivation are counted as one event family."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "gibbs-statistical-ensembles",
+    "title": {
+      "zh": "统计系综的系统理论",
+      "en": "Systematic statistical ensembles"
+    },
+    "year": 1902,
+    "precision": "year",
+    "type": "theory",
+    "field": "heat",
+    "people": [
+      "josiah-willard-gibbs"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "建立统计力学的普遍系综语言。",
+      "en": "Established the general ensemble language of statistical mechanics."
+    },
+    "sources": [
+      {
+        "title": "Yale University Library — Josiah Willard Gibbs papers",
+        "url": "https://ead-pdfs.library.yale.edu/584.pdf"
+      },
+      {
+        "title": "G. H. Bryan — Contemporary review of Elementary Principles in Statistical Mechanics (Nature, 1902)",
+        "url": "https://doi.org/10.1038/066291a0"
+      }
+    ],
+    "dateNote": {
+      "zh": "按1902年《统计力学基本原理》出版定位，采用系综框架这一成果，不将该书各章分别计数。",
+      "en": "Anchored to the 1902 publication of Elementary Principles in Statistical Mechanics; the ensemble framework is one event rather than separate points for each chapter."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "rutherford-soddy-transmutation",
+    "title": {
+      "zh": "放射性嬗变理论",
+      "en": "Radioactive transformation theory"
+    },
+    "year": 1902,
+    "precision": "year",
+    "type": "theory",
+    "field": "particle",
+    "people": [
+      "ernest-rutherford",
+      "frederick-soddy"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "把放射性解释为元素转化及其衰变过程。",
+      "en": "Interpreted radioactivity through elemental transformation and decay."
+    },
+    "sources": [
+      {
+        "title": "Nobel Prize — Physics 1901–2000, historical survey",
+        "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/"
+      },
+      {
+        "title": "Rutherford and Soddy — The Cause and Nature of Radioactivity (1902)",
+        "url": "https://doi.org/10.1080/14786440209462856"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "prandtl-boundary-layer",
+    "title": {
+      "zh": "边界层理论",
+      "en": "Boundary-layer theory"
+    },
+    "year": 1904,
+    "precision": "year",
+    "type": "theory",
+    "field": "mechanics",
+    "people": [
+      "ludwig-prandtl"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "连接理想流体外场与近壁黏性效应。",
+      "en": "Connected outer inviscid flow with near-wall viscous dynamics."
+    },
+    "sources": [
+      {
+        "title": "NASA/NACA — Fifty Years of Boundary-Layer Theory and Experiment",
+        "url": "https://ntrs.nasa.gov/citations/20150019333"
+      },
+      {
+        "title": "DLR — History of Aviation Research in Germany",
+        "url": "https://www.dlr.de/en/dlr/about-us/history-of-dlr/the-history-of-aviation-research-in-germany"
+      }
+    ],
+    "dateNote": {
+      "zh": "1904年海德堡数学大会报告，1905年会议录出版；以公开报告年定位。",
+      "en": "Presented at the Heidelberg congress in 1904; proceedings appeared in 1905."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "einstein-brownian-motion",
+    "title": {
+      "zh": "布朗运动的分子理论",
+      "en": "Molecular theory of Brownian motion"
+    },
+    "year": 1905,
+    "precision": "year",
+    "type": "theory",
+    "field": "heat",
+    "people": [
+      "albert-einstein"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "把分子热运动连接到可测的介观位移。",
+      "en": "Connected molecular thermal motion with measurable mesoscopic displacement."
+    },
+    "sources": [
+      {
+        "title": "Einstein — Brownian-motion paper (1905)",
+        "url": "https://doi.org/10.1002/andp.19053220806"
+      },
+      {
+        "title": "APS — Einstein’s three great papers of 1905",
+        "url": "https://www.aps.org/apsnews/2004/01/the-back-page"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "einstein-light-quanta",
+    "title": {
+      "zh": "光量子与光电效应解释",
+      "en": "Light quanta and the photoelectric effect"
+    },
+    "year": 1905,
+    "precision": "year",
+    "type": "theory",
+    "field": "quantum",
+    "people": [
+      "albert-einstein"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "赋予辐射量子独立物理意义并提出可检验关系。",
+      "en": "Made light quanta physically substantive through testable relations."
+    },
+    "sources": [
+      {
+        "title": "Einstein — Light-quantum paper (1905)",
+        "url": "https://doi.org/10.1002/andp.19053220607"
+      },
+      {
+        "title": "Nobel Prize — Albert Einstein, Facts",
+        "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/facts/"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "einstein-mass-energy",
+    "title": {
+      "zh": "质量与能量的等价关系",
+      "en": "Mass–energy equivalence"
+    },
+    "year": 1905,
+    "precision": "year",
+    "type": "theory",
+    "field": "cosmos",
+    "people": [
+      "albert-einstein"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "给出物体惯性与能量含量之间的关系。",
+      "en": "Connected inertia with energy content."
+    },
+    "sources": [
+      {
+        "title": "Einstein — Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig? (1905)",
+        "url": "https://doi.org/10.1002/andp.19053231314"
+      }
+    ],
+    "dateNote": {
+      "zh": "与狭义相对论相关，但作为1905年独立短文提出的新增物理结论单列，不重复给基础框架档权重。",
+      "en": "A distinct 1905 follow-up result, weighted below the foundational relativity event."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "einstein-special-relativity",
+    "title": {
+      "zh": "狭义相对论",
+      "en": "Special relativity"
+    },
+    "year": 1905,
+    "precision": "year",
+    "type": "theory",
+    "field": "cosmos",
+    "people": [
+      "albert-einstein"
+    ],
+    "weight": 8,
+    "rationale": {
+      "zh": "重建惯性系的时空关系及运动学基础。",
+      "en": "Recast inertial spacetime and the foundations of kinematics."
+    },
+    "sources": [
+      {
+        "title": "Einstein — Zur Elektrodynamik bewegter Körper (1905)",
+        "url": "https://doi.org/10.1002/andp.19053221004"
+      },
+      {
+        "title": "APS — Einstein’s three great papers of 1905",
+        "url": "https://www.aps.org/apsnews/2004/01/the-back-page"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "einstein-quantum-specific-heat",
+    "title": {
+      "zh": "固体热容的量子模型",
+      "en": "Quantum model of solid heat capacity"
+    },
+    "year": 1907,
+    "precision": "year",
+    "type": "theory",
+    "field": "matter",
+    "people": [
+      "albert-einstein"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "将量子化用于物质热容而非仅用于辐射。",
+      "en": "Extended quantization from radiation to material heat capacity."
+    },
+    "sources": [
+      {
+        "title": "Einstein — Die Plancksche Theorie … spezifischen Wärme (1907)",
+        "url": "https://doi.org/10.1002/andp.19063270110"
+      }
+    ],
+    "dateNote": {
+      "zh": "出版商将论文记为1907年，DOI字符串中的1906不是本条采用的出版年。",
+      "en": "The publisher dates the article to 1907; the 1906 digits inside its DOI are not used as the publication year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "mie-spherical-scattering",
+    "title": {
+      "zh": "球形颗粒的电磁散射解",
+      "en": "Electromagnetic scattering by spheres"
+    },
+    "year": 1908,
+    "precision": "year",
+    "type": "theory",
+    "field": "light",
+    "people": [
+      "gustav-mie"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "为颗粒光散射与吸收提供完整电磁求解。",
+      "en": "Provided an electromagnetic solution for particle scattering and absorption."
+    },
+    "sources": [
+      {
+        "title": "Mie — Beiträge zur Optik trüber Medien (1908)",
+        "url": "https://doi.org/10.1002/andp.19083300302"
+      },
+      {
+        "title": "Polish Academy of Sciences — 100 Years of Mie Scattering",
+        "url": "https://cmst.eu/articles/scattering-of-light-on-droplets-and-spherical-objects-100-years-of-mie-scattering/"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列原文的发表或公开报告年份定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public report, not by the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "onnes-liquid-helium",
+    "title": {
+      "zh": "液化氦与极低温实验",
+      "en": "Liquefaction of helium"
+    },
+    "year": 1908,
+    "precision": "year",
+    "type": "method",
+    "field": "heat",
+    "people": [
+      "heike-kamerlingh-onnes"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "打开可重复研究数开尔文物性的新温区。",
+      "en": "Opened a reproducible regime of few-kelvin experimental physics."
+    },
+    "sources": [
+      {
+        "title": "Nobel Prize — Heike Kamerlingh Onnes, Facts",
+        "url": "https://www.nobelprize.org/prizes/physics/1913/onnes/facts/"
+      },
+      {
+        "title": "Nobel Prize — 1913 presentation speech",
+        "url": "https://www.nobelprize.org/prizes/physics/1913/ceremony-speech/"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "onnes-superconductivity",
+    "title": {
+      "zh": "发现超导电性",
+      "en": "Discovery of superconductivity"
+    },
+    "year": 1911,
+    "precision": "year",
+    "type": "discovery",
+    "field": "matter",
+    "people": [
+      "heike-kamerlingh-onnes"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "发现电阻消失的低温物态并开辟超导研究。",
+      "en": "Opened superconductivity as a new low-temperature state of matter."
+    },
+    "sources": [
+      {
+        "title": "Nobel Prize — Heike Kamerlingh Onnes, Facts",
+        "url": "https://www.nobelprize.org/prizes/physics/1913/onnes/facts/"
+      },
+      {
+        "title": "Royal Swedish Academy — 1972 Physics Prize background",
+        "url": "https://www.nobelprize.org/prizes/physics/1972/press-release/"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "rutherford-nuclear-atom",
+    "title": {
+      "zh": "原子核模型",
+      "en": "Nuclear model of the atom"
+    },
+    "year": 1911,
+    "precision": "year",
+    "type": "theory",
+    "field": "particle",
+    "people": [
+      "ernest-rutherford",
+      "hans-geiger",
+      "ernest-marsden"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "由大角散射建立原子的核式结构。",
+      "en": "Established nuclear atomic structure from scattering evidence."
+    },
+    "sources": [
+      {
+        "title": "University of Manchester — Physics history and heritage",
+        "url": "https://www.physics.manchester.ac.uk/about/history-and-heritage/"
+      },
+      {
+        "title": "Niels Bohr — Nobel lecture",
+        "url": "https://www.nobelprize.org/uploads/2018/06/bohr-lecture.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "1909年盖革—马斯登散射结果是实验依据；此条定位1911年核模型解释，不另按作者人数加分。",
+      "en": "The 1909 Geiger–Marsden result supplied evidence; this event records the 1911 nuclear interpretation."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "wilson-cloud-tracks",
+    "title": {
+      "zh": "云室显示带电粒子径迹",
+      "en": "Cloud-chamber particle tracks"
+    },
+    "year": 1911,
+    "precision": "year",
+    "type": "method",
+    "field": "methods",
+    "people": [
+      "charles-thomson-rees-wilson"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "把不可见电离粒子的轨迹转化为可摄影实验记录。",
+      "en": "Made ionizing-particle trajectories photographically observable."
+    },
+    "sources": [
+      {
+        "title": "Nobel Prize — C. T. R. Wilson, Facts",
+        "url": "https://www.nobelprize.org/prizes/physics/1927/wilson/facts/"
+      },
+      {
+        "title": "Wilson — Nobel lecture",
+        "url": "https://www.nobelprize.org/uploads/2018/06/wilson-lecture.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "早期云室研究可追溯至1890年代；本条采用1911年粒子径迹方法的公开成果节点。",
+      "en": "Cloud studies began in the 1890s; this event uses the 1911 public particle-track method."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "debye-solid-heat",
+    "title": {
+      "zh": "固体热容的德拜模型",
+      "en": "Debye model of solid heat capacity"
+    },
+    "year": 1912,
+    "precision": "year",
+    "type": "theory",
+    "field": "matter",
+    "people": [
+      "peter-debye"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "把弹性振动谱与低温固体热容联系起来。",
+      "en": "Connected elastic vibration spectra to low-temperature heat capacity."
+    },
+    "sources": [
+      {
+        "title": "Debye — Zur Theorie der spezifischen Wärmen (1912)",
+        "url": "https://doi.org/10.1002/andp.19123441404"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列原文的发表或公开报告年份定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public report, not by the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "hess-cosmic-radiation",
+    "title": {
+      "zh": "高空气球实验与宇宙辐射",
+      "en": "Balloon experiments and cosmic radiation"
+    },
+    "year": 1912,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [
+      "victor-francis-hess"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "揭示来自地外的高穿透性辐射。",
+      "en": "Established a highly penetrating extraterrestrial radiation source."
+    },
+    "sources": [
+      {
+        "title": "Nobel Prize — Physics 1901–2000, cosmic-radiation history",
+        "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/"
+      },
+      {
+        "title": "Hess — Nobel lecture",
+        "url": "https://www.nobelprize.org/uploads/2018/06/hess-lecture.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列原文的发表或公开报告年份定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public report, not by the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "laue-crystal-diffraction",
+    "title": {
+      "zh": "晶体对X射线的衍射",
+      "en": "X-ray diffraction by crystals"
+    },
+    "year": 1912,
+    "precision": "year",
+    "type": "discovery",
+    "field": "matter",
+    "people": [
+      "max-von-laue"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "同时检验X射线波性与晶体周期结构。",
+      "en": "Linked X-ray wave behavior with periodic crystal structure."
+    },
+    "sources": [
+      {
+        "title": "Nobel Prize — Max von Laue, Biographical",
+        "url": "https://www.nobelprize.org/prizes/physics/1914/laue/biographical/"
+      },
+      {
+        "title": "Max von Laue — Nobel lecture",
+        "url": "https://www.nobelprize.org/uploads/2018/06/laue-lecture.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed",
+    "groups": [
+      "Walter Friedrich",
+      "Paul Knipping"
+    ]
+  },
+  {
+    "id": "leavitt-period-luminosity",
+    "title": {
+      "zh": "造父变星周期—光度关系",
+      "en": "Cepheid period–luminosity relation"
+    },
+    "year": 1912,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [
+      "henrietta-swan-leavitt"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "为天体距离测量建立可校准的观测关系。",
+      "en": "Established a calibratable observational basis for cosmic distances."
+    },
+    "sources": [
+      {
+        "title": "NASA — Cepheids and Leavitt’s 1912 relationship",
+        "url": "https://starchild.gsfc.nasa.gov/docs/StarChild/questions/cepheids.html"
+      },
+      {
+        "title": "Harvard — Henrietta S. Leavitt",
+        "url": "https://following-her-stars.sites.cfa.harvard.edu/the-computers/henrietta-s-leavitt"
+      }
+    ],
+    "dateNote": {
+      "zh": "1908年已有初步关系；1912年公开定量研究作为此条定位节点。",
+      "en": "An initial relation appeared in 1908; anchored here to the quantitative 1912 report."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "bohr-quantized-atom",
+    "title": {
+      "zh": "量子化原子模型",
+      "en": "Quantized atomic model"
+    },
+    "year": 1913,
+    "precision": "year",
+    "type": "theory",
+    "field": "quantum",
+    "people": [
+      "niels-bohr"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "把原子稳定性、能级与线状光谱联系起来。",
+      "en": "Connected atomic stability and line spectra with discrete energy states."
+    },
+    "sources": [
+      {
+        "title": "Nobel Prize — Niels Bohr, Facts",
+        "url": "https://www.nobelprize.org/prizes/physics/1922/bohr/facts/"
+      },
+      {
+        "title": "Niels Bohr — Nobel lecture",
+        "url": "https://www.nobelprize.org/uploads/2018/06/bohr-lecture.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "millikan-precision-charge",
+    "title": {
+      "zh": "元电荷的精密油滴测量",
+      "en": "Precision oil-drop determination of elementary charge"
+    },
+    "year": 1913,
+    "precision": "year",
+    "type": "method",
+    "field": "methods",
+    "people": [
+      "robert-andrews-millikan"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "定量检验电荷离散性并精密测量元电荷。",
+      "en": "Quantitatively tested charge discreteness and measured elementary charge."
+    },
+    "sources": [
+      {
+        "title": "Millikan — On the Elementary Electrical Charge … (1913), Caltech original paper",
+        "url": "https://authors.library.caltech.edu/records/sfc90-k2g07"
+      }
+    ],
+    "dateNote": {
+      "zh": "1909–1912年已有实验和公开报告；本条只计1913年完整精密测量论文，不再另计早期试验。",
+      "en": "Earlier experiments and reports date to 1909–1912; this event counts the complete 1913 precision report once."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "franck-hertz-excitation",
+    "title": {
+      "zh": "原子离散激发的电子碰撞实验",
+      "en": "Discrete atomic excitation by electron impact"
+    },
+    "year": 1914,
+    "precision": "year",
+    "type": "discovery",
+    "field": "quantum",
+    "people": [
+      "james-franck",
+      "gustav-ludwig-hertz"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "独立揭示原子吸收能量的非连续性。",
+      "en": "Independently established discrete energy uptake by atoms."
+    },
+    "sources": [
+      {
+        "title": "Nobel educational archive — Franck–Hertz experiment",
+        "url": "https://educationalgames.nobelprize.org/educational/physics/quantised_world/structure-3.html"
+      },
+      {
+        "title": "James Franck — Nobel lecture",
+        "url": "https://www.nobelprize.org/uploads/2018/06/franck-lecture.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "实验当时的原始解释与后来的能级解释有区别；本条不将后见解释写成实验者的初始结论。",
+      "en": "The original interpretation differed from the later energy-level account; that distinction is retained."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "einstein-general-relativity",
+    "title": {
+      "zh": "广义相对论引力场方程",
+      "en": "General-relativistic gravitational field equations"
+    },
+    "year": 1915,
+    "precision": "year",
+    "type": "theory",
+    "field": "cosmos",
+    "people": [
+      "albert-einstein"
+    ],
+    "weight": 8,
+    "rationale": {
+      "zh": "以时空几何重建引力理论的基本框架。",
+      "en": "Recast gravitation through the geometry of spacetime."
+    },
+    "sources": [
+      {
+        "title": "Einstein — Die Feldgleichungen der Gravitation, 25 November 1915, MPIWG original archive",
+        "url": "https://echo-old.mpiwg-berlin.mpg.de/ECHOdocuView?url=%2Fpermanent%2Fecho%2Feinstein%2Fsitzungsberichte%2F6E3MAXK4%2Findex.meta&viewMode=index"
+      },
+      {
+        "title": "Max Planck Institute — Einstein’s 1915 field equations",
+        "url": "https://einstein-virtuell.mpiwg-berlin.mpg.de/VEA/SC854034901_MOD1479463207_SEQ923184502_SL2034834684_en.html"
+      },
+      {
+        "title": "Caltech Einstein Papers Project — The 1915 field equations",
+        "url": "https://www.einstein.caltech.edu/news/one-hundred-years-of-einsteins-field-equations-and-of-the-explanation-of-mercurys-perihelion"
+      }
+    ],
+    "dateNote": {
+      "zh": "按1915年11月25日最终场方程公开报告定位；1916年综述不重复计数。",
+      "en": "Anchored to the final field equations of 25 November 1915; the 1916 review is not counted again."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "einstein-stimulated-emission",
+    "title": {
+      "zh": "受激辐射与辐射跃迁关系",
+      "en": "Stimulated emission and radiative-transition relations"
+    },
+    "year": 1916,
+    "precision": "year",
+    "type": "theory",
+    "field": "quantum",
+    "people": [
+      "albert-einstein"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "为受激辐射及量子光学建立基础关系。",
+      "en": "Established foundational relations for stimulated emission and quantum optics."
+    },
+    "sources": [
+      {
+        "title": "Claude Cohen-Tannoudji — Laser, Offspring and Powerful Enabler of Quantum Science",
+        "url": "https://doi.org/10.1103/PRXQuantum.6.010102"
+      },
+      {
+        "title": "Max Planck Institute for the History of Science — Stimulated Emission, 1916 original reproduction",
+        "url": "https://einstein-virtuell.mpiwg-berlin.mpg.de/VEA/SC229031645_MOD-1854197941_SEQ-1755187600_SL-2116130685_en.html"
+      },
+      {
+        "title": "American Institute of Physics — The Quantum and the Cosmos",
+        "url": "https://history.aip.org/exhibits/einstein/quantum1_text.htm"
+      }
+    ],
+    "dateNote": {
+      "zh": "按1916年首次版本定位；1917年发表扩展论文，未重复计数。",
+      "en": "Anchored to the first 1916 version; the expanded 1917 article is not counted again."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "schwarzschild-spherical-solution",
+    "title": {
+      "zh": "球对称引力场的精确解",
+      "en": "Exact spherical gravitational solution"
+    },
+    "year": 1916,
+    "precision": "year",
+    "type": "theory",
+    "field": "cosmos",
+    "people": [
+      "karl-schwarzschild"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "给出广义相对论的关键精确解。",
+      "en": "Provided a key exact solution of general relativity."
+    },
+    "sources": [
+      {
+        "title": "Max Planck Institute/Einstein Online — Schwarzschild solution",
+        "url": "https://www.einstein-online.info/en/explandict/schwarzschild-black-hole/"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "noether-symmetry-conservation",
+    "title": {
+      "zh": "对称性与守恒律的普遍联系",
+      "en": "Symmetry and conservation laws"
+    },
+    "year": 1918,
+    "precision": "year",
+    "type": "theory",
+    "field": "methods",
+    "people": [
+      "emmy-noether"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "把连续对称性与守恒量置于统一数学框架。",
+      "en": "Unified continuous symmetries and conservation laws."
+    },
+    "sources": [
+      {
+        "title": "APS — Emmy Noether and symmetry",
+        "url": "https://www.aps.org/apsnews/2013/03/this-month-in-physics-history"
+      },
+      {
+        "title": "Noether — Invariante Variationsprobleme (1918), original article archive",
+        "url": "https://eudml.org/doc/59024"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "rutherford-artificial-transmutation",
+    "title": {
+      "zh": "人工诱发核反应的报告",
+      "en": "Report of an artificially induced nuclear reaction"
+    },
+    "year": 1919,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [
+      "ernest-rutherford"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "用粒子轰击实现并研究核转化。",
+      "en": "Established nuclear transformation by particle bombardment."
+    },
+    "sources": [
+      {
+        "title": "University of Manchester — Rutherford’s Legacy",
+        "url": "https://www.manchester.ac.uk/about/news/rutherfords-legacy--the-birth-of-nuclear-physics-in-manchester/"
+      },
+      {
+        "title": "Ernest Rutherford — Recent Researches on the Transmutation of the Elements (1933 retrospective)",
+        "url": "https://doi.org/10.1038/131388a0"
+      }
+    ],
+    "dateNote": {
+      "zh": "实验过程跨1917–1919年；以1919年发表报告定位，不称其为后来意义上的核裂变。",
+      "en": "Experiments spanned 1917–1919; anchored to publication in 1919, distinct from nuclear fission."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "saha-thermal-ionization",
+    "title": {
+      "zh": "恒星大气的热电离理论",
+      "en": "Thermal ionization in stellar atmospheres"
+    },
+    "year": 1920,
+    "precision": "year",
+    "type": "theory",
+    "field": "cosmos",
+    "people": [
+      "meghnad-saha"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "将原子电离平衡与恒星光谱连接起来。",
+      "en": "Connected atomic ionization equilibrium with stellar spectra."
+    },
+    "sources": [
+      {
+        "title": "Saha Institute — Collected Scientific Papers of Meghnad Saha",
+        "url": "https://www.saha.ac.in/web/library-digitized-doc/library-digitized-doc-mn-saha-s-papers"
+      },
+      {
+        "title": "Saha — Ionisation in the Solar Chromosphere (1920)",
+        "url": "https://doi.org/10.1038/105232b0"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "friedmann-dynamic-cosmology",
+    "title": {
+      "zh": "非静态宇宙解",
+      "en": "Dynamical cosmological solutions"
+    },
+    "year": 1922,
+    "precision": "year",
+    "type": "theory",
+    "field": "cosmos",
+    "people": [
+      "alexander-friedmann"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "揭示广义相对论允许随时间演化的宇宙。",
+      "en": "Established dynamical cosmologies within general relativity."
+    },
+    "sources": [
+      {
+        "title": "Friedmann — Über die Krümmung des Raumes (1922)",
+        "url": "https://doi.org/10.1007/BF01332580"
+      },
+      {
+        "title": "Russian Academy/MathNet — Friedmann’s 1922 original and translation",
+        "url": "https://www.mathnet.ru/eng/ufn11576"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "stern-gerlach-space-quantization",
+    "title": {
+      "zh": "原子束的空间量子化",
+      "en": "Space quantization in an atomic beam"
+    },
+    "year": 1922,
+    "precision": "year",
+    "type": "discovery",
+    "field": "quantum",
+    "people": [
+      "otto-stern",
+      "walther-gerlach"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "以原子束分裂展示角动量投影的离散性。",
+      "en": "Demonstrated discrete angular-momentum projections in an atomic beam."
+    },
+    "sources": [
+      {
+        "title": "Fritz Haber Institute/APS — Centenary of the Stern–Gerlach experiment",
+        "url": "https://meetings-archive.aps.org/apr/2023/q06/1/"
+      },
+      {
+        "title": "APS — The Stern–Gerlach Experiment, 1921–1940",
+        "url": "https://meetings-archive.aps.org/apr/2023/q06/2"
+      }
+    ],
+    "dateNote": {
+      "zh": "1922年实验，最初按旧量子论解释；电子自旋解释是后续发展。",
+      "en": "Experiment performed in 1922; the later spin interpretation is distinguished from the original account."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "compton-xray-scattering",
+    "title": {
+      "zh": "康普顿散射",
+      "en": "Compton scattering"
+    },
+    "year": 1923,
+    "precision": "year",
+    "type": "discovery",
+    "field": "quantum",
+    "people": [
+      "arthur-compton"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "用能量动量关系解释X射线散射的波长变化。",
+      "en": "Established photon energy–momentum behavior in X-ray scattering."
+    },
+    "sources": [
+      {
+        "title": "Compton — A Quantum Theory of the Scattering of X-rays by Light Elements (1923)",
+        "url": "https://doi.org/10.1103/PhysRev.21.483"
+      },
+      {
+        "title": "Nobel Prize — The dual nature of light",
+        "url": "https://www.nobelprize.org/prizes/physics/the-dual-nature-of-light-as-reflected-in-the-nobel-archives/"
+      }
+    ],
+    "dateNote": {
+      "zh": "1922年底已取得结果并提交论文；以1923年正式论文发表定位。",
+      "en": "Results were obtained and submitted in late 1922; anchored here to the 1923 published paper."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "de-broglie-matter-waves",
+    "title": {
+      "zh": "物质波假说",
+      "en": "Matter-wave hypothesis"
+    },
+    "year": 1923,
+    "precision": "year",
+    "type": "theory",
+    "field": "quantum",
+    "people": [
+      "louis-de-broglie"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "将波粒关系推广到有质量物质。",
+      "en": "Extended wave–particle relations to material particles."
+    },
+    "sources": [
+      {
+        "title": "Louis de Broglie — Nobel lecture",
+        "url": "https://www.nobelprize.org/uploads/2016/04/broglie-lecture.pdf"
+      },
+      {
+        "title": "Nobel Prize — Physics 1901–2000, historical survey",
+        "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/"
+      }
+    ],
+    "dateNote": {
+      "zh": "1923年短文首次提出，1924年博士论文系统展开；本条以首次公开短文年定位。",
+      "en": "First proposed in 1923 notes and developed in the 1924 thesis; anchored to the initial notes."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "bose-einstein-statistics",
+    "title": {
+      "zh": "玻色—爱因斯坦统计",
+      "en": "Bose–Einstein statistics"
+    },
+    "year": 1924,
+    "precision": "year",
+    "type": "theory",
+    "field": "heat",
+    "people": [
+      "satyendra-nath-bose",
+      "albert-einstein"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "建立不可区分量子的统计计数方法。",
+      "en": "Established statistical counting for indistinguishable quanta."
+    },
+    "sources": [
+      {
+        "title": "APS — Einstein, Bose and Bose–Einstein statistics",
+        "url": "https://www.aps.org/apsnews/2005/10/this-month-in-physics-history"
+      },
+      {
+        "title": "Cornell and Wieman — Nobel lecture on Bose–Einstein condensation",
+        "url": "https://doi.org/10.1103/RevModPhys.74.875"
+      }
+    ],
+    "dateNote": {
+      "zh": "玻色1924年光量子计数及爱因斯坦1924–1925年气体推广作为一个成果族，按首年计一次。",
+      "en": "The 1924 photon counting and 1924–1925 gas extension are counted as one event family at its first year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "matrix-quantum-mechanics",
+    "title": {
+      "zh": "矩阵量子力学",
+      "en": "Matrix quantum mechanics"
+    },
+    "year": 1925,
+    "precision": "year",
+    "type": "theory",
+    "field": "quantum",
+    "people": [
+      "werner-heisenberg",
+      "max-born",
+      "pascual-jordan"
+    ],
+    "weight": 8,
+    "rationale": {
+      "zh": "建立以可观测量及非对易运算为核心的量子框架。",
+      "en": "Established a quantum framework of observables and noncommuting operations."
+    },
+    "sources": [
+      {
+        "title": "Nobel Prize — Werner Heisenberg, Facts",
+        "url": "https://www.nobelprize.org/prizes/physics/1932/heisenberg/facts/"
+      },
+      {
+        "title": "Heisenberg — Umdeutung paper (1925)",
+        "url": "https://doi.org/10.1007/BF01328377"
+      }
+    ],
+    "dateNote": {
+      "zh": "把海森堡重释与玻恩—约尔丹、三人论文作为同一1925年矩阵力学成果族计一次。",
+      "en": "Heisenberg’s reinterpretation and the Born–Jordan developments are counted as one matrix-mechanics event family."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "pauli-exclusion",
+    "title": {
+      "zh": "泡利不相容原理",
+      "en": "Pauli exclusion principle"
+    },
+    "year": 1925,
+    "precision": "year",
+    "type": "theory",
+    "field": "quantum",
+    "people": [
+      "wolfgang-pauli"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "建立电子态占据的基本限制。",
+      "en": "Established a fundamental restriction on electronic state occupancy."
+    },
+    "sources": [
+      {
+        "title": "Wolfgang Pauli — Nobel lecture",
+        "url": "https://www.nobelprize.org/uploads/2018/06/pauli-lecture.pdf"
+      },
+      {
+        "title": "Nobel Prize — Wolfgang Pauli, Facts",
+        "url": "https://www.nobelprize.org/prizes/physics/1945/pauli/facts/"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "payne-stellar-composition",
+    "title": {
+      "zh": "恒星大气的氢氦丰度",
+      "en": "Hydrogen and helium abundance in stellar atmospheres"
+    },
+    "year": 1925,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [
+      "cecilia-payne-gaposchkin"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "把恒星光谱与物质丰度的物理推断联系起来。",
+      "en": "Established a physical inference of stellar composition from spectra."
+    },
+    "sources": [
+      {
+        "title": "Harvard Wolbach Library — Payne’s education and doctoral thesis",
+        "url": "https://library.cfa.harvard.edu/cecilia-payne-gaposchkin/education-and-doctoral-thesis"
+      },
+      {
+        "title": "Harvard — Cecilia Payne-Gaposchkin publications and sources",
+        "url": "https://platestacks.cfa.harvard.edu/women-at-hco/cecilia-payne-gaposchkin"
+      }
+    ],
+    "dateNote": {
+      "zh": "1925年论文提出极高氢氦丰度，但受当时质疑而对结论保留措辞；此历史限制保留在来源中。",
+      "en": "The 1925 thesis derived high abundances but qualified them under contemporary criticism; the historical qualification is retained."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "born-probability-interpretation",
+    "title": {
+      "zh": "波函数的概率解释",
+      "en": "Probability interpretation of the wave function"
+    },
+    "year": 1926,
+    "precision": "year",
+    "type": "theory",
+    "field": "quantum",
+    "people": [
+      "max-born"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "明确量子振幅与实验概率的物理联系。",
+      "en": "Connected quantum amplitudes with experimental probabilities."
+    },
+    "sources": [
+      {
+        "title": "Max Born — Nobel lecture",
+        "url": "https://www.nobelprize.org/uploads/2018/06/born-lecture.pdf"
+      },
+      {
+        "title": "Born — Zur Quantenmechanik der Stoßvorgänge (1926)",
+        "url": "https://doi.org/10.1007/BF01397477"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "fermi-dirac-statistics",
+    "title": {
+      "zh": "费米—狄拉克统计",
+      "en": "Fermi–Dirac statistics"
+    },
+    "year": 1926,
+    "precision": "year",
+    "type": "theory",
+    "field": "heat",
+    "people": [
+      "enrico-fermi",
+      "paul-dirac"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "建立服从不相容原理的多粒子统计。",
+      "en": "Established statistics for particles obeying the exclusion principle."
+    },
+    "sources": [
+      {
+        "title": "Nobel Prize — Enrico Fermi, Biographical",
+        "url": "https://www.nobelprize.org/prizes/physics/1938/fermi/biographical/"
+      },
+      {
+        "title": "Dirac — On the theory of quantum mechanics (1926)",
+        "url": "https://doi.org/10.1098/rspa.1926.0133"
+      }
+    ],
+    "dateNote": {
+      "zh": "费米与狄拉克1926年独立工作合并计一次，不写成合著。",
+      "en": "The independent 1926 developments are counted once and are not described as coauthored."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "schrodinger-wave-mechanics",
+    "title": {
+      "zh": "波动力学",
+      "en": "Wave mechanics"
+    },
+    "year": 1926,
+    "precision": "year",
+    "type": "theory",
+    "field": "quantum",
+    "people": [
+      "erwin-schrodinger"
+    ],
+    "weight": 8,
+    "rationale": {
+      "zh": "建立以波函数与本征值问题描述量子系统的框架。",
+      "en": "Established wave functions and eigenvalue problems as a quantum framework."
+    },
+    "sources": [
+      {
+        "title": "Schrödinger — Quantisierung als Eigenwertproblem (1926)",
+        "url": "https://doi.org/10.1002/andp.19263840404"
+      },
+      {
+        "title": "Max Born — Nobel lecture",
+        "url": "https://www.nobelprize.org/uploads/2018/06/born-lecture.pdf"
+      }
+    ],
+    "dateNote": {
+      "zh": "1926年系列论文合并为一个波动力学成果族，不逐篇累加。",
+      "en": "The 1926 paper series is counted as one wave-mechanics event family."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "davisson-germer-diffraction",
+    "title": {
+      "zh": "电子晶体衍射",
+      "en": "Electron diffraction by crystals"
+    },
+    "year": 1927,
+    "precision": "year",
+    "type": "discovery",
+    "field": "quantum",
+    "people": [
+      "clinton-davisson",
+      "lester-germer",
+      "george-paget-thomson"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "以独立实验检验物质波。",
+      "en": "Established experimental evidence for matter waves."
+    },
+    "sources": [
+      {
+        "title": "Davisson and Germer — Diffraction of Electrons by a Crystal of Nickel (1927)",
+        "url": "https://doi.org/10.1103/PhysRev.30.705"
+      },
+      {
+        "title": "Nobel Prize — The dual nature of light",
+        "url": "https://www.nobelprize.org/prizes/physics/the-dual-nature-of-light-as-reflected-in-the-nobel-archives/"
+      }
+    ],
+    "dateNote": {
+      "zh": "戴维孙—革末晶体实验与汤姆孙薄膜实验是独立证据，同一物质波验证成果族合并计一次。",
+      "en": "Crystal and thin-film experiments were independent evidence, grouped as one matter-wave verification family."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "heisenberg-uncertainty",
+    "title": {
+      "zh": "不确定关系",
+      "en": "Uncertainty relations"
+    },
+    "year": 1927,
+    "precision": "year",
+    "type": "theory",
+    "field": "quantum",
+    "people": [
+      "werner-heisenberg"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "揭示共轭可观测量的量子限制。",
+      "en": "Established quantum limits for conjugate observables."
+    },
+    "sources": [
+      {
+        "title": "Nobel Prize — Werner Heisenberg, Facts",
+        "url": "https://www.nobelprize.org/prizes/physics/1932/heisenberg/facts/"
+      },
+      {
+        "title": "Heisenberg — Über den anschaulichen Inhalt … (1927)",
+        "url": "https://doi.org/10.1007/BF01397280"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "lemaitre-expanding-universe",
+    "title": {
+      "zh": "膨胀宇宙与速度—距离关系",
+      "en": "Expanding universe and velocity–distance relation"
+    },
+    "year": 1927,
+    "precision": "year",
+    "type": "theory",
+    "field": "cosmos",
+    "people": [
+      "georges-lemaitre"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "把动力学宇宙模型与当时天文数据联系起来。",
+      "en": "Connected dynamical cosmology with astronomical observations."
+    },
+    "sources": [
+      {
+        "title": "Lemaître — A homogeneous universe of constant mass and increasing radius, English translation of the 1927 paper",
+        "url": "https://doi.org/10.1093/mnras/91.5.483"
+      },
+      {
+        "title": "AIP Physics Today — Lemaître’s 1927 Hubble relationship",
+        "url": "https://physicstoday.aip.org/letters/lemaitres-hubble-relationship"
+      }
+    ],
+    "dateNote": {
+      "zh": "原文发表于1927年；所链接1931年英译本须结合原始年份阅读。",
+      "en": "The original paper appeared in 1927; the linked English translation appeared in 1931."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "dirac-relativistic-electron",
+    "title": {
+      "zh": "电子的相对论量子理论",
+      "en": "Relativistic quantum theory of the electron"
+    },
+    "year": 1928,
+    "precision": "year",
+    "type": "theory",
+    "field": "quantum",
+    "people": [
+      "paul-dirac"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "统一自旋半粒子的量子运动与狭义相对论。",
+      "en": "Unified spin-half quantum dynamics with special relativity."
+    },
+    "sources": [
+      {
+        "title": "Dirac — The quantum theory of the electron (1928)",
+        "url": "https://doi.org/10.1098/rspa.1928.0023"
+      },
+      {
+        "title": "Nobel Prize — Paul A. M. Dirac, Facts",
+        "url": "https://www.nobelprize.org/prizes/physics/1933/dirac/facts/"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
+      "en": "Dated by the cited publication or public result, not the award year."
+    },
+    "status": "reviewed"
+  },
+  {
+    "id": "raman-inelastic-light-scattering",
+    "title": {
+      "zh": "拉曼散射",
+      "en": "Raman scattering"
+    },
+    "year": 1928,
+    "precision": "year",
+    "type": "discovery",
+    "field": "light",
+    "people": [
+      "c-v-raman"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "以非弹性光散射开辟分子能谱研究。",
+      "en": "Opened molecular spectroscopy through inelastic light scattering."
+    },
+    "sources": [
+      {
+        "title": "Florida State University — Optics timeline, 1900–1933",
+        "url": "https://micro.magnet.fsu.edu/optics/timeline/1900-1933.html"
+      },
+      {
+        "title": "American Physical Society — February 1928: Discovery of the Raman Effect",
+        "url": "https://www.aps.org/apsnews/2009/02/this-month-in-physics-history"
+      },
+      {
+        "title": "C. V. Raman — Nobel Lecture: The molecular scattering of light",
+        "url": "https://www.nobelprize.org/uploads/2018/06/raman-lecture.pdf"
+      },
+      {
+        "title": "I. L. Fabelinskii — The discovery of combination scattering of light in Russia and India",
+        "url": "https://www.ufn.ru/en/articles/2003/10/f/"
+      }
+    ],
+    "dateNote": {
+      "zh": "1928年印度与苏联团队独立观察并报告；合并为同一非弹性光散射发现，不因各组各篇论文重复计数。观察日与正式发表日不同，均在1928年。",
+      "en": "Independent Indian and Soviet observations and reports in 1928 are treated as one discovery of inelastic light scattering, without separate points for each team or paper. Observation and publication dates differ but both fall in 1928."
+    },
+    "status": "reviewed",
+    "groups": [
+      "K. S. Krishnan",
+      "Grigory Landsberg and Leonid Mandelstam (independent discovery in crystals)"
+    ]
+  },
+  {
+    "id": "hubble-distance-redshift",
+    "title": {
+      "zh": "星系距离与径向速度的观测关系",
+      "en": "Observed galaxy distance–velocity relation"
+    },
+    "year": 1929,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [
+      "edwin-hubble"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "为宇宙膨胀提供定量观测关系。",
+      "en": "Established a quantitative observational relation supporting cosmic expansion."
+    },
+    "sources": [
+      {
+        "title": "Hubble — Distance and radial velocity among extra-galactic nebulae (1929)",
+        "url": "https://doi.org/10.1073/pnas.15.3.168"
+      },
+      {
+        "title": "Florida State University — Cosmology and optics chronology",
+        "url": "https://micro.magnet.fsu.edu/optics/timeline/1900-1933.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "哈勃使用包括斯里弗在内的已有径向速度资料；不宣称这些速度均由他测量。",
+      "en": "Hubble used existing radial velocities, including Slipher’s; they are not all attributed to Hubble."
+    },
+    "status": "reviewed"
+  }
+]
