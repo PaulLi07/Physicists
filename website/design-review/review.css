@@ -48,14 +48,11 @@ body{overflow:hidden;display:flow-root}.preview-portrait button{width:100%;heigh
 .inline-image-note{font-size:9px;color:#888;margin-left:12px}
 .person-row.preview-above .row-preview{top:calc(-1 * var(--preview-extra));padding-top:10px;padding-bottom:2px}
 .person-row.preview-above:is(.is-active,.is-closing):before{top:calc(-1 * var(--preview-extra));bottom:var(--preview-extra)}
-.smooth-control{display:flex;align-items:center;gap:9px;margin-top:8px;font-size:10px;color:#666}
-.smooth-control input{width:0;min-width:0;flex:1;height:15px;accent-color:var(--accent);cursor:pointer}
-.smooth-control output{font-size:9px;font-variant-numeric:tabular-nums;min-width:20px;text-align:right;color:#777}
 .color-key{display:block;margin-top:17px;font-size:10px}
 .color-key-title{display:flex;justify-content:space-between;gap:8px;color:#626262}
 #density-unit{font-size:9px;color:#777}
 #density-scale{display:block;width:100%;height:42px;overflow:visible;margin-top:2px}
-#density-scale text{font-size:9px;fill:#666;font-variant-numeric:tabular-nums}
+#density-scale text{font-size:9.5px;fill:#555;font-variant-numeric:tabular-nums}
 .preview-rail{padding-top:20px}
 @media(max-width:1220px){.row-preview{left:64px;right:12px;gap:12px}}
 @media(max-width:1040px){.preview-rail{display:none}.row-preview{left:67px}.person-row.is-active .row-fields{visibility:visible}}

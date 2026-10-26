@@ -1,0 +1,69 @@
+{
+  "checkedAt": "2026-10-27",
+  "fixedSmoothingSigma": 1,
+  "tests": {
+    "passed": 82,
+    "failed": 0
+  },
+  "bar": {
+    "bottom": 19,
+    "height": 13,
+    "strokeWidth": ".5",
+    "y": 6
+  },
+  "labels": [
+    {
+      "anchor": "middle",
+      "text": "0",
+      "y": 35
+    },
+    {
+      "anchor": "middle",
+      "text": "2.1",
+      "y": 35
+    },
+    {
+      "anchor": "middle",
+      "text": "4.1",
+      "y": 35
+    },
+    {
+      "anchor": "middle",
+      "text": "6.2",
+      "y": 35
+    },
+    {
+      "anchor": "middle",
+      "text": "8.3",
+      "y": 35
+    }
+  ],
+  "rangeControls": 0,
+  "right": "1687 · 主要成果\n运动定律与万有引力的统一体系\n1687",
+  "rows": 721,
+  "smoothingControls": 0,
+  "ticks": [
+    {
+      "y1": 19,
+      "y2": 23
+    },
+    {
+      "y1": 19,
+      "y2": 23
+    },
+    {
+      "y1": 19,
+      "y2": 23
+    },
+    {
+      "y1": 19,
+      "y2": 23
+    },
+    {
+      "y1": 19,
+      "y2": 23
+    }
+  ],
+  "year": "1687",
+  "browserErrors": []
+}
