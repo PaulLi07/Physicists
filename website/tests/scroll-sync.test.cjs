@@ -1,6 +1,6 @@
 const test=require('node:test');
 const assert=require('node:assert/strict');
-const {createScrollMap}=require('../scroll-sync.js');
+const {createScrollMap}=require('../src/scroll-sync.js');
 
 test('scrolling and year scrubbing are continuous inverses',()=>{
   const map=createScrollMap([{year:-624,offset:40},{year:1500,offset:2200},{year:1800,offset:6000},{year:1900,offset:22000},{year:1974,offset:40000}],39500);

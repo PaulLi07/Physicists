@@ -1,6 +1,6 @@
 # Git版本管理
 
-本地项目：`Physics_Pioneers`。GitHub仓库：[PaulLi07/Physicists](https://github.com/PaulLi07/Physicists)，远程名 `origin`，主分支 `main`。
+本地项目：`Web_Pioneers`（`/Users/paulli/coding/HEP/Web/Web_Pioneers`）。目录改名保留原Git历史与远程配置。GitHub仓库：[PaulLi07/Physicists](https://github.com/PaulLi07/Physicists)，远程名 `origin`，主分支 `main`。
 
 本机 `origin` 的读取地址为 `https://github.com/PaulLi07/Physicists.git`，推送地址使用 `git@github.com:PaulLi07/Physicists.git`。SSH已核实对应账号为 `PaulLi07`；配置仅作用于本项目。
 
@@ -16,7 +16,7 @@ git commit -m "Describe the change"
 git push
 ```
 
-更新网页数据时，先运行 `python3 scripts/build_website.py`，检查生成结果，再同时提交源文件和 `website/dist/`。修改网页交互后可运行 `node --test website/tests/search.test.cjs`。
+更新网页数据时，先运行 `python3 scripts/build_website.py`，检查生成结果，再同时提交源文件和 `website/dist/`。构建同时生成新版人物与成果数据；修改网页交互后可运行 `node --test website/tests/*.test.cjs`。
 
 从另一台电脑或GitHub网页修改后，在本地没有未提交修改时执行：
 
@@ -27,8 +27,8 @@ git pull --ff-only
 首次在其他电脑取得项目：
 
 ```bash
-git clone https://github.com/PaulLi07/Physicists.git
-cd Physicists
+git clone https://github.com/PaulLi07/Physicists.git Web_Pioneers
+cd Web_Pioneers
 python3 website/serve.py
 ```
 

@@ -1,6 +1,6 @@
 'use strict';
 const test=require('node:test'),assert=require('node:assert/strict');
-const {createEstimates}=require('../person-estimates.js');
+const {createEstimates}=require('../../scripts/lib/navigation-estimates.cjs');
 function person(id,birth,death=null,extra={}){return {id,sortYear:birth,birth:{date:String(birth),precision:'year'},death:death===null?null:{date:String(death),precision:'year'},deathStatus:death===null?'alive':'deceased',fields:{zh:['量子物理'],en:['Quantum physics']},contributions:{zh:['研究微观体系'],en:['Studied microscopic systems']},biography:{zh:'',en:''},notes:{zh:[],en:[]},sources:{zh:[{title:'Biography',url:'https://example.org/'+id}],en:[]},...extra};}
 function event(id,year,people,weight=2,extra={}){return {id,year,precision:year===null?'unknown':'year',people,weight,field:'quantum',...extra};}
 const serial=y=>y<0?y+1:y;

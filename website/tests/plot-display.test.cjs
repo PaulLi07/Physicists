@@ -1,6 +1,6 @@
 'use strict';
 const test=require('node:test'),assert=require('node:assert/strict');
-const {smoothSamples,colorbarTicks}=require('../plot-display.js');
+const {smoothSamples,colorbarTicks}=require('../src/plot-display.js');
 
 test('pixel smoothing spreads a narrow display peak without mutating annual inputs or metadata',()=>{
   const samples=Array.from({length:9},(_,i)=>Object.freeze({year:1900+i,value:i===4?16:0,density:i===4?2:0,uncertain:0}));

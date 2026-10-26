@@ -1,6 +1,6 @@
 /*
- * Conservative residual contributions for profiles without a scored dated event.
- * These are editorial estimates, never synthetic papers or verified milestones.
+ * Directory-only contribution-year estimates for profiles without a dated event.
+ * These estimates support navigation and density only; they never enter breakthrough scores.
  * API: createEstimates(people, events, {asOfYear}) ->
  *      {records, anchors, calibration, coverage}.
  * `anchors` contains estimated anchors only; merge with verified event anchors.

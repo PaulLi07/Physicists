@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-26T07:10:43.595192+00:00",
+  "builtAt": "2026-10-26T17:55:56.277314+00:00",
   "asOf": "2026-10-26",
   "people": 721,
   "languages": [
@@ -20,12 +20,42 @@
   "dataScriptSha256": "fe3aea53678aab1acd54c1153d4446c6a1605d6523ef5b23b344d987a97468e0",
   "staticFiles": [
     "app.js",
+    "breakthrough.js",
     "core.js",
+    "density-palette.js",
     "favicon.svg",
     "index.html",
-    "styles.css"
+    "plot-display.js",
+    "scroll-sync.js",
+    "styles.css",
+    "timeline.js"
   ],
   "entrypointPresent": true,
+  "entrypoint": "index.html",
+  "sourceDirectory": "website/src",
+  "sourceEntrypointSha256": "4513aa78414f77913395ab89bd14289f8bf6feaac15a198d6b9cbb9994a7c6de",
+  "entrypointSha256": "4513aa78414f77913395ab89bd14289f8bf6feaac15a198d6b9cbb9994a7c6de",
+  "breakthrough": {
+    "asOf": "2026-10-27",
+    "methodVersion": "3.0",
+    "counts": {
+      "events": 691,
+      "dated": 689,
+      "indexDated": 686,
+      "linkedPeople": 720,
+      "estimatedEvents": 308,
+      "estimatedPeople": 332,
+      "navigationOnlyPeople": 1,
+      "navigablePeople": 721,
+      "totalPeople": 721
+    },
+    "years": 2626,
+    "from": -600,
+    "to": 2026,
+    "totalScore": 2828.000000000002,
+    "peak": 44.00218360071301
+  },
+  "methodVersion": "3.0",
   "checks": [
     "stable IDs and order",
     "date values and precision",
@@ -33,6 +63,10 @@
     "source URL alignment",
     "complete localized text",
     "bilingual image hashes",
-    "portable image paths"
+    "portable image paths",
+    "canonical frontend",
+    "complete achievement ledger",
+    "complete navigation",
+    "self-contained output"
   ]
 }

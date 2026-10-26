@@ -1,0 +1,63 @@
+{
+  "checkedAt": "2026-10-27",
+  "projectRoot": "/Users/paulli/coding/HEP/Web/Web_Pioneers",
+  "canonicalSource": "website/src",
+  "standaloneOutput": "website/dist",
+  "tests": {
+    "passed": 94,
+    "failed": 0
+  },
+  "rootEntry": {
+    "requested": "index.html?entry=check#lang=en&year=1687",
+    "resolved": "website/dist/index.html?entry=check#lang=en&year=1687",
+    "languagePreserved": true,
+    "queryAndHashPreserved": true,
+    "dossierOpened": true,
+    "portraitLoaded": true
+  },
+  "defaultEntry": {
+    "url": "http://127.0.0.1:61330/#year=1687",
+    "state": {
+      "labels": [
+        "0",
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "newRowPreviews": 721,
+      "rangeControls": 0,
+      "right": "1687 · 主要成果\n运动定律与万有引力的统一体系\n1687",
+      "rows": 721,
+      "title": "物理学先驱档案",
+      "year": "1687"
+    }
+  },
+  "interface": {
+    "active": "isaac-newton",
+    "expandedHeight": 136,
+    "labels": [
+      "0",
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "portraitLoaded": true,
+    "rangeControls": 0,
+    "right": "1687 · 主要成果\n运动定律与万有引力的统一体系\n1687",
+    "rows": 721,
+    "scroll": 3228,
+    "year": "1687"
+  },
+  "buildChecks": {
+    "completeSingleCommandBuild": true,
+    "standaloneAssetsVerified": true,
+    "missingInputPublishesNothing": true,
+    "nodeFailurePreservesPublishedBuild": true,
+    "sourceDatabaseReadOnly": true
+  },
+  "fixedSmoothingSigma": 1,
+  "browserErrors": [],
+  "screenshot": "screenshots/current.png"
+}

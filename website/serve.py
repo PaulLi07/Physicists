@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Preview the built archive on localhost; Ctrl+C stops the server."""
+"""Build and preview the current Physics Pioneers site on localhost."""
 import argparse
 import functools
 import http.server
@@ -14,59 +14,68 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--port', type=int, default=0, help='Port number; default chooses an available port')
     parser.add_argument('--no-browser', action='store_true', help='Print the URL without opening a browser')
-    parser.add_argument('--design-review', action='store_true', help='Open the independent timeline/list design prototype')
+    parser.add_argument('--design-review', action='store_true', help=argparse.SUPPRESS)
     args = parser.parse_args()
     base = pathlib.Path(__file__).resolve().parent
+    root = base.parent
     build_lock = threading.Lock()
     source_stamp = None
 
-    def rebuild_review():
+    def source_files():
+        files = [p for p in (base / 'src').rglob('*') if p.is_file()]
+        files += list((root / 'data/breakthrough').glob('*.json'))
+        for lang in ('zh', 'en'):
+            files += [root / lang / 'data/physicists.json', root / 'docs' / f'physics-breakthrough-index.{lang}.md']
+            files += [p for p in (root / lang / 'portraits').rglob('*') if p.is_file()]
+        files += [root / 'scripts/build_website.py', root / 'scripts/build_breakthrough.cjs',
+                  root / 'scripts/lib/navigation-estimates.cjs']
+        return sorted(set(files))
+
+    def rebuild():
         nonlocal source_stamp
         with build_lock:
-            inputs = sorted((base.parent / 'data/breakthrough').glob('events-*.json'))
-            inputs += [p for p in [base.parent / 'data/breakthrough/existing-source-patches.json',
-                                   base.parent / 'data/breakthrough/journal-sources.json',
-                                   base.parent / 'data/breakthrough/event-assessments.json',
-                                   base.parent / 'data/breakthrough/editorial-event-patches.json',
-                                   base.parent / 'data/breakthrough/editorial-coverage.json',
-                                   base.parent / 'data/breakthrough/index-config.json',
-                                   base.parent / 'docs/physics-breakthrough-index.zh.md',
-                                   base.parent / 'docs/physics-breakthrough-index.en.md'] if p.exists()]
-            inputs += [base / 'dist/data/archive.js', base / 'design-review/breakthrough.js',
-                       base / 'design-review/person-estimates.js',
-                       base.parent / 'scripts/build_breakthrough.cjs']
-            stamp = [(str(p), p.stat().st_mtime_ns, p.stat().st_size) for p in inputs]
-            if stamp != source_stamp:
-                subprocess.run(['node', str(base.parent / 'scripts/build_breakthrough.cjs')], check=True)
+            stamp = [(str(p), p.stat().st_mtime_ns, p.stat().st_size) for p in source_files()]
+            if stamp != source_stamp or not (base / 'dist/index.html').is_file():
+                subprocess.run(['python3', str(root / 'scripts/build_website.py')], check=True)
                 source_stamp = stamp
 
-    if args.design_review:
-        rebuild_review()
-    directory = base if args.design_review else base / 'dist'
-    entrypoint = base / 'design-review/index.html' if args.design_review else directory / 'index.html'
-    if not entrypoint.is_file():
-        parser.error('Build the website first: python3 scripts/build_website.py (from the archive root).')
+    rebuild()
+
     class PreviewHandler(http.server.SimpleHTTPRequestHandler):
+        def redirect_legacy(self):
+            parsed = urllib.parse.urlsplit(self.path)
+            # Compatibility for bookmarks from the former prototype; there is
+            # one current site, and the old interface is no longer served.
+            if parsed.path in ('/design-review', '/design-review/', '/design-review/index.html'):
+                self.send_response(302)
+                self.send_header('Location', '/' + ('?' + parsed.query if parsed.query else ''))
+                self.end_headers()
+                return True
+            return False
+
+        def do_HEAD(self):
+            if not self.redirect_legacy():
+                super().do_HEAD()
+
         def do_GET(self):
-            route = urllib.parse.urlsplit(self.path).path
-            if args.design_review and route in ('/design-review/', '/design-review/index.html'):
+            if self.redirect_legacy():
+                return
+            parsed = urllib.parse.urlsplit(self.path)
+            if parsed.path in ('/', '/index.html'):
                 try:
-                    rebuild_review()
+                    rebuild()
                 except (OSError, subprocess.CalledProcessError):
-                    self.send_error(500, 'Breakthrough data validation failed; see the preview terminal.')
+                    self.send_error(500, 'Site build failed; see the preview terminal.')
                     return
-            if args.design_review:
-                self._review_no_cache = True
             super().do_GET()
 
         def end_headers(self):
-            if getattr(self, '_review_no_cache', False):
-                self.send_header('Cache-Control', 'no-store')
+            self.send_header('Cache-Control', 'no-store')
             super().end_headers()
 
-    handler = functools.partial(PreviewHandler, directory=str(directory))
+    handler = functools.partial(PreviewHandler, directory=base / 'dist')
     with http.server.ThreadingHTTPServer(('127.0.0.1', args.port), handler) as server:
-        url = f'http://127.0.0.1:{server.server_port}/' + ('design-review/' if args.design_review else '')
+        url = f'http://127.0.0.1:{server.server_port}/'
         print(f'Physics Pioneers: {url}', flush=True)
         print('Press Ctrl+C to stop the preview server.', flush=True)
         if not args.no_browser:

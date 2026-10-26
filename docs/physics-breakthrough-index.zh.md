@@ -140,7 +140,7 @@ v3的输出 `raw` 与 `value` 相同，没有历史年代平滑核，也没有�
 | 0.25 | (0.15, 0.15, 0.15) |
 | 1 | (1, 0, 0) |
 
-没有平方根或gamma变换；bin紧邻、无边线。此填色与成果文字的重要性颜色是两个独立编码。
+没有平方根或gamma变换；bin紧邻、无边线。此填色与成果文字的重要性颜色是两个独立编码。 色棒使用矩形细边框，主刻度从下边缘向外延伸4px，采用0、2、4、6、8等合适整数；刻度位置按实际数值除以色域最大密度计算，不通过四舍五入文字改变其位置。
 
 ## 7. 图形尺度与成果文字
 
@@ -155,7 +155,9 @@ k = 1
 
 屏幕每个纵向像素可能覆盖多个年份，显示其**按年份区间重叠加权的年度均值**，不是把压缩区间的所有分数相加。年度值视为以该年为中心的单位宽单元；公元前后换算不引入0年单元，相邻像素不会把共同边界上的整年重复计入。垂直时间轴分段线性，各段有断点标记；段内使用线性年份映射。
 
-主页面右侧直接展示成果标题及必要年份，不展示分数、权重或“点／年”。 年度卡先按总分排序，同档优先当年单年成果；人物悬停卡优先展示其最高重要性成果，独立于目录导航锚点。标题颜色只由该成果的**总分等级**确定，不由某年分摊量、作者数、人物密度或当前筛选结果决定：
+最终显示样本按屏幕像素使用独立高斯平滑，固定 `PLOT_SMOOTHING_SIGMA=1`，参数只保存在 `website/src/app.js`。平滑不跨越时间轴分段断点，不改写年度账本或右侧逐年成果，网页没有调节控件。
+
+主页面右侧直接展示成果标题及必要年份，不展示分数、权重或“点／年”。 年度卡先按总分排序，同档优先当年单年成果；人物条目展开区优先展示其最高重要性成果，独立于目录导航锚点。标题颜色只由该成果的**总分等级**确定，不由某年分摊量、作者数、人物密度或当前筛选结果决定：
 
 | 总分 | 文字颜色 |
 | ---: | --- |
@@ -176,9 +178,9 @@ k = 1
 - `index-config.json`：评估版本、日期及显示参数。
 - `journal-sources.json`：实际使用的期刊精选集合。
 
-构建器依次读取成果、应用来源补丁、评估补丁、编辑补丁，再处理替换关系、验证、生成导航与计算年度账本。`score / weight` 保持镜像。人物档案来自 `website/dist/data/archive.js`，成果的 `people` 必须引用已存在人物ID。
+正式前端源码统一在 `website/src/`，默认网页与根入口使用 `website/dist/`。完整构建器先生成双语人物数据，再读取成果、应用来源补丁、评估补丁、编辑补丁，处理替换关系、验证、生成导航与计算年度账本，全部成功后原子替换 `dist/`。导航辅助模块位于 `scripts/lib/navigation-estimates.cjs`。`score / weight` 保持镜像。人物档案来自 `website/dist/data/archive.js`，成果的 `people` 必须引用已存在人物ID。
 
-主要生成文件为 `yearly-index.json`、`navigation-estimates.json`、`coverage.json`、`sensitivity.json` 以及 `website/design-review/data/` 下的浏览器数据与方法文档副本。`contribution-estimates.json` 在v3仅保留退役标记和空记录。不要直接编辑生成文件。
+`data/breakthrough/` 只保存源记录、评估、配置与科学审计；所有计算衍生文件统一写入 `website/dist/data/`，包括 `breakthrough-data.js`、`events.json`、`yearly-index.json`、`navigation-estimates.json`、`coverage.json`、`sensitivity.json`、`build-summary.json` 和中英文方法文档副本。不再生成已退役的 `contribution-estimates.json`。不要直接编辑生成文件。
 
 ## 9. 新增与修订步骤
 
@@ -191,12 +193,11 @@ k = 1
 
 ```bash
 python3 scripts/build_website.py
-node scripts/build_breakthrough.cjs
-node --test website/design-review/tests/*.test.cjs
-python3 website/serve.py --design-review
+node --test website/tests/*.test.cjs
+python3 website/serve.py
 ```
 
-仅调整成果库时可省略第一条。预览入口为 `website/design-review/preview.command`；预览服务在启动和刷新首页时检查输入变化并重算。
+完整构建一条命令同时生成双语人物库、成果库和网页资源，并验证输出完整后发布。仅调整成果库时，可用 `node scripts/build_breakthrough.cjs` 替代完整构建。预览入口为项目根目录 `preview.command`，默认打开当前新版；直接打开根目录 `index.html` 也进入同一生成网站。
 
 核查年度总和等于全部可计分事件预算之和；1964/2012等分离案例正确；未知日期不会凭空记账，0年、未来年份与阶段重复预算被拒绝；人物导航覆盖完整；中英文成果标题、日期与方法文档一致。浏览器复核成果颜色、时间轴拖拽与正文同步。敏感性输出比较主尺度 `1/2/4/8/16` 与替代尺度 `1/2/4/6/8`，不改变日期或成果划分。
 

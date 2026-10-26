@@ -1,6 +1,6 @@
 # 物理学突破指数 v3.0
 
-本目录保存具名成果、直接评估的重要性、计分年代和逐年计算结果。完整可维护规范在 [中文方法文档](../../docs/physics-breakthrough-index.zh.md) 与 [English method](../../docs/physics-breakthrough-index.en.md)。旧 v2 的按人物残余分与按年代扩宽平滑已退役；`adaptive-method.md` 保留作历史方法说明。
+本目录只保存具名成果源记录、直接评估的重要性、计分年代依据和科学审计。计算衍生结果统一生成到 `website/dist/data/`。完整可维护规范在 [中文方法文档](../../docs/physics-breakthrough-index.zh.md) 与 [English method](../../docs/physics-breakthrough-index.en.md)。旧v2的按人物残余分与按年代扩宽平滑已退役，历史方法可通过Git记录查阅。
 
 ## 输入
 
@@ -19,19 +19,22 @@
 
 来源与版本：原始日期保留在 `sourceDate`；获奖、再版与纪念不是新成果。替代项通过 `supersedes` 退役旧预算。评分与时间判断均是可修改、可追溯的编辑评估。
 
-## 输出与更新
+## 构建与输出
 
 ```bash
-node scripts/build_breakthrough.cjs
-node --test website/design-review/tests/*.test.cjs
+python3 scripts/build_website.py
+node --test website/tests/*.test.cjs
 ```
+
+完整构建同时生成双语人物数据和成果年度数据。仅修改成果源记录时，可用 `node scripts/build_breakthrough.cjs` 更新现有网站数据。以下文件均位于 `website/dist/data/`，不再写回本目录：
 
 - `yearly-index.json`：年度总值、来源与编辑估计分量、独立人物密度。
 - `navigation-estimates.json`：仅目录定位和人物密度；不计入突破分数。
-- `contribution-estimates.json`：标识 v2 人物残余评分已退役。
 - `coverage.json`：全部人物导航与具名成果覆盖。
 - `sensitivity.json`：评分尺度变化对年度分布的影响，以及全部年度值与成果预算守恒核对。
+- `build-summary.json`：成果数据版本、覆盖及构建摘要。
+- `breakthrough-data.js`、`events.json` 与方法文档副本：网页读取的完整成果数据与说明。
 
-网页生成数据在 `website/design-review/data/`。图形用明确标注的 asinh 横轴，所有时期使用相同映射；屏幕压缩多年时求年度密度均值，不将一个像素所跨年份求和伪作年度峰高。人物密度颜色严格沿用 ROOT 的灰—近黑—纯红渐变；成果文字色独立取重要性五档。
+网页生成数据在 `website/dist/data/`，完整网站由 `python3 scripts/build_website.py` 一次构建。图形用明确标注的 asinh 横轴，所有时期使用相同映射；屏幕压缩多年时求年度密度均值，不将一个像素所跨年份求和伪作年度峰高。人物密度颜色严格沿用ROOT的灰—近黑—纯红渐变；色棒使用边缘短刻度及按真实密度定位的整数标签，成果文字色独立取重要性五档。最终图形仅在显示层使用平滑度1，参数位于 `website/src/app.js`，不会改写年度账本。
 
 本轮复核依据与变更在 `audit-v3-existing.md`、`audit-v3-editorial.md`，期刊来源检索过程保留于 `audit-journal-milestones.md`。

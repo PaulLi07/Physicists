@@ -1,6 +1,6 @@
 'use strict';
 const test=require('node:test'),assert=require('node:assert/strict');
-const core=require('../breakthrough.js');
+const core=require('../src/breakthrough.js');
 function event(id,year,weight=2,extra={}){return {id,year,weight,precision:'year',type:'discovery',title:{zh:id,en:id},rationale:{zh:'独立事件',en:'Independent event'},dateNote:{zh:'',en:''},people:['p'],sources:[{title:'Evidence',url:'https://example.org/evidence'}],...extra};}
 const point=(year)=>({basis:'documented',kind:'point',start:year,end:year});
 const at=(r,y)=>r.series.find(p=>p.year===y);

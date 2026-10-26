@@ -1,7 +1,0 @@
-{
-  "asOf": "2026-10-27",
-  "methodVersion": "3.0",
-  "retired": true,
-  "records": [],
-  "note": "The v2 person residual score is retired. Named contributions are in events-editorial-assessments.json; navigation estimates are in navigation-estimates.json."
-}

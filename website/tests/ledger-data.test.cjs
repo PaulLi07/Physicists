@@ -1,11 +1,11 @@
 'use strict';
 const test=require('node:test'),assert=require('node:assert/strict');
 const fs=require('node:fs'),path=require('node:path'),vm=require('node:vm');
-const core=require('../breakthrough.js');
-const root=path.resolve(__dirname,'../../..');
+const core=require('../src/breakthrough.js');
+const root=path.resolve(__dirname,'../..');
 const ctx={};
 vm.runInNewContext(fs.readFileSync(path.join(root,'website/dist/data/archive.js'),'utf8'),ctx);
-vm.runInNewContext(fs.readFileSync(path.join(root,'website/design-review/data/breakthrough-data.js'),'utf8'),ctx);
+vm.runInNewContext(fs.readFileSync(path.join(root,'website/dist/data/breakthrough-data.js'),'utf8'),ctx);
 const data=JSON.parse(JSON.stringify(ctx.BREAKTHROUGH_ARCHIVE));
 const people=JSON.parse(JSON.stringify(ctx.PHYSICS_ARCHIVE.people));
 const byId=new Map(data.events.map(e=>[e.id,e]));

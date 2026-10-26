@@ -4,9 +4,9 @@ const assert=require('node:assert/strict');
 const fs=require('node:fs');
 const path=require('node:path');
 const vm=require('node:vm');
-const {createTimeline,niceStep}=require('../timeline.js');
+const {createTimeline,niceStep}=require('../src/timeline.js');
 const box={};
-vm.runInNewContext(fs.readFileSync(path.join(__dirname,'../../dist/data/archive.js'),'utf8'),box);
+vm.runInNewContext(fs.readFileSync(path.join(__dirname,'../dist/data/archive.js'),'utf8'),box);
 const people=Array.from(box.PHYSICS_ARCHIVE.people);
 const opts={top:24,bottom:504,minTickGap:34};
 
@@ -115,4 +115,4 @@ test('Invalid source years and impossible dimensions fail explicitly',()=>{
   assert.throws(()=>createTimeline(people,{maxSegments:0}),/maxSegments/);
   assert.throws(()=>niceStep(0),/positive/);
 });
-test('exact event bounds do not imply unobserved future years',()=>{const {createTimeline}=require('../timeline.js');const m=createTimeline([{sortYear:-500},{sortYear:1905},{sortYear:2026}],{exactBounds:true});assert.equal(m.domainMin,-500);assert.equal(m.domainMax,2026);assert.equal(m.ticks.at(-1).year,2026);});
+test('exact event bounds do not imply unobserved future years',()=>{const {createTimeline}=require('../src/timeline.js');const m=createTimeline([{sortYear:-500},{sortYear:1905},{sortYear:2026}],{exactBounds:true});assert.equal(m.domainMin,-500);assert.equal(m.domainMax,2026);assert.equal(m.ticks.at(-1).year,2026);});

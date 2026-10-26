@@ -1,0 +1,20 @@
+{
+  "asOf": "2026-10-27",
+  "methodVersion": "3.0",
+  "counts": {
+    "events": 691,
+    "dated": 689,
+    "indexDated": 686,
+    "linkedPeople": 720,
+    "estimatedEvents": 308,
+    "estimatedPeople": 332,
+    "navigationOnlyPeople": 1,
+    "navigablePeople": 721,
+    "totalPeople": 721
+  },
+  "years": 2626,
+  "from": -600,
+  "to": 2026,
+  "totalScore": 2828.000000000002,
+  "peak": 44.00218360071301
+}

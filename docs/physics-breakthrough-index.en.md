@@ -140,7 +140,7 @@ This describes the chronology of contributors supported by the archive, not the 
 | 0.25 | (0.15, 0.15, 0.15) |
 | 1 | (1, 0, 0) |
 
-There is no square-root or gamma transform. Bins touch and have no outlines. Histogram fill and achievement-title importance colors encode separate variables.
+There is no square-root or gamma transform. Bins touch and have no outlines. Histogram fill and achievement-title importance colors encode separate variables. The rectangular colorbar has a thin frame and 4px outward ticks below its lower edge. Suitable integer labels such as 0, 2, 4, 6 and 8 are positioned by their actual value divided by the maximum density, rather than by rounding fractional labels at unchanged positions.
 
 ## 7. Plot scale and achievement text
 
@@ -155,7 +155,9 @@ k = 1
 
 A vertical screen pixel may cover several years. It displays their **annual mean weighted by overlap with the year intervals**, rather than the sum of a compressed period's points. An annual value occupies a unit-width cell centered on its year. BCE/CE conversion introduces no zero-year cell, and adjacent pixels do not each count a whole year at their shared boundary. The vertical timeline is piecewise linear, with marked segment breaks and linear year mapping within each segment.
 
-The right side of the main page directly presents achievement titles and necessary dates, without scores, weights or “points per year.” Annual cards sort by total grade, preferring single-year results at equal grades. Person hover cards select their most significant result independently of the directory anchor. Title color depends on the achievement's **total grade**, not its allocated value in a particular year, author count, contributor density or current filter:
+Final display samples use separate pixel-space Gaussian smoothing with fixed `PLOT_SMOOTHING_SIGMA=1`, configured only in `website/src/app.js`. Smoothing does not cross timeline segment breaks and changes neither the annual ledger nor the right-hand yearly milestones. The webpage has no smoothing control.
+
+The right side of the main page directly presents achievement titles and necessary dates, without scores, weights or “points per year.” Annual cards sort by total grade, preferring single-year results at equal grades. Expanded person rows select their most significant result independently of the directory anchor. Title color depends on the achievement's **total grade**, not its allocated value in a particular year, author count, contributor density or current filter:
 
 | Total score | Text color |
 | ---: | --- |
@@ -176,9 +178,9 @@ Source files are in `data/breakthrough/`:
 - `index-config.json`: assessment version, review date and display settings.
 - `journal-sources.json`: journal selection collections actually used.
 
-The builder reads events, then applies source patches, assessment patches and editorial patches. It processes replacements, validates, generates navigation and calculates the annual ledger. `score / weight` remain mirrors. Biographies come from `website/dist/data/archive.js`; event `people` must reference existing person IDs.
+The current frontend has one source directory, `website/src/`; default browsing and the root entry use `website/dist/`. The full builder generates bilingual person data, reads achievements, applies source, assessment and editorial patches, processes replacements, validates records, generates navigation and calculates the annual ledger. It atomically replaces `dist/` only after the complete package succeeds. The navigation helper is `scripts/lib/navigation-estimates.cjs`. `score / weight` remain mirrored. Person records come from `website/dist/data/archive.js`, and event `people` must reference existing person IDs.
 
-Main generated files are `yearly-index.json`, `navigation-estimates.json`, `coverage.json`, `sensitivity.json`, plus browser data and method-document copies under `website/design-review/data/`. In v3, `contribution-estimates.json` contains only a retirement marker and empty records. Do not edit generated files directly.
+`data/breakthrough/` contains source records, assessments, configuration and scientific audits only. All computed outputs go to `website/dist/data/`: `breakthrough-data.js`, `events.json`, `yearly-index.json`, `navigation-estimates.json`, `coverage.json`, `sensitivity.json`, `build-summary.json`, and both method-document copies. The retired `contribution-estimates.json` is no longer generated. Do not edit generated files directly.
 
 ## 9. Adding or revising a result
 
@@ -191,12 +193,11 @@ Main generated files are `yearly-index.json`, `navigation-estimates.json`, `cove
 
 ```bash
 python3 scripts/build_website.py
-node scripts/build_breakthrough.cjs
-node --test website/design-review/tests/*.test.cjs
-python3 website/serve.py --design-review
+node --test website/tests/*.test.cjs
+python3 website/serve.py
 ```
 
-The first command can be omitted when only achievements change. `website/design-review/preview.command` is the preview launcher. The preview server checks changed inputs and rebuilds at startup and on a homepage refresh.
+One full build generates the bilingual person archive, achievements and website resources, and publishes the output only after package validation. When only achievements change, use `node scripts/build_breakthrough.cjs` instead of the full build. The root `preview.command` opens the current website by default; opening the root `index.html` enters the same generated site.
 
 Check that the annual sum equals the sum of all eligible event budgets, that separated cases such as 1964/2012 retain their dates, and that unknown dates, year zero, future years and duplicated phase budgets are handled correctly. Check full navigation coverage and agreement between Chinese and English titles, dates and method documents. In the browser, verify achievement colors and timeline/list synchronization. Sensitivity output compares the main scale `1/2/4/8/16` with `1/2/4/6/8`, keeping dates and event definitions fixed.
 

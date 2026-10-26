@@ -1,256 +1,212 @@
-(function () {
+(function(){
   'use strict';
-  const data = globalThis.PHYSICS_ARCHIVE;
-  if (!data || !globalThis.ArchiveCore) {
-    document.getElementById('timeline-results').textContent = '档案数据未能加载。请保留完整网站文件夹后重试。 / Archive data could not be loaded. Please keep all website files together.';
-    return;
-  }
-  const core = globalThis.ArchiveCore;
-  const $ = id => document.getElementById(id);
-  const escape = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-  const PAGE_SIZE = 36;
-  const people = data.people;
-  const byId = new Map(people.map(person => [person.id,person]));
-  const dictionaries = {
-    zh:{skip:'跳到人物时间轴',brand:'物理学先驱',fullBrand:'物理学先驱档案',timeline:'人物时间轴',about:'关于档案',heroTitle:'物理学先驱档案',people:'位人物',spanYears:'古代至现代',twoLanguages:'中英双语档案',featured:'档案选读',explore:'EXPLORE THE ARCHIVE',chronology:'按出生时间，从早到晚',searchLabel:'搜索姓名或研究领域',searchPlaceholder:'搜索姓名或研究领域，如：爱因斯坦、量子力学…',clear:'清空搜索',fieldLabel:'研究领域',allFields:'全部领域',eraLabel:'探索年代',allEras:'全部年代',sidebarNote:'每一段物理史，<br>都由具体的人写就。',reset:'重置筛选',noResults:'没有找到相关人物',noResultsHint:'试试中文名、英文名或更宽泛的研究领域。',loadMore:'显示更多人物',endNote:'已显示全部筛选结果。',dossier:'人物档案',close:'关闭',closeProfile:'关闭档案',backTop:'返回顶部',born:'出生',died:'逝世',status:'状态',living:'在世',unknown:'下落／死亡时间不详',deathUnknown:'逝世日期不详',bio:'生平简介',contributions:'对物理的主要贡献',notes:'史料与日期说明',sources:'参考来源',imageSource:'图像来源与署名',creator:'作者／署名',credit:'来源署名',license:'许可／权利说明',originalImage:'查看图像来源 ↗',rightsTitle:'再发布授权待确认',rightsText:'用于公开网页前，请确认图片授权或替换为许可明确的图像。',context:'资料图 · 非本人肖像',posthumous:'后世或纪念形象',portrait:'肖像或含本人图像',viewProfile:'查看完整档案',nobel:'诺贝尔物理学奖',previous:'← 上一位',next:'下一位 →',originalName:'英文名',reviewed:'档案整理日期',aboutTitle:'关于本档案库',aboutIntro:'这里收录古代自然哲学、经典物理与现代物理的重要贡献者。每份档案都包含生平、主要贡献、图片与可追溯的来源，中文和英文共享同一组事实。',aboutDates:'时间轴按出生时间排列，年代分组仅用于浏览。约年、历法差异、生卒争议及失踪状态保留在日期和史料说明中；名录仍可继续扩充。',aboutImages:'部分图像是后世或纪念形象、归属存疑画像、合影或相关文献与仪器，均明确说明。原始图像的作者、来源及权利条件保留在各人物档案中。',archiveCount:'人物档案',languages:'语言版本',sourceDate:'资料整理于',metaCount:'位人物',of:' / '},
-    en:{skip:'Skip to the timeline',brand:'Physics Pioneers',fullBrand:'Physics Pioneers Archive',timeline:'The timeline',about:'About the archive',heroTitle:'Physics Pioneers Archive',people:'people',spanYears:'Antiquity to the present',twoLanguages:'Chinese & English',featured:'Selected lives',explore:'EXPLORE THE ARCHIVE',chronology:'Ordered by birth, earliest first',searchLabel:'Search names or fields',searchPlaceholder:'Search names or fields, e.g. Einstein, quantum mechanics…',clear:'Clear search',fieldLabel:'Field',allFields:'All fields',eraLabel:'Explore the eras',allEras:'All eras',sidebarNote:'A history of physics,<br>written through lives.',reset:'Reset filters',noResults:'No matching people found',noResultsHint:'Try a Chinese or English name, or a broader field of research.',loadMore:'Show more people',endNote:'All matching records are shown.',dossier:'Dossier',close:'Close',closeProfile:'Close dossier',backTop:'Back to top',born:'Born',died:'Died',status:'Status',living:'Living',unknown:'Death date or whereabouts uncertain',deathUnknown:'Death date unknown',bio:'Biography',contributions:'Major contributions to physics',notes:'Historical and source notes',sources:'Sources',imageSource:'Image source and attribution',creator:'Creator / attribution',credit:'Credit',license:'Licence / rights statement',originalImage:'View original image record ↗',rightsTitle:'Republication permission unverified',rightsText:'Confirm permission or replace with a suitably licensed image before publishing on a public website.',context:'Related illustration · not a portrait',posthumous:'Later or commemorative depiction',portrait:'Portrait or image containing the subject',viewProfile:'Read the full dossier',nobel:'Nobel Prize in Physics',previous:'← Previous',next:'Next →',originalName:'Chinese name',reviewed:'Record reviewed',aboutTitle:'About this archive',aboutIntro:'Explore contributors to natural philosophy, classical physics and modern physics. Each dossier includes a biography, major contributions, an image and traceable sources. Both language editions share the same verified facts.',aboutDates:'The timeline is ordered by birth date. Era divisions are browsing aids. Approximate dates, historical calendars, conflicting sources and uncertain life status remain explicit. The archive is open to further additions.',aboutImages:'Some images are later depictions, disputed likenesses, group photographs or related documents and instruments. Their nature is labelled, and original creator, source and rights information is retained in every dossier.',archiveCount:'individual dossiers',languages:'language editions',sourceDate:'Reviewed',metaCount:'people',of:' / '}
+  const archive=globalThis.PHYSICS_ARCHIVE,data=globalThis.BREAKTHROUGH_ARCHIVE,core=globalThis.ArchiveCore,index=globalThis.BreakthroughCore;
+  const $=id=>document.getElementById(id),esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  if(!archive||!data||!index||!globalThis.DensityPalette||!globalThis.PlotDisplay){$('people-list').textContent='档案或成果数据未生成。请运行 python3 scripts/build_website.py。';return;}
+  const params=new URLSearchParams(location.hash.slice(1));
+  const state={lang:params.get('lang')==='en'?'en':'zh',query:params.get('q')||'',field:'all',active:null,dossier:null,insight:null};
+  const byId=new Map(archive.people.map(p=>[p.id,p])),eventsById=new Map(data.events.map(e=>[e.id,e]));
+  const estimateByPerson=new Map((data.navigationEstimates||[]).map(r=>[r.personId,r]));
+  const anchors=data.anchors,people=archive.people.slice().sort((a,b)=>(anchors[a.id]?.year??Infinity)-(anchors[b.id]?.year??Infinity)||a.order-b.order);
+  const yearMap=new Map(data.series.map(p=>[p.year,p]));
+  const text={
+    zh:{skip:'跳到人物列表',brand:'物理学先驱',indexTitle:'物理学突破指数',density:'贡献人物密度',reading:'贡献年代',axisFoot:'贡献年代 · 自适应时间轴',eyebrow:'PHYSICS · HISTORY · PEOPLE',title:'物理学先驱档案',search:'搜索姓名或研究领域',field:'研究领域',contributionYear:'贡献年',person:'人物',noResults:'没有匹配的人物',noResultsHint:'尝试其他姓名或研究领域。',dossier:'人物档案',allFields:'全部领域',read:'查看完整档案',born:'出生',died:'逝世',status:'状态',living:'在世',unknown:'下落／死亡时间不详',deathUnknown:'逝世日期不详',bio:'生平简介',contribution:'主要物理贡献',notes:'史料与日期说明',sources:'参考来源',imageCredits:'图像说明、来源与署名',context:'相关资料图',later:'后世或纪念形象',permission:'再发布授权尚未确认；公开使用前需确认授权或更换图片。',originalImage:'查看原图来源',reviewed:'资料日期',pending:'贡献年代',pendingShort:'—',milestones:'关联成果',yearly:'年度概览',raw:'年度原始值',smoothed:'综合指数',weighted:'突破指数 · asinh',contributorUnit:'人／年',provisional:'暂定',weight:'权重',theory:'理论',discovery:'实验与发现',method:'方法',close:'关闭',methodTitle:'资料与期刊来源',noEvents:'该年没有收录到可确切定年的成果。',nearby:'邻近年代的成果',dateUnknown:'史料未给出确切年代',approx:'约年；按来源所给年份定位',reviewStatus:'评分为本站编辑尺度，每项均保留依据。'},
+    en:{skip:'Skip to people',brand:'Physics Pioneers',indexTitle:'Breakthrough index',density:'Contributor density',reading:'Contribution years',axisFoot:'Contribution years · Adaptive timeline',eyebrow:'PHYSICS · HISTORY · PEOPLE',title:'Physics Pioneers Archive',search:'Search names or research fields',field:'Research fields',contributionYear:'Year',person:'Person',noResults:'No matching people',noResultsHint:'Try another name or research field.',dossier:'Dossier',allFields:'All fields',read:'Read full dossier',born:'Born',died:'Died',status:'Status',living:'Living',unknown:'Death date or whereabouts uncertain',deathUnknown:'Death date unknown',bio:'Biography',contribution:'Major contributions to physics',notes:'Historical and source notes',sources:'Sources',imageCredits:'Image, source and attribution',context:'Related illustration',later:'Later or commemorative depiction',permission:'Republication permission is unverified. Confirm permission or replace the image before public use.',originalImage:'Original image record',reviewed:'Data reviewed',pending:'Contribution years',pendingShort:'—',milestones:'Linked milestones',yearly:'Year in physics',raw:'Raw annual value',smoothed:'Historical index',weighted:'Index · asinh',contributorUnit:'people / year',provisional:'Provisional',weight:'Weight',theory:'Theory',discovery:'Experiment & discovery',method:'Method',close:'Close',methodTitle:'Records and journal sources',noEvents:'No reliably dated event is recorded for this year.',nearby:'Nearby milestones',dateUnknown:'No exact date in the historical record',approx:'Approximate year, located at the source estimate',reviewStatus:'Weights are editorial assessments with recorded evidence.'}
   };
-  let preferred = 'zh';
-  try { preferred = localStorage.getItem('physics-pioneers-language') || 'zh'; } catch (_) { /* Local files may restrict storage. */ }
-  const state = {lang:preferred === 'en' ? 'en' : 'zh',query:'',field:'all',era:'all',limit:PAGE_SIZE,person:null};
-  let filtered = people;
-  let searchTimer;
-  let openerId = null;
-  let aboutOpener = null;
-  function t(key) { return dictionaries[state.lang][key]; }
-  function safeLink(url) { return /^https?:\/\//i.test(url || '') ? escape(url) : '#'; }
-  function link(url,text,className='') { return '<a class="'+className+'" href="'+safeLink(url)+'" target="_blank" rel="noopener noreferrer">'+escape(text)+'</a>'; }
-  function imageType(person) { return t(person.portrait.kind === 'context_image' ? 'context' : person.portrait.kind === 'posthumous_depiction' ? 'posthumous' : 'portrait'); }
-  function lifeStatus(person) {
-    if (person.death) return person.death.display[state.lang];
-    const value = person.deathStatus === 'alive' ? t('living') : person.deathStatus === 'unknown' ? t('unknown') : t('deathUnknown');
-    return value + (person.deathStatus === 'alive' ? (state.lang === 'zh' ? '（截至'+data.asOf+'）' : ' (as of '+data.asOf+')') : '');
-  }
-  function setHash(replace=true) {
-    const params = new URLSearchParams();
-    params.set('lang',state.lang);
-    if (state.query.trim()) params.set('q',state.query.trim());
-    if (state.field !== 'all') params.set('field',state.field);
-    if (state.era !== 'all') params.set('era',state.era);
-    if (state.person) params.set('person',state.person);
-    const next = '#'+params.toString();
-    if (location.hash === next) return;
-    try { history[replace ? 'replaceState' : 'pushState'](state.person && !replace ? {archiveDetail:true} : null,'',next); }
-    catch (_) { /* Browsing still works when a file host restricts URL updates. */ }
-  }
-  function readHash() {
-    const params = new URLSearchParams(location.hash.slice(1));
-    if (['zh','en'].includes(params.get('lang'))) state.lang = params.get('lang');
-    state.query = params.get('q') || '';
-    state.field = core.domains.some(item => item.id === params.get('field')) ? params.get('field') : 'all';
-    state.era = core.eras.some(item => item.id === params.get('era')) ? params.get('era') : 'all';
-    state.person = byId.has(params.get('person')) ? params.get('person') : null;
-  }
-  function applyLabels() {
-    document.documentElement.lang = state.lang === 'zh' ? 'zh-CN' : 'en';
-    document.title = state.lang === 'zh' ? '物理学先驱档案 · Physics Pioneers' : 'Physics Pioneers — The Archive';
-    document.querySelectorAll('[data-i18n]').forEach(element => {
-      const value = t(element.dataset.i18n);
-      if (['heroTitle','sidebarNote'].includes(element.dataset.i18n)) element.innerHTML = value;
-      else element.textContent = value;
-    });
-    document.querySelectorAll('[data-lang]').forEach(button => button.setAttribute('aria-pressed',String(button.dataset.lang === state.lang)));
-    $('search-input').placeholder = t('searchPlaceholder');
-    $('clear-search').setAttribute('aria-label',t('clear'));
-    $('close-profile').setAttribute('aria-label',t('closeProfile'));
-    $('close-about').setAttribute('aria-label',t('close'));
-    $('back-to-top').setAttribute('aria-label',t('backTop'));
-    $('home-button').setAttribute('aria-label',t('fullBrand'));
-    $('era-nav').setAttribute('aria-label',t('eraLabel'));
-    document.querySelector('.header-nav').setAttribute('aria-label',state.lang === 'zh' ? '主导航' : 'Main navigation');
-    $('hero-description').textContent = state.lang === 'zh' ? '收录'+data.count+'位物理学贡献者的生平、主要贡献与参考资料，按出生时间排列。' : 'Biographies, contributions and sources for '+data.count+' contributors to physics, ordered by birth date.';
-    $('total-count').textContent = data.count;
-    $('footer-note').textContent = state.lang === 'zh' ? '资料整理于 '+data.asOf+' · 保留原始来源与历史不确定性' : 'Reviewed '+data.asOf+' · Sources and historical uncertainties preserved';
-    renderFacets();
-  }
-  function renderFacets() {
-    const domainCounts = new Map(core.domains.map(domain => [domain.id,core.filterPeople(people,{query:state.query,field:domain.id,era:state.era}).length]));
-    $('field-select').innerHTML = '<option value="all">'+escape(t('allFields'))+'</option>'+core.domains.map(domain => '<option value="'+domain.id+'">'+escape(domain[state.lang])+' ('+domainCounts.get(domain.id)+')</option>').join('');
-    $('field-select').value = state.field;
-    const inOtherFilters = core.filterPeople(people,{query:state.query,field:state.field,era:'all'});
-    const counts = new Map(core.eras.map(era => [era.id,inOtherFilters.filter(person => core.eraOf(person).id === era.id).length]));
-    $('era-nav').innerHTML = '<button class="era-button" type="button" data-era="all" aria-pressed="'+(state.era === 'all')+'"><span>'+escape(t('allEras'))+'</span><span class="era-count">'+inOtherFilters.length+'</span></button>'+core.eras.map(era => '<button class="era-button" type="button" data-era="'+era.id+'" aria-pressed="'+(state.era === era.id)+'"><span>'+escape(era[state.lang])+'<small>'+escape(era.range[state.lang])+'</small></span><span class="era-count">'+counts.get(era.id)+'</span></button>').join('');
-    $('era-select').innerHTML = '<option value="all">'+escape(t('allEras'))+' ('+inOtherFilters.length+')</option>'+core.eras.map(era => '<option value="'+era.id+'">'+escape(era[state.lang])+' ('+counts.get(era.id)+')</option>').join('');
-    $('era-select').value = state.era;
-  }
-  function card(person) {
-    const lang = state.lang;
-    const other = lang === 'zh' ? person.names.en : person.names.zh;
-    const label = person.names[lang]+' — '+t('viewProfile');
-    return '<article class="person-card"><button type="button" class="card-button" data-person="'+person.id+'" aria-label="'+escape(label)+'"><span class="portrait-frame"><img src="'+escape(person.portrait.path)+'" loading="lazy" decoding="async" alt="'+escape(person.portrait.alt[lang])+'" width="250" height="173">'+(person.portrait.kind !== 'portrait' ? '<span class="portrait-kind">'+escape(imageType(person))+'</span>' : '')+'</span><span class="card-body"><span class="card-date">'+escape(person.birth.display[lang])+'</span><span class="person-name">'+escape(person.names[lang])+'</span><span class="person-other-name" lang="'+(lang === 'zh' ? 'en' : 'zh-CN')+'">'+escape(other)+'</span><span class="person-fields">'+person.fields[lang].slice(0,2).map(field => '<span class="field-tag">'+escape(field)+'</span>').join('')+'</span><span class="person-contribution">'+escape(person.contributions[lang][0])+'</span><span class="card-bottom"><span>'+escape(t('viewProfile'))+'</span><span class="arrow" aria-hidden="true">→</span></span></span></button></article>';
-  }
-  function renderArchive() {
-    filtered = core.filterPeople(people,state);
-    const visible = filtered.slice(0,state.limit);
-    const shown = visible.length;
-    $('results-status').innerHTML = state.lang === 'zh' ? '找到 <strong>'+filtered.length+'</strong> 位人物<span> · 当前显示 '+shown+' 位</span>' : '<strong>'+filtered.length+'</strong> people found<span> · Showing '+shown+'</span>';
-    $('clear-search').hidden = !state.query;
-    $('reset-filters').hidden = !state.query && state.field === 'all' && state.era === 'all';
-    $('empty-state').hidden = filtered.length > 0;
-    $('timeline-results').hidden = filtered.length === 0;
-    $('timeline-results').innerHTML = core.eras.map(era => {
-      const matches = visible.filter(person => core.eraOf(person).id === era.id);
-      if (!matches.length) return '';
-      return '<section class="era-section" aria-labelledby="era-title-'+era.id+'"><div class="era-section-heading"><h3 id="era-title-'+era.id+'">'+escape(era[state.lang])+'</h3><span>'+escape(era.range[state.lang])+'</span></div><div class="card-grid">'+matches.map(card).join('')+'</div></section>';
-    }).join('');
-    $('load-more-wrap').hidden = shown >= filtered.length;
-    $('load-progress').textContent = state.lang === 'zh' ? '已浏览 '+shown+' / '+filtered.length+' 位人物' : shown+' of '+filtered.length+' people shown';
-    $('end-note').hidden = !filtered.length || shown < filtered.length;
-    renderFacets();
-  }
-  function profileMarkup(person) {
-    const lang = state.lang;
-    const portrait = person.portrait;
-    const other = lang === 'zh' ? person.names.en : person.names.zh;
-    const sourceList = person.sources[lang].map(source => '<li>'+link(source.url,source.title)+'</li>').join('');
-    const selected = filtered.some(p => p.id === person.id) ? filtered : people;
-    const index = selected.findIndex(p => p.id === person.id);
-    const previous = selected[index - 1];
-    const next = selected[index + 1];
-    const heading = '<h2 id="profile-name">'+escape(person.names[lang])+'</h2><p class="profile-other-name" lang="'+(lang === 'zh' ? 'en' : 'zh-CN')+'">'+escape(other)+'</p><div class="person-fields">'+person.fields[lang].map(field => '<span class="field-tag">'+escape(field)+'</span>').join('')+'</div><dl class="life-dates"><div><dt>'+escape(t('born'))+'</dt><dd>'+escape(person.birth.display[lang])+'</dd></div><div><dt>'+escape(t(person.death ? 'died' : 'status'))+'</dt><dd>'+escape(lifeStatus(person))+'</dd></div></dl>'+(person.nobelYears.length ? '<p class="nobel-note">'+escape(t('nobel'))+' · '+person.nobelYears.join(', ')+'</p>' : '');
-    const imageCredits = '<details class="image-credits"><summary>'+escape(t('imageSource'))+'</summary><dl><div><dt>'+escape(t('creator'))+':</dt><dd>'+escape(portrait.artist[lang] || (lang === 'zh' ? '详见原图来源' : 'See the original image record'))+'</dd></div>'+(portrait.credit[lang] ? '<div><dt>'+escape(t('credit'))+':</dt><dd>'+escape(portrait.credit[lang])+'</dd></div>' : '')+'<div><dt>'+escape(t('license'))+':</dt><dd>'+(portrait.licenseUrl ? link(portrait.licenseUrl,portrait.license[lang]) : escape(portrait.license[lang]))+'</dd></div></dl>'+link(portrait.sourceUrl,t('originalImage'),'image-source-link')+'</details>';
-    const visual = '<aside class="profile-visual"><figure class="profile-image"><img src="'+escape(portrait.path)+'" alt="'+escape(portrait.alt[lang])+'"></figure><span class="image-type">'+escape(imageType(person))+'</span><p class="image-caption">'+escape(portrait.note[lang])+'</p>'+imageCredits+(portrait.rightsStatus === 'permission_required' ? '<div class="rights-note"><strong>'+escape(t('rightsTitle'))+'</strong>'+escape(t('rightsText'))+'</div>' : '')+'</aside>';
-    const sections = '<section class="profile-section"><h3>'+escape(t('bio'))+'</h3><p>'+escape(person.biography[lang])+'</p></section><section class="profile-section"><h3>'+escape(t('contributions'))+'</h3><ul>'+person.contributions[lang].map(item => '<li>'+escape(item)+'</li>').join('')+'</ul></section>'+(person.notes[lang].length ? '<section class="profile-section historical-notes"><h3>'+escape(t('notes'))+'</h3><ul>'+person.notes[lang].map(item => '<li>'+escape(item)+'</li>').join('')+'</ul></section>' : '')+'<section class="profile-section"><h3>'+escape(t('sources'))+'</h3><ol class="sources-list">'+sourceList+'</ol><p class="review-date">'+escape(t('reviewed'))+': '+data.asOf+'</p></section>';
-    return '<div class="profile-layout"><header class="profile-heading">'+heading+'</header>'+visual+'<div class="profile-main">'+sections+'</div></div><nav class="profile-navigation" aria-label="'+(lang === 'zh' ? '浏览相邻档案' : 'Adjacent dossiers')+'"><button type="button" '+(previous ? 'data-adjacent="'+previous.id+'"' : 'disabled')+'><small>'+escape(t('previous'))+'</small>'+escape(previous ? previous.names[lang] : '')+'</button><button type="button" '+(next ? 'data-adjacent="'+next.id+'"' : 'disabled')+'><small>'+escape(t('next'))+'</small>'+escape(next ? next.names[lang] : '')+'</button></nav>';
-  }
-  function renderProfile(preserveScroll=false) {
-    const person = byId.get(state.person);
-    if (!person) return;
-    const top = preserveScroll ? $('profile-scroll').scrollTop : 0;
-    $('profile-content').innerHTML = profileMarkup(person);
-    $('profile-scroll').scrollTop = top;
-  }
-  function showProfile(id, push=true) {
-    if (!byId.has(id)) return;
-    const wasOpen = $('profile-dialog').open;
-    if (!wasOpen) openerId = id;
-    state.person = id;
-    renderProfile();
-    if (!wasOpen) { $('profile-dialog').showModal(); document.body.style.overflow = 'hidden'; }
-    if (push) setHash(wasOpen);
-    $('close-profile').focus({preventScroll:true});
-  }
-  function restoreFocus() {
-    const button = document.querySelector('.card-button[data-person="'+openerId+'"]');
-    if (button) button.focus({preventScroll:true});
-    else $('search-input').focus({preventScroll:true});
-  }
-  function dismissProfile() {
-    if ($('profile-dialog').open) $('profile-dialog').close();
-    document.body.style.overflow = '';
-    restoreFocus();
-  }
-  function closeProfile() {
-    state.person = null;
-    setHash();
-    dismissProfile();
-  }
-  function setLanguage(lang) {
-    if (state.lang === lang) return;
-    state.lang = lang;
-    try { localStorage.setItem('physics-pioneers-language',lang); } catch (_) {}
-    applyLabels();
-    renderArchive();
-    if (state.person) renderProfile(true);
-    if ($('about-dialog').open) renderAbout();
-    setHash();
-  }
-  function updateFilters() {
-    clearTimeout(searchTimer);
-    state.limit = PAGE_SIZE;
-    renderArchive();
-    setHash();
-  }
-  function resetFilters() {
-    state.query = '';state.field = 'all';state.era = 'all';
-    $('search-input').value = '';
-    updateFilters();
-  }
-  function renderAbout() {
-    $('about-content').innerHTML = '<h2 id="about-title">'+escape(t('aboutTitle'))+'</h2><p>'+escape(t('aboutIntro'))+'</p><div class="about-stats"><div><strong>'+data.count+'</strong><span>'+escape(t('archiveCount'))+'</span></div><div><strong>2</strong><span>'+escape(t('languages'))+'</span></div><div><strong>2600+</strong><span>'+(state.lang === 'zh' ? '年的思想轨迹' : 'years of ideas')+'</span></div></div><p>'+escape(t('aboutDates'))+'</p><p>'+escape(t('aboutImages'))+'</p><p>'+escape(t('sourceDate'))+' '+data.asOf+'.</p>';
-  }
-  function syncFromHash() {
-    const oldLang = state.lang;
-    const oldFilters = [state.query,state.field,state.era].join('|');
-    readHash();
-    if (oldLang !== state.lang) applyLabels();
-    if (oldFilters !== [state.query,state.field,state.era].join('|') || oldLang !== state.lang) {
-      state.limit = PAGE_SIZE;
-      $('search-input').value = state.query;
-      renderArchive();
+  const formatIndex=index.formatIndex;
+  const t=k=>text[state.lang][k],pane=$('list-scroll'),workspace=document.querySelector('.workspace'),reduced=matchMedia('(prefers-reduced-motion:reduce)');
+  const imagePath=p=>p.portrait.path;
+  const link=(url,label)=>'<a href="'+((/^https?:\/\//.test(url||'')||/^data\/(?:[a-z-]+\.json|method\.(?:zh|en)\.md)$/.test(url||''))?esc(url):'#')+'" target="_blank" rel="noopener noreferrer">'+esc(label)+'</a>';
+  const yearLabel=y=>y<0?(state.lang==='zh'?'前'+Math.abs(y):Math.abs(y)+' BCE'):String(y);
+  function eventDate(e){if(!e)return '—';const span=index.spanOf(e);if(!span)return t('dateUnknown');return span[0]===span[1]?yearLabel(span[0])+(e.precision==='approximate'?'†':''):yearLabel(span[0])+'–'+yearLabel(span[1]);}
+  function anchorDate(p){const a=anchors[p.id];if(!a)return '—';return (a.estimated||a.precision!=='year'?(state.lang==='zh'?'约':'c. '):'')+yearLabel(a.year);}
+  const importanceStyle=e=>'color:'+index.importanceColor(e?.indexEligible===false?1:index.scoreOf(e));
+  const byImportance=(a,b)=>index.scoreOf(b)-index.scoreOf(a)||(index.spanOf(a)?.[0]??Infinity)-(index.spanOf(b)?.[0]??Infinity)||a.id.localeCompare(b.id);
+  const byYearImportance=(a,b)=>index.scoreOf(b)-index.scoreOf(a)||(Number(index.spanOf(b)?.[0]===index.spanOf(b)?.[1])-Number(index.spanOf(a)?.[0]===index.spanOf(a)?.[1]))||byImportance(a,b);
+  function activeRanges(e){const span=index.spanOf(e);return span?(e.dateModel?.allocations||[{start:span[0],end:span[1]}]):[];}
+  function nearbyEvents(year){const n=index.serial(year),radius=year<1600?50:10;return data.events.filter(e=>!e.supersededBy&&e.indexEligible!==false&&index.spanOf(e)).map(e=>({e,d:Math.min(...activeRanges(e).map(s=>Math.max(index.serial(s.start)-n,n-index.serial(s.end),0)))})).filter(x=>x.d>0&&x.d<=radius).sort((a,b)=>a.d-b.d||byImportance(a.e,b.e)).slice(0,3).map(x=>x.e);}
+  function eventMini(e){return '<button class="event-mini" data-event="'+e.id+'"><span class="event-title" style="'+importanceStyle(e)+'">'+esc(e.title[state.lang])+'</span><span class="event-mini-date">'+esc(eventDate(e))+'</span></button>';}
+  function profileContribution(p){const estimate=estimateByPerson.get(p.id),year=anchors[p.id]?.year;if(estimate?.biographicalYearClues?.includes(year)){const term=String(Math.abs(year));const match=p.contributions[state.lang].find(c=>c.includes(term));if(match)return match;}return p.contributions[state.lang][0];}
+  function deathDisplay(p){return p.death?p.death.display[state.lang]:p.deathStatus==='alive'?t('living')+' ('+archive.asOf+')':p.deathStatus==='unknown'?t('unknown'):t('deathUnknown');}
+  const kindLabel=p=>p.portrait.kind==='context_image'?t('context'):p.portrait.kind==='posthumous_depiction'?t('later'):'';
+  const getRow=id=>id?document.getElementById('row-'+id):null;
+  const rowYear=row=>row.dataset.navYear!==undefined?Number(row.dataset.navYear):anchors[row.dataset.id]?.year;
+  const calendarMin=data.minYear,calendarMax=data.maxYear;
+  let filtered=people,rowNodes=[],contentRows=[],datedRows=[],model,scrollMap,cursorYear=data.minYear,geometryDirty=true,syncFrame=0,hoverTimer=0,inputTimer=0,lastHover=null,pointerMode='mouse',seek=null,seekFrame=0,drag=null,dragFrame=0,openerId=null,lastFocused=null,yearCardYear=null;
+  const portraitCache=new Map();
+  function warmPortraits(bounds){if(!bounds)return;for(const row of contentRows.slice(Math.max(0,bounds[0]-2),bounds[1]+3)){const id=row.dataset.id;if(!id||portraitCache.has(id))continue;const image=new Image();image.decoding='async';image.src=imagePath(byId.get(id));portraitCache.set(id,image);if(portraitCache.size>24)portraitCache.delete(portraitCache.keys().next().value);}}
+  // Final-image smoothing only, measured in vertical screen pixels. Set 0 to disable.
+  const PLOT_SMOOTHING_SIGMA=1;
+  let plot={width:190,height:400,x:54,right:184,bottom:350};
+  const previewDuration=220,previewMotions=new Map();
+  let previewFrame=0,hoverLockUntil=0,lastPointer=null,lastRowBase=48;
+  const rowBase=()=>parseFloat(getComputedStyle($('people-list')).getPropertyValue('--row-height'))||48;
+  const rowExtra=()=>parseFloat(getComputedStyle($('people-list')).getPropertyValue('--preview-extra'))||88;
+  function balancePreviewRows(){
+    const now=performance.now(),base=rowBase();let total=0,running=false;
+    for(const [id,motion] of previewMotions){
+      const row=getRow(id);if(!row){previewMotions.delete(id);continue;}
+      const t=reduced.matches?1:Math.min(1,(now-motion.start)/previewDuration);
+      const extra=Math.round(motion.from+(motion.to-motion.from)*(1-(1-t)**3));
+      motion.current=extra;row.style.height=(base+extra)+'px';total+=extra;
+      if(t<1)running=true;else if(!motion.to){row.style.height='';row.classList.remove('is-closing','preview-above');row.querySelector('.row-preview').innerHTML='';previewMotions.delete(id);}
     }
-    if (state.person) showProfile(state.person,false);
-    else if ($('profile-dialog').open) dismissProfile();
+    $('people-list').style.paddingBottom=(20+rowExtra()-total)+'px';
+    geometryDirty=true;previewFrame=running?requestAnimationFrame(balancePreviewRows):0;
   }
-  document.addEventListener('click',event => {
-    const langButton = event.target.closest('[data-lang]');
-    const personButton = event.target.closest('[data-person]');
-    const adjacentButton = event.target.closest('[data-adjacent]');
-    const eraButton = event.target.closest('[data-era]');
-    if (langButton) setLanguage(langButton.dataset.lang);
-    else if (personButton) showProfile(personButton.dataset.person);
-    else if (adjacentButton) showProfile(adjacentButton.dataset.adjacent);
-    else if (eraButton) {
-      state.era = eraButton.dataset.era;
-      updateFilters();
-      document.querySelector('[data-era="'+state.era+'"]').focus({preventScroll:true});
-    }
-    else if (event.target.closest('[data-about]')) { aboutOpener=event.target.closest('[data-about]');renderAbout();$('about-dialog').showModal();document.body.style.overflow='hidden'; }
-  });
-  $('search-input').addEventListener('input',event => {
-    state.query = event.target.value;
-    clearTimeout(searchTimer);
-    searchTimer = setTimeout(updateFilters,110);
-  });
-  $('search-input').addEventListener('keydown',event => { if (event.key === 'Enter') updateFilters(); });
-  $('clear-search').addEventListener('click',() => { state.query='';$('search-input').value='';updateFilters();$('search-input').focus(); });
-  $('field-select').addEventListener('change',event => { state.field=event.target.value;updateFilters(); });
-  $('era-select').addEventListener('change',event => { state.era=event.target.value;updateFilters(); });
-  $('reset-filters').addEventListener('click',resetFilters);
-  $('empty-reset').addEventListener('click',resetFilters);
-  $('load-more').addEventListener('click',() => {
-    const firstNewPerson = filtered[state.limit];
-    state.limit += PAGE_SIZE;
-    renderArchive();
-    if (firstNewPerson) document.querySelector('.card-button[data-person="'+firstNewPerson.id+'"]').focus();
-  });
-  $('close-profile').addEventListener('click',closeProfile);
-  $('profile-dialog').addEventListener('cancel',event => { event.preventDefault();closeProfile(); });
-  $('profile-dialog').addEventListener('click',event => {
-    if (event.target !== $('profile-dialog')) return;
-    const r=$('profile-dialog').getBoundingClientRect();
-    if (event.clientX < r.left || event.clientX > r.right || event.clientY < r.top || event.clientY > r.bottom) closeProfile();
-  });
-  function closeAbout() { $('about-dialog').close();document.body.style.overflow='';if (aboutOpener) aboutOpener.focus({preventScroll:true}); }
-  $('close-about').addEventListener('click',closeAbout);
-  $('about-dialog').addEventListener('cancel',event => { event.preventDefault();closeAbout(); });
-  $('about-dialog').addEventListener('click',event => {
-    if (event.target !== $('about-dialog')) return;
-    const r=$('about-dialog').getBoundingClientRect();
-    if (event.clientX < r.left || event.clientX > r.right || event.clientY < r.top || event.clientY > r.bottom) closeAbout();
-  });
-  $('home-button').addEventListener('click',() => { resetFilters();window.scrollTo({top:0,behavior:'smooth'}); });
-  $('timeline-nav').addEventListener('click',event => { event.preventDefault();$('archive').scrollIntoView({behavior:'smooth'}); });
-  document.querySelector('.skip-link').addEventListener('click',event => { event.preventDefault();$('search-input').focus();$('archive').scrollIntoView({behavior:'smooth'}); });
-  $('back-to-top').addEventListener('click',() => window.scrollTo({top:0,behavior:'smooth'}));
-  window.addEventListener('scroll',() => { $('back-to-top').hidden = window.scrollY < 800; },{passive:true});
-  window.addEventListener('hashchange',syncFromHash);
-  document.addEventListener('keydown',event => {
-    if (event.key === '/' && !/INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName) && !$('profile-dialog').open && !$('about-dialog').open && !event.metaKey && !event.ctrlKey) { event.preventDefault();$('search-input').focus(); }
-  });
-  readHash();
-  $('search-input').value = state.query;
-  applyLabels();
-  renderArchive();
-  if (state.person) showProfile(state.person,false);
+  function movePreview(id,target,immediate=false){
+    const row=getRow(id);if(!row)return;const old=previewMotions.get(id),current=old?.current||0;
+    previewMotions.set(id,{from:immediate?target:current,to:target,current:immediate?target:current,start:performance.now()-(immediate?previewDuration:0)});
+    if(!previewFrame)previewFrame=requestAnimationFrame(balancePreviewRows);
+  }
+  function settlePreviews(){
+    if(previewFrame)cancelAnimationFrame(previewFrame);previewFrame=0;
+    for(const [id] of previewMotions){const row=getRow(id);if(row){row.style.height='';row.classList.remove('is-closing','preview-above');row.querySelector('.row-preview').innerHTML='';}}
+    previewMotions.clear();$('people-list').style.paddingBottom=(20+rowExtra())+'px';geometryDirty=true;
+  }
+  function eventsAt(year,radius=0){const n=index.serial(year);return data.events.filter(e=>!e.supersededBy&&activeRanges(e).some(s=>index.serial(s.start)<=n+radius&&index.serial(s.end)>=n-radius));}
+  function rowMarkup(p){return '<article class="person-row" id="row-'+p.id+'" data-id="'+p.id+'"><button type="button" class="row-heading" data-person="'+p.id+'" aria-label="'+esc(p.names[state.lang])+'" aria-expanded="false" aria-controls="preview-'+p.id+'"><span class="row-year" title="'+esc(eventsById.get(anchors[p.id]?.eventId)?.title[state.lang]||profileContribution(p))+'">'+esc(anchorDate(p))+'</span><span class="row-name">'+esc(p.names[state.lang])+'</span><span class="row-fields" title="'+esc(p.fields[state.lang].join(' · '))+'">'+esc(p.fields[state.lang].slice(0,2).join(' · '))+'</span><span class="row-chevron" aria-hidden="true">›</span></button><div class="row-preview" id="preview-'+p.id+'" aria-hidden="true" inert></div></article>';}
+  function activate(id,immediate=false){
+    if(state.active===id){if(immediate)settlePreviews();return;}
+    const oldId=state.active,old=getRow(oldId);
+    if(old){old.classList.remove('is-active');old.classList.add('is-closing');old.querySelector('.row-heading').setAttribute('aria-expanded','false');const detail=old.querySelector('.row-preview');detail.setAttribute('aria-hidden','true');detail.inert=true;movePreview(oldId,0,immediate);}
+    state.active=id;lastHover=id;
+    if(!id){if(immediate)settlePreviews();return;}
+    const p=byId.get(id),row=getRow(id);if(!p||!row)return;
+    const e=data.events.filter(e=>!e.supersededBy&&e.indexEligible!==false&&e.people.includes(id)).sort(byImportance)[0]||eventsById.get(anchors[id]?.eventId);
+    const detail=row.querySelector('.row-preview');
+    detail.innerHTML='<button class="inline-portrait" data-open="'+id+'" aria-label="'+esc(t('read')+' · '+p.names[state.lang])+'"><img src="'+esc(imagePath(p))+'" alt="'+esc(p.portrait.alt[state.lang])+'" decoding="async"></button><div class="inline-info"><p class="inline-dates">'+esc(t('born')+' '+p.birth.display[state.lang])+'<span>·</span>'+esc((p.death?t('died')+' ':'')+deathDisplay(p))+'</p><p class="inline-contribution"'+(e?' style="'+importanceStyle(e)+'"':'')+'>'+esc(e?e.title[state.lang]:profileContribution(p))+'</p><button class="inline-open" data-open="'+id+'">'+esc(t('read'))+' →</button>'+(kindLabel(p)?'<span class="inline-image-note">'+esc(kindLabel(p))+'</span>':'')+'</div>';
+    detail.setAttribute('aria-hidden','false');detail.inert=false;row.classList.remove('is-closing');
+    const r=row.getBoundingClientRect(),bounds=pane.getBoundingClientRect();row.classList.toggle('preview-above',r.top+rowBase()+rowExtra()>bounds.bottom&&r.top-rowExtra()>=bounds.top+30);
+    row.classList.add('is-active');row.querySelector('.row-heading').setAttribute('aria-expanded','true');
+    hoverLockUntil=performance.now()+(reduced.matches?0:previewDuration);movePreview(id,rowExtra(),immediate);
+  }
+  function refreshGeometry(){
+    datedRows=contentRows.filter(row=>Number.isFinite(rowYear(row)));
+    const points=datedRows.map(row=>({year:rowYear(row),offset:Math.max(0,row.offsetTop-30)}));
+    const last=datedRows[datedRows.length-1],max=Math.max(0,Math.min(pane.scrollHeight-pane.clientHeight,last?last.offsetTop-30:0));
+    scrollMap=ReviewScroll.createScrollMap(points,max);geometryDirty=false;
+    $('axis-wrap').setAttribute('aria-disabled','false');$('axis-wrap').setAttribute('aria-valuemin',calendarMin);$('axis-wrap').setAttribute('aria-valuemax',calendarMax);
+  }
+  function visibleBounds(){const top=pane.scrollTop+30,bottom=pane.scrollTop+pane.clientHeight;let first=0;while(first<contentRows.length-1&&contentRows[first].offsetTop+contentRows[first].offsetHeight<top)first++;let last=first;while(last<contentRows.length-1&&contentRows[last+1].offsetTop<bottom)last++;return contentRows.length?[first,last]:null;}
+
+  function showYearCard(year){
+    if(year===yearCardYear)return;yearCardYear=year;
+    const exact=eventsAt(year).filter(e=>e.indexEligible!==false).sort(byYearImportance),events=exact.length?exact.slice(0,3):nearbyEvents(year);
+    const label=exact.length?(state.lang==='zh'?'主要成果':'Major milestones'):t('nearby');
+    $('year-card').innerHTML='<h2>'+esc(yearLabel(year)+' · '+label)+'</h2>'+(events.length?events.map(eventMini).join(''):'<p class="no-events">'+esc(t('noEvents'))+'</p>');
+  }
+
+  function syncReading(override){
+    if(geometryDirty||!scrollMap)refreshGeometry();if(!model)return;
+    const bounds=visibleBounds();warmPortraits(bounds);
+    const visible=bounds?contentRows.slice(bounds[0],bounds[1]+1).map(rowYear).filter(Number.isFinite):[];
+    const explicit=override!==undefined;
+    const dated=visible.length>0||explicit;
+    if(dated){cursorYear=explicit?override:scrollMap.yearForOffset(pane.scrollTop);const y=model.scaleYear(cursorYear);$('axis-thumb').setAttribute('transform','translate(0 '+y+')');$('cursor-line').setAttribute('y1',y);$('cursor-line').setAttribute('y2',y);}
+    $('axis-thumb').setAttribute('opacity',dated?'1':'0');$('cursor-line').setAttribute('opacity',dated?'.75':'0');
+    let year=Math.floor(cursorYear+1e-7);if(!explicit&&dated){let nearest=null;for(const a of scrollMap.anchors){const distance=Math.abs(a.offset-pane.scrollTop);if(!nearest||distance<nearest.distance)nearest={year:a.year,distance};}if(nearest?.distance<.75)year=nearest.year;}if(year===0)year=1;
+    $('axis-year').textContent=dated?yearLabel(year):(filtered.length?t('pendingShort'):'—');$('year-detail').disabled=!dated;$('axis-wrap').setAttribute('aria-valuenow',cursorYear);$('axis-wrap').setAttribute('aria-valuetext',dated?yearLabel(year):t('pending'));
+    if(dated)showYearCard(year);else{$('year-card').innerHTML='';yearCardYear=null;}
+    $('reading-range').textContent=visible.length?yearLabel(visible[0])+(visible[0]===visible.at(-1)?'':'–'+yearLabel(visible.at(-1))):t('pendingShort');
+    if(visible.length){const y0=model.scaleYear(visible[0]),y1=model.scaleYear(visible.at(-1));$('view-band').setAttribute('y',y0-2);$('view-band').setAttribute('height',Math.max(5,y1-y0+4));}else $('view-band').setAttribute('height','0');
+  }
+
+  function scheduleSync(refresh=false){geometryDirty||=refresh;if(syncFrame)return;syncFrame=requestAnimationFrame(()=>{syncFrame=0;if(!drag&&!seek)syncReading();});}
+  function densityColor(d,max){return DensityPalette.color(max?d/max:0);}
+  function renderAxis(preserveYear=false){
+    const width=Math.max(140,$('axis-wrap').clientWidth),height=Math.max(235,$('axis-wrap').clientHeight);plot={width,height,x:53,right:width-7,bottom:height-43};
+    const calendarPoints=data.events.flatMap(e=>{const s=index.spanOf(e);return s?[{sortYear:s[0]},{sortYear:s[1]}]:[];});
+    calendarPoints.push({sortYear:calendarMin},{sortYear:calendarMax},...Object.values(anchors).map(a=>({sortYear:a.year})));model=ReviewTimeline.createTimeline(calendarPoints,{top:12,bottom:plot.bottom,minTickGap:32,exactBounds:true});
+    const peak=Math.max(.1,...data.series.map(p=>p.value)),xStep=ReviewTimeline.niceStep(peak/6),max=Math.ceil(peak/xStep)*xStep,maxDensity=Math.max(.01,...data.series.map(p=>p.density)),span=plot.right-plot.x;
+    const samples=[];for(let y=12;y<plot.bottom;y++){const end=Math.min(y+1,plot.bottom),year=model.yearAt((y+end)/2),segmentId=model.segments.findIndex(s=>year<=s.to);samples.push({...index.samplePixel(data.series,model.yearAt(y),model.yearAt(end)),y,height:end-y,segmentId});}
+    const displaySamples=PlotDisplay.smoothSamples(samples,{sigma:PLOT_SMOOTHING_SIGMA});
+    const bars=displaySamples.map(stats=>'<rect class="hist-bin" x="'+plot.x+'" y="'+stats.y+'" width="'+index.asinhScale(stats.value,max,span,data.display?.knee||1)+'" height="'+stats.height+'" fill="'+densityColor(stats.density,maxDensity)+'" stroke="none" shape-rendering="crispEdges"/>').join('');
+
+    const ticks=model.ticks.map(q=>'<line x1="'+(plot.x-4)+'" x2="'+plot.x+'" y1="'+q.y+'" y2="'+q.y+'" stroke="#8d858d" stroke-width=".7"/><text data-year="'+q.year+'" x="'+(plot.x-8)+'" y="'+(q.y+3.2)+'" text-anchor="end" font-size="10.5" fill="#766b78">'+esc(yearLabel(q.year))+'</text>').join('');
+    const minors=model.minorTicks.map(q=>'<line x1="'+(plot.x-2)+'" x2="'+plot.x+'" y1="'+q.y+'" y2="'+q.y+'" stroke="#aaa2ac" stroke-width=".65"/>').join('');
+    const breaks=model.segments.slice(1).map(s=>'<path d="M'+(plot.x-3)+' '+(s.top-3)+' l6 3 m-6 0 l6 3" stroke="#776f79" stroke-width="1" fill="none"/>').join('');
+    const xValues=[0,...[.25,1,4,16,64,256,1024].filter(v=>v<=max)];if(xValues.at(-1)<max/1.8)xValues.push(max);
+    let lastTick=-Infinity;const xticks=xValues.map(n=>{const x=plot.x+index.asinhScale(n,max,span,data.display?.knee||1);if(x-lastTick<22)return '';lastTick=x;return '<line x1="'+x+'" x2="'+x+'" y1="'+(height-32)+'" y2="'+(height-28)+'" stroke="#a49aa8" stroke-width=".7"/><text x="'+x+'" y="'+(height-16)+'" text-anchor="middle" font-size="9" fill="#817286">'+n+'</text>';}).join('');
+    $('time-axis').setAttribute('viewBox','0 0 '+width+' '+height);$('time-axis').innerHTML='<rect id="view-band" x="'+(plot.x-5)+'" width="'+(span+5)+'" y="12" height="0" rx="3" fill="#29222c08"/>'+bars+'<line x1="'+plot.x+'" x2="'+plot.x+'" y1="12" y2="'+plot.bottom+'" stroke="#9c929f" stroke-width=".75"/>'+ticks+minors+breaks+'<line x1="'+plot.x+'" x2="'+plot.right+'" y1="'+(height-32)+'" y2="'+(height-32)+'" stroke="#b5abb9" stroke-width=".7"/>'+xticks+'<text x="'+((plot.x+plot.right)/2)+'" y="'+(height-2)+'" text-anchor="middle" font-size="8.5" fill="#8a7a90">'+esc(t('weighted'))+'</text><line id="cursor-line" x1="'+(plot.x+7)+'" x2="'+plot.right+'" y1="12" y2="12" stroke="#df2434" stroke-width=".7"/><g id="axis-thumb" pointer-events="none"><circle cx="'+(plot.x+6)+'" cy="0" r="4" fill="#df2434" stroke="#fff" stroke-width="2"/></g>';
+    renderDensityLegend(maxDensity);syncReading(preserveYear?(yearCardYear??Math.round(cursorYear)):undefined);
+  }
+  function renderDensityLegend(max){
+    const svg=$('density-scale'),width=Math.max(140,svg.clientWidth),left=10,right=width-10,y=6,h=13,edge=y+h,span=right-left;
+    const ticks=PlotDisplay.colorbarTicks(max,{integers:true}).map(tick=>{const x=left+tick.position*span;return '<line class="density-tick" x1="'+x+'" x2="'+x+'" y1="'+edge+'" y2="'+(edge+4)+'" stroke="#555" stroke-width=".7"/><text x="'+x+'" y="35" text-anchor="middle">'+esc(tick.label)+'</text>';}).join('');
+    svg.setAttribute('viewBox','0 0 '+width+' 42');svg.setAttribute('aria-label',t('density')+' · 0–'+max.toFixed(1)+' '+t('contributorUnit'));
+    svg.innerHTML='<defs><linearGradient id="density-gradient"><stop offset="0%" stop-color="rgb(230,230,230)"/><stop offset="25%" stop-color="rgb(38,38,38)"/><stop offset="100%" stop-color="rgb(255,0,0)"/></linearGradient></defs><rect class="density-ramp" x="'+left+'" y="'+y+'" width="'+span+'" height="'+h+'" fill="url(#density-gradient)" stroke="#777" stroke-width=".5"/>'+ticks;
+    $('density-unit').textContent=t('contributorUnit');
+  }
+  function renderList(preserve=false){
+    cancelSeek();clearTimeout(hoverTimer);const oldTop=pane.scrollTop,active=state.active;activate(null,true);lastHover=null;
+    filtered=core.filterPeople(people,{query:state.query,field:state.field,era:'all'});
+    const groups=new Map();for(const p of filtered){const y=anchors[p.id].year,key=Math.floor(y/100)*100;if(!groups.has(key))groups.set(key,[]);groups.get(key).push(p);}
+    const unrestricted=!state.query&&state.field==='all';
+    const anchorYears=filtered.map(p=>anchors[p.id]?.year).filter(Number.isFinite),first=anchorYears.length?Math.min(...anchorYears):null,last=anchorYears.length?Math.max(...anchorYears):null;
+    function yearRow(year){const e=eventsAt(year).filter(e=>e.indexEligible!==false).sort(byYearImportance)[0];return '<article class="year-row" data-nav-year="'+year+'"><button class="row-heading" data-year-detail="'+year+'"><span class="row-year">'+esc(yearLabel(year))+'</span><span class="row-name"'+(e?' style="'+importanceStyle(e)+'"':'')+'>'+esc(e?e.title[state.lang]:t('yearly'))+'</span><span class="row-fields"></span><span class="row-chevron" aria-hidden="true">↗</span></button></article>';}
+    const head=unrestricted&&first!==null&&calendarMin<first?yearRow(calendarMin):'';
+    let tail='';if(unrestricted&&last!==null&&calendarMax>last){tail='<section class="period"><h2 class="period-heading"><strong>'+esc(t('yearly'))+'</strong><span class="period-rule"></span></h2>';for(let y=last+1;y<=calendarMax;y++){if(y!==0)tail+=yearRow(y);}tail+='</section>';}
+    let html=head;for(const [key,ps] of groups){html+='<section class="period"><h2 class="period-heading"><strong>'+esc(yearLabel(key===0?1:key)+'–'+yearLabel(key+99))+'</strong><span class="period-rule"></span><span>'+ps.length+'</span></h2>'+ps.map(rowMarkup).join('')+'</section>';}
+    html+=tail;$('people-list').innerHTML=html;lastRowBase=rowBase();settlePreviews();
+    rowNodes=Array.from(document.querySelectorAll('.person-row'));contentRows=Array.from(document.querySelectorAll('.person-row,.year-row'));$('empty').hidden=!!filtered.length;$('clear-query').hidden=!state.query;
+    $('result-status').textContent=state.lang==='zh'?filtered.length+' 位人物':filtered.length+(filtered.length===1?' person':' people');pane.scrollTop=preserve?oldTop:0;refreshGeometry();renderAxis();if(preserve&&getRow(active))activate(active);
+  }
+  function stopDriver(){workspace.dataset.scrollDriver='list';}
+  function cancelSeek(){if(seekFrame)cancelAnimationFrame(seekFrame);seekFrame=0;seek=null;if(!drag)stopDriver();}
+  function seekYear(year,animate=true){
+    cancelSeek();activate(null,true);clearTimeout(hoverTimer);refreshGeometry();const targetYear=Math.max(calendarMin,Math.min(calendarMax,year)),target=scrollMap.offsetForYear(targetYear);
+    if(!animate||reduced.matches){pane.scrollTop=target;syncReading(targetYear);return;}
+    workspace.dataset.scrollDriver='axis';seek={from:pane.scrollTop,target,targetYear,fromYear:cursorYear,start:performance.now()};
+    function step(now){if(!seek)return;const elapsed=Math.min(1,(now-seek.start)/300);pane.scrollTop=seek.from+(seek.target-seek.from)*(1-(1-elapsed)**3);syncReading(seek.fromYear+(seek.targetYear-seek.fromYear)*(1-(1-elapsed)**3));if(elapsed<1)seekFrame=requestAnimationFrame(step);else{const finalYear=seek.targetYear;seek=null;seekFrame=0;stopDriver();syncReading(finalYear);}}seekFrame=requestAnimationFrame(step);
+  }
+  function pointerYear(event,label=false){if(label){const node=event.target.closest('[data-year]');if(node)return Number(node.dataset.year);}const point=new DOMPoint(event.clientX,event.clientY).matrixTransform($('time-axis').getScreenCTM().inverse());return model.yearAt(point.y-(drag?.grabOffset??0));}
+  function applyDrag(){dragFrame=0;if(!drag||drag.phase!=='drag')return;pane.scrollTop=scrollMap.offsetForYear(drag.targetYear);syncReading(drag.targetYear);}
+  function beginDrag(event){if(event.button!==0)return;event.preventDefault();cancelSeek();clearTimeout(hoverTimer);activate(null,true);refreshGeometry();const point=new DOMPoint(event.clientX,event.clientY).matrixTransform($('time-axis').getScreenCTM().inverse());const near=Math.abs(point.y-model.scaleYear(cursorYear))<14&&Math.abs(point.x-(plot.x+6))<18;drag={pointerId:event.pointerId,startY:event.clientY,phase:near?'drag':'pressed',grabOffset:near?point.y-model.scaleYear(cursorYear):0,targetYear:cursorYear};drag.targetYear=Math.max(calendarMin,Math.min(calendarMax,pointerYear(event,!near)));workspace.dataset.scrollDriver='axis';$('axis-wrap').classList.add('is-dragging');$('axis-tooltip').hidden=true;$('axis-wrap').setPointerCapture(event.pointerId);if(near)dragFrame=requestAnimationFrame(applyDrag);}
+  function moveAxis(event){if(!model)return;if(drag&&drag.pointerId===event.pointerId){event.preventDefault();if(Math.abs(event.clientY-drag.startY)>2)drag.phase='drag';if(drag.phase==='drag'){drag.targetYear=Math.max(calendarMin,Math.min(calendarMax,pointerYear(event)));if(!dragFrame)dragFrame=requestAnimationFrame(applyDrag);}return;}let year=Math.round(pointerYear(event,true));if(year===0)year=1;const p=yearMap.get(year);$('axis-tooltip').textContent=yearLabel(year);$('axis-tooltip').style.top=Math.max(0,Math.min(plot.height-30,event.clientY-$('axis-wrap').getBoundingClientRect().top-12))+'px';$('axis-tooltip').hidden=false;}
+  function finishDrag(event){if(!drag||drag.pointerId!==event.pointerId)return;if(dragFrame)cancelAnimationFrame(dragFrame);dragFrame=0;const {phase,pointerId,targetYear}=drag;if(phase==='drag')applyDrag();drag=null;if($('axis-wrap').hasPointerCapture(pointerId))$('axis-wrap').releasePointerCapture(pointerId);$('axis-wrap').classList.remove('is-dragging');stopDriver();if(phase==='pressed')seekYear(targetYear);else syncReading(targetYear);}
+  function listTakesControl(){if(drag)return;cancelSeek();clearTimeout(hoverTimer);lastHover=null;}
+  function sourceMarkup(p){return p.sources[state.lang].map(s=>'<li>'+link(s.url,s.title)+'</li>').join('');}
+  function originalDossierMarkup(p){const lang=state.lang,photo=p.portrait;return '<header class="dossier-heading"><div><h2 id="dossier-name">'+esc(p.names[lang])+'</h2><p class="dossier-fields">'+esc(p.fields[lang].join(' · '))+'</p></div><figure class="dossier-portrait"><img src="'+esc(imagePath(p))+'" alt="'+esc(photo.alt[lang])+'"></figure></header>'+(photo.kind!=='portrait'?'<p class="visible-image-note"><strong>'+esc(kindLabel(p))+'</strong> '+esc(photo.note[lang])+'</p>':'')+(p.nobelYears.length?'<p class="dossier-award">'+(lang==='zh'?'诺贝尔物理学奖':'Nobel Prize in Physics')+' · '+p.nobelYears.join(', ')+'</p>':'')+'<dl class="dossier-dates"><div><dt>'+esc(t('born'))+'</dt><dd>'+esc(p.birth.display[lang])+'</dd></div><div><dt>'+esc(t(p.death?'died':'status'))+'</dt><dd>'+esc(deathDisplay(p))+'</dd></div></dl><section class="dossier-section"><h3>'+esc(t('bio'))+'</h3><p>'+esc(p.biography[lang])+'</p></section><section class="dossier-section"><h3>'+esc(t('contribution'))+'</h3><ul>'+p.contributions[lang].map(c=>'<li>'+esc(c)+'</li>').join('')+'</ul></section>'+(p.notes[lang].length?'<section class="dossier-section dossier-notes"><h3>'+esc(t('notes'))+'</h3><ul>'+p.notes[lang].map(n=>'<li>'+esc(n)+'</li>').join('')+'</ul></section>':'')+'<section class="dossier-section"><h3>'+esc(t('sources'))+'</h3><ol>'+sourceMarkup(p)+'</ol></section><details class="dossier-image"><summary>'+esc(t('imageCredits'))+'</summary><p>'+esc(photo.note[lang])+'</p><p>'+esc(photo.artist[lang]||'')+'</p><p>'+esc(photo.credit[lang]||'')+'</p><p>'+(photo.licenseUrl?link(photo.licenseUrl,photo.license[lang]):esc(photo.license[lang]))+'</p><p>'+link(photo.sourceUrl,t('originalImage'))+'</p>'+(photo.rightsStatus==='permission_required'?'<p class="rights">'+esc(t('permission'))+'</p>':'')+'</details><p class="source-date">'+esc(t('reviewed'))+' '+archive.asOf+'</p>';}
+  function eventMarkup(e){return '<article class="event-record" id="event-'+e.id+'"><div class="event-meta">'+esc(eventDate(e)+' · '+t(e.type))+'</div><h3 style="'+importanceStyle(e)+'">'+esc(e.title[state.lang])+'</h3><p>'+esc(e.rationale[state.lang])+'</p>'+(e.dateNote[state.lang]?'<p>'+esc(e.dateNote[state.lang])+'</p>':'')+'<div>'+e.people.map(id=>'<button class="event-person" data-open="'+id+'">'+esc(byId.get(id).names[state.lang])+'</button>').join('')+'</div>'+(e.groups?.length?'<p>'+esc(e.groups.join(' · '))+'</p>':'')+'<ul>'+e.sources.map(s=>'<li>'+link(s.url,s.title)+'</li>').join('')+'</ul></article>';}
+  function dossierMarkup(p){const related=data.events.filter(e=>!e.supersededBy&&e.people.includes(p.id)).sort((a,b)=>(index.spanOf(a)?.[0]??Infinity)-(index.spanOf(b)?.[0]??Infinity)||byImportance(a,b));const section=related.length?'<section class="dossier-section"><h3>'+esc(t('milestones'))+'</h3>'+related.map(eventMini).join('')+'</section>':'';return originalDossierMarkup(p).replace('<details class="dossier-image">',section+'<details class="dossier-image">');}
+  function openDossier(id){if(!byId.has(id))return;if($('insight').open){$('insight').close();state.insight=null;}clearTimeout(hoverTimer);openerId=id;lastFocused=document.activeElement;state.dossier=id;$('sheet-content').innerHTML=dossierMarkup(byId.get(id));$('sheet-content').scrollTop=0;if(!$('dossier').open)$('dossier').showModal();$('close-dossier').focus();}
+  function closeDossier(){$('dossier').close();state.dossier=null;(getRow(openerId)?.querySelector('.row-heading')||(lastFocused?.isConnected?lastFocused:null))?.focus({preventScroll:true});}
+  function methodMarkup(){
+    const zh=state.lang==='zh',collections=data.journalSources||[];
+    return '<h2 id="insight-title">'+esc(t('methodTitle'))+'</h2><div class="method-copy">'+(zh?'<p>成果资料包括原始研究论文、著作、观测手稿、期刊编辑精选及物理学史记录。每项成果按其形成或发现的年代归档，人物完整资料与引用来源保留在档案中。</p><h3>期刊编辑精选</h3>':'<p>Milestone records draw on original papers, books, observational manuscripts, journal selections and histories of physics. Each result is located by its formation or discovery date. Full biographies and references remain in the dossiers.</p><h3>Journal editorial selections</h3>')+'<ul>'+collections.map(c=>'<li>'+link(c.url,c.title)+'</li>').join('')+'</ul><p>'+esc(zh?data.counts.totalPeople+' 位人物 · '+data.counts.events+' 项成果记录':data.counts.totalPeople+' people · '+data.counts.events+' milestone records')+'</p><p>'+link('data/method.'+state.lang+'.md',zh?'计算与维护说明文档':'Calculation and maintenance documentation')+' · '+link('data/yearly-index.json',zh?'逐年数据':'Annual data')+'</p></div>';
+  }
+  function nearbyPeople(year){
+    const n=index.serial(year),radius=index.radiusAt?index.radiusAt(year):5;
+    return people.filter(p=>{const a=anchors[p.id];return a&&Math.abs(index.serial(a.year)-n)<=radius;}).sort((a,b)=>Math.abs(anchors[a.id].year-year)-Math.abs(anchors[b.id].year-year)).slice(0,8);
+  }
+  function peopleMarkup(year){const related=nearbyPeople(year);return related.length?'<section class="dossier-section"><h3>'+esc(state.lang==='zh'?'相关人物':'Related people')+'</h3>'+related.map(p=>'<button class="event-person" data-open="'+p.id+'">'+esc(p.names[state.lang])+'</button>').join('')+'</section>':'';}
+
+  function renderInsight(){const view=state.insight;if(!view)return;let html='';if(view.type==='method'){html=methodMarkup();$('insight-toolbar').textContent=t('indexTitle');}else if(view.type==='event'){const e=eventsById.get(view.id);html='<h2 id="insight-title">'+esc(t('milestones'))+'</h2>'+eventMarkup(e);$('insight-toolbar').textContent=eventDate(e);}else{const year=view.year,exact=eventsAt(year).filter(e=>e.indexEligible!==false).sort(byYearImportance),nearby=nearbyEvents(year);$('insight-toolbar').textContent=state.lang==='zh'?'主要成果':'Major milestones';html='<h2 id="insight-title">'+esc(yearLabel(year)+' · '+t('yearly'))+'</h2>'+(exact.length?exact.map(eventMarkup).join(''):'<p class="insight-lead">'+esc(t('noEvents'))+'</p>')+(nearby.length?'<h3 style="margin-top:25px">'+esc(t('nearby'))+'</h3>'+nearby.map(eventMarkup).join(''):'');} $('insight-content').innerHTML=html;}
+  function openInsight(view){state.insight=view;renderInsight();$('insight-content').scrollTop=0;if(!$('insight').open)$('insight').showModal();$('close-insight').focus();}
+  function closeInsight(){$('insight').close();state.insight=null;}
+  function renderLabels(){document.documentElement.lang=state.lang==='zh'?'zh-CN':'en';document.title=t('title');document.querySelectorAll('[data-label]').forEach(el=>el.textContent=t(el.dataset.label));document.querySelectorAll('[data-language]').forEach(el=>el.setAttribute('aria-pressed',String(el.dataset.language===state.lang)));$('archive-subtitle').textContent=state.lang==='zh'?people.length+' 位先驱 · '+data.counts.events+' 项物理成果':people.length+' pioneers · '+data.counts.events+' milestones';$('query').placeholder=t('search');$('query').value=state.query;$('clear-query').setAttribute('aria-label',state.lang==='zh'?'清空搜索':'Clear search');$('field').innerHTML='<option value="all">'+esc(t('allFields'))+'</option>'+core.domains.map(d=>'<option value="'+d.id+'">'+esc(d[state.lang])+'</option>').join('');$('field').value=state.field;$('archive-date').textContent=data.asOf.replace(/-/g,'.');$('coverage-status').textContent=state.lang==='zh'?'按主要贡献年代排列': 'Ordered by principal contribution';$('list-scroll').setAttribute('aria-label',state.lang==='zh'?'按贡献年代排列的人物':'People by contribution year');$('axis-wrap').setAttribute('aria-label',state.lang==='zh'?'拖动时间轴定位贡献年代':'Drag the timeline to navigate contribution years');$('year-detail').setAttribute('aria-label',t('yearly'));$('sheet-language').textContent=state.lang==='zh'?'English':'中文';$('close-dossier').setAttribute('aria-label',t('close'));$('close-insight').setAttribute('aria-label',t('close'));yearCardYear=null;}
+  function setLanguage(lang){if(lang===state.lang)return;const sheetTop=$('sheet-content').scrollTop;state.lang=lang;renderLabels();renderList(true);if(state.dossier){$('sheet-content').innerHTML=dossierMarkup(byId.get(state.dossier));$('sheet-content').scrollTop=sheetTop;}if(state.insight)renderInsight();}
+  document.addEventListener('pointerdown',e=>{pointerMode=e.pointerType;});
+  document.addEventListener('keydown',e=>{pointerMode='keyboard';if(e.key==='/'&&!/INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName)&&!$('dossier').open&&!$('insight').open){e.preventDefault();$('query').focus();}const h=e.target.closest('.row-heading');if(h&&['ArrowUp','ArrowDown'].includes(e.key)){e.preventDefault();listTakesControl();const i=filtered.findIndex(p=>p.id===h.dataset.person),p=filtered[i+(e.key==='ArrowDown'?1:-1)];if(p){const el=getRow(p.id).querySelector('.row-heading');el.focus({preventScroll:true});el.scrollIntoView({block:'nearest'});activate(p.id);}}});
+  function scheduleHover(){
+    clearTimeout(hoverTimer);hoverTimer=setTimeout(()=>{
+      if(!lastPointer||drag||seek||$('dossier').open||$('insight').open)return;
+      const hit=document.elementFromPoint(lastPointer.x,lastPointer.y),row=hit?.closest('.person-row');
+      if(row&&pane.contains(row)&&row.dataset.id!==state.active)activate(row.dataset.id);
+    },Math.max(65,hoverLockUntil-performance.now()+20));
+  }
+  $('people-list').addEventListener('pointermove',e=>{if(e.pointerType!=='mouse'||drag||seek)return;pointerMode='mouse';lastPointer={x:e.clientX,y:e.clientY};const row=e.target.closest('.person-row');if(row?.dataset.id===state.active){clearTimeout(hoverTimer);return;}if(!row){clearTimeout(hoverTimer);return;}scheduleHover();});
+  $('people-list').addEventListener('focusin',e=>{if(pointerMode==='keyboard'){const h=e.target.closest('.row-heading');if(h)activate(h.dataset.person);}});
+  document.querySelector('.archive-body').addEventListener('pointerleave',()=>{clearTimeout(hoverTimer);lastHover=null;if(pointerMode==='keyboard'&&getRow(state.active)?.contains(document.activeElement))return;if(!drag&&!seek)hoverTimer=setTimeout(()=>activate(null),180);});
+  document.addEventListener('click',e=>{const language=e.target.closest('[data-language]');if(language){setLanguage(language.dataset.language);return;}const yearEntry=e.target.closest('[data-year-detail]');if(yearEntry){openInsight({type:'year',year:Number(yearEntry.dataset.yearDetail)});return;}const event=e.target.closest('[data-event]');if(event){openInsight({type:'event',id:event.dataset.event});return;}const open=e.target.closest('[data-open]');if(open){openDossier(open.dataset.open);return;}const h=e.target.closest('.row-heading');if(h){if(matchMedia('(hover:none)').matches&&e.detail>0&&state.active!==h.dataset.person)activate(h.dataset.person);else openDossier(h.dataset.person);}});
+  pane.addEventListener('scroll',()=>{if(!drag&&!seek)scheduleSync();},{passive:true});pane.addEventListener('wheel',listTakesControl,{passive:true});pane.addEventListener('pointerdown',listTakesControl,{passive:true});pane.addEventListener('touchstart',listTakesControl,{passive:true});
+  const layoutObserver=new ResizeObserver(()=>{if(rowBase()!==lastRowBase){clearTimeout(hoverTimer);lastPointer=null;activate(null,true);lastRowBase=rowBase();}scheduleSync(true);});layoutObserver.observe(pane);layoutObserver.observe($('people-list'));
+  new ResizeObserver(()=>{if(drag)finishDrag({pointerId:drag.pointerId});requestAnimationFrame(()=>renderAxis(true));}).observe($('axis-wrap'));
+  $('axis-wrap').addEventListener('pointerdown',beginDrag);$('axis-wrap').addEventListener('pointermove',moveAxis);$('axis-wrap').addEventListener('pointerup',finishDrag);$('axis-wrap').addEventListener('pointercancel',finishDrag);$('axis-wrap').addEventListener('lostpointercapture',e=>{if(drag)finishDrag(e);});$('axis-wrap').addEventListener('pointerleave',()=>{$('axis-tooltip').hidden=true;});
+  $('axis-wrap').addEventListener('wheel',e=>{if(!datedRows.length)return;e.preventDefault();listTakesControl();pane.scrollTop+=e.deltaY*(e.deltaMode===1?16:e.deltaMode===2?pane.clientHeight:1);scheduleSync();},{passive:false});
+  $('axis-wrap').addEventListener('keydown',e=>{const years=Array.from(new Set([calendarMin,...scrollMap.anchors.map(a=>a.year),calendarMax])).sort((a,b)=>a-b),now=cursorYear;let target;if(e.key==='ArrowDown')target=years.find(y=>y>now)??years.at(-1);else if(e.key==='ArrowUp')target=years.slice().reverse().find(y=>y<now)??years[0];else if(e.key==='Home')target=years[0];else if(e.key==='End')target=years.at(-1);else if(e.key==='PageDown')target=years.find(y=>y>=now+50)??years.at(-1);else if(e.key==='PageUp')target=years.slice().reverse().find(y=>y<=now-50)??years[0];else return;e.preventDefault();seekYear(target);});
+  $('query').addEventListener('input',e=>{state.query=e.target.value;clearTimeout(inputTimer);inputTimer=setTimeout(()=>renderList(),100);});$('query').addEventListener('keydown',e=>{if(e.key==='Enter'){clearTimeout(inputTimer);renderList();}});$('field').addEventListener('change',e=>{state.field=e.target.value;clearTimeout(inputTimer);renderList();});$('clear-query').addEventListener('click',()=>{state.query='';$('query').value='';clearTimeout(inputTimer);renderList();$('query').focus();});$('reset-all').addEventListener('click',e=>{e.preventDefault();state.query='';state.field='all';renderLabels();renderList();});
+  $('index-method').addEventListener('click',()=>openInsight({type:'method'}));$('year-detail').addEventListener('click',()=>openInsight({type:'year',year:Math.round(cursorYear)||1}));$('close-insight').addEventListener('click',closeInsight);$('insight').addEventListener('cancel',e=>{e.preventDefault();closeInsight();});$('close-dossier').addEventListener('click',closeDossier);$('dossier').addEventListener('cancel',e=>{e.preventDefault();closeDossier();});$('sheet-language').addEventListener('click',()=>setLanguage(state.lang==='zh'?'en':'zh'));
+  renderLabels();renderList();if(params.has('year'))requestAnimationFrame(()=>seekYear(Number(params.get('year')),false));if(byId.has(params.get('person')))requestAnimationFrame(()=>openDossier(params.get('person')));
 })();

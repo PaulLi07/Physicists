@@ -2,11 +2,20 @@
 'use strict';
 const fs=require('node:fs'),path=require('node:path'),vm=require('node:vm');
 const root=path.resolve(__dirname,'..'),dir=path.join(root,'data/breakthrough');
-const core=require('../website/design-review/breakthrough.js');
-const navigation=require('../website/design-review/person-estimates.js');
+const core=require('../website/src/breakthrough.js');
+const navigation=require('./lib/navigation-estimates.cjs');
+const args=process.argv.slice(2),settings={archiveDir:path.join(root,'website/dist'),outputDir:path.join(root,'website/dist/data')};
+for(let i=0;i<args.length;i++){
+  const arg=args[i];
+  if(arg==='--artifacts-only')continue; // Compatibility flag; every mode is output-only.
+  else if(arg==='--archive-dir'||arg==='--output-dir'){
+    const value=args[++i];if(!value||value.startsWith('--'))throw Error('Missing directory after '+arg);
+    settings[arg==='--archive-dir'?'archiveDir':'outputDir']=path.resolve(value);
+  }else throw Error('Unknown option: '+arg);
+}
 const ctx={};
-vm.runInNewContext(fs.readFileSync(path.join(root,'website/dist/data/archive.js'),'utf8'),ctx);
-vm.runInNewContext(fs.readFileSync(path.join(root,'website/dist/core.js'),'utf8'),ctx);
+vm.runInNewContext(fs.readFileSync(path.join(settings.archiveDir,'data/archive.js'),'utf8'),ctx);
+vm.runInNewContext(fs.readFileSync(path.join(settings.archiveDir,'core.js'),'utf8'),ctx);
 const archive=ctx.PHYSICS_ARCHIVE;
 const read=(name,fallback)=>fs.existsSync(path.join(dir,name))?JSON.parse(fs.readFileSync(path.join(dir,name),'utf8')):fallback;
 const config=read('index-config.json',{}),asOf=config.reviewedAt||archive.asOf,asOfYear=Number(asOf.slice(0,4));
@@ -89,20 +98,7 @@ const counts={events:events.length,dated:events.filter(e=>core.spanOf(e)).length
 const journalSources=read('journal-sources.json',[]);
 const data={asOf,biographyAsOf:archive.asOf,methodVersion:'3.0',counts,files,events,anchors,
   navigationEstimates:navigationRecords,estimatedContributions:[],journalSources,display:config.display,...result};
-const outputDir=path.join(root,'website/design-review/data');fs.mkdirSync(outputDir,{recursive:true});
-function writeJSON(file,value){const tmp=file+'.tmp';fs.writeFileSync(tmp,JSON.stringify(value,null,2)+'\n');fs.renameSync(tmp,file);}
 const annual={asOf,methodVersion:data.methodVersion,counts,kernel:result.kernel,components:result.components,display:config.display,series:result.series};
-writeJSON(path.join(dir,'yearly-index.json'),annual);
-writeJSON(path.join(dir,'navigation-estimates.json'),{asOf,purpose:'Directory navigation and contributor-density display only; never added to the breakthrough score.',records:navigationRecords,anchors:navigationAnchors});
-writeJSON(path.join(dir,'contribution-estimates.json'),{asOf,methodVersion:'3.0',retired:true,records:[],note:'The v2 person residual score is retired. Named contributions are in events-editorial-assessments.json; navigation estimates are in navigation-estimates.json.'});
-writeJSON(path.join(dir,'coverage.json'),{asOf,counts,unanchored:[],navigationOnly:archive.people.filter(p=>!scoredPeople.has(p.id)).map(p=>({id:p.id,names:p.names})),editorialCoverage:read('editorial-coverage.json',[])});
-const dataTmp=path.join(outputDir,'breakthrough-data.js.tmp');
-fs.writeFileSync(dataTmp,'globalThis.BREAKTHROUGH_ARCHIVE = '+JSON.stringify(data)+';\n');fs.renameSync(dataTmp,path.join(outputDir,'breakthrough-data.js'));
-writeJSON(path.join(outputDir,'yearly-index.json'),annual);writeJSON(path.join(outputDir,'events.json'),events);
-for(const lang of ['zh','en']){
-  const doc=path.join(root,'docs','physics-breakthrough-index.'+lang+'.md');
-  if(fs.existsSync(doc))fs.copyFileSync(doc,path.join(outputDir,'method.'+lang+'.md'));
-}
 const alternative=core.calculate(events,{...options,weightMap:{1:1,2:2,4:4,8:6,16:8}});
 function peaks(series){
   const selected=[];
@@ -112,9 +108,30 @@ function peaks(series){
   }
   return selected;
 }
-writeJSON(path.join(dir,'sensitivity.json'),{asOf,methodVersion:'3.0',primaryWeights:[1,2,4,8,16],alternativeWeights:[1,2,4,6,8],
+const sensitivity={asOf,methodVersion:'3.0',primaryWeights:[1,2,4,8,16],alternativeWeights:[1,2,4,6,8],
   primaryPeaks:peaks(result.series),alternativePeaks:peaks(alternative.series),
   totalScore:result.series.reduce((s,p)=>s+p.value,0),eligibleEventBudget:eligible.reduce((s,e)=>s+e.score,0),
-  note:'Score-scale sensitivity only. Dates and budgets remain explicit; no person residuals or historical smoothing.'});
-console.log(JSON.stringify({...counts,years:result.series.length,from:result.minYear,to:result.maxYear,
-  totalScore:result.series.reduce((s,p)=>s+p.value,0),peak:Math.max(...result.series.map(p=>p.value))}));
+  note:'Score-scale sensitivity only. Dates and budgets remain explicit; no person residuals or historical smoothing.'};
+const navigationData={asOf,purpose:'Directory navigation and contributor-density display only; never added to the breakthrough score.',records:navigationRecords,anchors:navigationAnchors};
+const coverage={asOf,counts,unanchored:[],navigationOnly:archive.people.filter(p=>!scoredPeople.has(p.id)).map(p=>({id:p.id,names:p.names})),editorialCoverage:read('editorial-coverage.json',[])};
+const summary={asOf,methodVersion:data.methodVersion,counts,years:result.series.length,from:result.minYear,to:result.maxYear,
+  totalScore:result.series.reduce((s,p)=>s+p.value,0),peak:Math.max(...result.series.map(p=>p.value))};
+const methods=['zh','en'].map(lang=>({name:'method.'+lang+'.md',contents:fs.readFileSync(path.join(root,'docs','physics-breakthrough-index.'+lang+'.md'),'utf8')}));
+// Complete all validation and calculation before publishing even a single file.
+function writeAtomic(file,contents){
+  fs.mkdirSync(path.dirname(file),{recursive:true});const temp=file+'.tmp-'+process.pid;
+  try{fs.writeFileSync(temp,contents);fs.renameSync(temp,file);}finally{if(fs.existsSync(temp))fs.unlinkSync(temp);}
+}
+function writeJSON(file,value){writeAtomic(file,JSON.stringify(value,null,2)+'\n');}
+// Source records in data/breakthrough are read-only. Every derived artifact
+// belongs to this output directory, including staging builds.
+writeJSON(path.join(settings.outputDir,'navigation-estimates.json'),navigationData);
+writeJSON(path.join(settings.outputDir,'coverage.json'),coverage);
+writeJSON(path.join(settings.outputDir,'sensitivity.json'),sensitivity);
+writeJSON(path.join(settings.outputDir,'yearly-index.json'),annual);
+writeJSON(path.join(settings.outputDir,'events.json'),events);
+for(const method of methods)writeAtomic(path.join(settings.outputDir,method.name),method.contents);
+// The browser consumes one complete immutable snapshot; replace it last.
+writeAtomic(path.join(settings.outputDir,'breakthrough-data.js'),'globalThis.BREAKTHROUGH_ARCHIVE = '+JSON.stringify(data)+';\n');
+writeJSON(path.join(settings.outputDir,'build-summary.json'),summary);
+console.log(JSON.stringify(summary));

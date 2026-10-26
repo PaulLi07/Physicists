@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Build the portable static website from the audited bilingual archive.
 
-Only Python's standard library is required. The generated classic script also
-works over file://, so the finished site does not require a backend or fetch().
+Python's standard library and Node.js build the archive and achievement ledger
+in one staging directory. The published classic scripts also work over file://;
+the finished site needs no backend or fetch().
 """
 from __future__ import annotations
 
@@ -14,6 +15,7 @@ import os
 from pathlib import Path, PurePosixPath
 import re
 import shutil
+import subprocess
 import tempfile
 
 
@@ -147,6 +149,7 @@ def link_or_copy(source: Path, destination: Path) -> None:
 
 def main() -> None:
     data, assets, source_hashes = archive_data()
+    require((SOURCE / 'index.html').is_file(), 'Missing canonical website/src/index.html')
     WEBSITE.mkdir(parents=True, exist_ok=True)
     staging = Path(tempfile.mkdtemp(prefix='.dist-build-', dir=WEBSITE))
     backup = None
@@ -164,12 +167,31 @@ def main() -> None:
                 destination.parent.mkdir(parents=True, exist_ok=True)
                 shutil.copyfile(source, destination)
                 static_files.append(name)
+        require((staging / 'core.js').is_file(), 'Missing canonical website/src/core.js')
         script = '// Generated from the audited bilingual archive. Rebuild with scripts/build_website.py.\n'
         script += 'globalThis.PHYSICS_ARCHIVE = ' + json.dumps(data, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/').replace('\u2028', '\\u2028').replace('\u2029', '\\u2029') + ';\n'
         (staging / 'data').mkdir(parents=True, exist_ok=True)
         (staging / 'data/archive.js').write_text(script, encoding='utf-8')
         for relative, source in assets.items():
             link_or_copy(source, staging / relative)
+        # Never run against the live output: a failed ledger computation must
+        # leave the previous complete site intact.
+        subprocess.run([
+            'node', str(ROOT / 'scripts/build_breakthrough.cjs'),
+            '--archive-dir', str(staging), '--output-dir', str(staging / 'data'),
+            '--artifacts-only',
+        ], check=True, cwd=ROOT)
+        summary_path = staging / 'data/build-summary.json'
+        require(summary_path.is_file(), 'Missing breakthrough build summary')
+        breakthrough = json.loads(summary_path.read_text(encoding='utf-8'))
+        require(breakthrough['counts']['totalPeople'] == data['count'],
+                'Breakthrough archive does not match the bilingual people archive')
+        require(breakthrough['counts']['navigablePeople'] == data['count'],
+                'Breakthrough navigation is incomplete')
+        for artifact in ['breakthrough-data.js', 'events.json', 'yearly-index.json',
+                         'navigation-estimates.json', 'coverage.json', 'sensitivity.json',
+                         'method.zh.md', 'method.en.md']:
+            require((staging / 'data' / artifact).is_file(), 'Missing built artifact: ' + artifact)
         report = {
             'builtAt': dt.datetime.now(dt.timezone.utc).isoformat(),
             'asOf': data['asOf'],
@@ -182,8 +204,16 @@ def main() -> None:
             'dataScriptSha256': file_hash(staging / 'data/archive.js'),
             'staticFiles': static_files,
             'entrypointPresent': (staging / 'index.html').is_file(),
+            'entrypoint': 'index.html',
+            'sourceDirectory': 'website/src',
+            'sourceEntrypointSha256': file_hash(SOURCE / 'index.html'),
+            'entrypointSha256': file_hash(staging / 'index.html'),
+            'breakthrough': breakthrough,
+            'methodVersion': breakthrough['methodVersion'],
             'checks': ['stable IDs and order', 'date values and precision', 'life status', 'source URL alignment',
-                       'complete localized text', 'bilingual image hashes', 'portable image paths'],
+                       'complete localized text', 'bilingual image hashes', 'portable image paths',
+                       'canonical frontend', 'complete achievement ledger', 'complete navigation',
+                       'self-contained output'],
         }
         (staging / 'build-report.json').write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
         if OUTPUT.exists():
@@ -199,7 +229,7 @@ def main() -> None:
             raise
         if backup is not None:
             shutil.rmtree(backup)
-        print(json.dumps({key: report[key] for key in ['people', 'images', 'imageKinds', 'imagePermissionUnverified', 'entrypointPresent']}, ensure_ascii=False, indent=2))
+        print(json.dumps({key: report[key] for key in ['people', 'images', 'imageKinds', 'imagePermissionUnverified', 'entrypointPresent', 'entrypoint', 'methodVersion']}, ensure_ascii=False, indent=2))
         print('Static output:', OUTPUT)
         if not report['entrypointPresent']:
             print('Website data is ready; add the page files in website/src and rebuild to include the entrypoint.')
