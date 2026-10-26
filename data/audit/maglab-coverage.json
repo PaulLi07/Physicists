@@ -1,0 +1,402 @@
+{
+  "source": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/",
+  "entries": [
+    {
+      "title": "Alessandro Volta",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/alessandro-volta/",
+      "status": "included",
+      "archive_id": "alessandro-volta"
+    },
+    {
+      "title": "Anders Celsius",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/anders-celsius/",
+      "status": "included",
+      "archive_id": "anders-celsius"
+    },
+    {
+      "title": "André-Marie Ampère",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/andre-marie-ampere/",
+      "status": "included",
+      "archive_id": "andre-marie-ampere"
+    },
+    {
+      "title": "Carl Edwin Wieman",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/carl-edwin-wieman/",
+      "status": "included",
+      "archive_id": "carl-wieman"
+    },
+    {
+      "title": "Carl Friedrich Gauss",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/carl-friedrich-gauss/",
+      "status": "included",
+      "archive_id": "carl-friedrich-gauss"
+    },
+    {
+      "title": "Charles-Augustin de Coulomb",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/charles-augustin-de-coulomb/",
+      "status": "included",
+      "archive_id": "charles-augustin-de-coulomb"
+    },
+    {
+      "title": "Claude Shannon",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/claude-shannon/",
+      "status": "included",
+      "archive_id": "claude-shannon"
+    },
+    {
+      "title": "Edward Purcell",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/edward-purcell/",
+      "status": "included",
+      "archive_id": "edward-mills-purcell"
+    },
+    {
+      "title": "Enrico Fermi",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/enrico-fermi/",
+      "status": "included",
+      "archive_id": "enrico-fermi"
+    },
+    {
+      "title": "Eric Cornell",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/eric-cornell/",
+      "status": "included",
+      "archive_id": "eric-allin-cornell"
+    },
+    {
+      "title": "Esther Conwell",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/esther-conwell/",
+      "status": "included",
+      "archive_id": "esther-conwell"
+    },
+    {
+      "title": "Felix Bloch",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/felix-bloch/",
+      "status": "included",
+      "archive_id": "felix-bloch"
+    },
+    {
+      "title": "Georg Ohm",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/georg-ohm/",
+      "status": "included",
+      "archive_id": "georg-ohm"
+    },
+    {
+      "title": "Gerd Binnig",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/gerd-binnig/",
+      "status": "included",
+      "archive_id": "gerd-binnig"
+    },
+    {
+      "title": "Hans Christian Ørsted",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/hans-christian-orsted/",
+      "status": "included",
+      "archive_id": "hans-christian-orsted"
+    },
+    {
+      "title": "Heike Kamerlingh Onnes",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/heike-kamerlingh-onnes/",
+      "status": "included",
+      "archive_id": "heike-kamerlingh-onnes"
+    },
+    {
+      "title": "Heinrich Friedrich Emil Lenz",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/heinrich-friedrich-emil-lenz/",
+      "status": "included",
+      "archive_id": "heinrich-lenz"
+    },
+    {
+      "title": "Heinrich Hertz",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/heinrich-hertz/",
+      "status": "included",
+      "archive_id": "heinrich-hertz"
+    },
+    {
+      "title": "Heinrich Rohrer",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/heinrich-rohrer/",
+      "status": "included",
+      "archive_id": "heinrich-rohrer"
+    },
+    {
+      "title": "Humphry Davy",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/humphry-davy/",
+      "status": "included",
+      "archive_id": "humphry-davy"
+    },
+    {
+      "title": "Isidor Isaac Rabi",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/isidor-isaac-rabi/",
+      "status": "included",
+      "archive_id": "isidor-isaac-rabi"
+    },
+    {
+      "title": "J. Georg Bednorz",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/j-georg-bednorz/",
+      "status": "included",
+      "archive_id": "georg-bednorz"
+    },
+    {
+      "title": "Jack Kilby",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/jack-kilby/",
+      "status": "included",
+      "archive_id": "jack-kilby"
+    },
+    {
+      "title": "James Clerk Maxwell",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/james-clerk-maxwell/",
+      "status": "included",
+      "archive_id": "james-clerk-maxwell"
+    },
+    {
+      "title": "James Joule",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/james-joule/",
+      "status": "included",
+      "archive_id": "james-prescott-joule"
+    },
+    {
+      "title": "James Watt",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/james-watt/",
+      "status": "included",
+      "archive_id": "james-watt"
+    },
+    {
+      "title": "Jean-Charles-Athanase Peltier",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/jean-charles-athanase-peltier/",
+      "status": "included",
+      "archive_id": "jean-charles-athanase-peltier"
+    },
+    {
+      "title": "John Ambrose Fleming",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/john-ambrose-fleming/",
+      "status": "included",
+      "archive_id": "john-ambrose-fleming"
+    },
+    {
+      "title": "John Bardeen",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/john-bardeen/",
+      "status": "included",
+      "archive_id": "john-bardeen"
+    },
+    {
+      "title": "John Daniel Kraus",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/john-daniel-kraus/",
+      "status": "included",
+      "archive_id": "john-d-kraus"
+    },
+    {
+      "title": "John Robert Schrieffer",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/john-robert-schrieffer/",
+      "status": "included",
+      "archive_id": "john-robert-schrieffer"
+    },
+    {
+      "title": "Leon Cooper",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/leon-cooper/",
+      "status": "included",
+      "archive_id": "leon-cooper"
+    },
+    {
+      "title": "Joseph Henry",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/joseph-henry/",
+      "status": "included",
+      "archive_id": "joseph-henry"
+    },
+    {
+      "title": "Joseph John Thomson",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/joseph-john-thomson/",
+      "status": "included",
+      "archive_id": "j-j-thomson"
+    },
+    {
+      "title": "Julian Schwinger",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/julian-schwinger/",
+      "status": "included",
+      "archive_id": "julian-schwinger"
+    },
+    {
+      "title": "Karl Alexander Müller",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/karl-alexander-mueller/",
+      "status": "included",
+      "archive_id": "k-alex-muller"
+    },
+    {
+      "title": "Karl Jansky",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/karl-jansky/",
+      "status": "included",
+      "archive_id": "karl-jansky"
+    },
+    {
+      "title": "Klaus von Klitzing",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/klaus-von-klitzing/",
+      "status": "included",
+      "archive_id": "klaus-von-klitzing"
+    },
+    {
+      "title": "Lee De Forest",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/lee-de-forest/",
+      "status": "included",
+      "archive_id": "lee-de-forest"
+    },
+    {
+      "title": "Lev Davidovich Landau",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/lev-davidovich-landau/",
+      "status": "included",
+      "archive_id": "lev-landau"
+    },
+    {
+      "title": "Luigi Galvani",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/luigi-galvani/",
+      "status": "included",
+      "archive_id": "luigi-galvani"
+    },
+    {
+      "title": "Max Planck",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/max-planck/",
+      "status": "included",
+      "archive_id": "max-planck"
+    },
+    {
+      "title": "Michael Faraday",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/michael-faraday/",
+      "status": "included",
+      "archive_id": "michael-faraday"
+    },
+    {
+      "title": "Murray Gell-Mann",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/murray-gell-mann/",
+      "status": "included",
+      "archive_id": "murray-gell-mann"
+    },
+    {
+      "title": "Nikola Tesla",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/nikola-tesla/",
+      "status": "included",
+      "archive_id": "nikola-tesla"
+    },
+    {
+      "title": "Paul Dirac",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/paul-dirac/",
+      "status": "included",
+      "archive_id": "paul-dirac"
+    },
+    {
+      "title": "Paul Lauterbur",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/paul-lauterbur/",
+      "status": "included",
+      "archive_id": "paul-lauterbur"
+    },
+    {
+      "title": "Peter Debye",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/peter-debye/",
+      "status": "included",
+      "archive_id": "peter-debye"
+    },
+    {
+      "title": "Richard Feynman",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/richard-feynman/",
+      "status": "included",
+      "archive_id": "richard-feynman"
+    },
+    {
+      "title": "Robert Bosch",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/robert-bosch/",
+      "status": "not-included-in-current-physics-scope",
+      "reason": "The current archive prioritizes physics, related mathematical methods and major research instrumentation; it is not a complete catalogue of industrial or medical inventors."
+    },
+    {
+      "title": "Robert Millikan",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/robert-millikan/",
+      "status": "included",
+      "archive_id": "robert-andrews-millikan"
+    },
+    {
+      "title": "Roland Eötvös",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/roland-eoetvoes/",
+      "status": "included",
+      "archive_id": "lorand-eotvos"
+    },
+    {
+      "title": "Siegmund Loewe",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/siegmund-loewe/",
+      "status": "not-included-in-current-physics-scope",
+      "reason": "The current archive prioritizes physics, related mathematical methods and major research instrumentation; it is not a complete catalogue of industrial or medical inventors."
+    },
+    {
+      "title": "Sin-Itiro Tomonaga",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/sin-itiro-tomonaga/",
+      "status": "included",
+      "archive_id": "sin-itiro-tomonaga"
+    },
+    {
+      "title": "Svante Arrhenius",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/svante-arrhenius/",
+      "status": "included",
+      "archive_id": "svante-arrhenius"
+    },
+    {
+      "title": "Theodore Maiman",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/theodore-maiman/",
+      "status": "included",
+      "archive_id": "theodore-maiman"
+    },
+    {
+      "title": "Walter Brattain",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/walter-brattain/",
+      "status": "included",
+      "archive_id": "walter-houser-brattain"
+    },
+    {
+      "title": "Walther Meissner",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/walther-meissner/",
+      "status": "included",
+      "archive_id": "walther-meissner"
+    },
+    {
+      "title": "Werner von Siemens",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/werner-von-siemens/",
+      "status": "included",
+      "archive_id": "werner-von-siemens"
+    },
+    {
+      "title": "Wilhelm Weber",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/wilhelm-weber/",
+      "status": "included",
+      "archive_id": "wilhelm-eduard-weber"
+    },
+    {
+      "title": "Willem Einthoven",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/willem-einthoven/",
+      "status": "not-included-in-current-physics-scope",
+      "reason": "The current archive prioritizes physics, related mathematical methods and major research instrumentation; it is not a complete catalogue of industrial or medical inventors."
+    },
+    {
+      "title": "William Crookes",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/william-crookes/",
+      "status": "included",
+      "archive_id": "william-crookes"
+    },
+    {
+      "title": "William Gilbert",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/william-gilbert/",
+      "status": "included",
+      "archive_id": "william-gilbert"
+    },
+    {
+      "title": "William Shockley",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/william-shockley/",
+      "status": "included",
+      "archive_id": "william-shockley"
+    },
+    {
+      "title": "William Thomson, Lord Kelvin",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/william-thomson-lord-kelvin/",
+      "status": "included",
+      "archive_id": "william-thomson-1st-baron-kelvin"
+    },
+    {
+      "title": "Wolfgang Pauli",
+      "url": "/magnet-academy/history-of-electricity-magnetism/pioneers/wolfgang-pauli/",
+      "status": "included",
+      "archive_id": "wolfgang-pauli"
+    }
+  ],
+  "included": 63
+}

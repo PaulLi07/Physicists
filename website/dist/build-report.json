@@ -1,0 +1,38 @@
+{
+  "builtAt": "2026-10-26T07:10:43.595192+00:00",
+  "asOf": "2026-10-26",
+  "people": 721,
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "images": 721,
+  "imageKinds": {
+    "posthumous_depiction": 29,
+    "context_image": 20,
+    "portrait": 672
+  },
+  "imagePermissionUnverified": 62,
+  "sourceSha256": {
+    "zh/data/physicists.json": "4cd45eb1948cf4c60b0577693af3cd3d5e1480aee66f5748243c06d7e16fe7b2",
+    "en/data/physicists.json": "2dd2a31d7608129e018ef52d51d485b6e7d14541f66392e281bb8f1e091afec4"
+  },
+  "dataScriptSha256": "fe3aea53678aab1acd54c1153d4446c6a1605d6523ef5b23b344d987a97468e0",
+  "staticFiles": [
+    "app.js",
+    "core.js",
+    "favicon.svg",
+    "index.html",
+    "styles.css"
+  ],
+  "entrypointPresent": true,
+  "checks": [
+    "stable IDs and order",
+    "date values and precision",
+    "life status",
+    "source URL alignment",
+    "complete localized text",
+    "bilingual image hashes",
+    "portable image paths"
+  ]
+}

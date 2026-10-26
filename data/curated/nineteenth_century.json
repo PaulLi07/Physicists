@@ -1,0 +1,3166 @@
+[
+  {
+    "id": "julius-plucker",
+    "name_zh": "尤利乌斯·普吕克尔",
+    "name_en": "Julius Plücker",
+    "wikipedia_title": "Julius Plücker",
+    "birth": {
+      "date": "1801-07-16",
+      "precision": "day",
+      "display": "1801年7月16日"
+    },
+    "death": {
+      "date": "1868-05-22",
+      "precision": "day",
+      "display": "1868年5月22日"
+    },
+    "biography": "德国数学家和实验物理学家，长期任教于波恩大学。早期研究解析几何，后来转向磁学、气体放电和光谱实验；他把几何研究与精密实验结合起来，是十九世纪阴极射线研究的先驱之一。",
+    "contributions": [
+      "研究低压气体放电及阴极射线在磁场中的偏转",
+      "与希托夫研究气体光谱，为光谱学和电子发现的前史提供实验基础",
+      "发展线几何，形成后来数学物理使用的重要几何工具"
+    ],
+    "fields": [
+      "气体放电",
+      "光谱学",
+      "数学物理"
+    ],
+    "sources": [
+      {
+        "title": "Julius Plücker — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Plucker/"
+      },
+      {
+        "title": "Julius Plücker — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Julius_Pl%C3%BCcker"
+      }
+    ]
+  },
+  {
+    "id": "george-biddell-airy",
+    "name_zh": "乔治·比德尔·艾里",
+    "name_en": "George Biddell Airy",
+    "wikipedia_title": "George Biddell Airy",
+    "birth": {
+      "date": "1801-07-27",
+      "precision": "day",
+      "display": "1801年7月27日"
+    },
+    "death": {
+      "date": "1892-01-02",
+      "precision": "day",
+      "display": "1892年1月2日"
+    },
+    "biography": "英国天文学家和数学物理学家，曾任剑桥大学教授，后长期担任皇家天文学家并主持格林尼治天文台。他既从事精密天文观测，也研究光学、弹性力学和地球物理，推动了十九世纪观测标准化。",
+    "contributions": [
+      "研究圆孔衍射，给出艾里斑及其强度分布",
+      "建立二维弹性问题中的艾里应力函数方法",
+      "提出地壳均衡模型，并通过重力测量研究地球密度"
+    ],
+    "fields": [
+      "光学",
+      "弹性力学",
+      "地球物理"
+    ],
+    "sources": [
+      {
+        "title": "George Biddell Airy — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Airy/"
+      },
+      {
+        "title": "George Biddell Airy — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/George_Biddell_Airy"
+      }
+    ]
+  },
+  {
+    "id": "joseph-plateau",
+    "name_zh": "约瑟夫·普拉托",
+    "name_en": "Joseph Plateau",
+    "wikipedia_title": "Joseph Plateau",
+    "birth": {
+      "date": "1801-10-14",
+      "precision": "day",
+      "display": "1801年10月14日"
+    },
+    "death": {
+      "date": "1883-09-15",
+      "precision": "day",
+      "display": "1883年9月15日"
+    },
+    "biography": "比利时物理学家，曾在根特大学任教，研究视觉暂留、运动知觉与液体表面。失明后仍在合作者协助下继续科学工作；他利用肥皂膜研究曲面形状，使实验现象与最小曲面数学问题紧密相连。",
+    "contributions": [
+      "系统研究肥皂膜的平衡形状及连接规律，形成普拉托定律",
+      "提出由边界确定最小曲面的实验问题，推动变分法与几何研究",
+      "研究视觉暂留并制成早期运动图像装置费纳奇镜"
+    ],
+    "fields": [
+      "表面物理",
+      "光学",
+      "数学物理"
+    ],
+    "sources": [
+      {
+        "title": "Joseph Plateau — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Plateau/"
+      },
+      {
+        "title": "Joseph Plateau — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Plateau"
+      }
+    ]
+  },
+  {
+    "id": "heinrich-gustav-magnus",
+    "name_zh": "古斯塔夫·马格努斯",
+    "name_en": "Heinrich Gustav Magnus",
+    "wikipedia_title": "Heinrich Gustav Magnus",
+    "birth": {
+      "date": "1802-05-02",
+      "precision": "day",
+      "display": "1802年5月2日"
+    },
+    "death": {
+      "date": "1870-04-04",
+      "precision": "day",
+      "display": "1870年4月4日"
+    },
+    "biography": "德国实验物理学家，早年受化学训练，长期在柏林大学开展研究与实验教学。他为年轻研究者建立实验训练环境，研究气体、热学与流体运动；其姓名保留在旋转物体受力的马格努斯效应中。",
+    "contributions": [
+      "通过实验研究旋转物体在流体中的横向受力，即马格努斯效应",
+      "研究气体膨胀、蒸气压及物质热性质",
+      "推动柏林实验物理教学和实验室研究制度的发展"
+    ],
+    "fields": [
+      "流体力学",
+      "热学",
+      "实验物理"
+    ],
+    "sources": [
+      {
+        "title": "Heinrich Gustav Magnus — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Heinrich_Gustav_Magnus"
+      }
+    ]
+  },
+  {
+    "id": "heinrich-wilhelm-dove",
+    "name_zh": "海因里希·威廉·多夫",
+    "name_en": "Heinrich Wilhelm Dove",
+    "wikipedia_title": "Heinrich Wilhelm Dove",
+    "birth": {
+      "date": "1803-10-06",
+      "precision": "day",
+      "display": "1803年10月6日"
+    },
+    "death": {
+      "date": "1879-04-04",
+      "precision": "day",
+      "display": "1879年4月4日"
+    },
+    "biography": "德国物理学家和气象学家，长期在柏林从事教学与观测组织工作。他把气象资料比较与物理解释结合起来，研究风向、温度分布和声学现象，是十九世纪气象学走向系统观测的重要推动者。",
+    "contributions": [
+      "研究大气环流和风向变化规律，推动气象观测比较",
+      "发现双耳分别接收近频声音时的双耳拍频现象",
+      "研究光的偏振及相关光学实验装置"
+    ],
+    "fields": [
+      "气象物理",
+      "声学",
+      "光学"
+    ],
+    "sources": [
+      {
+        "title": "Heinrich Wilhelm Dove — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Heinrich_Wilhelm_Dove"
+      }
+    ]
+  },
+  {
+    "id": "christian-doppler",
+    "name_zh": "克里斯蒂安·多普勒",
+    "name_en": "Christian Doppler",
+    "wikipedia_title": "Christian Doppler",
+    "birth": {
+      "date": "1803-11-29",
+      "precision": "day",
+      "display": "1803年11月29日"
+    },
+    "death": {
+      "date": "1853-03-17",
+      "precision": "day",
+      "display": "1853年3月17日"
+    },
+    "biography": "奥地利物理学家和数学家，曾在布拉格、班斯卡什佳夫尼察和维也纳任教，晚年主持维也纳的物理研究机构。他从波动传播讨论光源运动与颜色变化，提出后来广泛用于声学、光学与天文学的频移原理。",
+    "contributions": [
+      "提出波源和观察者相对运动会改变接收频率的原理，即多普勒效应",
+      "把波动频移问题引入恒星光的研究",
+      "为后来的速度测量、光谱天文学和雷达测速提供理论基础"
+    ],
+    "fields": [
+      "波动物理",
+      "声学",
+      "光学"
+    ],
+    "sources": [
+      {
+        "title": "Christian Doppler — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Doppler/"
+      },
+      {
+        "title": "Christian Doppler — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Christian_Doppler"
+      }
+    ]
+  },
+  {
+    "id": "heinrich-lenz",
+    "name_zh": "海因里希·楞次",
+    "name_en": "Heinrich Lenz",
+    "wikipedia_title": "Heinrich Lenz",
+    "birth": {
+      "date": "1804-02-24",
+      "precision": "day",
+      "display": "1804年2月24日"
+    },
+    "death": {
+      "date": "1865-02-10",
+      "precision": "day",
+      "display": "1865年2月10日"
+    },
+    "biography": "出生于多尔帕特的物理学家，长期在俄国圣彼得堡从事研究和教学，曾参加环球考察并进行海洋物理测量。他以电磁感应和电流热效应的实验研究著称，是电磁学定律定量化的重要贡献者。",
+    "contributions": [
+      "提出感应电流方向总是反抗引起它的变化，即楞次定律",
+      "独立研究电流产生热量与电流强度、电阻及时间的关系",
+      "测量材料电阻及其随温度变化的性质"
+    ],
+    "fields": [
+      "电磁学",
+      "热学",
+      "实验物理"
+    ],
+    "sources": [
+      {
+        "title": "Heinrich Lenz — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Heinrich_Lenz"
+      }
+    ],
+    "notes": [
+      "生卒日期按公历列出；旧俄历相应为1804年2月12日及1865年1月29日。"
+    ]
+  },
+  {
+    "id": "wilhelm-eduard-weber",
+    "name_zh": "威廉·爱德华·韦伯",
+    "name_en": "Wilhelm Eduard Weber",
+    "wikipedia_title": "Wilhelm Eduard Weber",
+    "birth": {
+      "date": "1804-10-24",
+      "precision": "day",
+      "display": "1804年10月24日"
+    },
+    "death": {
+      "date": "1891-06-23",
+      "precision": "day",
+      "display": "1891年6月23日"
+    },
+    "biography": "德国物理学家，长期与哥廷根的高斯合作研究地磁、电流和电学计量。曾因支持哥廷根七君子抗议而失去教职，后来重返学术岗位。他追求把电磁现象置于统一、可定量比较的测量体系中。",
+    "contributions": [
+      "与高斯合作建立早期电磁电报装置和地磁观测方法",
+      "发展电动力学与绝对电学计量，比较静电和电磁单位",
+      "韦伯与科尔劳施的单位比值测量为光速与电磁量之间的联系提供重要线索"
+    ],
+    "fields": [
+      "电磁学",
+      "地磁学",
+      "计量学"
+    ],
+    "sources": [
+      {
+        "title": "Wilhelm Eduard Weber — Royal Society archive",
+        "url": "https://catalogues.royalsociety.org/CalmView/Record.aspx?id=NA2617&pos=1&src=CalmView.Persons"
+      },
+      {
+        "title": "Wilhelm Eduard Weber — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Weber/"
+      },
+      {
+        "title": "Wilhelm Eduard Weber — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Wilhelm_Eduard_Weber"
+      }
+    ],
+    "notes": [
+      "出生日期按英国皇家学会档案列为1804年10月24日；MacTutor页面的10月4日与之不符。"
+    ]
+  },
+  {
+    "id": "carl-gustav-jacob-jacobi",
+    "name_zh": "卡尔·古斯塔夫·雅可比",
+    "name_en": "Carl Gustav Jacob Jacobi",
+    "wikipedia_title": "Carl Gustav Jacob Jacobi",
+    "birth": {
+      "date": "1804-12-10",
+      "precision": "day",
+      "display": "1804年12月10日"
+    },
+    "death": {
+      "date": "1851-02-18",
+      "precision": "day",
+      "display": "1851年2月18日"
+    },
+    "biography": "德国数学家，曾任教于柯尼斯堡，晚年在柏林研究。他以椭圆函数理论著称，也深入研究动力学、偏微分方程和天体力学；他的工作使力学问题能够通过变换与作用量方法获得更系统的处理。",
+    "contributions": [
+      "发展哈密顿—雅可比方程及其积分方法，为经典力学和量子理论提供重要框架",
+      "研究刚体转动与动力学方程的可积性",
+      "提出雅可比行列式等变换工具，广泛用于物理中的坐标变换"
+    ],
+    "fields": [
+      "数学物理",
+      "经典力学",
+      "天体力学"
+    ],
+    "sources": [
+      {
+        "title": "Carl Gustav Jacob Jacobi — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Jacobi/"
+      },
+      {
+        "title": "Carl Gustav Jacob Jacobi — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi"
+      }
+    ]
+  },
+  {
+    "id": "william-rowan-hamilton",
+    "name_zh": "威廉·罗恩·哈密顿",
+    "name_en": "William Rowan Hamilton",
+    "wikipedia_title": "William Rowan Hamilton",
+    "birth": {
+      "date": "1805-08-04",
+      "precision": "day",
+      "display": "1805年8月4日"
+    },
+    "death": {
+      "date": "1865-09-02",
+      "precision": "day",
+      "display": "1865年9月2日"
+    },
+    "biography": "爱尔兰数学家、天文学家和数学物理学家，青年时即任都柏林三一学院安德鲁斯天文学教授，并主持邓辛克天文台。他把光线传播和力学运动纳入共同的变分语言，奠定现代分析力学的重要基础。",
+    "contributions": [
+      "建立哈密顿力学，以广义坐标和共轭动量描述动力学",
+      "发展光学与力学之间的形式联系，并预言圆锥折射",
+      "创立四元数，为空间旋转及后来的理论物理提供代数工具"
+    ],
+    "fields": [
+      "经典力学",
+      "光学",
+      "数学物理"
+    ],
+    "sources": [
+      {
+        "title": "William Rowan Hamilton — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hamilton/"
+      },
+      {
+        "title": "William Rowan Hamilton — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/William_Rowan_Hamilton"
+      }
+    ]
+  },
+  {
+    "id": "joseph-petzval",
+    "name_zh": "约瑟夫·佩兹伐尔",
+    "name_en": "Joseph Petzval",
+    "wikipedia_title": "Joseph Petzval",
+    "birth": {
+      "date": "1807-01-06",
+      "precision": "day",
+      "display": "1807年1月6日"
+    },
+    "death": {
+      "date": "1891-09-17",
+      "precision": "day",
+      "display": "1891年9月17日"
+    },
+    "biography": "出生于今斯洛伐克地区的数学家和光学研究者，长期在维也纳大学任教。他把数学计算用于摄影镜头设计，与工匠合作改进成像仪器，使早期摄影能够以更大光圈和更短曝光时间拍摄肖像。",
+    "contributions": [
+      "设计高光通量的佩兹伐尔肖像镜头，显著缩短早期摄影曝光时间",
+      "研究光学系统像差与像面弯曲，形成佩兹伐尔场曲条件",
+      "推动镜头设计由经验试制转向数学计算"
+    ],
+    "fields": [
+      "应用光学",
+      "成像物理"
+    ],
+    "sources": [
+      {
+        "title": "Joseph Petzval — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Petzval/"
+      },
+      {
+        "title": "Joseph Petzval — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Petzval"
+      }
+    ]
+  },
+  {
+    "id": "joseph-liouville",
+    "name_zh": "约瑟夫·刘维尔",
+    "name_en": "Joseph Liouville",
+    "wikipedia_title": "Joseph Liouville",
+    "birth": {
+      "date": "1809-03-24",
+      "precision": "day",
+      "display": "1809年3月24日"
+    },
+    "death": {
+      "date": "1882-09-08",
+      "precision": "day",
+      "display": "1882年9月8日"
+    },
+    "biography": "法国数学家，曾在巴黎综合理工学院和法兰西学院任教，并创办重要数学期刊。他研究微分方程、数论与力学；其关于动力学流保持体积的思想，成为统计物理和哈密顿系统理论的基础之一。",
+    "contributions": [
+      "证明哈密顿动力学中相空间体积保持的刘维尔定理",
+      "与施图姆共同发展施图姆—刘维尔本征值理论，广泛用于振动和波动问题",
+      "发展微分方程与积分理论，为数学物理提供方法"
+    ],
+    "fields": [
+      "数学物理",
+      "经典力学",
+      "统计物理"
+    ],
+    "sources": [
+      {
+        "title": "Joseph Liouville — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Liouville/"
+      },
+      {
+        "title": "Joseph Liouville — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Liouville"
+      }
+    ]
+  },
+  {
+    "id": "hermann-grassmann",
+    "name_zh": "赫尔曼·格拉斯曼",
+    "name_en": "Hermann Grassmann",
+    "wikipedia_title": "Hermann Grassmann",
+    "birth": {
+      "date": "1809-04-15",
+      "precision": "day",
+      "display": "1809年4月15日"
+    },
+    "death": {
+      "date": "1877-09-26",
+      "precision": "day",
+      "display": "1877年9月26日"
+    },
+    "biography": "德国数学家和语言学家，长期在什切青担任中学教师。他在学术机构之外发展抽象空间和扩张理论，生前数学成果未获充分理解，后来成为向量代数、外代数及现代物理数学语言的重要来源。",
+    "contributions": [
+      "发展一般维数空间中的向量运算和外代数",
+      "以扩张理论处理几何量及其组合，为微分形式和场论提供数学基础",
+      "格拉斯曼代数后来成为描述费米变量等物理对象的重要工具"
+    ],
+    "fields": [
+      "数学物理",
+      "向量与外代数"
+    ],
+    "sources": [
+      {
+        "title": "Hermann Grassmann — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Grassmann/"
+      },
+      {
+        "title": "Hermann Grassmann — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Hermann_Grassmann"
+      }
+    ],
+    "notes": [
+      "主要身份为数学家",
+      "其贡献属于物理学的数学基础，不应归为费米子理论的直接发现者。"
+    ]
+  },
+  {
+    "id": "henri-victor-regnault",
+    "name_zh": "亨利·维克托·勒尼奥",
+    "name_en": "Henri Victor Regnault",
+    "wikipedia_title": "Henri Victor Regnault",
+    "birth": {
+      "date": "1810-07-21",
+      "precision": "day",
+      "display": "1810年7月21日"
+    },
+    "death": {
+      "date": "1878-01-19",
+      "precision": "day",
+      "display": "1878年1月19日"
+    },
+    "biography": "法国化学家和物理学家，曾任法兰西学院教授并主持塞夫尔瓷器厂。他以精密实验和仪器改进见长，长期测量气体、蒸气和物质的热学性质，为热力学发展提供了可靠的定量资料。",
+    "contributions": [
+      "精确测量气体的比热、膨胀和压缩性质，检验理想气体近似的适用范围",
+      "系统研究水蒸气压和汽化热，为热机研究提供实验数据",
+      "改进温度、压力和热量测量技术"
+    ],
+    "fields": [
+      "热学",
+      "热力学",
+      "计量学"
+    ],
+    "sources": [
+      {
+        "title": "Henri Victor Regnault — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Henri_Victor_Regnault"
+      }
+    ]
+  },
+  {
+    "id": "robert-bunsen",
+    "name_zh": "罗伯特·本生",
+    "name_en": "Robert Bunsen",
+    "wikipedia_title": "Robert Bunsen",
+    "birth": {
+      "date": "1811-03-30",
+      "precision": "day",
+      "display": "1811年3月30日"
+    },
+    "death": {
+      "date": "1899-08-16",
+      "precision": "day",
+      "display": "1899年8月16日"
+    },
+    "biography": "德国化学家和实验科学家，长期任教于海德堡大学。他重视实验仪器和分析方法，与物理学家基尔霍夫合作，把火焰光谱变成研究元素的工具；本生灯及气体分析技术也深刻影响了实验室实践。",
+    "contributions": [
+      "与基尔霍夫建立光谱分析方法，利用特征谱线识别元素",
+      "通过光谱分析发现铯和铷，推动原子光谱的系统研究",
+      "改进气体分析、量热与燃烧实验仪器"
+    ],
+    "fields": [
+      "光谱学",
+      "实验方法",
+      "物理化学"
+    ],
+    "sources": [
+      {
+        "title": "Robert Bunsen — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Robert_Bunsen"
+      }
+    ],
+    "notes": [
+      "出生日期采用历史研究修订后的1811年3月30日；旧文献中也常见3月31日。"
+    ]
+  },
+  {
+    "id": "william-robert-grove",
+    "name_zh": "威廉·罗伯特·格罗夫",
+    "name_en": "William Robert Grove",
+    "wikipedia_title": "William Robert Grove",
+    "birth": {
+      "date": "1811-07-11",
+      "precision": "day",
+      "display": "1811年7月11日"
+    },
+    "death": {
+      "date": "1896-08-01",
+      "precision": "day",
+      "display": "1896年8月1日"
+    },
+    "biography": "英国律师和实验科学家，曾在伦敦研究机构任教，兼顾法律职业与电化学研究。他研究电池、电解和能量之间的联系，强调不同自然作用能够相互转化，是能量统一观念形成时期的重要人物。",
+    "contributions": [
+      "制成早期气体电池，即燃料电池的先驱",
+      "提出并推广热、光、电、磁和机械作用相互关联与转化的观念",
+      "改进电化学电池，促进十九世纪电学实验"
+    ],
+    "fields": [
+      "电化学",
+      "能量转化",
+      "实验物理"
+    ],
+    "sources": [
+      {
+        "title": "William Robert Grove — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/William_Robert_Grove"
+      }
+    ]
+  },
+  {
+    "id": "anders-jonas-angstrom",
+    "name_zh": "安德斯·约纳斯·埃格斯特朗",
+    "name_en": "Anders Jonas Ångström",
+    "wikipedia_title": "Anders Jonas Ångström",
+    "birth": {
+      "date": "1814-08-13",
+      "precision": "day",
+      "display": "1814年8月13日"
+    },
+    "death": {
+      "date": "1874-06-21",
+      "precision": "day",
+      "display": "1874年6月21日"
+    },
+    "biography": "瑞典物理学家和天文学家，长期在乌普萨拉大学任教并从事观测。他把精确波长测量用于太阳和实验室光谱，编制详细光谱图谱，使光谱分析成为研究恒星成分与原子辐射的可靠手段。",
+    "contributions": [
+      "精密测量太阳光谱中的谱线位置并编制光谱图谱",
+      "研究元素发射与吸收光谱，识别太阳大气中的氢",
+      "推动光谱波长标准化，其姓氏后来用于长度单位埃格斯特朗"
+    ],
+    "fields": [
+      "光谱学",
+      "天体物理",
+      "计量学"
+    ],
+    "sources": [
+      {
+        "title": "Anders Jonas Ångström — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Anders_Jonas_%C3%85ngstr%C3%B6m"
+      }
+    ]
+  },
+  {
+    "id": "julius-robert-von-mayer",
+    "name_zh": "尤利乌斯·罗伯特·迈尔",
+    "name_en": "Julius Robert von Mayer",
+    "wikipedia_title": "Julius Robert von Mayer",
+    "birth": {
+      "date": "1814-11-25",
+      "precision": "day",
+      "display": "1814年11月25日"
+    },
+    "death": {
+      "date": "1878-03-20",
+      "precision": "day",
+      "display": "1878年3月20日"
+    },
+    "biography": "德国医生和自然研究者，曾作为船医赴热带地区。他从人体代谢、热与机械功的联系出发思考能量守恒，早期成果未获广泛承认；后来被视为十九世纪能量守恒观念形成的重要先驱。",
+    "contributions": [
+      "提出热和机械功能够定量相互转化的观点",
+      "根据气体比热关系估计热功当量",
+      "把能量守恒思想用于生理过程及自然现象的解释"
+    ],
+    "fields": [
+      "热力学",
+      "能量守恒",
+      "自然哲学"
+    ],
+    "sources": [
+      {
+        "title": "Julius Robert von Mayer — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Julius_Robert_von_Mayer"
+      }
+    ]
+  },
+  {
+    "id": "james-prescott-joule",
+    "name_zh": "詹姆斯·普雷斯科特·焦耳",
+    "name_en": "James Prescott Joule",
+    "wikipedia_title": "James Prescott Joule",
+    "birth": {
+      "date": "1818-12-24",
+      "precision": "day",
+      "display": "1818年12月24日"
+    },
+    "death": {
+      "date": "1889-10-11",
+      "precision": "day",
+      "display": "1889年10月11日"
+    },
+    "biography": "英国实验物理学家，出身曼彻斯特附近的酿酒家庭，主要依靠私人实验开展研究。他以长期而精细的测量比较电、机械功和热，后来与威廉·汤姆孙合作研究气体过程，是热力学建立的关键人物。",
+    "contributions": [
+      "通过桨轮等实验精密测定热功当量，确立热与机械功的定量关系",
+      "研究电流热效应，形成焦耳定律",
+      "与汤姆孙研究气体节流时的温度变化，即焦耳—汤姆孙效应"
+    ],
+    "fields": [
+      "热力学",
+      "电学",
+      "实验物理"
+    ],
+    "sources": [
+      {
+        "title": "James Prescott Joule — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/James_Prescott_Joule"
+      }
+    ]
+  },
+  {
+    "id": "george-gabriel-stokes",
+    "name_zh": "乔治·加布里埃尔·斯托克斯",
+    "name_en": "George Gabriel Stokes",
+    "wikipedia_title": "George Gabriel Stokes",
+    "birth": {
+      "date": "1819-08-13",
+      "precision": "day",
+      "display": "1819年8月13日"
+    },
+    "death": {
+      "date": "1903-02-01",
+      "precision": "day",
+      "display": "1903年2月1日"
+    },
+    "biography": "出生于爱尔兰的英国数学家和物理学家，长期任剑桥大学卢卡斯数学教授，并曾任英国皇家学会会长。他把数学分析用于流体、光与振动现象，是十九世纪连续介质力学和物理光学的代表人物。",
+    "contributions": [
+      "发展黏性流体运动方程及低雷诺数下小球阻力定律",
+      "研究荧光，发现发射光通常比激发光波长更长的规律，后称斯托克斯位移",
+      "用斯托克斯参量描述光的偏振状态"
+    ],
+    "fields": [
+      "流体力学",
+      "光学",
+      "数学物理"
+    ],
+    "sources": [
+      {
+        "title": "George Gabriel Stokes — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Stokes/"
+      },
+      {
+        "title": "George Gabriel Stokes — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/George_Gabriel_Stokes"
+      }
+    ]
+  },
+  {
+    "id": "leon-foucault",
+    "name_zh": "莱昂·傅科",
+    "name_en": "Léon Foucault",
+    "wikipedia_title": "Léon Foucault",
+    "birth": {
+      "date": "1819-09-18",
+      "precision": "day",
+      "display": "1819年9月18日"
+    },
+    "death": {
+      "date": "1868-02-11",
+      "precision": "day",
+      "display": "1868年2月11日"
+    },
+    "biography": "法国实验物理学家，早年接触医学与摄影，后专注物理仪器和光学研究。他在巴黎开展实验，以摆的运动直观显示地球自转，并用高速旋转装置研究光传播；其工作体现了精巧实验设计的力量。",
+    "contributions": [
+      "用傅科摆直接演示地球自转，并发展陀螺仪实验",
+      "改进旋转镜测光速方法，比较光在空气和水中的传播",
+      "研究导体中的涡电流，即傅科电流"
+    ],
+    "fields": [
+      "经典力学",
+      "光学",
+      "电磁学"
+    ],
+    "sources": [
+      {
+        "title": "Léon Foucault — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Foucault/"
+      },
+      {
+        "title": "Léon Foucault — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/L%C3%A9on_Foucault"
+      }
+    ]
+  },
+  {
+    "id": "hippolyte-fizeau",
+    "name_zh": "伊波利特·斐索",
+    "name_en": "Hippolyte Fizeau",
+    "wikipedia_title": "Hippolyte Fizeau",
+    "birth": {
+      "date": "1819-09-23",
+      "precision": "day",
+      "display": "1819年9月23日"
+    },
+    "death": {
+      "date": "1896-09-18",
+      "precision": "day",
+      "display": "1896年9月18日"
+    },
+    "biography": "法国实验物理学家，出生于巴黎的医学家庭，主要以独立研究方式工作。他与傅科等人研究摄影和光学，设计齿轮与干涉实验测量光的传播速度，使地面实验能够检验光学和运动介质理论。",
+    "contributions": [
+      "用旋转齿轮装置完成早期成功的地面光速测量",
+      "测量光在流动水中的传播，获得部分拖曳效应的实验结果",
+      "将干涉方法用于精密光学测量"
+    ],
+    "fields": [
+      "光学",
+      "光速测量",
+      "实验物理"
+    ],
+    "sources": [
+      {
+        "title": "Hippolyte Fizeau — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Fizeau/"
+      },
+      {
+        "title": "Hippolyte Fizeau — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Hippolyte_Fizeau"
+      }
+    ]
+  },
+  {
+    "id": "alexandre-edmond-becquerel",
+    "name_zh": "亚历山大·埃德蒙·贝克勒尔",
+    "name_en": "Alexandre Edmond Becquerel",
+    "wikipedia_title": "Alexandre Edmond Becquerel",
+    "birth": {
+      "date": "1820-03-24",
+      "precision": "day",
+      "display": "1820年3月24日"
+    },
+    "death": {
+      "date": "1891-05-11",
+      "precision": "day",
+      "display": "1891年5月11日"
+    },
+    "biography": "法国物理学家，出身连续数代从事科学研究的家庭，长期在巴黎的自然史博物馆等机构工作。他是亨利·贝克勒尔之父，研究太阳光、电化学与发光现象，尤其关注光与物质相互作用的实验表现。",
+    "contributions": [
+      "在电化学体系中发现光生伏打效应，是太阳能光电转换研究的早期起点",
+      "系统研究磷光和荧光并改进发光测量仪器",
+      "研究太阳光谱及摄影相关的光化学过程"
+    ],
+    "fields": [
+      "光电效应",
+      "发光物理",
+      "光化学"
+    ],
+    "sources": [
+      {
+        "title": "Alexandre Edmond Becquerel — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Alexandre_Edmond_Becquerel"
+      }
+    ]
+  },
+  {
+    "id": "william-john-macquorn-rankine",
+    "name_zh": "威廉·约翰·麦夸恩·兰金",
+    "name_en": "William John Macquorn Rankine",
+    "wikipedia_title": "William John Macquorn Rankine",
+    "birth": {
+      "date": "1820-07-05",
+      "precision": "day",
+      "display": "1820年7月5日"
+    },
+    "death": {
+      "date": "1872-12-24",
+      "precision": "day",
+      "display": "1872年12月24日"
+    },
+    "biography": "苏格兰工程师和物理学家，曾从事铁路工程，后任格拉斯哥大学工程教授。他把热学、力学与工程设计系统结合，编写有影响的教材；兰金循环和温标保留了他在热力学及其应用中的贡献。",
+    "contributions": [
+      "参与建立热力学的理论体系并研究热机效率",
+      "提出分析蒸汽动力装置的兰金循环",
+      "发展工程力学及波动研究，促进物理定律在工程中的系统应用"
+    ],
+    "fields": [
+      "热力学",
+      "工程物理",
+      "力学"
+    ],
+    "sources": [
+      {
+        "title": "William John Macquorn Rankine — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Rankine/"
+      },
+      {
+        "title": "William John Macquorn Rankine — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/William_John_Macquorn_Rankine"
+      }
+    ]
+  },
+  {
+    "id": "john-tyndall",
+    "name_zh": "约翰·廷德尔",
+    "name_en": "John Tyndall",
+    "wikipedia_title": "John Tyndall",
+    "birth": {
+      "date": "1820-08-02",
+      "precision": "day",
+      "display": "1820年8月2日"
+    },
+    "death": {
+      "date": "1893-12-04",
+      "precision": "day",
+      "display": "1893年12月4日"
+    },
+    "biography": "爱尔兰出生的英国实验物理学家，长期在伦敦皇家研究所工作，亦以登山和科学讲演闻名。他研究热辐射、光散射和磁性，并通过面向公众的演示推广实验科学，连接了基础物理与大气研究。",
+    "contributions": [
+      "测量不同气体对红外辐射的吸收，揭示水汽和二氧化碳等的作用",
+      "研究胶体和悬浮颗粒对光的散射，即廷德尔效应",
+      "研究抗磁性、辐射热传递及声传播"
+    ],
+    "fields": [
+      "热辐射",
+      "大气物理",
+      "光学"
+    ],
+    "sources": [
+      {
+        "title": "John Tyndall — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/John_Tyndall"
+      }
+    ]
+  },
+  {
+    "id": "johann-josef-loschmidt",
+    "name_zh": "约翰·约瑟夫·洛施密特",
+    "name_en": "Johann Josef Loschmidt",
+    "wikipedia_title": "Johann Josef Loschmidt",
+    "birth": {
+      "date": "1821-03-15",
+      "precision": "day",
+      "display": "1821年3月15日"
+    },
+    "death": {
+      "date": "1895-07-08",
+      "precision": "day",
+      "display": "1895年7月8日"
+    },
+    "biography": "出生于波希米亚的奥地利科学家，曾从事工业与教学工作，后来在维也纳大学研究。他结合化学结构观念与气体动理论，估算分子尺度，并对统计物理中可逆微观规律如何产生宏观不可逆性提出深刻问题。",
+    "contributions": [
+      "估算空气分子的大小和单位体积中的分子数",
+      "提出针对玻尔兹曼不可逆性推导的可逆性诘难，形成洛施密特悖论",
+      "研究分子结构和气体动理论之间的联系"
+    ],
+    "fields": [
+      "统计物理",
+      "分子物理",
+      "气体动理论"
+    ],
+    "sources": [
+      {
+        "title": "Johann Josef Loschmidt — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Johann_Josef_Loschmidt"
+      }
+    ]
+  },
+  {
+    "id": "hermann-von-helmholtz",
+    "name_zh": "赫尔曼·冯·亥姆霍兹",
+    "name_en": "Hermann von Helmholtz",
+    "wikipedia_title": "Hermann von Helmholtz",
+    "birth": {
+      "date": "1821-08-31",
+      "precision": "day",
+      "display": "1821年8月31日"
+    },
+    "death": {
+      "date": "1894-09-08",
+      "precision": "day",
+      "display": "1894年9月8日"
+    },
+    "biography": "德国医生、物理学家和生理学家，先从军事医学进入研究，后在多所大学任教并主持柏林物理研究。他同时研究能量、流体、声与视觉，把精密测量和数学解释用于自然界和人体感知问题。",
+    "contributions": [
+      "系统阐述能量守恒原理并讨论其机械基础",
+      "发展涡旋运动理论和流体力学中的亥姆霍兹定理",
+      "研究声学共振、音色与视觉，推动物理学和生理学交叉"
+    ],
+    "fields": [
+      "热力学",
+      "流体力学",
+      "声学",
+      "光学"
+    ],
+    "sources": [
+      {
+        "title": "Hermann von Helmholtz — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Helmholtz/"
+      },
+      {
+        "title": "Hermann von Helmholtz — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Hermann_von_Helmholtz"
+      }
+    ]
+  },
+  {
+    "id": "rudolf-clausius",
+    "name_zh": "鲁道夫·克劳修斯",
+    "name_en": "Rudolf Clausius",
+    "wikipedia_title": "Rudolf Clausius",
+    "birth": {
+      "date": "1822-01-02",
+      "precision": "day",
+      "display": "1822年1月2日"
+    },
+    "death": {
+      "date": "1888-08-24",
+      "precision": "day",
+      "display": "1888年8月24日"
+    },
+    "biography": "德国理论物理学家，曾在柏林、苏黎世、维尔茨堡和波恩任教。他重新审视卡诺热机理论，把能量守恒和热过程方向性区分开来，创立熵的概念，成为热力学与分子运动理论的主要奠基者。",
+    "contributions": [
+      "建立热力学第二定律的重要表述，阐明热过程的方向性",
+      "引入熵概念并给出其数学定义",
+      "发展气体动理论，提出平均自由程并建立维里定理"
+    ],
+    "fields": [
+      "热力学",
+      "统计物理",
+      "气体动理论"
+    ],
+    "sources": [
+      {
+        "title": "Rudolf Clausius — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Clausius/"
+      },
+      {
+        "title": "Rudolf Clausius — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Rudolf_Clausius"
+      }
+    ]
+  },
+  {
+    "id": "william-huggins",
+    "name_zh": "威廉·哈金斯",
+    "name_en": "William Huggins",
+    "wikipedia_title": "William Huggins",
+    "birth": {
+      "date": "1824-02-07",
+      "precision": "day",
+      "display": "1824年2月7日"
+    },
+    "death": {
+      "date": "1910-05-12",
+      "precision": "day",
+      "display": "1910年5月12日"
+    },
+    "biography": "英国天文学家，在伦敦近郊建立私人天文台，后来与妻子玛格丽特合作观测。他把实验室光谱分析用于星云、恒星和彗星，将天文学从测量天体位置推进到研究天体组成、物理状态和运动。",
+    "contributions": [
+      "用发射线光谱证明某些星云由发光气体构成",
+      "通过恒星谱线位移研究天体沿视线方向的运动",
+      "发展天体光谱摄影，推动早期天体物理学"
+    ],
+    "fields": [
+      "天体物理",
+      "光谱学",
+      "观测天文学"
+    ],
+    "sources": [
+      {
+        "title": "William Huggins — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/William_Huggins"
+      }
+    ]
+  },
+  {
+    "id": "gustav-kirchhoff",
+    "name_zh": "古斯塔夫·基尔霍夫",
+    "name_en": "Gustav Kirchhoff",
+    "wikipedia_title": "Gustav Kirchhoff",
+    "birth": {
+      "date": "1824-03-12",
+      "precision": "day",
+      "display": "1824年3月12日"
+    },
+    "death": {
+      "date": "1887-10-17",
+      "precision": "day",
+      "display": "1887年10月17日"
+    },
+    "biography": "德国物理学家，曾在海德堡与本生合作，后任柏林大学教授。他把严格的数学推导与光谱实验结合，在电路、热辐射和光学方面均有奠基性成果，是十九世纪理论与实验物理相互促进的代表人物。",
+    "contributions": [
+      "提出电路节点电流定律和回路电压定律",
+      "与本生建立光谱分析并解释太阳光谱暗线与元素吸收的联系",
+      "提出热辐射中的吸收—发射关系及黑体概念"
+    ],
+    "fields": [
+      "电磁学",
+      "光谱学",
+      "热辐射"
+    ],
+    "sources": [
+      {
+        "title": "Gustav Kirchhoff — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Kirchhoff/"
+      },
+      {
+        "title": "Gustav Kirchhoff — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Gustav_Kirchhoff"
+      }
+    ]
+  },
+  {
+    "id": "william-thomson-1st-baron-kelvin",
+    "name_zh": "威廉·汤姆孙（开尔文勋爵）",
+    "name_en": "William Thomson, 1st Baron Kelvin",
+    "wikipedia_title": "William Thomson, 1st Baron Kelvin",
+    "birth": {
+      "date": "1824-06-26",
+      "precision": "day",
+      "display": "1824年6月26日"
+    },
+    "death": {
+      "date": "1907-12-17",
+      "precision": "day",
+      "display": "1907年12月17日"
+    },
+    "biography": "出生于贝尔法斯特的物理学家，长期任格拉斯哥大学自然哲学教授。他研究热力学、电磁学和流体，也积极参与海底电报工程与精密仪器开发；受封开尔文勋爵后，其爵号成为绝对温标单位的名称。",
+    "contributions": [
+      "建立绝对温标，推动热力学温度概念的发展",
+      "提出热力学第二定律的开尔文表述",
+      "研究电报传输与测量仪器，并与焦耳发现气体节流温变效应"
+    ],
+    "fields": [
+      "热力学",
+      "电磁学",
+      "计量学"
+    ],
+    "sources": [
+      {
+        "title": "William Thomson, 1st Baron Kelvin — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Thomson/"
+      },
+      {
+        "title": "William Thomson, 1st Baron Kelvin — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/William_Thomson%2C_1st_Baron_Kelvin"
+      }
+    ]
+  },
+  {
+    "id": "johann-jakob-balmer",
+    "name_zh": "约翰·雅各布·巴耳末",
+    "name_en": "Johann Jakob Balmer",
+    "wikipedia_title": "Johann Jakob Balmer",
+    "birth": {
+      "date": "1825-05-01",
+      "precision": "day",
+      "display": "1825年5月1日"
+    },
+    "death": {
+      "date": "1898-03-12",
+      "precision": "day",
+      "display": "1898年3月12日"
+    },
+    "biography": "瑞士数学教师和自然研究者，长期在巴塞尔工作。他并非职业光谱实验家，却从已测得的氢原子谱线波长中找到简单数值规律；这一经验关系后来成为检验原子模型和量子理论的关键线索。",
+    "contributions": [
+      "提出描述氢原子可见光谱线波长的巴耳末公式",
+      "预测氢光谱中尚未用于拟合的谱线位置",
+      "其经验规律促成里德伯公式与后来玻尔原子模型的发展"
+    ],
+    "fields": [
+      "原子光谱",
+      "数学物理"
+    ],
+    "sources": [
+      {
+        "title": "Johann Jakob Balmer — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Balmer/"
+      },
+      {
+        "title": "Johann Jakob Balmer — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Johann_Jakob_Balmer"
+      }
+    ]
+  },
+  {
+    "id": "bernhard-riemann",
+    "name_zh": "伯恩哈德·黎曼",
+    "name_en": "Bernhard Riemann",
+    "wikipedia_title": "Bernhard Riemann",
+    "birth": {
+      "date": "1826-09-17",
+      "precision": "day",
+      "display": "1826年9月17日"
+    },
+    "death": {
+      "date": "1866-07-20",
+      "precision": "day",
+      "display": "1866年7月20日"
+    },
+    "biography": "德国数学家，主要在哥廷根求学与工作，因病英年早逝。他研究分析、几何与复函数，在短暂生涯中提出以度量刻画空间的思想；这些工作后来成为广义相对论和现代场论的重要数学基础。",
+    "contributions": [
+      "创立黎曼几何，把空间的内在度量与曲率作为研究对象",
+      "发展多值函数与黎曼曲面理论，提供数学物理的重要分析工具",
+      "研究流体与波动等问题，其几何思想后来成为引力理论的基础"
+    ],
+    "fields": [
+      "数学物理",
+      "几何与引力"
+    ],
+    "sources": [
+      {
+        "title": "Bernhard Riemann — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Riemann/"
+      },
+      {
+        "title": "Bernhard Riemann — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Bernhard_Riemann"
+      }
+    ],
+    "notes": [
+      "黎曼未建立广义相对论",
+      "这里记录的是其数学工作对后世物理的基础作用。"
+    ]
+  },
+  {
+    "id": "balfour-stewart",
+    "name_zh": "巴尔福·斯图尔特",
+    "name_en": "Balfour Stewart",
+    "wikipedia_title": "Balfour Stewart",
+    "birth": {
+      "date": "1828-11-01",
+      "precision": "day",
+      "display": "1828年11月1日"
+    },
+    "death": {
+      "date": "1887-12-19",
+      "precision": "day",
+      "display": "1887年12月19日"
+    },
+    "biography": "苏格兰物理学家，先从商业工作转入科学，曾主持邱园天文台并在曼彻斯特任教。他研究热辐射、地磁和气象仪器，重视通过实验比较物体的吸收与发射，为热辐射定律建立提供早期依据。",
+    "contributions": [
+      "实验研究物体的热辐射与吸收能力之间的关系",
+      "开展地磁与气象观测，研究太阳活动和地球磁场变化",
+      "参与辐射测量与物理仪器的发展"
+    ],
+    "fields": [
+      "热辐射",
+      "地球物理",
+      "计量学"
+    ],
+    "sources": [
+      {
+        "title": "Balfour Stewart — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Balfour_Stewart"
+      }
+    ]
+  },
+  {
+    "id": "james-clerk-maxwell",
+    "name_zh": "詹姆斯·克拉克·麦克斯韦",
+    "name_en": "James Clerk Maxwell",
+    "wikipedia_title": "James Clerk Maxwell",
+    "birth": {
+      "date": "1831-06-13",
+      "precision": "day",
+      "display": "1831年6月13日"
+    },
+    "death": {
+      "date": "1879-11-05",
+      "precision": "day",
+      "display": "1879年11月5日"
+    },
+    "biography": "苏格兰物理学家，曾在阿伯丁与伦敦任教，后成为剑桥首任卡文迪许物理学教授并筹建实验室。他将法拉第的场观念转化为数学理论，同时研究分子运动、颜色视觉与土星环，是经典物理的核心奠基者。",
+    "contributions": [
+      "建立经典电磁场理论，预言电磁波并把光解释为电磁现象",
+      "建立气体分子速率分布，推动统计物理与输运理论",
+      "研究三原色视觉与土星环稳定性，并推动卡文迪许实验室建设"
+    ],
+    "fields": [
+      "电磁学",
+      "统计物理",
+      "光学"
+    ],
+    "sources": [
+      {
+        "title": "James Clerk Maxwell — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Maxwell/"
+      },
+      {
+        "title": "James Clerk Maxwell — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/James_Clerk_Maxwell"
+      }
+    ]
+  },
+  {
+    "id": "william-crookes",
+    "name_zh": "威廉·克鲁克斯",
+    "name_en": "William Crookes",
+    "wikipedia_title": "William Crookes",
+    "birth": {
+      "date": "1832-06-17",
+      "precision": "day",
+      "display": "1832年6月17日"
+    },
+    "death": {
+      "date": "1919-04-04",
+      "precision": "day",
+      "display": "1919年4月4日"
+    },
+    "biography": "英国化学家和物理学家，主要在私人实验室研究，亦创办科学刊物。他改进真空技术并研究低压气体放电，发明辐射计，对十九世纪末阴极射线与物质结构实验产生影响，也曾卷入有争议的通灵研究。",
+    "contributions": [
+      "改进高真空放电管，系统研究阴极射线的性质",
+      "发明克鲁克斯辐射计，促进稀薄气体与辐射效应研究",
+      "通过光谱分析发现铊，连接化学分析与光谱实验"
+    ],
+    "fields": [
+      "气体放电",
+      "真空物理",
+      "光谱学"
+    ],
+    "sources": [
+      {
+        "title": "William Crookes — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/William_Crookes"
+      }
+    ]
+  },
+  {
+    "id": "jozef-stefan",
+    "name_zh": "约瑟夫·斯特藩",
+    "name_en": "Jožef Stefan",
+    "wikipedia_title": "Jožef Stefan",
+    "birth": {
+      "date": "1835-03-24",
+      "precision": "day",
+      "display": "1835年3月24日"
+    },
+    "death": {
+      "date": "1893-01-07",
+      "precision": "day",
+      "display": "1893年1月7日"
+    },
+    "biography": "出生于克恩顿的斯洛文尼亚裔奥地利物理学家，长期在维也纳大学工作，曾指导玻尔兹曼。他研究热辐射、气体输运和相变，善于把实验数据概括为定量规律，对热物理的发展有持久影响。",
+    "contributions": [
+      "从实验资料提出黑体辐射功率与绝对温度四次方成正比的斯特藩定律",
+      "研究物质扩散和热传导",
+      "研究冻结与熔化界面运动，形成斯特藩问题"
+    ],
+    "fields": [
+      "热辐射",
+      "热传导",
+      "相变物理"
+    ],
+    "sources": [
+      {
+        "title": "Jožef Stefan — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Jo%C5%BEef_Stefan"
+      }
+    ]
+  },
+  {
+    "id": "norman-lockyer",
+    "name_zh": "诺曼·洛克耶",
+    "name_en": "Norman Lockyer",
+    "wikipedia_title": "Norman Lockyer",
+    "birth": {
+      "date": "1836-05-17",
+      "precision": "day",
+      "display": "1836年5月17日"
+    },
+    "death": {
+      "date": "1920-08-16",
+      "precision": "day",
+      "display": "1920年8月16日"
+    },
+    "biography": "英国天文学家和科学组织者，早年任公务员，后集中从事太阳光谱观测，并创办《自然》杂志。他把光谱仪用于研究日珥和太阳大气，晚年建立天文台，推动了天体物理观测和科学交流。",
+    "contributions": [
+      "利用太阳光谱研究日珥及太阳大气结构",
+      "独立观察到太阳光谱中此前未知的黄色谱线，并参与将其解释为新元素氦",
+      "发展天体光谱观测方法，推动太阳物理研究"
+    ],
+    "fields": [
+      "太阳物理",
+      "光谱学",
+      "天体物理"
+    ],
+    "sources": [
+      {
+        "title": "Norman Lockyer — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Norman_Lockyer"
+      }
+    ],
+    "notes": [
+      "氦的太阳光谱发现涉及让森、洛克耶等人的独立工作，不能归于单一发现者。"
+    ]
+  },
+  {
+    "id": "ernst-mach",
+    "name_zh": "恩斯特·马赫",
+    "name_en": "Ernst Mach",
+    "wikipedia_title": "Ernst Mach",
+    "birth": {
+      "date": "1838-02-18",
+      "precision": "day",
+      "display": "1838年2月18日"
+    },
+    "death": {
+      "date": "1916-02-19",
+      "precision": "day",
+      "display": "1916年2月19日"
+    },
+    "biography": "奥地利物理学家和科学哲学家，曾在格拉茨、布拉格和维也纳任教。他研究高速运动、激波和感知，对经典力学概念进行批判；其物理实验与哲学讨论都影响了十九世纪末至二十世纪初的物理学。",
+    "contributions": [
+      "通过摄影研究超声速物体产生的激波，建立马赫锥相关实验基础",
+      "马赫数以流速与当地声速之比刻画可压缩流动",
+      "批判绝对空间与惯性概念，对爱因斯坦的引力思考产生影响"
+    ],
+    "fields": [
+      "流体力学",
+      "声学",
+      "物理学基础"
+    ],
+    "sources": [
+      {
+        "title": "Ernst Mach — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Ernst_Mach"
+      }
+    ]
+  },
+  {
+    "id": "josiah-willard-gibbs",
+    "name_zh": "约西亚·威拉德·吉布斯",
+    "name_en": "Josiah Willard Gibbs",
+    "wikipedia_title": "Josiah Willard Gibbs",
+    "birth": {
+      "date": "1839-02-11",
+      "precision": "day",
+      "display": "1839年2月11日"
+    },
+    "death": {
+      "date": "1903-04-28",
+      "precision": "day",
+      "display": "1903年4月28日"
+    },
+    "biography": "美国数学物理学家，几乎整个学术生涯都在耶鲁大学度过。他以简洁而抽象的方式研究热力学、相平衡与统计系综，早期成果传播较慢，后来成为现代统计物理、物理化学和工程热力学的共同基础。",
+    "contributions": [
+      "建立化学势、自由能和多相平衡的系统热力学框架，提出相律",
+      "以统计系综组织统计力学，系统阐述正则与巨正则等描述",
+      "发展现代向量分析记号和方法"
+    ],
+    "fields": [
+      "热力学",
+      "统计物理",
+      "数学物理"
+    ],
+    "sources": [
+      {
+        "title": "Josiah Willard Gibbs — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Gibbs/"
+      },
+      {
+        "title": "Josiah Willard Gibbs — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs"
+      }
+    ]
+  },
+  {
+    "id": "august-kundt",
+    "name_zh": "奥古斯特·孔特",
+    "name_en": "August Kundt",
+    "wikipedia_title": "August Kundt",
+    "birth": {
+      "date": "1839-11-18",
+      "precision": "day",
+      "display": "1839年11月18日"
+    },
+    "death": {
+      "date": "1894-05-21",
+      "precision": "day",
+      "display": "1894年5月21日"
+    },
+    "biography": "德国实验物理学家，曾在苏黎世、维尔茨堡、斯特拉斯堡和柏林任教。他重视实验室教学，研究声速、色散和磁光现象，并培养了一批后来的物理学家；孔特管至今仍是声学教学的经典装置。",
+    "contributions": [
+      "发明孔特管，利用粉末驻波图样测量气体和固体中的声速",
+      "研究光学反常色散，比较吸收与折射的联系",
+      "开展磁光与金属薄膜光学实验"
+    ],
+    "fields": [
+      "声学",
+      "光学",
+      "实验物理"
+    ],
+    "sources": [
+      {
+        "title": "August Kundt — Deutsche Biographie/Bavarian Academy of Sciences",
+        "url": "https://www.deutsche-biographie.de/sfz47023.html"
+      },
+      {
+        "title": "August Kundt — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/August_Kundt"
+      }
+    ]
+  },
+  {
+    "id": "ernst-abbe",
+    "name_zh": "恩斯特·阿贝",
+    "name_en": "Ernst Abbe",
+    "wikipedia_title": "Ernst Abbe",
+    "birth": {
+      "date": "1840-01-23",
+      "precision": "day",
+      "display": "1840年1月23日"
+    },
+    "death": {
+      "date": "1905-01-14",
+      "precision": "day",
+      "display": "1905年1月14日"
+    },
+    "biography": "德国物理学家和光学仪器设计者，长期在耶拿与卡尔·蔡司及奥托·肖特合作。他把衍射理论、玻璃材料和镜头制造结合起来，使显微镜设计建立在可计算的物理基础上，同时参与企业与科研组织改革。",
+    "contributions": [
+      "建立显微镜成像的衍射理论，阐明数值孔径与分辨率的关系",
+      "发展阿贝正弦条件等像差控制准则，改进高性能物镜",
+      "设计折射率测量等精密光学仪器"
+    ],
+    "fields": [
+      "物理光学",
+      "显微成像",
+      "计量学"
+    ],
+    "sources": [
+      {
+        "title": "Ernst Abbe — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Abbe/"
+      },
+      {
+        "title": "Ernst Abbe — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Ernst_Abbe"
+      }
+    ]
+  },
+  {
+    "id": "alfred-cornu",
+    "name_zh": "阿尔弗雷德·科尔纽",
+    "name_en": "Alfred Cornu",
+    "wikipedia_title": "Alfred Cornu",
+    "birth": {
+      "date": "1841-03-06",
+      "precision": "day",
+      "display": "1841年3月6日"
+    },
+    "death": {
+      "date": "1902-04-12",
+      "precision": "day",
+      "display": "1902年4月12日"
+    },
+    "biography": "法国实验物理学家，长期在巴黎综合理工学院任教。他专注精密光学测量、干涉和衍射，改进光速测量，并研究地球密度与光谱；其工作连接十九世纪经典光学理论与高精度实验。",
+    "contributions": [
+      "改进斐索齿轮法并精密测量光速",
+      "用科尔纽螺线表示菲涅耳积分，便于处理衍射强度",
+      "研究光谱、光弹性及精密测量问题"
+    ],
+    "fields": [
+      "光学",
+      "衍射",
+      "计量学"
+    ],
+    "sources": [
+      {
+        "title": "Alfred Cornu — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Alfred_Cornu"
+      }
+    ]
+  },
+  {
+    "id": "joseph-boussinesq",
+    "name_zh": "约瑟夫·布西涅斯克",
+    "name_en": "Joseph Boussinesq",
+    "wikipedia_title": "Joseph Boussinesq",
+    "birth": {
+      "date": "1842-03-13",
+      "precision": "day",
+      "display": "1842年3月13日"
+    },
+    "death": {
+      "date": "1929-02-19",
+      "precision": "day",
+      "display": "1929年2月19日"
+    },
+    "biography": "法国数学家和物理学家，曾在里尔与巴黎任教。他研究水波、弹性、热传导和湍流，把偏微分方程用于复杂连续介质问题；许多以其命名的近似至今仍用于海洋、大气和工程流体计算。",
+    "contributions": [
+      "提出浮力流中的布西涅斯克近似，简化密度变化的处理",
+      "建立浅水非线性长波的布西涅斯克方程",
+      "发展湍流涡黏性思想及弹性接触问题的理论"
+    ],
+    "fields": [
+      "流体力学",
+      "波动",
+      "连续介质力学"
+    ],
+    "sources": [
+      {
+        "title": "Joseph Boussinesq — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Boussinesq/"
+      },
+      {
+        "title": "Joseph Boussinesq — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Boussinesq"
+      }
+    ]
+  },
+  {
+    "id": "osborne-reynolds",
+    "name_zh": "奥斯本·雷诺",
+    "name_en": "Osborne Reynolds",
+    "wikipedia_title": "Osborne Reynolds",
+    "birth": {
+      "date": "1842-08-23",
+      "precision": "day",
+      "display": "1842年8月23日"
+    },
+    "death": {
+      "date": "1912-02-21",
+      "precision": "day",
+      "display": "1912年2月21日"
+    },
+    "biography": "出生于贝尔法斯特的英国工程师和物理学家，长期在曼彻斯特欧文斯学院任教。他用实验和数学分析研究流体、传热与润滑，通过染料流线实验揭示层流向湍流的转变，奠定现代流体力学的重要尺度观念。",
+    "contributions": [
+      "引入雷诺数，以惯性与黏性作用的比值刻画流动相似性",
+      "实验研究层流向湍流的转变，并发展平均流动分析",
+      "建立流体润滑理论中的雷诺方程"
+    ],
+    "fields": [
+      "流体力学",
+      "湍流",
+      "工程物理"
+    ],
+    "sources": [
+      {
+        "title": "Osborne Reynolds — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Reynolds/"
+      },
+      {
+        "title": "Osborne Reynolds — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Osborne_Reynolds"
+      },
+      {
+        "title": "Osborne Reynolds — University of Manchester biographical study",
+        "url": "https://personalpages.manchester.ac.uk/staff/jdjackson/10%20Reynolds.pdf"
+      }
+    ],
+    "notes": [
+      "出生日期采用曼彻斯特大学所载传记及MacTutor的1842年8月23日；本次检索到的英文维基信息框写为10月23日，与其正文也不一致。"
+    ]
+  },
+  {
+    "id": "james-dewar",
+    "name_zh": "詹姆斯·杜瓦",
+    "name_en": "James Dewar",
+    "wikipedia_title": "James Dewar",
+    "birth": {
+      "date": "1842-09-20",
+      "precision": "day",
+      "display": "1842年9月20日"
+    },
+    "death": {
+      "date": "1923-03-27",
+      "precision": "day",
+      "display": "1923年3月27日"
+    },
+    "biography": "苏格兰化学家和物理学家，曾在剑桥与伦敦皇家研究所工作。他长期研究气体液化和低温物性，为保存低温液体设计双层真空容器，并把低温技术用于气体、材料与吸附现象研究。",
+    "contributions": [
+      "研制真空隔热杜瓦瓶，显著改善低温液体的保存条件",
+      "实现氢的液化和固化，推动低温实验技术",
+      "研究低温下的物质性质和气体吸附"
+    ],
+    "fields": [
+      "低温物理",
+      "实验技术",
+      "物理化学"
+    ],
+    "sources": [
+      {
+        "title": "James Dewar — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/James_Dewar"
+      }
+    ]
+  },
+  {
+    "id": "ludwig-boltzmann",
+    "name_zh": "路德维希·玻尔兹曼",
+    "name_en": "Ludwig Boltzmann",
+    "wikipedia_title": "Ludwig Boltzmann",
+    "birth": {
+      "date": "1844-02-20",
+      "precision": "day",
+      "display": "1844年2月20日"
+    },
+    "death": {
+      "date": "1906-09-05",
+      "precision": "day",
+      "display": "1906年9月5日"
+    },
+    "biography": "奥地利理论物理学家，曾在格拉茨、维也纳等地任教。他以原子和分子运动解释热现象，在原子实在性仍受争论的年代坚持统计方法；其关于熵与概率的联系成为现代统计物理的核心。",
+    "contributions": [
+      "建立玻尔兹曼输运方程并提出H定理，研究气体趋近平衡的过程",
+      "把熵与微观状态数联系起来，发展热力学第二定律的统计解释",
+      "从电磁理论推导黑体辐射的温度四次方规律"
+    ],
+    "fields": [
+      "统计物理",
+      "气体动理论",
+      "热辐射"
+    ],
+    "sources": [
+      {
+        "title": "Ludwig Boltzmann — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Boltzmann/"
+      },
+      {
+        "title": "Ludwig Boltzmann — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Ludwig_Boltzmann"
+      }
+    ]
+  },
+  {
+    "id": "thomas-edison",
+    "name_zh": "托马斯·爱迪生",
+    "name_en": "Thomas Edison",
+    "wikipedia_title": "Thomas Edison",
+    "birth": {
+      "date": "1847-02-11",
+      "precision": "day",
+      "display": "1847年2月11日"
+    },
+    "death": {
+      "date": "1931-10-18",
+      "precision": "day",
+      "display": "1931年10月18日"
+    },
+    "biography": "美国发明家和工业研究组织者，早年从事电报工作，后建立门洛帕克和西奥兰治实验室。他主要贡献于电气技术与应用研究，通过团队化实验改进照明、供电、录音和影像装置，并观察到真空灯泡中的电子发射现象。",
+    "contributions": [
+      "系统改进白炽照明和配套直流供电系统，推进电能的工程应用",
+      "观察真空灯泡中单向导电的爱迪生效应，成为热电子发射研究的早期现象",
+      "建立以团队实验和器件改进为中心的工业研究模式"
+    ],
+    "fields": [
+      "电气技术",
+      "热电子发射",
+      "应用物理"
+    ],
+    "sources": [
+      {
+        "title": "Thomas Edison — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Edison"
+      }
+    ],
+    "notes": [
+      "主要身份为发明家和工程研究组织者",
+      "电灯、电影等技术均有多位先驱，不作单一发明者归属。"
+    ]
+  },
+  {
+    "id": "lorand-eotvos",
+    "name_zh": "洛兰德·厄特沃什",
+    "name_en": "Loránd Eötvös",
+    "wikipedia_title": "Loránd Eötvös",
+    "birth": {
+      "date": "1848-07-27",
+      "precision": "day",
+      "display": "1848年7月27日"
+    },
+    "death": {
+      "date": "1919-04-08",
+      "precision": "day",
+      "display": "1919年4月8日"
+    },
+    "biography": "匈牙利物理学家，长期在布达佩斯大学任教并参与教育管理。他先研究液体表面张力，后发展高灵敏扭秤进行重力测量；其惯性质量与引力质量比较实验成为等效原理的重要实验基础。",
+    "contributions": [
+      "使用高精度扭秤比较不同物质的惯性质量和引力质量比例",
+      "发展重力梯度测量，促进地球物理勘探",
+      "提出描述液体表面张力随温度变化的厄特沃什关系"
+    ],
+    "fields": [
+      "引力实验",
+      "地球物理",
+      "表面物理"
+    ],
+    "sources": [
+      {
+        "title": "Loránd Eötvös — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Eotvos/"
+      },
+      {
+        "title": "Loránd Eötvös — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Lor%C3%A1nd_E%C3%B6tv%C3%B6s"
+      }
+    ]
+  },
+  {
+    "id": "margaret-lindsay-huggins",
+    "name_zh": "玛格丽特·林赛·哈金斯",
+    "name_en": "Margaret Lindsay Huggins",
+    "wikipedia_title": "Margaret Lindsay Huggins",
+    "birth": {
+      "date": "1848-08-14",
+      "precision": "day",
+      "display": "1848年8月14日"
+    },
+    "death": {
+      "date": "1915-03-24",
+      "precision": "day",
+      "display": "1915年3月24日"
+    },
+    "biography": "爱尔兰出生的英国天文学家，婚后与威廉·哈金斯在私人天文台长期合作。她熟悉摄影和观测实践，参与恒星与星云光谱记录、仪器操作和成果整理，是十九世纪天体光谱摄影的重要参与者。",
+    "contributions": [
+      "与威廉·哈金斯合作发展天体光谱摄影，记录恒星和星云的物理信息",
+      "参与紫外恒星光谱及天体发射光谱研究",
+      "共同整理和发表天体光谱图谱，提高观测结果的可比较性"
+    ],
+    "fields": [
+      "天体物理",
+      "光谱学",
+      "科学摄影"
+    ],
+    "sources": [
+      {
+        "title": "Margaret Lindsay Huggins — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Margaret_Lindsay_Huggins"
+      }
+    ]
+  },
+  {
+    "id": "henry-augustus-rowland",
+    "name_zh": "亨利·奥古斯都·罗兰",
+    "name_en": "Henry Augustus Rowland",
+    "wikipedia_title": "Henry Augustus Rowland",
+    "birth": {
+      "date": "1848-11-27",
+      "precision": "day",
+      "display": "1848年11月27日"
+    },
+    "death": {
+      "date": "1901-04-16",
+      "precision": "day",
+      "display": "1901年4月16日"
+    },
+    "biography": "美国实验物理学家，长期在约翰斯·霍普金斯大学任教，推动美国物理研究的专业化。他研究电磁现象、热学计量与光谱仪器，以精密刻制衍射光栅和太阳光谱测量尤其著称。",
+    "contributions": [
+      "用运动带电圆盘实验检验运动电荷产生磁场",
+      "发明凹面衍射光栅并提高光栅刻制精度，推动高分辨光谱学",
+      "精密研究热功当量及太阳光谱波长"
+    ],
+    "fields": [
+      "电磁学",
+      "光谱学",
+      "计量学"
+    ],
+    "sources": [
+      {
+        "title": "Henry Augustus Rowland — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Henry_Augustus_Rowland"
+      }
+    ]
+  },
+  {
+    "id": "sofya-kovalevskaya",
+    "name_zh": "索菲娅·柯瓦列夫斯卡娅",
+    "name_en": "Sofya Kovalevskaya",
+    "wikipedia_title": "Sofya Kovalevskaya",
+    "birth": {
+      "date": "1850-01-15",
+      "precision": "day",
+      "display": "1850年1月15日"
+    },
+    "death": {
+      "date": "1891-02-10",
+      "precision": "day",
+      "display": "1891年2月10日"
+    },
+    "biography": "俄国出生的数学家，在当时女性难以接受高等教育的条件下赴德国求学，后来在斯德哥尔摩任教。她研究偏微分方程和刚体转动，在分析力学中发现新的可积情形，是数学物理史上重要的女性先驱。",
+    "contributions": [
+      "发现重刚体绕固定点转动的一个新的可积情形，即柯瓦列夫斯卡娅陀螺",
+      "发展解析偏微分方程解的存在性理论，形成柯西—柯瓦列夫斯卡娅定理",
+      "将高等分析方法用于经典力学和波动问题"
+    ],
+    "fields": [
+      "数学物理",
+      "经典力学"
+    ],
+    "sources": [
+      {
+        "title": "Sofya Kovalevskaya — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Kovalevskaya/"
+      },
+      {
+        "title": "Sofya Kovalevskaya — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Sofya_Kovalevskaya"
+      }
+    ],
+    "notes": [
+      "生卒日期按公历列出",
+      "旧俄历记载会相差若干日。"
+    ]
+  },
+  {
+    "id": "oliver-heaviside",
+    "name_zh": "奥利弗·赫维赛德",
+    "name_en": "Oliver Heaviside",
+    "wikipedia_title": "Oliver Heaviside",
+    "birth": {
+      "date": "1850-05-18",
+      "precision": "day",
+      "display": "1850年5月18日"
+    },
+    "death": {
+      "date": "1925-02-03",
+      "precision": "day",
+      "display": "1925年2月3日"
+    },
+    "biography": "英国物理学家和电气理论研究者，早年从事电报工作，后主要独立研究。他用向量语言重写电磁理论，并研究电缆传输、阻抗和运算方法；生前并非始终获得学界理解，后来对电磁工程影响深远。",
+    "contributions": [
+      "将麦克斯韦电磁理论整理成现代常用的向量方程形式",
+      "发展传输线理论、无畸变条件与阻抗方法",
+      "提出高空电离层可反射无线电波的思想，并推广运算微积分"
+    ],
+    "fields": [
+      "电磁学",
+      "电气物理",
+      "数学物理"
+    ],
+    "sources": [
+      {
+        "title": "Oliver Heaviside — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Heaviside/"
+      },
+      {
+        "title": "Oliver Heaviside — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Oliver_Heaviside"
+      }
+    ]
+  },
+  {
+    "id": "oliver-lodge",
+    "name_zh": "奥利弗·洛奇",
+    "name_en": "Oliver Lodge",
+    "wikipedia_title": "Oliver Lodge",
+    "birth": {
+      "date": "1851-06-12",
+      "precision": "day",
+      "display": "1851年6月12日"
+    },
+    "death": {
+      "date": "1940-08-22",
+      "precision": "day",
+      "display": "1940年8月22日"
+    },
+    "biography": "英国物理学家，曾在利物浦任教，后任伯明翰大学首任校长。他研究电磁波、放电与无线电接收，在赫兹实验之后推动电磁波通信技术，也因对以太和心灵研究的兴趣而成为公众人物。",
+    "contributions": [
+      "研究并演示赫兹电磁波，改进无线电接收和检波装置",
+      "发展调谐无线电通信的方法",
+      "研究电磁波传播及运动介质问题，参与检验以太相关理论"
+    ],
+    "fields": [
+      "电磁学",
+      "无线电物理",
+      "实验物理"
+    ],
+    "sources": [
+      {
+        "title": "Oliver Lodge — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Oliver_Lodge"
+      }
+    ]
+  },
+  {
+    "id": "george-francis-fitzgerald",
+    "name_zh": "乔治·弗朗西斯·菲茨杰拉德",
+    "name_en": "George Francis FitzGerald",
+    "wikipedia_title": "George Francis FitzGerald",
+    "birth": {
+      "date": "1851-08-03",
+      "precision": "day",
+      "display": "1851年8月3日"
+    },
+    "death": {
+      "date": "1901-02-21",
+      "precision": "day",
+      "display": "1901年2月21日"
+    },
+    "biography": "爱尔兰理论物理学家，长期在都柏林三一学院任教，是英国麦克斯韦学派的重要成员。他推动电磁波理论与实验联系，并在解释以太漂移实验时提出运动方向长度收缩的假说。",
+    "contributions": [
+      "较早提出可由振荡电流产生电磁波的方案",
+      "提出运动物体沿运动方向收缩的假说，后来与洛伦兹的工作共同构成相对论前史",
+      "推广麦克斯韦电磁场理论并研究辐射问题"
+    ],
+    "fields": [
+      "电磁学",
+      "相对论前史",
+      "理论物理"
+    ],
+    "sources": [
+      {
+        "title": "George Francis FitzGerald — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/George_Francis_FitzGerald"
+      }
+    ]
+  },
+  {
+    "id": "john-henry-poynting",
+    "name_zh": "约翰·亨利·坡印廷",
+    "name_en": "John Henry Poynting",
+    "wikipedia_title": "John Henry Poynting",
+    "birth": {
+      "date": "1852-09-09",
+      "precision": "day",
+      "display": "1852年9月9日"
+    },
+    "death": {
+      "date": "1914-03-30",
+      "precision": "day",
+      "display": "1914年3月30日"
+    },
+    "biography": "英国物理学家，长期在伯明翰梅森学院及其后的伯明翰大学任教。他研究电磁能量传输、辐射压与地球密度，通过理论分析与精密测量揭示场如何携带能量，是经典电磁学发展的重要人物。",
+    "contributions": [
+      "提出描述电磁能流密度的坡印廷矢量和能量守恒定理",
+      "研究光的辐射压及其对小天体运动的影响",
+      "开展精密引力实验并测量地球平均密度"
+    ],
+    "fields": [
+      "电磁学",
+      "辐射物理",
+      "引力实验"
+    ],
+    "sources": [
+      {
+        "title": "John Henry Poynting — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/John_Henry_Poynting"
+      }
+    ]
+  },
+  {
+    "id": "henri-poincare",
+    "name_zh": "亨利·庞加莱",
+    "name_en": "Henri Poincaré",
+    "wikipedia_title": "Henri Poincaré",
+    "birth": {
+      "date": "1854-04-29",
+      "precision": "day",
+      "display": "1854年4月29日"
+    },
+    "death": {
+      "date": "1912-07-17",
+      "precision": "day",
+      "display": "1912年7月17日"
+    },
+    "biography": "法国数学家和理论物理学家，长期在巴黎工作。他研究天体力学、拓扑、微分方程和电动力学，在复杂动力系统及相对论形成前夕作出重要贡献；同时以科学哲学著作讨论约定、测量和理论结构。",
+    "contributions": [
+      "揭示三体问题的复杂动力学，奠定定性动力系统和混沌研究的基础",
+      "研究洛伦兹变换的群性质及相对性原理，参与狭义相对论形成的前史",
+      "研究电磁理论与天体力学，发展数学物理方法"
+    ],
+    "fields": [
+      "数学物理",
+      "天体力学",
+      "相对论前史"
+    ],
+    "sources": [
+      {
+        "title": "Henri Poincaré — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Poincare/"
+      },
+      {
+        "title": "Henri Poincaré — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9"
+      }
+    ]
+  },
+  {
+    "id": "c-v-boys",
+    "name_zh": "查尔斯·弗农·博伊斯",
+    "name_en": "C. V. Boys",
+    "wikipedia_title": "C. V. Boys",
+    "birth": {
+      "date": "1855-03-15",
+      "precision": "day",
+      "display": "1855年3月15日"
+    },
+    "death": {
+      "date": "1944-03-30",
+      "precision": "day",
+      "display": "1944年3月30日"
+    },
+    "biography": "英国实验物理学家，以制作灵敏仪器和精密测量著称，曾在伦敦任教。他发展极细石英丝悬挂技术，用于微小力矩与引力测量，也研究肥皂泡和高速摄影，善于把实验技巧转化为定量科学工具。",
+    "contributions": [
+      "发展石英丝悬挂技术，大幅提高扭秤等仪器的灵敏度",
+      "改进卡文迪许式引力实验，测量万有引力常数",
+      "研制辐射测量和高速摄影装置，研究表面张力现象"
+    ],
+    "fields": [
+      "精密测量",
+      "引力实验",
+      "表面物理"
+    ],
+    "sources": [
+      {
+        "title": "C. V. Boys — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Boys/"
+      },
+      {
+        "title": "C. V. Boys — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/C._V._Boys"
+      }
+    ]
+  },
+  {
+    "id": "james-alfred-ewing",
+    "name_zh": "詹姆斯·阿尔弗雷德·尤因",
+    "name_en": "James Alfred Ewing",
+    "wikipedia_title": "James Alfred Ewing",
+    "birth": {
+      "date": "1855-03-27",
+      "precision": "day",
+      "display": "1855年3月27日"
+    },
+    "death": {
+      "date": "1935-01-07",
+      "precision": "day",
+      "display": "1935年1月7日"
+    },
+    "biography": "苏格兰工程师和物理学家，曾赴日本从事工程教育，后在邓迪、剑桥和爱丁堡工作。他研究铁磁材料的磁化过程、地震测量和机械工程，将实验物理与仪器设计及工业问题紧密联系。",
+    "contributions": [
+      "系统研究铁磁材料磁化的滞后现象，并推广磁滞概念",
+      "研究磁性材料的微观模型及能量损耗",
+      "参与发展早期地震记录仪和工程物理教育"
+    ],
+    "fields": [
+      "磁学",
+      "地球物理",
+      "工程物理"
+    ],
+    "sources": [
+      {
+        "title": "James Alfred Ewing — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/James_Alfred_Ewing"
+      }
+    ]
+  },
+  {
+    "id": "nikola-tesla",
+    "name_zh": "尼古拉·特斯拉",
+    "name_en": "Nikola Tesla",
+    "wikipedia_title": "Nikola Tesla",
+    "birth": {
+      "date": "1856-07-10",
+      "precision": "day",
+      "display": "1856年7月10日"
+    },
+    "death": {
+      "date": "1943-01-07",
+      "precision": "day",
+      "display": "1943年1月7日"
+    },
+    "biography": "塞尔维亚裔美国发明家和电气工程师，曾在欧洲从事电机工作，后赴美国研究交流电系统。他在旋转磁场、多相电动机和高频高压实验方面贡献突出，其器件与演示对电气技术和应用物理影响深远。",
+    "contributions": [
+      "发展多相交流电系统及感应电动机，利用旋转磁场实现电能—机械能转换",
+      "研制特斯拉线圈，开展高频高压与放电实验",
+      "研究无线能量传输和高频电流的应用"
+    ],
+    "fields": [
+      "电磁学",
+      "电气技术",
+      "高频物理"
+    ],
+    "sources": [
+      {
+        "title": "Nikola Tesla — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Nikola_Tesla"
+      }
+    ],
+    "notes": [
+      "主要身份为发明家与工程师",
+      "无线电和交流电系统的发展涉及多位研究者与工程师。"
+    ]
+  },
+  {
+    "id": "aikitsu-tanakadate",
+    "name_zh": "田中馆爱橘",
+    "name_en": "Aikitsu Tanakadate",
+    "wikipedia_title": "Aikitsu Tanakadate",
+    "birth": {
+      "date": "1856-09-18",
+      "precision": "day",
+      "display": "1856年9月18日"
+    },
+    "death": {
+      "date": "1952-05-21",
+      "precision": "day",
+      "display": "1952年5月21日"
+    },
+    "biography": "日本物理学家和地球物理学家，曾在东京大学任教，赴欧美学习物理并组织日本地磁与重力测量。他推动精密观测、国际科学合作和近代物理教育，也参与航空相关研究与科学制度建设。",
+    "contributions": [
+      "组织日本全国地磁测量，建立系统的地球磁场资料",
+      "研究重力测量及地球物理观测仪器",
+      "推动日本近代实验物理、航空研究及国际计量合作"
+    ],
+    "fields": [
+      "地球物理",
+      "计量学",
+      "实验物理"
+    ],
+    "sources": [
+      {
+        "title": "Aikitsu Tanakadate — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Aikitsu_Tanakadate"
+      }
+    ]
+  },
+  {
+    "id": "heinrich-hertz",
+    "name_zh": "海因里希·赫兹",
+    "name_en": "Heinrich Hertz",
+    "wikipedia_title": "Heinrich Hertz",
+    "birth": {
+      "date": "1857-02-22",
+      "precision": "day",
+      "display": "1857年2月22日"
+    },
+    "death": {
+      "date": "1894-01-01",
+      "precision": "day",
+      "display": "1894年1月1日"
+    },
+    "biography": "德国实验物理学家，曾在柏林师从亥姆霍兹，后在卡尔斯鲁厄和波恩任教。他设计火花振荡器和接收装置，在实验室产生并探测电磁波，为麦克斯韦理论提供决定性验证，并研究接触力学和放电。",
+    "contributions": [
+      "产生并探测电磁波，验证其反射、折射、干涉和偏振等性质",
+      "观察紫外光促进火花放电的现象，为光电效应研究提供早期线索",
+      "建立弹性体接触的赫兹接触理论"
+    ],
+    "fields": [
+      "电磁学",
+      "光电效应",
+      "接触力学"
+    ],
+    "sources": [
+      {
+        "title": "Heinrich Hertz — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hertz_Heinrich/"
+      },
+      {
+        "title": "Heinrich Hertz — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Heinrich_Hertz"
+      }
+    ]
+  },
+  {
+    "id": "williamina-fleming",
+    "name_zh": "威廉敏娜·弗莱明",
+    "name_en": "Williamina Fleming",
+    "wikipedia_title": "Williamina Fleming",
+    "birth": {
+      "date": "1857-05-15",
+      "precision": "day",
+      "display": "1857年5月15日"
+    },
+    "death": {
+      "date": "1911-05-21",
+      "precision": "day",
+      "display": "1911年5月21日"
+    },
+    "biography": "苏格兰出生的美国天文学家，移居美国后进入哈佛大学天文台，从事照相底片和光谱分类工作，后来管理女性计算员团队。她凭借大量细致的观测整理，推动恒星光谱分类和变星、新星的发现。",
+    "contributions": [
+      "建立早期哈佛恒星光谱分类方案并编制大量恒星目录",
+      "从天文底片中发现多颗变星、新星及其他特殊天体",
+      "参与识别白矮星异常光谱，推动恒星物理特征的研究"
+    ],
+    "fields": [
+      "恒星物理",
+      "光谱学",
+      "观测天文学"
+    ],
+    "sources": [
+      {
+        "title": "Williamina Fleming — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Williamina_Fleming"
+      }
+    ]
+  },
+  {
+    "id": "joseph-larmor",
+    "name_zh": "约瑟夫·拉莫尔",
+    "name_en": "Joseph Larmor",
+    "wikipedia_title": "Joseph Larmor",
+    "birth": {
+      "date": "1857-07-11",
+      "precision": "day",
+      "display": "1857年7月11日"
+    },
+    "death": {
+      "date": "1942-05-19",
+      "precision": "day",
+      "display": "1942年5月19日"
+    },
+    "biography": "爱尔兰出生的理论物理学家，长期在剑桥工作，曾任卢卡斯数学教授。他研究电子理论、电磁辐射和磁场中的带电运动，在经典电动力学与早期相对论的形成过程中提出了多项重要结果。",
+    "contributions": [
+      "推导加速电荷辐射功率的拉莫尔公式",
+      "研究磁场中带电体系的拉莫尔进动",
+      "在电子理论中发展时间变换和运动体系描述，参与相对论形成前史"
+    ],
+    "fields": [
+      "经典电动力学",
+      "磁学",
+      "相对论前史"
+    ],
+    "sources": [
+      {
+        "title": "Joseph Larmor — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Larmor/"
+      },
+      {
+        "title": "Joseph Larmor — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Larmor"
+      }
+    ]
+  },
+  {
+    "id": "jagadish-chandra-bose",
+    "name_zh": "贾加迪什·钱德拉·玻色",
+    "name_en": "Jagadish Chandra Bose",
+    "wikipedia_title": "Jagadish Chandra Bose",
+    "birth": {
+      "date": "1858-11-30",
+      "precision": "day",
+      "display": "1858年11月30日"
+    },
+    "death": {
+      "date": "1937-11-23",
+      "precision": "day",
+      "display": "1937年11月23日"
+    },
+    "biography": "印度物理学家和跨学科研究者，曾在加尔各答总统学院任教并创立玻色研究所。他在殖民地教育环境中开展毫米波实验，设计灵敏探测器，后来研究植物电响应，对南亚实验科学建设贡献突出。",
+    "contributions": [
+      "开展毫米波产生、偏振、折射和探测实验，推进微波光学",
+      "研制半导体接触式无线电探测器，是固态检波研究的先驱之一",
+      "发展高灵敏仪器研究植物的电学和机械响应"
+    ],
+    "fields": [
+      "微波物理",
+      "固态探测",
+      "生物物理"
+    ],
+    "sources": [
+      {
+        "title": "Jagadish Chandra Bose — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Jagadish_Chandra_Bose"
+      }
+    ]
+  },
+  {
+    "id": "pierre-duhem",
+    "name_zh": "皮埃尔·迪昂",
+    "name_en": "Pierre Duhem",
+    "wikipedia_title": "Pierre Duhem",
+    "birth": {
+      "date": "1861-06-10",
+      "precision": "approximate",
+      "display": "1861年6月10日（另有6月9日记载）"
+    },
+    "death": {
+      "date": "1916-09-14",
+      "precision": "day",
+      "display": "1916年9月14日"
+    },
+    "biography": "法国理论物理学家、科学史家和哲学家，主要在波尔多大学任教。他以热力学为统一物理解释的重要框架，研究化学平衡、流体和弹性，也以科学理论的结构及检验问题的讨论产生广泛影响。",
+    "contributions": [
+      "发展化学热力学，研究化学势、相平衡与热力学势",
+      "参与建立吉布斯—迪昂关系，约束多组分体系中化学势的变化",
+      "研究连续介质与物理理论结构，推动理论物理的公理化讨论"
+    ],
+    "fields": [
+      "热力学",
+      "物理化学",
+      "物理学基础"
+    ],
+    "sources": [
+      {
+        "title": "Pierre Duhem — Royal Academy of Belgium",
+        "url": "https://academieroyale.be/fr/who-who-detail/relations/pierre-maurice-marie-duhem"
+      },
+      {
+        "title": "Pierre Duhem — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Duhem/"
+      },
+      {
+        "title": "Pierre Duhem — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Pierre_Duhem"
+      },
+      {
+        "title": "Émile Picard: La vie et l’œuvre de Pierre Duhem — Académie des sciences (1921)",
+        "url": "https://www.academie-sciences.fr/pdf/dossiers/Picard/Picard_pdf/Picard_Duhem.pdf"
+      },
+      {
+        "title": "Pierre Duhem collection — University of Bordeaux Libraries",
+        "url": "https://bibliotheques.u-bordeaux.fr/Les-bibliotheques/Patrimoine-documentaire/Fonds-documentaires-patrimoniaux/Fonds-scientifique"
+      }
+    ],
+    "notes": [
+      "出生日期存在6月9日与10日两种记载；本档案采用法国科学院所载埃米尔·皮卡尔1921年纪念文及比利时皇家学院的6月10日，波尔多大学馆藏简介及部分英文资料则记6月9日，保留此分歧。"
+    ]
+  },
+  {
+    "id": "agnes-pockels",
+    "name_zh": "阿格妮丝·波克尔斯",
+    "name_en": "Agnes Pockels",
+    "wikipedia_title": "Agnes Pockels",
+    "birth": {
+      "date": "1862-02-14",
+      "precision": "day",
+      "display": "1862年2月14日"
+    },
+    "death": {
+      "date": "1935-11-21",
+      "precision": "day",
+      "display": "1935年11月21日"
+    },
+    "biography": "出生于威尼斯、长期居住德国的自学实验研究者，因女性教育限制未能接受正规大学训练。她在家中研究水面杂质和表面张力，把装置与发现写信告知瑞利，成果随后发表并成为界面物理的重要起点。",
+    "contributions": [
+      "设计可控制水面面积的表面槽，定量研究薄膜和表面张力",
+      "测量微量油膜及杂质对水面性质的影响",
+      "为后来的朗缪尔膜和分子单层研究提供实验方法基础"
+    ],
+    "fields": [
+      "表面物理",
+      "界面科学",
+      "实验方法"
+    ],
+    "sources": [
+      {
+        "title": "Agnes Pockels — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Agnes_Pockels"
+      }
+    ]
+  },
+  {
+    "id": "paul-drude",
+    "name_zh": "保罗·德鲁德",
+    "name_en": "Paul Drude",
+    "wikipedia_title": "Paul Drude",
+    "birth": {
+      "date": "1863-07-12",
+      "precision": "day",
+      "display": "1863年7月12日"
+    },
+    "death": {
+      "date": "1906-07-05",
+      "precision": "day",
+      "display": "1906年7月5日"
+    },
+    "biography": "德国理论与实验物理学家，曾在哥廷根、莱比锡、吉森和柏林工作，并参与编辑重要物理期刊。他把电子运动用于理解金属的电和热输运，同时研究光学，是经典电子理论建立时期的关键人物。",
+    "contributions": [
+      "提出金属自由电子的德鲁德模型，解释电导率与热导率的基本关系",
+      "发展金属光学和电磁波传播研究",
+      "用经典电子碰撞图像建立输运理论，成为后来量子金属理论的比较起点"
+    ],
+    "fields": [
+      "凝聚态物理",
+      "电子输运",
+      "光学"
+    ],
+    "sources": [
+      {
+        "title": "Paul Drude — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Paul_Drude"
+      }
+    ]
+  },
+  {
+    "id": "annie-jump-cannon",
+    "name_zh": "安妮·詹普·坎农",
+    "name_en": "Annie Jump Cannon",
+    "wikipedia_title": "Annie Jump Cannon",
+    "birth": {
+      "date": "1863-12-11",
+      "precision": "day",
+      "display": "1863年12月11日"
+    },
+    "death": {
+      "date": "1941-04-13",
+      "precision": "day",
+      "display": "1941年4月13日"
+    },
+    "biography": "美国天文学家，长期在哈佛大学天文台从事恒星光谱分类和星表编纂。她凭借熟练的谱线辨认能力处理数十万颗恒星，把早期分类系统整理成按物理性质排列的序列，是现代恒星研究的重要基础工作者。",
+    "contributions": [
+      "确立并大规模应用O、B、A、F、G、K、M恒星光谱分类序列",
+      "主持或参与亨利·德雷珀星表及其扩展工作，提供庞大的标准化光谱资料",
+      "发现和研究变星，推动恒星群体比较"
+    ],
+    "fields": [
+      "恒星物理",
+      "光谱学",
+      "观测天文学"
+    ],
+    "sources": [
+      {
+        "title": "Annie Jump Cannon — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Annie_Jump_Cannon"
+      }
+    ]
+  },
+  {
+    "id": "walther-nernst",
+    "name_zh": "瓦尔特·能斯特",
+    "name_en": "Walther Nernst",
+    "wikipedia_title": "Walther Nernst",
+    "birth": {
+      "date": "1864-06-25",
+      "precision": "day",
+      "display": "1864年6月25日"
+    },
+    "death": {
+      "date": "1941-11-18",
+      "precision": "day",
+      "display": "1941年11月18日"
+    },
+    "biography": "德国物理化学家和物理学家，曾在哥廷根与柏林任教，1920年获诺贝尔化学奖。他以热力学处理化学反应和低温过程，同时研究电化学、材料和仪器，推动物理学与化学在量子时代前后的交流。",
+    "contributions": [
+      "提出能斯特热定理，成为热力学第三定律建立的重要起点",
+      "建立描述电极电势与浓度关系的能斯特方程",
+      "研究低温比热、化学平衡和能斯特效应等输运现象"
+    ],
+    "fields": [
+      "热力学",
+      "低温物理",
+      "电化学"
+    ],
+    "sources": [
+      {
+        "title": "Walther Nernst — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Walther_Nernst"
+      },
+      {
+        "title": "Walther Nernst — Nobel Prize official biography",
+        "url": "https://www.nobelprize.org/prizes/chemistry/1920/nernst/biographical/"
+      }
+    ]
+  },
+  {
+    "id": "friedrich-pockels",
+    "name_zh": "弗里德里希·波克尔斯",
+    "name_en": "Friedrich Pockels",
+    "wikipedia_title": "Friedrich Pockels",
+    "birth": {
+      "date": "1865-06-18",
+      "precision": "day",
+      "display": "1865年6月18日"
+    },
+    "death": {
+      "date": "1913-08-29",
+      "precision": "day",
+      "display": "1913年8月29日"
+    },
+    "biography": "德国理论与实验物理学家，曾在哥廷根和海德堡工作。他研究晶体的光学、电学和热学性质，把对称性分析用于外场作用下的光传播；其妹妹阿格妮丝亦以表面物理实验著称。",
+    "contributions": [
+      "研究电场引起晶体折射率线性变化的波克尔斯效应",
+      "发展晶体光学与弹光效应的系统理论",
+      "以晶体对称性分析电光和其他各向异性物理性质"
+    ],
+    "fields": [
+      "晶体光学",
+      "电光效应",
+      "凝聚态物理"
+    ],
+    "sources": [
+      {
+        "title": "Friedrich Pockels — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Friedrich_Pockels"
+      }
+    ]
+  },
+  {
+    "id": "hantaro-nagaoka",
+    "name_zh": "长冈半太郎",
+    "name_en": "Hantaro Nagaoka",
+    "wikipedia_title": "Hantaro Nagaoka",
+    "birth": {
+      "date": "1865-08-19",
+      "precision": "day",
+      "display": "1865年8月19日"
+    },
+    "death": {
+      "date": "1950-12-11",
+      "precision": "day",
+      "display": "1950年12月11日"
+    },
+    "biography": "日本物理学家，曾赴欧洲学习，长期在东京帝国大学任教，后参与日本科学机构建设。他研究磁学、光谱和原子结构，在核式原子模型确立之前提出土星式原子构想，是近代日本理论物理的重要先驱。",
+    "contributions": [
+      "提出带正电中心与电子环组成的土星式原子模型",
+      "研究磁致伸缩、光谱和电磁现象",
+      "推动日本近代物理研究与高等教育的发展"
+    ],
+    "fields": [
+      "原子物理",
+      "磁学",
+      "光谱学"
+    ],
+    "sources": [
+      {
+        "title": "Hantaro Nagaoka — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Hantaro_Nagaoka"
+      }
+    ],
+    "notes": [
+      "土星式模型是原子结构探索中的历史模型，并非现代正确原子图像。"
+    ]
+  },
+  {
+    "id": "pyotr-lebedev",
+    "name_zh": "彼得·列别捷夫",
+    "name_en": "Pyotr Lebedev",
+    "wikipedia_title": "Pyotr Lebedev",
+    "birth": {
+      "date": "1866-03-08",
+      "precision": "day",
+      "display": "1866年3月8日"
+    },
+    "death": {
+      "date": "1912-03-14",
+      "precision": "day",
+      "display": "1912年3月14日"
+    },
+    "biography": "俄国实验物理学家，曾在德国求学，后在莫斯科大学建立研究实验室。他以极灵敏的扭秤研究辐射压力，力求检验电磁场携带动量的理论预言；其团队对俄国实验物理传统的发展影响深远。",
+    "contributions": [
+      "实验测量光对固体产生的辐射压力，验证电磁辐射动量的预言",
+      "进一步研究光对气体的压力",
+      "发展微弱力测量和高灵敏实验技术"
+    ],
+    "fields": [
+      "辐射物理",
+      "电磁学",
+      "精密测量"
+    ],
+    "sources": [
+      {
+        "title": "150th anniversary of Petr Nikolaevich Lebedev — Physics-Uspekhi/Russian Academy of Sciences",
+        "url": "https://ufn.ru/en/events/lebedev150.html"
+      },
+      {
+        "title": "Pyotr Lebedev — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Pyotr_Lebedev"
+      }
+    ],
+    "notes": [
+      "俄国历史文献常使用儒略历",
+      "档案日期按公历列出。",
+      "公历生卒日期为1866年3月8日及1912年3月14日；旧俄历相应为1866年2月24日及1912年3月1日。"
+    ]
+  },
+  {
+    "id": "antonia-maury",
+    "name_zh": "安东尼娅·莫里",
+    "name_en": "Antonia Maury",
+    "wikipedia_title": "Antonia Maury",
+    "birth": {
+      "date": "1866-03-21",
+      "precision": "day",
+      "display": "1866年3月21日"
+    },
+    "death": {
+      "date": "1952-01-08",
+      "precision": "day",
+      "display": "1952年1月8日"
+    },
+    "biography": "美国天文学家，曾在哈佛大学天文台研究恒星光谱，出身于科学家家庭。她采用比当时常用方案更细的谱线形态分类，强调谱线宽度等差异，为后来认识恒星光度和演化状态提供了关键观测线索。",
+    "contributions": [
+      "建立考虑谱线宽度和形态的恒星光谱分类方案",
+      "其光谱分类帮助赫茨普龙认识巨星与矮星的区别",
+      "研究分光双星及恒星光谱变化"
+    ],
+    "fields": [
+      "恒星物理",
+      "光谱学",
+      "观测天文学"
+    ],
+    "sources": [
+      {
+        "title": "Antonia Maury — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Antonia_Maury"
+      }
+    ]
+  },
+  {
+    "id": "charles-fabry",
+    "name_zh": "夏尔·法布里",
+    "name_en": "Charles Fabry",
+    "wikipedia_title": "Charles Fabry",
+    "birth": {
+      "date": "1867-06-11",
+      "precision": "day",
+      "display": "1867年6月11日"
+    },
+    "death": {
+      "date": "1945-12-11",
+      "precision": "day",
+      "display": "1945年12月11日"
+    },
+    "biography": "法国物理学家，曾在马赛任教，后在巴黎发展光学研究与教育。他与阿尔弗雷德·珀罗合作研制高分辨干涉仪，研究谱线结构、波长标准和大气吸收，使精密干涉成为现代光谱学的重要工具。",
+    "contributions": [
+      "与珀罗发明法布里—珀罗干涉仪，显著提高光谱分辨能力",
+      "利用干涉方法研究谱线精细结构和波长标准",
+      "与比松研究大气臭氧吸收，推动臭氧层的认识"
+    ],
+    "fields": [
+      "光学",
+      "干涉计量",
+      "光谱学"
+    ],
+    "sources": [
+      {
+        "title": "Charles Fabry — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Charles_Fabry"
+      }
+    ]
+  },
+  {
+    "id": "robert-w-wood",
+    "name_zh": "罗伯特·威廉斯·伍德",
+    "name_en": "Robert W. Wood",
+    "wikipedia_title": "Robert W. Wood",
+    "birth": {
+      "date": "1868-05-02",
+      "precision": "day",
+      "display": "1868年5月2日"
+    },
+    "death": {
+      "date": "1955-08-11",
+      "precision": "day",
+      "display": "1955年8月11日"
+    },
+    "biography": "美国实验物理学家，长期在约翰斯·霍普金斯大学任教。他以独创实验、光学摄影和演示技巧著称，研究紫外与红外辐射、共振和光栅现象，也用实验揭露缺乏证据的所谓新射线。",
+    "contributions": [
+      "研究衍射光栅中的伍德异常，揭示光栅共振现象",
+      "推动紫外和红外摄影及选择性滤光材料的应用",
+      "研究共振辐射、荧光和超声实验，拓展实验光学方法"
+    ],
+    "fields": [
+      "光学",
+      "光谱学",
+      "实验方法"
+    ],
+    "sources": [
+      {
+        "title": "Robert W. Wood — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Robert_W._Wood"
+      }
+    ]
+  },
+  {
+    "id": "henrietta-swan-leavitt",
+    "name_zh": "亨丽爱塔·斯旺·勒维特",
+    "name_en": "Henrietta Swan Leavitt",
+    "wikipedia_title": "Henrietta Swan Leavitt",
+    "birth": {
+      "date": "1868-07-04",
+      "precision": "day",
+      "display": "1868年7月4日"
+    },
+    "death": {
+      "date": "1921-12-12",
+      "precision": "day",
+      "display": "1921年12月12日"
+    },
+    "biography": "美国天文学家，长期在哈佛大学天文台比较照相底片、测量变星亮度。她从麦哲伦云中的造父变星发现周期与亮度的关系，为跨越银河系的距离测量提供尺度，其工作在宇宙学发展中极为关键。",
+    "contributions": [
+      "发现造父变星的周期—光度关系",
+      "通过同一星系中近似等距的变星比较，建立亮度与周期的可靠联系",
+      "为测量银河系尺度和河外星系距离提供重要标准烛光方法"
+    ],
+    "fields": [
+      "恒星物理",
+      "宇宙距离尺度",
+      "观测天文学"
+    ],
+    "sources": [
+      {
+        "title": "Henrietta Swan Leavitt — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Leavitt/"
+      },
+      {
+        "title": "Henrietta Swan Leavitt — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt"
+      }
+    ]
+  },
+  {
+    "id": "arnold-sommerfeld",
+    "name_zh": "阿诺德·索末菲",
+    "name_en": "Arnold Sommerfeld",
+    "wikipedia_title": "Arnold Sommerfeld",
+    "birth": {
+      "date": "1868-12-05",
+      "precision": "day",
+      "display": "1868年12月5日"
+    },
+    "death": {
+      "date": "1951-04-26",
+      "precision": "day",
+      "display": "1951年4月26日"
+    },
+    "biography": "德国理论物理学家，长期主持慕尼黑大学理论物理研究与教学，培养了海森堡、泡利等多位量子物理学家。他跨越经典电磁理论和早期量子论，善于以数学方法解决具体物理问题。",
+    "contributions": [
+      "把玻尔模型推广到椭圆轨道并引入相对论修正，解释部分光谱精细结构",
+      "发展量子统计下的金属电子理论，即索末菲自由电子模型",
+      "研究衍射和电磁波传播，并建立影响深远的理论物理学派"
+    ],
+    "fields": [
+      "量子物理",
+      "原子物理",
+      "凝聚态物理"
+    ],
+    "sources": [
+      {
+        "title": "Arnold Sommerfeld — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Sommerfeld/"
+      },
+      {
+        "title": "Arnold Sommerfeld — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Arnold_Sommerfeld"
+      }
+    ]
+  },
+  {
+    "id": "kotaro-honda",
+    "name_zh": "本多光太郎",
+    "name_en": "Kotaro Honda",
+    "wikipedia_title": "Kotaro Honda",
+    "birth": {
+      "date": "1870-02-23",
+      "precision": "day",
+      "display": "1870年2月23日"
+    },
+    "death": {
+      "date": "1954-02-12",
+      "precision": "day",
+      "display": "1954年2月12日"
+    },
+    "biography": "日本物理学家和冶金研究者，长期在东北帝国大学从事磁学与材料研究，推动金属材料研究机构建设。他把基础磁性测量用于钢铁和合金设计，是日本近代磁性材料和应用物理的重要开拓者。",
+    "contributions": [
+      "系统研究金属及合金的磁性和热学性质",
+      "参与研制高性能KS磁钢，促进永久磁体材料发展",
+      "建立以精密物性测量支持材料设计的研究路线"
+    ],
+    "fields": [
+      "磁学",
+      "凝聚态物理",
+      "材料物理"
+    ],
+    "sources": [
+      {
+        "title": "Kotaro Honda — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Kotaro_Honda"
+      }
+    ]
+  },
+  {
+    "id": "ernest-rutherford",
+    "name_zh": "欧内斯特·卢瑟福",
+    "name_en": "Ernest Rutherford",
+    "wikipedia_title": "Ernest Rutherford",
+    "birth": {
+      "date": "1871-08-30",
+      "precision": "day",
+      "display": "1871年8月30日"
+    },
+    "death": {
+      "date": "1937-10-19",
+      "precision": "day",
+      "display": "1937年10月19日"
+    },
+    "biography": "新西兰出生的实验物理学家，先后在麦吉尔、曼彻斯特和剑桥工作，1908年获诺贝尔化学奖。他以放射性研究进入原子结构领域，并领导散射和核反应实验，建立现代原子核物理的重要基础。",
+    "contributions": [
+      "区分并研究阿尔法、贝塔辐射，与索迪提出放射性衰变理论",
+      "根据盖革—马斯登散射实验提出原子核式结构",
+      "实现以阿尔法粒子引起的人工核转变，并识别氢核在核反应中的作用"
+    ],
+    "fields": [
+      "原子核物理",
+      "放射性",
+      "原子结构"
+    ],
+    "sources": [
+      {
+        "title": "Ernest Rutherford — NobelPrize.org biography",
+        "url": "https://www.nobelprize.org/prizes/chemistry/1908/rutherford/biographical/"
+      },
+      {
+        "title": "Ernest Rutherford — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Ernest_Rutherford"
+      }
+    ]
+  },
+  {
+    "id": "paul-langevin",
+    "name_zh": "保罗·朗之万",
+    "name_en": "Paul Langevin",
+    "wikipedia_title": "Paul Langevin",
+    "birth": {
+      "date": "1872-01-23",
+      "precision": "day",
+      "display": "1872年1月23日"
+    },
+    "death": {
+      "date": "1946-12-19",
+      "precision": "day",
+      "display": "1946年12月19日"
+    },
+    "biography": "法国理论与实验物理学家，长期在巴黎教学和研究，曾在剑桥卡文迪许实验室工作。他研究磁性、布朗运动与相对论，第一次世界大战期间发展超声探测，也积极参与科学教育和国际交流。",
+    "contributions": [
+      "发展顺磁性和抗磁性的电子理论",
+      "提出描述布朗运动的朗之万方程，把随机力引入动力学",
+      "利用压电效应发展超声波水下探测技术，并推广相对论"
+    ],
+    "fields": [
+      "统计物理",
+      "磁学",
+      "超声物理"
+    ],
+    "sources": [
+      {
+        "title": "Paul Langevin — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Paul_Langevin"
+      }
+    ]
+  },
+  {
+    "id": "karl-schwarzschild",
+    "name_zh": "卡尔·史瓦西",
+    "name_en": "Karl Schwarzschild",
+    "wikipedia_title": "Karl Schwarzschild",
+    "birth": {
+      "date": "1873-10-09",
+      "precision": "day",
+      "display": "1873年10月9日"
+    },
+    "death": {
+      "date": "1916-05-11",
+      "precision": "day",
+      "display": "1916年5月11日"
+    },
+    "biography": "德国天文学家和物理学家，曾主持哥廷根和波茨坦天文研究机构，研究恒星光度、天体测量与理论物理。他在第一次世界大战服役期间求得爱因斯坦引力场方程的首个重要精确解，不久后因病去世。",
+    "contributions": [
+      "给出球对称真空引力场的史瓦西解，成为黑洞和恒星外部引力研究的基础",
+      "发展恒星测光和天体辐射研究方法",
+      "研究天体力学与观测仪器理论"
+    ],
+    "fields": [
+      "广义相对论",
+      "天体物理",
+      "观测方法"
+    ],
+    "sources": [
+      {
+        "title": "Karl Schwarzschild — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Schwarzschild/"
+      },
+      {
+        "title": "Karl Schwarzschild — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Karl_Schwarzschild"
+      }
+    ]
+  },
+  {
+    "id": "ludwig-prandtl",
+    "name_zh": "路德维希·普朗特",
+    "name_en": "Ludwig Prandtl",
+    "wikipedia_title": "Ludwig Prandtl",
+    "birth": {
+      "date": "1875-02-04",
+      "precision": "day",
+      "display": "1875年2月4日"
+    },
+    "death": {
+      "date": "1953-08-15",
+      "precision": "day",
+      "display": "1953年8月15日"
+    },
+    "biography": "德国物理学家和工程科学家，长期在哥廷根从事流体与空气动力学研究。他把理论、风洞实验和工程问题结合起来，以边界层概念解释黏性在高速主流附近的关键作用，成为现代空气动力学的主要奠基者。",
+    "contributions": [
+      "提出边界层理论，连接理想流体近似与真实黏性流动",
+      "发展机翼升力线理论和风洞实验方法",
+      "研究湍流、混合长度与可压缩流动"
+    ],
+    "fields": [
+      "流体力学",
+      "空气动力学",
+      "湍流"
+    ],
+    "sources": [
+      {
+        "title": "Ludwig Prandtl — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Prandtl/"
+      },
+      {
+        "title": "Ludwig Prandtl — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Ludwig_Prandtl"
+      }
+    ]
+  },
+  {
+    "id": "gilbert-n-lewis",
+    "name_zh": "吉尔伯特·牛顿·路易斯",
+    "name_en": "Gilbert N. Lewis",
+    "wikipedia_title": "Gilbert N. Lewis",
+    "birth": {
+      "date": "1875-10-23",
+      "precision": "approximate",
+      "display": "1875年10月23日（另有10月25日记载）"
+    },
+    "death": {
+      "date": "1946-03-23",
+      "precision": "day",
+      "display": "1946年3月23日"
+    },
+    "biography": "美国物理化学家，长期在加利福尼亚大学伯克利分校任教并建设化学研究体系。他研究自由能、电化学和化学键，将热力学方法用于实际物质体系；其工作跨越物理化学、同位素与早期光量子语言。",
+    "contributions": [
+      "发展化学热力学中活度与逸度的概念，处理非理想体系",
+      "系统推广自由能方法和精密热力学数据",
+      "研究电子对化学键及同位素，并于1926年提出光子一词"
+    ],
+    "fields": [
+      "热力学",
+      "物理化学",
+      "原子与分子物理"
+    ],
+    "sources": [
+      {
+        "title": "Gilbert Newton Lewis — UC Berkeley College of Chemistry",
+        "url": "https://chemistry.berkeley.edu/news/gilbert-newton-lewis"
+      },
+      {
+        "title": "Gilbert N. Lewis — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Gilbert_N._Lewis"
+      }
+    ],
+    "notes": [
+      "路易斯最初赋予“光子”的理论含义与现代光量子概念并不完全相同。",
+      "出生日期按伯克利大学化学学院转载的本人简历及纪念文采用10月23日，部分资料记为10月25日。"
+    ]
+  },
+  {
+    "id": "francis-william-aston",
+    "name_zh": "弗朗西斯·威廉·阿斯顿",
+    "name_en": "Francis William Aston",
+    "wikipedia_title": "Francis William Aston",
+    "birth": {
+      "date": "1877-09-01",
+      "precision": "day",
+      "display": "1877年9月1日"
+    },
+    "death": {
+      "date": "1945-11-20",
+      "precision": "day",
+      "display": "1945年11月20日"
+    },
+    "biography": "英国实验物理学家，长期在剑桥卡文迪许实验室研究原子质量，1922年获诺贝尔化学奖。他从气体放电和正射线研究发展高精度质谱技术，揭示大量非放射性元素的同位素组成及原子质量规律。",
+    "contributions": [
+      "研制高分辨质谱仪，测定大量元素的同位素",
+      "建立整数规则的实验依据，推动原子质量和核结构研究",
+      "精确质量测量为理解质量亏损与核结合能提供资料"
+    ],
+    "fields": [
+      "质谱学",
+      "原子核物理",
+      "同位素物理"
+    ],
+    "sources": [
+      {
+        "title": "Francis William Aston — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Francis_William_Aston"
+      },
+      {
+        "title": "Francis William Aston — Nobel Prize official biography",
+        "url": "https://www.nobelprize.org/prizes/chemistry/1922/aston/biographical/"
+      }
+    ]
+  },
+  {
+    "id": "lise-meitner",
+    "name_zh": "莉泽·迈特纳",
+    "name_en": "Lise Meitner",
+    "wikipedia_title": "Lise Meitner",
+    "birth": {
+      "date": "1878-11-07",
+      "precision": "day",
+      "display": "1878年11月7日"
+    },
+    "death": {
+      "date": "1968-10-27",
+      "precision": "day",
+      "display": "1968年10月27日"
+    },
+    "biography": "奥地利出生、后来成为瑞典公民的核物理学家，长期在柏林与奥托·哈恩合作。因纳粹迫害于1938年流亡瑞典，随后与奥托·弗里施从核物理解释铀裂变；她也是女性进入近代物理研究的关键先驱。",
+    "contributions": [
+      "与哈恩等合作研究放射性核素，并共同发现镤的长寿命同位素",
+      "与弗里施提出铀核裂变的物理解释并估算释放能量",
+      "研究贝塔谱与核辐射，推动早期核物理发展"
+    ],
+    "fields": [
+      "原子核物理",
+      "放射性",
+      "核裂变"
+    ],
+    "sources": [
+      {
+        "title": "Lise Meitner — Physics Today, American Institute of Physics",
+        "url": "https://physicstoday.aip.org/news/lise-meitner"
+      },
+      {
+        "title": "Lise Meitner — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Lise_Meitner"
+      }
+    ]
+  },
+  {
+    "id": "torahiko-terada",
+    "name_zh": "寺田寅彦",
+    "name_en": "Torahiko Terada",
+    "wikipedia_title": "Torahiko Terada",
+    "birth": {
+      "date": "1878-11-28",
+      "precision": "day",
+      "display": "1878年11月28日"
+    },
+    "death": {
+      "date": "1935-12-31",
+      "precision": "day",
+      "display": "1935年12月31日"
+    },
+    "biography": "日本物理学家和随笔作家，长期在东京帝国大学从事研究与教学。他研究X射线衍射、地球物理和日常自然现象，重视从观察中提出物理问题，并通过写作传播实验精神和对复杂现象的兴趣。",
+    "contributions": [
+      "早期开展晶体X射线衍射实验并研究其物理解释",
+      "研究地震、气象和自然界中的复杂现象",
+      "推动以实验与细致观察为中心的物理教育和科学传播"
+    ],
+    "fields": [
+      "X射线物理",
+      "地球物理",
+      "实验物理"
+    ],
+    "sources": [
+      {
+        "title": "寺田寅彦 — National Diet Library, Japan",
+        "url": "https://www.ndl.go.jp/portrait/datas/6078"
+      },
+      {
+        "title": "Torahiko Terada — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Torahiko_Terada"
+      }
+    ],
+    "notes": [
+      "出生日期按日本国立国会图书馆为1878年11月28日；部分英文信息框所列12月28日与该来源不符。"
+    ]
+  },
+  {
+    "id": "otto-hahn",
+    "name_zh": "奥托·哈恩",
+    "name_en": "Otto Hahn",
+    "wikipedia_title": "Otto Hahn",
+    "birth": {
+      "date": "1879-03-08",
+      "precision": "day",
+      "display": "1879年3月8日"
+    },
+    "death": {
+      "date": "1968-07-28",
+      "precision": "day",
+      "display": "1968年7月28日"
+    },
+    "biography": "德国放射化学家，长期在柏林研究放射性核素，战后主持马克斯·普朗克学会，1944年获诺贝尔化学奖。他与迈特纳长期合作，后与施特拉斯曼在铀受中子照射的产物中识别钡，为核裂变发现提供关键证据。",
+    "contributions": [
+      "与迈特纳等合作发现和研究多种放射性核素",
+      "与施特拉斯曼通过化学分析发现铀辐照产物中的钡，为核裂变提供决定性实验依据",
+      "发展放射化学分离与示踪方法"
+    ],
+    "fields": [
+      "放射化学",
+      "原子核物理",
+      "核裂变"
+    ],
+    "sources": [
+      {
+        "title": "Otto Hahn — Wikipedia（生卒日期与人物概述）",
+        "url": "https://en.wikipedia.org/wiki/Otto_Hahn"
+      },
+      {
+        "title": "Otto Hahn — Nobel Prize official biography",
+        "url": "https://www.nobelprize.org/prizes/chemistry/1944/hahn/biographical/"
+      }
+    ],
+    "notes": [
+      "核裂变发现涉及哈恩、施特拉斯曼的化学实验及迈特纳、弗里施的物理解释，应保留各自贡献。"
+    ]
+  }
+]

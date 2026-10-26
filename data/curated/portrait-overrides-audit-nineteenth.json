@@ -1,0 +1,62 @@
+{
+  "Eunice Newton Foote": {
+    "commons_file": "Passport_description_of_Foote.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Passport_description_of_Foote.jpg",
+    "kind": "context_image",
+    "depiction_note": "护照中的外貌描述页，并非肖像；尚未取得可核实的人物肖像。"
+  },
+  "Rudolf Kohlrausch": {
+    "commons_file": "Rudolf_Kohlrausch.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Rudolf_Kohlrausch.jpg",
+    "tested_download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Rudolf_Kohlrausch.jpg/500px-Rudolf_Kohlrausch.jpg",
+    "verified_local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/audit19-rudolf-kohlrausch.jpg",
+    "kind": "portrait"
+  },
+  "Ferdinand Kurlbaum": {
+    "commons_file": "Rudolf_Dührkoop_-_Ferdinand_Kurlbaum_(1907)_(KTHzB.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Rudolf_D%C3%BChrkoop_-_Ferdinand_Kurlbaum_(1907)_(KTHzB.jpg",
+    "tested_download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Rudolf_D%C3%BChrkoop_-_Ferdinand_Kurlbaum_%281907%29_%28KTHzB.jpg/500px-Rudolf_D%C3%BChrkoop_-_Ferdinand_Kurlbaum_%281907%29_%28KTHzB.jpg",
+    "verified_local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/audit19-kurlbaum.jpg",
+    "kind": "portrait"
+  },
+  "Gustav Mie": {
+    "external_image_url": "https://www.ugr.es/~aquiran/ciencia/mie/GustavMie.gif",
+    "source_url": "https://www.ugr.es/~aquiran/mie.htm",
+    "tested_download_url": "https://www.ugr.es/~aquiran/ciencia/mie/GustavMie.gif",
+    "verified_local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/audit19-mie.gif",
+    "kind": "portrait",
+    "license": "版权所有或再发布授权未确认；网站发布前须核实授权",
+    "rights_status": "permission_required",
+    "credit": "Arturo Quirantes, University of Granada, Mie Translation Project"
+  },
+  "Heinrich Rubens": {
+    "external_image_url": "https://www.sammlungen.hu-berlin.de/protected/sammlung/dokument/0000/0000/0000/0000/0000/0004/8356/content.400.png",
+    "source_url": "https://www.sammlungen.hu-berlin.de/objekte/portraetsammlung-berliner-hochschullehrer/13206/",
+    "tested_download_url": "https://www.sammlungen.hu-berlin.de/protected/sammlung/dokument/0000/0000/0000/0000/0000/0004/8356/content.400.png",
+    "verified_local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/audit19-rubens.png",
+    "kind": "portrait",
+    "license": "版权所有或再发布授权未确认；网站发布前须核实授权",
+    "rights_status": "permission_required",
+    "credit": "Humboldt-Universität zu Berlin, Universitätsbibliothek, portrait collection, item13206"
+  },
+  "Julius Elster": {
+    "external_image_url": "file:///Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/audit19-elster-geitel-face-000.jpg",
+    "source_url": "https://hgss.copernicus.org/articles/8/1/2017/",
+    "kind": "portrait",
+    "license": "CC BY 3.0 (article); historical photo credited Archiv Fricke, see source",
+    "verified_license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "rights_status": "source_license_recorded",
+    "credit": "Fricke and Schlegel 2017, Figure 1; photo Archiv Fricke",
+    "depiction_note": "埃尔斯特与盖特尔进行实验的历史双人照片，原样提取自Fricke与Schlegel2017年论文图1；不是单人头像。"
+  },
+  "Hans Geitel": {
+    "external_image_url": "file:///Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/audit19-elster-geitel-face-000.jpg",
+    "source_url": "https://hgss.copernicus.org/articles/8/1/2017/",
+    "kind": "portrait",
+    "license": "CC BY 3.0 (article); historical photo credited Archiv Fricke, see source",
+    "verified_license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "rights_status": "source_license_recorded",
+    "credit": "Fricke and Schlegel 2017, Figure 1; photo Archiv Fricke",
+    "depiction_note": "埃尔斯特与盖特尔进行实验的历史双人照片，原样提取自Fricke与Schlegel2017年论文图1；不是单人头像。"
+  }
+}

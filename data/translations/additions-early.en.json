@@ -1,0 +1,1749 @@
+[
+  {
+    "id": "hypatia",
+    "name_en": "Hypatia",
+    "biography": "Hypatia was a mathematician, teacher of astronomy and Neoplatonic philosopher in late antique Alexandria, and the daughter of Theon. She taught mathematics and philosophy and helped transmit astronomical learning. Her works and life must largely be reconstructed from later testimony. She was murdered by a mob in 415.",
+    "contributions": [
+      "Taught and transmitted mathematics used in astronomical calculation.",
+      "Letters associated with her scholarly circle document knowledge of instruments such as astrolabes and hydrometers, without establishing that she invented them."
+    ],
+    "fields": [
+      "Astronomy",
+      "History of mathematical physics"
+    ],
+    "birth_display": "c. 355–370 CE",
+    "death_display": "March 415 CE",
+    "notes": [
+      "Birth is commonly estimated around 355 or 370; she died in March 415, without a securely established exact day.",
+      "References in students’ letters do not establish that Hypatia invented the astrolabe or hydrometer."
+    ],
+    "portrait_alt": "Image associated with Hypatia",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Hypatia",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hypatia/"
+      },
+      {
+        "title": "Wikipedia — Hypatia",
+        "url": "https://en.wikipedia.org/wiki/Hypatia"
+      }
+    ]
+  },
+  {
+    "id": "aryabhata",
+    "name_en": "Aryabhata",
+    "biography": "Aryabhata was an Indian mathematician and astronomer best known for the Aryabhatiya, written in 499. His birthplace is disputed. He applied mathematical computation to celestial periods, eclipses and Earth's motion and became a major figure in Indian mathematical astronomy. His exact death date is unknown.",
+    "contributions": [
+      "Explained the apparent daily motion of the stars through Earth's rotation.",
+      "Explained eclipses through the shadows of Earth and Moon and developed computational methods for celestial positions."
+    ],
+    "fields": [
+      "Mathematical astronomy",
+      "Earth's motion"
+    ],
+    "birth_display": "476 CE",
+    "death_display": "c. 550 CE",
+    "notes": [
+      "The birth year is inferred mainly from an age statement in his work; 550 is a conventional approximate death year, not an established exact date."
+    ],
+    "portrait_alt": "Image associated with Aryabhata",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Aryabhata",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Aryabhata_I/"
+      },
+      {
+        "title": "Wikipedia — Aryabhata",
+        "url": "https://en.wikipedia.org/wiki/Aryabhata"
+      }
+    ]
+  },
+  {
+    "id": "john-philoponus",
+    "name_en": "John Philoponus",
+    "biography": "John Philoponus was a late antique Alexandrian philosopher and commentator on Aristotle, educated under Ammonius. He criticized inherited accounts of motion and the cosmos through argument and experience. His writings reached later natural philosophy through Syriac, Arabic and Latin traditions.",
+    "contributions": [
+      "Criticized accounts in which a projectile is continually pushed by the surrounding medium and discussed an imparted capacity for motion.",
+      "Challenged a strict proportionality between falling speed and weight and considered the possibility of motion in a vacuum."
+    ],
+    "fields": [
+      "History of theories of motion",
+      "Natural philosophy"
+    ],
+    "birth_display": "c. 490 CE",
+    "death_display": "c. 570 CE",
+    "notes": [
+      "Life dates are approximate; his imparted motive capacity must not be equated with modern momentum or Newtonian inertia."
+    ],
+    "portrait_alt": "Image associated with John Philoponus",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — John Philoponus",
+        "url": "https://plato.stanford.edu/entries/philoponus/"
+      },
+      {
+        "title": "Wikipedia — John Philoponus",
+        "url": "https://en.wikipedia.org/wiki/John_Philoponus"
+      }
+    ]
+  },
+  {
+    "id": "brahmagupta",
+    "name_en": "Brahmagupta",
+    "biography": "Brahmagupta was an Indian mathematician and astronomer associated with the Ujjain tradition who composed the Brahmasphutasiddhanta in 628. Alongside numerical methods, he treated celestial calculation, eclipses and instruments, applying mathematics to practical astronomical questions. His death year is only approximate.",
+    "contributions": [
+      "Developed calculations for celestial longitudes, eclipses and conjunctions.",
+      "Investigated spherical astronomy and observational instruments, extending Indian quantitative astronomy."
+    ],
+    "fields": [
+      "Mathematical astronomy",
+      "Astronomical measurement"
+    ],
+    "birth_display": "598 CE",
+    "death_display": "c. 668–670 CE",
+    "notes": [
+      "Birth is usually dated 598; death is variously estimated around 668 or 670."
+    ],
+    "portrait_alt": "Image associated with Brahmagupta",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Brahmagupta",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Brahmagupta/"
+      },
+      {
+        "title": "Wikipedia — Brahmagupta",
+        "url": "https://en.wikipedia.org/wiki/Brahmagupta"
+      }
+    ]
+  },
+  {
+    "id": "thabit-ibn-qurra",
+    "name_en": "Thabit ibn Qurra",
+    "biography": "Thabit ibn Qurra was a Sabian mathematician, astronomer and translator from Harran who later worked in Baghdad. He translated and reworked Greek mathematical and scientific texts and connected astronomy, geometry and statics. Sources differ on his birth year, commonly giving approximately 826 or 836.",
+    "contributions": [
+      "Investigated levers, equilibrium and centres of gravity, developing statics in Arabic mathematical scholarship.",
+      "Studied celestial motion, the length of the solar year and geometrical methods in astronomy."
+    ],
+    "fields": [
+      "Statics",
+      "Mathematical astronomy"
+    ],
+    "birth_display": "c. 826–836 CE",
+    "death_display": "18 February 901 CE",
+    "notes": [
+      "Sources give birth around 826 or 836; no exact day is established, and the interval is retained."
+    ],
+    "portrait_alt": "Image associated with Thabit ibn Qurra",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Thabit ibn Qurra",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Thabit/"
+      },
+      {
+        "title": "Wikipedia — Thabit ibn Qurra",
+        "url": "https://en.wikipedia.org/wiki/Th%C4%81bit_ibn_Qurra"
+      }
+    ]
+  },
+  {
+    "id": "avicenna",
+    "name_en": "Avicenna",
+    "biography": "Avicenna, or Ibn Sina, was a medieval philosopher, physician and natural investigator active in Central Asia and Iran. Encyclopedic works such as the Book of Healing treated motion, time, media and celestial bodies. His system strongly influenced subsequent Arabic and Latin scholastic traditions.",
+    "contributions": [
+      "Used the concept of inclination in accounts of forced and projectile motion within an Aristotelian framework.",
+      "Systematically discussed physical bodies, time, space and celestial motion, shaping medieval natural philosophy."
+    ],
+    "fields": [
+      "History of theories of motion",
+      "Natural philosophy"
+    ],
+    "birth_display": "c. 980 CE",
+    "death_display": "June 1037",
+    "notes": [
+      "Birth year and death month follow conventional historical dating; exact converted days are not treated as undisputed."
+    ],
+    "portrait_alt": "Image associated with Avicenna",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Avicenna",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Avicenna/"
+      },
+      {
+        "title": "Wikipedia — Avicenna",
+        "url": "https://en.wikipedia.org/wiki/Avicenna"
+      }
+    ]
+  },
+  {
+    "id": "nasir-al-din-al-tusi",
+    "name_en": "Nasir al-Din al-Tusi",
+    "biography": "Al-Tusi was a thirteenth-century Iranian mathematician and astronomer who worked under successive patrons and organized the Maragha observatory. He contributed to observations and astronomical tables and used geometrical devices to revise Ptolemaic astronomy, becoming a central figure in medieval models of celestial motion.",
+    "contributions": [
+      "Introduced the Tusi couple, a construction producing linear oscillation from two uniform circular motions.",
+      "Organized observations and tables at Maragha and advanced applications of spherical trigonometry in astronomy."
+    ],
+    "fields": [
+      "Mathematical astronomy",
+      "Models of celestial motion"
+    ],
+    "birth_display": "18 February 1201",
+    "death_display": "26 June 1274",
+    "notes": [],
+    "portrait_alt": "Image associated with Nasir al-Din al-Tusi",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Nasir al-Din al-Tusi",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Tusi_Nasir/"
+      },
+      {
+        "title": "Wikipedia — Nasir al-Din al-Tusi",
+        "url": "https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi"
+      }
+    ]
+  },
+  {
+    "id": "witelo",
+    "name_en": "Witelo",
+    "biography": "Witelo was a thirteenth-century scholar active in Silesia and Italy whose exact dates and parts of his life are disputed. His ten-book Perspectiva organized knowledge of vision, reflection and refraction, transmitting Ibn al-Haytham's research to Latin scholarship and later influencing Kepler's optics.",
+    "contributions": [
+      "Systematized geometrical treatments of reflection, refraction and vision.",
+      "Transmitted Arabic optical research through the Latin Perspectiva, providing important material for later studies of vision and imaging."
+    ],
+    "fields": [
+      "Geometrical optics",
+      "History of vision science"
+    ],
+    "birth_display": "c. 1230",
+    "death_display": "after 1280; exact year unknown",
+    "notes": [
+      "His dates are substantially uncertain: birth around 1230 and death after 1280, with some reconstructions placing death around 1314."
+    ],
+    "portrait_alt": "Image associated with Witelo",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "Columbia University, Chaucer Name Dictionary — Vitulon (Witelo)",
+        "url": "http://www.columbia.edu/dlc/garland/deweever/UV/vitulon.htm"
+      },
+      {
+        "title": "Wikipedia — Witelo",
+        "url": "https://en.wikipedia.org/wiki/Witelo"
+      }
+    ]
+  },
+  {
+    "id": "theodoric-of-freiberg",
+    "name_en": "Theodoric of Freiberg",
+    "biography": "Theodoric, or Dietrich, of Freiberg was a German Dominican scholar who studied in Paris and held offices in his order. He investigated knowledge, natural philosophy and optics and analyzed the rainbow through experiment and geometry. His exact birth and death years are not established.",
+    "contributions": [
+      "Used models such as water-filled glass spheres to analyze refraction and internal reflection in primary and secondary rainbows.",
+      "Connected ray paths in individual droplets to the rainbow seen by an observer, advancing its quantitative explanation."
+    ],
+    "fields": [
+      "Geometrical optics",
+      "Physics of the rainbow"
+    ],
+    "birth_display": "c. 1250",
+    "death_display": "after 1310; exact year unknown",
+    "notes": [
+      "Exact life dates are unknown; birth is estimated around 1250, and he may have lived beyond 1310."
+    ],
+    "portrait_alt": "Image associated with Theodoric of Freiberg",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Dietrich of Freiberg",
+        "url": "https://plato.stanford.edu/entries/dietrich-freiberg/"
+      },
+      {
+        "title": "Wikipedia — Theodoric of Freiberg",
+        "url": "https://en.wikipedia.org/wiki/Theodoric_of_Freiberg"
+      }
+    ]
+  },
+  {
+    "id": "kamal-al-din-al-farisi",
+    "name_en": "Kamal al-Din al-Farisi",
+    "biography": "Al-Farisi was a medieval Iranian mathematician and optical scholar who studied under Qutb al-Din al-Shirazi. In a revision of Ibn al-Haytham's Optics, he developed experimental and geometrical analysis and used transparent spheres as models of raindrops. Biographical sources differ on his dates.",
+    "contributions": [
+      "Explained primary and secondary rainbows through refraction and internal reflection in spherical water drops.",
+      "Extended Ibn al-Haytham's optical tradition through experimental models and geometrical analysis."
+    ],
+    "fields": [
+      "Geometrical optics",
+      "Physics of the rainbow"
+    ],
+    "birth_display": "c. 1260–1267",
+    "death_display": "c. 1319–1320",
+    "notes": [
+      "Birth has been placed around 1260, 1265 or 1267, and death in 1319 or around 1320; approximate ranges and source differences are retained."
+    ],
+    "portrait_alt": "Image associated with Kamal al-Din al-Farisi",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Kamal al-Din al-Farisi",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Farisi/"
+      },
+      {
+        "title": "Wikipedia — Kamal al-Din al-Farisi",
+        "url": "https://en.wikipedia.org/wiki/Kamal_al-Din_al-Farisi"
+      }
+    ]
+  },
+  {
+    "id": "thomas-harriot",
+    "name_en": "Thomas Harriot",
+    "biography": "Harriot was an English mathematician, astronomer and investigator of navigation who served Raleigh and the Earl of Northumberland and joined a colonial expedition to North America. He studied refraction, ballistics and celestial objects, leaving extensive unpublished manuscripts. His telescopic lunar sketches predated Galileo's published lunar observations.",
+    "contributions": [
+      "Independently obtained the sine relation for refraction but did not publish it during his lifetime.",
+      "Made early telescopic observations of the Moon and sunspots and applied mathematics to ballistics and navigation."
+    ],
+    "fields": [
+      "Geometrical optics",
+      "Observational astronomy",
+      "Ballistics"
+    ],
+    "birth_display": "c. 1560",
+    "death_display": "2 July 1621",
+    "notes": [
+      "Birth around 1560 is inferred from records such as his age at matriculation; no exact day is established. Much optical and astronomical work was not formally published in his lifetime."
+    ],
+    "portrait_alt": "Image associated with Thomas Harriot",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Thomas Harriot",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Harriot/"
+      },
+      {
+        "title": "Wikipedia — Thomas Harriot",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Harriot"
+      }
+    ]
+  },
+  {
+    "id": "benedetto-castelli",
+    "name_en": "Benedetto Castelli",
+    "biography": "Castelli was an Italian Benedictine monk, mathematician and pupil of Galileo who taught in Pisa and Rome. He connected mathematics with hydraulic engineering and investigated flow in rivers and channels. His On the Measurement of Running Waters was an important early work of quantitative hydraulics.",
+    "contributions": [
+      "Discussed continuity of flow through relationships between velocity and cross-sectional area.",
+      "Applied mathematical measurement to rivers, channels and hydraulic engineering, advancing quantitative studies of fluids."
+    ],
+    "fields": [
+      "Fluid mechanics",
+      "Hydraulics"
+    ],
+    "birth_display": "1578",
+    "death_display": "9 April 1643",
+    "notes": [],
+    "portrait_alt": "Image associated with Benedetto Castelli",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Benedetto Castelli",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Castelli/"
+      },
+      {
+        "title": "Wikipedia — Benedetto Castelli",
+        "url": "https://en.wikipedia.org/wiki/Benedetto_Castelli"
+      }
+    ]
+  },
+  {
+    "id": "marin-mersenne",
+    "name_en": "Marin Mersenne",
+    "biography": "Mersenne was a French friar, mathematician and natural investigator who maintained a major correspondence network in Paris, connecting Galileo, Descartes and other European scholars. He studied sound, vibrations and instruments and turned musical questions into measurable physical problems through experiments and books.",
+    "contributions": [
+      "Investigated the dependence of a stretched string's frequency on its length, tension and linear density.",
+      "Performed experiments on sound speed and vibration and advanced quantitative acoustics in works including Harmonie universelle."
+    ],
+    "fields": [
+      "Acoustics",
+      "Vibrations"
+    ],
+    "birth_display": "8 September 1588",
+    "death_display": "1 September 1648",
+    "notes": [],
+    "portrait_alt": "Image associated with Marin Mersenne",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Marin Mersenne",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Mersenne/"
+      },
+      {
+        "title": "Wikipedia — Marin Mersenne",
+        "url": "https://en.wikipedia.org/wiki/Marin_Mersenne"
+      }
+    ]
+  },
+  {
+    "id": "francesco-maria-grimaldi",
+    "name_en": "Francesco Maria Grimaldi",
+    "biography": "Grimaldi was an Italian Jesuit scholar in Bologna who investigated astronomy, mechanics and optics and collaborated with Riccioli on lunar observations and falling bodies. His posthumously published optical work described complex light distributions near obstacles, opening the study of diffraction.",
+    "contributions": [
+      "Observed and named diffraction, studying bright and dark structures near apertures and obstacles.",
+      "Collaborated with Riccioli on timing falling bodies and observing the Moon, advancing precision astronomical and mechanical experiments."
+    ],
+    "fields": [
+      "Wave optics",
+      "Experimental mechanics"
+    ],
+    "birth_display": "2 April 1618",
+    "death_display": "28 December 1663",
+    "notes": [
+      "Death follows MacTutor and standard biographies: 28 December 1663; some online infobox data have incorrectly shown 28 August."
+    ],
+    "portrait_alt": "Image associated with Francesco Maria Grimaldi",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Francesco Maria Grimaldi",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Grimaldi/"
+      },
+      {
+        "title": "Wikipedia — Francesco Maria Grimaldi",
+        "url": "https://en.wikipedia.org/wiki/Francesco_Maria_Grimaldi"
+      }
+    ]
+  },
+  {
+    "id": "edme-mariotte",
+    "name_en": "Edme Mariotte",
+    "biography": "Mariotte was a French experimental scientist and cleric and an early member of the Paris royal academy from 1666. He investigated air, liquids, collisions and vision through controlled experiments and quantitative relationships. His birth year is approximate, and his gas research developed independently of Boyle's.",
+    "contributions": [
+      "Independently investigated the approximate inverse pressure-volume relation for a fixed amount of gas at constant temperature.",
+      "Investigated fluid motion and collisions and discovered the visual blind spot."
+    ],
+    "fields": [
+      "Gas physics",
+      "Fluid mechanics",
+      "Vision science"
+    ],
+    "birth_display": "c. 1620",
+    "death_display": "12 or 21 May 1684",
+    "notes": [
+      "Birth is approximately 1620; sources give both 12 and 21 May 1684 for death, which must not be conflated."
+    ],
+    "portrait_alt": "Image associated with Edme Mariotte",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "Rice University Galileo Project — Edme Mariotte",
+        "url": "https://galileo.library.rice.edu/Catalog/NewFiles/mariotte.html"
+      },
+      {
+        "title": "Wikipedia — Edme Mariotte",
+        "url": "https://en.wikipedia.org/wiki/Edme_Mariotte"
+      }
+    ]
+  },
+  {
+    "id": "jacob-bernoulli",
+    "name_en": "Jacob Bernoulli",
+    "biography": "Jacob Bernoulli was a Swiss mathematician and elder brother of Johann who taught in Basel. An early investigator of calculus and variational questions, he connected curves, probability and mechanics. His studies of elastic curves and hanging chains contributed to the development of analytical mechanics.",
+    "contributions": [
+      "Investigated the catenary, isochronous curves and brachistochrone-related problems in mathematical physics.",
+      "Studied the equilibrium shapes of bent elastic rods, advancing the mathematical theory of elastic curves."
+    ],
+    "fields": [
+      "Calculus of variations",
+      "Elasticity"
+    ],
+    "birth_display": "6 January 1655",
+    "death_display": "16 August 1705",
+    "notes": [],
+    "portrait_alt": "Image associated with Jacob Bernoulli",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Jacob Bernoulli",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bernoulli_Jacob/"
+      },
+      {
+        "title": "Wikipedia — Jacob Bernoulli",
+        "url": "https://en.wikipedia.org/wiki/Jacob_Bernoulli"
+      }
+    ]
+  },
+  {
+    "id": "francis-hauksbee",
+    "name_en": "Francis Hauksbee",
+    "biography": "Hauksbee was an English instrument maker and experimental investigator from Colchester who performed numerous demonstrations for the Royal Society. He improved air pumps and frictional electrical devices and systematically studied luminescence in rarefied gases and static electricity, publishing his experiments in 1709.",
+    "contributions": [
+      "Improved double-barrel air pumps and rotating-glass electrical machines.",
+      "Investigated electrical luminescence, static electricity and capillarity, helping establish eighteenth-century electrical experimentation."
+    ],
+    "fields": [
+      "Electrostatics",
+      "Gas discharge",
+      "Experimental instruments"
+    ],
+    "birth_display": "c. 1660",
+    "death_display": "April 1713",
+    "notes": [
+      "27 May 1660 is baptism and 29 April 1713 burial, not securely established birth and death days; he must also be distinguished from his nephew of the same name."
+    ],
+    "portrait_alt": "Image associated with Francis Hauksbee",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "Royal Society — Francis Hauksbee",
+        "url": "https://makingscience.royalsociety.org/people/na8345/francis-hauksbee"
+      },
+      {
+        "title": "Museo Galileo — Francis Hauksbee Senior",
+        "url": "https://catalogue.museogalileo.it/biography/FrancisHauksbeeSenior.html"
+      },
+      {
+        "title": "Wikipedia — Francis Hauksbee",
+        "url": "https://en.wikipedia.org/wiki/Francis_Hauksbee"
+      }
+    ]
+  },
+  {
+    "id": "thomas-newcomen",
+    "name_en": "Thomas Newcomen",
+    "biography": "Newcomen was an ironmonger and inventor from Dartmouth who developed mine-pumping machinery with John Calley and other collaborators. Entering service around 1712, the Newcomen atmospheric engine used pressure differences produced by steam condensation to move a piston and became a major milestone in practical steam power.",
+    "contributions": [
+      "Developed a practical atmospheric steam engine for draining mines.",
+      "Combined condensation, atmospheric pressure and mechanical transmission, providing a foundation for later steam-engine improvements."
+    ],
+    "fields": [
+      "Heat-engine engineering",
+      "Pressure technology"
+    ],
+    "birth_display": "c. 1663–1664",
+    "death_display": "5 August 1729",
+    "notes": [
+      "Birth is approximately 1663–1664; 24 February 1664 is baptism, not an established exact birthday."
+    ],
+    "portrait_alt": "Image associated with Thomas Newcomen",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "Science Museum — In pursuit of power",
+        "url": "https://blog.sciencemuseum.org.uk/a-new-age/"
+      },
+      {
+        "title": "BBC History — Thomas Newcomen",
+        "url": "https://www.bbc.co.uk/history/historic_figures/newcomen_thomas.shtml"
+      },
+      {
+        "title": "Wikipedia — Thomas Newcomen",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Newcomen"
+      }
+    ]
+  },
+  {
+    "id": "stephen-gray",
+    "name_en": "Stephen Gray",
+    "biography": "Gray was an English dyer and amateur natural investigator from Canterbury who also made astronomical and microscopic observations. Late in life he systematically investigated conduction and insulation and became the first Copley Medal recipient. Some details of his life and exact death date remain uncertain.",
+    "contributions": [
+      "Demonstrated electrical transmission between separated objects using long connections and suspended bodies.",
+      "Investigated how materials and supports affect conduction and charge retention, advancing distinctions between conductors and insulators."
+    ],
+    "fields": [
+      "Electrostatics",
+      "Electrical conduction"
+    ],
+    "birth_display": "c. 1666",
+    "death_display": "February 1736; exact day disputed",
+    "notes": [
+      "26 December 1666 is baptism; death is variously given as 7, 15 or 25 February, so only the month and explicit dispute are retained."
+    ],
+    "portrait_alt": "Image associated with Stephen Gray",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "Royal Society — Stephen Gray",
+        "url": "https://makingscience.royalsociety.org/people/na7365/stephen-gray"
+      },
+      {
+        "title": "Kent Archaeological Society — New light on Stephen Gray",
+        "url": "https://www.kentarchaeology.org.uk/journal/143/new-light-stephen-gray-frs-1666-1736-canterbury-freeman-dyer"
+      },
+      {
+        "title": "Wikipedia — Stephen Gray",
+        "url": "https://en.wikipedia.org/wiki/Stephen_Gray_%28scientist%29"
+      }
+    ]
+  },
+  {
+    "id": "johann-bernoulli",
+    "name_en": "Johann Bernoulli",
+    "biography": "Johann Bernoulli was a Swiss mathematician, younger brother of Jacob, who taught in Groningen before taking the Basel chair. He developed and disseminated Leibnizian calculus and applied variational reasoning to optics and mechanics. He also participated in debates on vis viva and fluid motion.",
+    "contributions": [
+      "Advanced variational methods through the brachistochrone problem.",
+      "Investigated reflection, refraction, vibrating strings and fluid motion, extending applications of calculus in physics."
+    ],
+    "fields": [
+      "Calculus of variations",
+      "Analytical mechanics",
+      "Fluid mechanics"
+    ],
+    "birth_display": "6 August 1667",
+    "death_display": "1 January 1748",
+    "notes": [
+      "Birth is Gregorian 6 August 1667, corresponding to Julian 27 July, the date given by MacTutor."
+    ],
+    "portrait_alt": "Image associated with Johann Bernoulli",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Johann Bernoulli",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bernoulli_Johann/"
+      },
+      {
+        "title": "Wikipedia — Johann Bernoulli",
+        "url": "https://en.wikipedia.org/wiki/Johann_Bernoulli"
+      }
+    ]
+  },
+  {
+    "id": "brook-taylor",
+    "name_en": "Brook Taylor",
+    "biography": "Taylor was an English mathematician educated at Cambridge who served as secretary of the Royal Society. He investigated series, perspective and mechanics and applied calculus to vibrating strings and motion. His expansion formula became a basic tool for approximation in physical theory.",
+    "contributions": [
+      "Investigated vibrating stretched strings and applied calculus to mechanics.",
+      "Developed Taylor expansions and finite-difference methods, providing general tools for physical approximation and numerical analysis."
+    ],
+    "fields": [
+      "Vibrations",
+      "Mathematical physics"
+    ],
+    "birth_display": "18 August 1685",
+    "death_display": "29 December 1731",
+    "notes": [],
+    "portrait_alt": "Image associated with Brook Taylor",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Brook Taylor",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Taylor/"
+      },
+      {
+        "title": "Wikipedia — Brook Taylor",
+        "url": "https://en.wikipedia.org/wiki/Brook_Taylor"
+      }
+    ]
+  },
+  {
+    "id": "colin-maclaurin",
+    "name_en": "Colin Maclaurin",
+    "biography": "Maclaurin was a Scottish mathematician who taught in Aberdeen and Edinburgh and became an important expositor of Newtonian methods. He connected analysis and geometry with rotating-fluid equilibria, gravitation and tides, helping disseminate Newtonian mathematical traditions.",
+    "contributions": [
+      "Studied ellipsoidal equilibria of uniformly rotating fluids, known as Maclaurin spheroids.",
+      "Developed analytical and series methods and applied them to gravitation, tides and mechanics."
+    ],
+    "fields": [
+      "Fluid mechanics",
+      "Gravitation",
+      "Mathematical physics"
+    ],
+    "birth_display": "February 1698",
+    "death_display": "14 June 1746",
+    "notes": [
+      "No securely agreed exact birthday is available; only February 1698 is retained."
+    ],
+    "portrait_alt": "Image associated with Colin Maclaurin",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Colin Maclaurin",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Maclaurin/"
+      },
+      {
+        "title": "Wikipedia — Colin Maclaurin",
+        "url": "https://en.wikipedia.org/wiki/Colin_Maclaurin"
+      }
+    ]
+  },
+  {
+    "id": "charles-francois-de-cisternay-du-fay",
+    "name_en": "Charles François de Cisternay du Fay",
+    "biography": "Du Fay was a French scientist who served as an army officer before directing the royal garden in Paris and joining the academy. He repeated and extended electrical experiments by Gray and others. In 1733 he distinguished two electrical conditions through regularities of attraction and repulsion.",
+    "contributions": [
+      "Distinguished vitreous and resinous electricity, an important precursor to the later distinction between positive and negative charge.",
+      "Investigated repulsion of like electrical states, attraction of unlike states and electrical transmission, systematizing electrostatic observations."
+    ],
+    "fields": [
+      "Electrostatics"
+    ],
+    "birth_display": "14 September 1698",
+    "death_display": "16 July 1739",
+    "notes": [],
+    "portrait_alt": "Image associated with Charles François de Cisternay du Fay",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "Larousse — Charles François de Cisternay Du Fay",
+        "url": "https://www.larousse.fr/encyclopedie/personnage/Charles_François_de_Cisternay_Du_Fay/117257"
+      },
+      {
+        "title": "SPARK Museum — Two kinds of electrical fluid: Vitreous and Resinous",
+        "url": "http://www.sparkmuseum.com/BOOK_DUFAY.HTM"
+      },
+      {
+        "title": "Wikipedia — Charles François de Cisternay du Fay",
+        "url": "https://en.wikipedia.org/wiki/Charles_Fran%C3%A7ois_de_Cisternay_du_Fay"
+      }
+    ]
+  },
+  {
+    "id": "pierre-louis-maupertuis",
+    "name_en": "Pierre Louis Maupertuis",
+    "biography": "Maupertuis was a French mathematician and astronomer who led the Lapland meridian expedition and later headed the Berlin academy. He tested Newtonian predictions about Earth's figure and proposed an extremal principle for action. His philosophical writings and priority disputes influenced eighteenth-century science.",
+    "contributions": [
+      "Used Lapland measurements to support the flattening of Earth at the poles.",
+      "Proposed an early principle of least action, advancing variational ideas in theories of nature."
+    ],
+    "fields": [
+      "Geodesy",
+      "Variational principles"
+    ],
+    "birth_display": "28 September 1698",
+    "death_display": "27 July 1759",
+    "notes": [],
+    "portrait_alt": "Image associated with Pierre Louis Maupertuis",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Pierre Louis Maupertuis",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Maupertuis/"
+      },
+      {
+        "title": "Wikipedia — Pierre Louis Maupertuis",
+        "url": "https://en.wikipedia.org/wiki/Pierre_Louis_Maupertuis"
+      }
+    ]
+  },
+  {
+    "id": "benjamin-robins",
+    "name_en": "Benjamin Robins",
+    "biography": "Robins was an English mathematician and engineer from a Quaker family who studied Newtonian mathematics, gunnery and air resistance before working in India. His New Principles of Gunnery of 1742 brought experimental velocity measurements into ballistics, changing approaches based mainly on practical rules.",
+    "contributions": [
+      "Invented the ballistic pendulum to measure projectile speed through momentum transfer.",
+      "Investigated air resistance on fast projectiles, combining experimental measurement and mathematics in ballistics."
+    ],
+    "fields": [
+      "Ballistics",
+      "Experimental mechanics"
+    ],
+    "birth_display": "c. 1706–1707",
+    "death_display": "20 July 1751",
+    "notes": [
+      "Birth is often given as 1707, while MacTutor cites Quaker records for 16 April 1706; the approximate interval 1706–1707 is retained."
+    ],
+    "portrait_alt": "Image associated with Benjamin Robins",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Benjamin Robins",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Robins/"
+      },
+      {
+        "title": "Wikipedia — Benjamin Robins",
+        "url": "https://en.wikipedia.org/wiki/Benjamin_Robins"
+      }
+    ]
+  },
+  {
+    "id": "laura-bassi",
+    "name_en": "Laura Bassi",
+    "biography": "Bassi was an Italian physicist who received a degree and a paid university teaching position in Bologna in 1732 and later held a chair in experimental physics. With her husband Veratti she maintained a home laboratory, investigated electricity, fluids and optics and taught Newtonian physics despite restrictions on women's education.",
+    "contributions": [
+      "Advanced Newtonian physics in Italy through teaching, experiments and scholarly exchange.",
+      "Investigated electricity, fluid mechanics and optics and developed laboratory teaching and research in her home laboratory."
+    ],
+    "fields": [
+      "Experimental physics",
+      "Electrical science",
+      "Fluid mechanics"
+    ],
+    "birth_display": "29 October 1711",
+    "death_display": "20 February 1778",
+    "notes": [
+      "Birth follows Bologna University archival and commemorative material: 29 October 1711; MacTutor and some other sources give 31 October."
+    ],
+    "portrait_alt": "Image associated with Laura Bassi",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Laura Bassi",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bassi/"
+      },
+      {
+        "title": "University of Bologna Historical Archive — Laura Bassi Veratti",
+        "url": "https://archiviostorico.unibo.it/it/patrimonio-documentario/ritratti-di-docenti?record=95198"
+      },
+      {
+        "title": "University of Bologna Magazine — Laura Bassi compie trecento anni",
+        "url": "https://magazine.unibo.it/it/articoli/laura_bassi_compie_trecento_anni"
+      },
+      {
+        "title": "Wikipedia — Laura Bassi",
+        "url": "https://en.wikipedia.org/wiki/Laura_Bassi"
+      }
+    ]
+  },
+  {
+    "id": "alexis-clairaut",
+    "name_en": "Alexis Clairaut",
+    "biography": "Clairaut was a French mathematician and astronomer admitted to the academy while young who joined Maupertuis's Lapland expedition. He applied differential equations to Earth's figure, lunar motion and cometary orbits and advised du Châtelet on Newtonian mechanics, becoming a major eighteenth-century mathematical physicist.",
+    "contributions": [
+      "Developed Clairaut's theory connecting Earth's figure, gravity and rotation.",
+      "Improved lunar perturbation calculations and worked with collaborators on predicting the return of Halley's comet."
+    ],
+    "fields": [
+      "Celestial mechanics",
+      "Geophysics"
+    ],
+    "birth_display": "13 May 1713",
+    "death_display": "17 May 1765",
+    "notes": [
+      "Birth follows the French Academy of Sciences tercentenary material: 13 May 1713; MacTutor and some older sources give 7 May."
+    ],
+    "portrait_alt": "Image associated with Alexis Clairaut",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Alexis Clairaut",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Clairaut/"
+      },
+      {
+        "title": "French Academy of Sciences — Clairaut tercentenary programme, 2013",
+        "url": "https://www.academie-sciences.fr/pdf/conf/colloque_130513.pdf"
+      },
+      {
+        "title": "Wikipedia — Alexis Clairaut",
+        "url": "https://en.wikipedia.org/wiki/Alexis_Clairaut"
+      }
+    ]
+  },
+  {
+    "id": "jean-le-rond-dalembert",
+    "name_en": "Jean le Rond d'Alembert",
+    "biography": "D'Alembert was a French mathematician and Enlightenment thinker, abandoned as an infant and educated in Paris, who later co-edited the Encyclopédie. He translated mechanical problems into mathematical relationships and investigated vibrations, fluids and celestial motion, strongly influencing differential equations and analytical mechanics.",
+    "contributions": [
+      "Formulated d'Alembert's principle, connecting dynamics to an equilibrium formulation using virtual work.",
+      "Established and solved the wave equation for a vibrating string and investigated fluid motion and resistance."
+    ],
+    "fields": [
+      "Analytical mechanics",
+      "Wave equations",
+      "Fluid mechanics"
+    ],
+    "birth_display": "16 November 1717",
+    "death_display": "29 October 1783",
+    "notes": [
+      "Birth follows the Académie française: 16 November 1717; MacTutor gives 17 November, a discrepancy retained here."
+    ],
+    "portrait_alt": "Image associated with Jean le Rond d'Alembert",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Jean le Rond d'Alembert",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/DAlembert/"
+      },
+      {
+        "title": "Académie française — Jean Le Rond, dit d’Alembert",
+        "url": "https://www.academie-francaise.fr/les-immortels/jean-le-rond-dit-dalembert"
+      },
+      {
+        "title": "Wikipedia — Jean le Rond d'Alembert",
+        "url": "https://en.wikipedia.org/wiki/Jean_le_Rond_d%27Alembert"
+      }
+    ]
+  },
+  {
+    "id": "franz-aepinus",
+    "name_en": "Franz Aepinus",
+    "biography": "Aepinus was a German-born physicist who worked in Berlin before serving for many years at the St Petersburg academy. He investigated electricity and magnetism within a common mathematical framework and studied the electrical effects of heating tourmaline, publishing an influential theoretical work in 1759.",
+    "contributions": [
+      "Used a mathematical one-fluid electrical theory to describe phenomena including electrostatic induction.",
+      "Investigated pyroelectricity in tourmaline and sought common analytical treatments of electrical and magnetic interactions."
+    ],
+    "fields": [
+      "Electrostatics",
+      "Magnetism",
+      "Pyroelectricity"
+    ],
+    "birth_display": "13 December 1724",
+    "death_display": "10 August 1802",
+    "notes": [
+      "His electrical-fluid model is historical and must not be equated with modern electron or electromagnetic-field theories."
+    ],
+    "portrait_alt": "Image associated with Franz Aepinus",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Franz Aepinus",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Aepinus/"
+      },
+      {
+        "title": "Wikipedia — Franz Aepinus",
+        "url": "https://en.wikipedia.org/wiki/Franz_Aepinus"
+      }
+    ]
+  },
+  {
+    "id": "john-michell",
+    "name_en": "John Michell",
+    "biography": "Michell was an English clergyman and natural investigator who taught at Cambridge before serving a parish in Yorkshire. He studied magnetism, earthquakes, stars and gravitation and designed a torsion-balance experiment to determine Earth's density. Cavendish later used the apparatus in his celebrated experiment.",
+    "contributions": [
+      "Designed torsion-balance apparatus for measuring weak gravitational attraction and Earth's density.",
+      "Discussed dark stars from which light could not escape within Newtonian gravitation and corpuscular optics, and investigated statistical evidence for stellar pairs."
+    ],
+    "fields": [
+      "Gravitational experiments",
+      "History of astrophysics",
+      "Geophysics"
+    ],
+    "birth_display": "25 December 1724",
+    "death_display": "21 April 1793",
+    "notes": [
+      "His dark stars were based on Newtonian gravity and corpuscular light, not the general-relativistic theory of black holes.",
+      "No securely authenticated contemporary likeness was obtained; later representations or contextual documents must be identified as such."
+    ],
+    "portrait_alt": "Image associated with John Michell",
+    "portrait_note": "No securely authenticated contemporary portrait was obtained; the image classification identifies any later depiction or contextual illustration.",
+    "sources": [
+      {
+        "title": "Royal Society — John Michell",
+        "url": "https://makingscience.royalsociety.org/people/na7798/john-michell"
+      },
+      {
+        "title": "Queens’ College Cambridge History Archive — John Michell",
+        "url": "https://history.queens.cam.ac.uk/individuals-interest/john-michell"
+      },
+      {
+        "title": "Wikipedia — John Michell",
+        "url": "https://en.wikipedia.org/wiki/John_Michell"
+      }
+    ]
+  },
+  {
+    "id": "johann-heinrich-lambert",
+    "name_en": "Johann Heinrich Lambert",
+    "biography": "Lambert was a mathematician, physicist and astronomer born in Mulhouse who was largely self-educated and later joined the Berlin academy. He investigated light intensity, reflection, heat and celestial systems. His Photometria of 1760 systematically quantified brightness and illumination.",
+    "contributions": [
+      "Developed quantitative photometry and investigated illumination, absorption and diffuse reflection.",
+      "Investigated heat conduction, astronomical distances and cosmic structure through measurement and mathematical models."
+    ],
+    "fields": [
+      "Photometry",
+      "Thermal physics",
+      "Astronomy"
+    ],
+    "birth_display": "26 August 1728",
+    "death_display": "25 September 1777",
+    "notes": [],
+    "portrait_alt": "Image associated with Johann Heinrich Lambert",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Johann Heinrich Lambert",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Lambert/"
+      },
+      {
+        "title": "Wikipedia — Johann Heinrich Lambert",
+        "url": "https://en.wikipedia.org/wiki/Johann_Heinrich_Lambert"
+      }
+    ]
+  },
+  {
+    "id": "rene-just-hauy",
+    "name_en": "René Just Haüy",
+    "biography": "Haüy was a French priest and mineralogist who taught and studied collections in Paris. From crystal cleavage and geometry he developed an account of external forms built from regularly arranged small units. His investigations of physical properties made him a founder of geometrical crystallography.",
+    "contributions": [
+      "Explained crystal forms through structural units and rational geometrical relationships, advancing geometrical crystallography.",
+      "Investigated cleavage, symmetry and electrical and other physical properties of minerals, connecting mineralogy and physics."
+    ],
+    "fields": [
+      "Crystallography",
+      "Mineral physics"
+    ],
+    "birth_display": "28 February 1743",
+    "death_display": "1 or 3 June 1822",
+    "notes": [
+      "Sources give 1 or 3 June 1822 for death, with the latter also identified as the burial date; the month and discrepancy are retained."
+    ],
+    "portrait_alt": "Image associated with René Just Haüy",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "Royal Society — René Just Haüy",
+        "url": "https://catalogues.royalsociety.org/calmview/Record.aspx?id=NA3462&src=CalmView.Persons"
+      },
+      {
+        "title": "Wikipedia — René Just Haüy",
+        "url": "https://en.wikipedia.org/wiki/Ren%C3%A9_Just_Ha%C3%BCy"
+      }
+    ]
+  },
+  {
+    "id": "george-atwood",
+    "name_en": "George Atwood",
+    "biography": "Atwood was an English mathematician and teacher of experimental physics who taught at Cambridge and became a Royal Society fellow. His low-friction pulley and weighted-body apparatus used small accelerations to investigate falling motion. He also studied pendulums, mechanical education and ship stability.",
+    "contributions": [
+      "Invented Atwood's machine, making accelerated motion under gravity easier to demonstrate and measure quantitatively.",
+      "Advanced experimental teaching of Newtonian mechanics and investigated pendulums and mechanical equilibrium."
+    ],
+    "fields": [
+      "Experimental mechanics",
+      "Precision measurement"
+    ],
+    "birth_display": "October 1745",
+    "death_display": "11 July 1807",
+    "notes": [
+      "15 October 1745 is baptism; birth is retained only to the month."
+    ],
+    "portrait_alt": "Image associated with George Atwood",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — George Atwood",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Atwood/"
+      },
+      {
+        "title": "Wikipedia — George Atwood",
+        "url": "https://en.wikipedia.org/wiki/George_Atwood"
+      }
+    ]
+  },
+  {
+    "id": "gaspard-monge",
+    "name_en": "Gaspard Monge",
+    "biography": "Monge was a French mathematician, organizer of engineering education and public figure who worked at Mézières and in Paris and helped establish the École Polytechnique. He investigated surfaces, geometry and differential equations and connected mathematics to mechanical construction and engineering training.",
+    "contributions": [
+      "Established descriptive geometry as a systematic method of representing spatial constructions and engineering designs.",
+      "Investigated surfaces and partial differential equations, supplying methods relevant to geometrical optics, continua and mathematical physics."
+    ],
+    "fields": [
+      "Mathematical physics",
+      "Engineering geometry"
+    ],
+    "birth_display": "9 May 1746",
+    "death_display": "28 July 1818",
+    "notes": [],
+    "portrait_alt": "Image associated with Gaspard Monge",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Gaspard Monge",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Monge/"
+      },
+      {
+        "title": "Wikipedia — Gaspard Monge",
+        "url": "https://en.wikipedia.org/wiki/Gaspard_Monge"
+      }
+    ]
+  },
+  {
+    "id": "giovanni-battista-venturi",
+    "name_en": "Giovanni Battista Venturi",
+    "biography": "Venturi was an Italian cleric, physicist and diplomat who taught in Modena and Pavia. He investigated fluids, electricity and magnetism and the history of science and published experimental work on flowing liquids in Paris. The effect bearing his name later became important in flow measurement.",
+    "contributions": [
+      "Investigated changes of speed and pressure as a fluid passes through a constriction, known as the Venturi effect.",
+      "Connected fluid experiments to hydraulic engineering, providing physical foundations for later Venturi flowmeters."
+    ],
+    "fields": [
+      "Fluid mechanics",
+      "Experimental physics"
+    ],
+    "birth_display": "11 September 1746",
+    "death_display": "10 September 1822",
+    "notes": [],
+    "portrait_alt": "Image associated with Giovanni Battista Venturi",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "Treccani, Dizionario Biografico — Giovanni Battista Venturi",
+        "url": "https://www.treccani.it/enciclopedia/giovanni-battista-venturi_(Dizionario-Biografico)"
+      },
+      {
+        "title": "Wikipedia — Giovanni Battista Venturi",
+        "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Venturi"
+      }
+    ]
+  },
+  {
+    "id": "jacques-charles",
+    "name_en": "Jacques Charles",
+    "biography": "Charles was a French experimental investigator, collector of instruments and balloon pioneer who lectured on physics in Paris. With the Robert brothers he developed hydrogen balloons. His observations on gas expansion were later communicated by Gay-Lussac and others and became associated with the gas law bearing his name.",
+    "contributions": [
+      "Investigated how gas volume changes with temperature at constant pressure.",
+      "Helped build and fly early manned hydrogen balloons, connecting knowledge of gases to aeronautical experiments."
+    ],
+    "fields": [
+      "Gas physics",
+      "Experimental instruments"
+    ],
+    "birth_display": "12 November 1746",
+    "death_display": "7 or 8 April 1823",
+    "notes": [
+      "Sources differ between 7 and 8 April 1823 for death; his gas experiments were communicated principally through later writings by Gay-Lussac."
+    ],
+    "portrait_alt": "Image associated with Jacques Charles",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "Musée des Arts et Métiers — Animorphose, Charles’s physics cabinet",
+        "url": "https://www.arts-et-metiers.net/musee/animorphose"
+      },
+      {
+        "title": "Le Moyne College — Gay-Lussac’s 1802 paper, including Charles’s earlier experiments",
+        "url": "https://web.lemoyne.edu/~giunta/gaygas.html"
+      },
+      {
+        "title": "Wikipedia — Jacques Charles",
+        "url": "https://en.wikipedia.org/wiki/Jacques_Charles"
+      }
+    ]
+  },
+  {
+    "id": "caroline-herschel",
+    "name_en": "Caroline Herschel",
+    "biography": "Caroline Herschel was a Hanover-born astronomer who moved to Britain and worked for many years with her brother William on observations, calculations and catalogues. She also independently discovered comets and nebulae and later received the Royal Astronomical Society's gold medal, becoming a major early professional woman astronomer.",
+    "contributions": [
+      "Independently discovered several comets and observed nebulae.",
+      "Compiled, corrected and extended stellar and nebular catalogues, improving the reliability of observational records."
+    ],
+    "fields": [
+      "Observational astronomy",
+      "Astronomical catalogues"
+    ],
+    "birth_display": "16 March 1750",
+    "death_display": "9 January 1848",
+    "notes": [],
+    "portrait_alt": "Image associated with Caroline Herschel",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Caroline Herschel",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Herschel_Caroline/"
+      },
+      {
+        "title": "Wikipedia — Caroline Herschel",
+        "url": "https://en.wikipedia.org/wiki/Caroline_Herschel"
+      }
+    ]
+  },
+  {
+    "id": "pierre-prevost",
+    "name_en": "Pierre Prévost",
+    "biography": "Prévost was a Genevan philosopher and physicist trained initially in law who taught philosophy in Berlin and Geneva before becoming a professor of general physics. He investigated magnetism and heat and in 1791 proposed explaining thermal equilibrium through the continuing emission and absorption of radiation.",
+    "contributions": [
+      "Proposed the exchange theory of thermal radiation, treating equilibrium as a dynamic balance of emission and absorption.",
+      "Opposed treating cold as a separately radiated substance, advancing concepts used in the study of thermal radiation."
+    ],
+    "fields": [
+      "Thermal radiation",
+      "History of thermal physics"
+    ],
+    "birth_display": "3 March 1751",
+    "death_display": "8 April 1839",
+    "notes": [],
+    "portrait_alt": "Image associated with Pierre Prévost",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "Royal Society — Pierre Prevost",
+        "url": "https://catalogues.royalsociety.org/CalmView/Record.aspx?AddBasket=NA3134&id=NA3134&src=CalmView.Persons"
+      },
+      {
+        "title": "ETH Library — Recherches physico-mécaniques sur la chaleur, 1792",
+        "url": "https://www.e-rara.ch/zut/content/titleinfo/1431800"
+      },
+      {
+        "title": "Wikipedia — Pierre Prévost",
+        "url": "https://en.wikipedia.org/wiki/Pierre_Prevost_%28physicist%29"
+      }
+    ]
+  },
+  {
+    "id": "adrien-marie-legendre",
+    "name_en": "Adrien-Marie Legendre",
+    "biography": "Legendre was a French mathematician who taught at the Paris military school and worked with the academy and geodetic surveys. He investigated planetary attraction, elliptic integrals and observational errors and developed functions and transformations widely used in field theory and mechanics. His portrait was long misidentified.",
+    "contributions": [
+      "Developed Legendre polynomials and related potential-theory methods for gravitation and boundary-value problems.",
+      "Investigated elliptic integrals, least squares and the transformation bearing his name, providing tools for mechanics and mathematical physics."
+    ],
+    "fields": [
+      "Potential theory",
+      "Mathematical physics",
+      "Measurement errors"
+    ],
+    "birth_display": "18 September 1752",
+    "death_display": "9 January 1833",
+    "notes": [
+      "Death follows Inventaire Condorcet, citing a Paris death record: 9 January 1833; MacTutor gives 10 January, also the date of the funeral.",
+      "The familiar formal portrait was commonly of the politician Louis Legendre; the authenticated contemporary depiction of this mathematician is Boilly’s caricature of 1820."
+    ],
+    "portrait_alt": "Image associated with Adrien-Marie Legendre",
+    "portrait_note": "Use the authenticated Boilly caricature of 1820, not the portrait of the politician Louis Legendre formerly misidentified as this mathematician.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Adrien-Marie Legendre",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Legendre/"
+      },
+      {
+        "title": "Inventaire Condorcet — Adrien Marie Le Gendre, archival death-record citation",
+        "url": "https://www.inventaire-condorcet.com/Inventario/Personas_e_instituciones?ID=987"
+      },
+      {
+        "title": "French Academy of Sciences — La Science en caricatures, Lettre 28",
+        "url": "https://www.academie-sciences.fr/pdf/lettre/lettre28.pdf"
+      },
+      {
+        "title": "Wikipedia — Adrien-Marie Legendre",
+        "url": "https://en.wikipedia.org/wiki/Adrien-Marie_Legendre"
+      }
+    ]
+  },
+  {
+    "id": "lazare-carnot",
+    "name_en": "Lazare Carnot",
+    "biography": "Lazare Carnot was a French military engineer, political figure and mathematician, and the father of Sadi Carnot. Alongside military and public responsibilities he investigated machines, collisions and geometry. His treatment of losses and transformations in mechanical motion was an important antecedent of later engine and energy theories.",
+    "contributions": [
+      "Investigated losses of mechanical effect in collisions and machines.",
+      "Analyzed machines through general geometrical and mechanical methods, contributing to engineering mechanics and the historical development of energy concepts."
+    ],
+    "fields": [
+      "Engineering mechanics",
+      "Analytical mechanics"
+    ],
+    "birth_display": "13 May 1753",
+    "death_display": "2 August 1823",
+    "notes": [],
+    "portrait_alt": "Image associated with Lazare Carnot",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Lazare Carnot",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Carnot/"
+      },
+      {
+        "title": "Wikipedia — Lazare Carnot",
+        "url": "https://en.wikipedia.org/wiki/Lazare_Carnot"
+      }
+    ]
+  },
+  {
+    "id": "ernst-chladni",
+    "name_en": "Ernst Chladni",
+    "biography": "Chladni was a German physicist initially trained in law who turned to acoustics and supported his research through travelling lectures and demonstrations. He used sand to reveal nodal lines on vibrating plates and also investigated sound speed, instruments and meteorites, becoming a pioneer of experimental acoustics and meteoritics.",
+    "contributions": [
+      "Made modes and nodal lines of vibrating plates visible through Chladni figures.",
+      "Investigated sound propagation in solids and gases and argued for an extraterrestrial origin of meteorites."
+    ],
+    "fields": [
+      "Acoustics",
+      "Vibrations",
+      "Meteoritics"
+    ],
+    "birth_display": "30 November 1756",
+    "death_display": "3 April 1827",
+    "notes": [],
+    "portrait_alt": "Image associated with Ernst Chladni",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "Deutsche Biographie — Ernst Florenz Friedrich Chladni",
+        "url": "https://www.deutsche-biographie.de/gnd118520490.html?language=en"
+      },
+      {
+        "title": "Wikipedia — Ernst Chladni",
+        "url": "https://en.wikipedia.org/wiki/Ernst_Chladni"
+      }
+    ]
+  },
+  {
+    "id": "amedeo-avogadro",
+    "name_en": "Amedeo Avogadro",
+    "biography": "Avogadro was an Italian scholar initially trained in law who turned to natural science and taught physics in Turin. He distinguished molecular and atomic levels of description and in 1811 proposed a relation between gas volume and particle number under equal conditions. Later reassessment established its importance to molecular science.",
+    "contributions": [
+      "Proposed that equal gas volumes at the same temperature and pressure contain equal numbers of molecules.",
+      "Used molecular ideas to interpret combining gas volumes and relative molecular masses, supporting molecular theory and atomic-weight determination."
+    ],
+    "fields": [
+      "Molecular physics",
+      "Gas physics"
+    ],
+    "birth_display": "9 August 1776",
+    "death_display": "9 July 1856",
+    "notes": [],
+    "portrait_alt": "Image associated with Amedeo Avogadro",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "Science History Institute — Amedeo Avogadro",
+        "url": "https://www.sciencehistory.org/education/scientific-biographies/amedeo-avogadro/"
+      },
+      {
+        "title": "BibNum — Les deux hypothèses d’Avogadro en 1811",
+        "url": "https://www.bibnum.education.fr/chimie/theorie-chimique/les-deux-hypotheses-d-avogadro-en-1811"
+      },
+      {
+        "title": "Wikipedia — Amedeo Avogadro",
+        "url": "https://en.wikipedia.org/wiki/Amedeo_Avogadro"
+      }
+    ]
+  },
+  {
+    "id": "johann-wilhelm-ritter",
+    "name_en": "Johann Wilhelm Ritter",
+    "biography": "Ritter was a German experimental investigator trained initially in pharmacy who worked on electrochemistry and optics in Jena and elsewhere and later joined the Bavarian academy. He used chemical reactions to detect radiation beyond visible violet and studied chemical and physiological effects of electricity.",
+    "contributions": [
+      "Discovered chemically active invisible radiation beyond the violet end of the solar spectrum, now called ultraviolet radiation.",
+      "Investigated electrolysis, polarization and electrical storage, advancing early electrochemistry."
+    ],
+    "fields": [
+      "Ultraviolet optics",
+      "Electrochemistry"
+    ],
+    "birth_display": "16 December 1776",
+    "death_display": "23 January 1810",
+    "notes": [],
+    "portrait_alt": "Image associated with Johann Wilhelm Ritter",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "Deutsche Biographie — Johann Wilhelm Ritter",
+        "url": "https://www.deutsche-biographie.de/gnd118745468.html"
+      },
+      {
+        "title": "Wikipedia — Johann Wilhelm Ritter",
+        "url": "https://en.wikipedia.org/wiki/Johann_Wilhelm_Ritter"
+      }
+    ]
+  },
+  {
+    "id": "henry-kater",
+    "name_en": "Henry Kater",
+    "biography": "Kater was a British soldier, surveyor and experimental investigator who worked on triangulation in India before studying instruments in Britain after retirement. His reversible compound pendulum improved gravity measurements. He also investigated length and mass standards and optical collimating devices.",
+    "contributions": [
+      "Invented Kater's reversible pendulum for precise measurements of local gravitational acceleration.",
+      "Improved surveying, collimation and metrological instruments and compared standards of length and mass."
+    ],
+    "fields": [
+      "Gravity measurement",
+      "Metrology"
+    ],
+    "birth_display": "16 April 1777",
+    "death_display": "26 April 1835",
+    "notes": [
+      "Birth follows standard biographies and historical portrait documentation: 16 April 1777; an individual institutional summary instead gives 6 April."
+    ],
+    "portrait_alt": "Image associated with Henry Kater",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "National Portrait Gallery — Henry Kater",
+        "url": "https://www.npg.org.uk/collections/search/person/mp02471/henry-kater?displayStyle=thumb"
+      },
+      {
+        "title": "Darwin Correspondence Project — Henry Kater",
+        "url": "https://darwin-editorial.darwinproject.ac.uk/view/nameregs/nameregs_2643"
+      },
+      {
+        "title": "Wikipedia — Henry Kater",
+        "url": "https://en.wikipedia.org/wiki/Henry_Kater"
+      }
+    ]
+  },
+  {
+    "id": "joseph-louis-gay-lussac",
+    "name_en": "Joseph Louis Gay-Lussac",
+    "biography": "Gay-Lussac was a French chemist and physicist associated with the École Polytechnique and Parisian scientific institutions. He investigated gas volumes, temperature and chemical combination and joined high-altitude balloon observations, connecting physical measurement with quantitative chemistry.",
+    "contributions": [
+      "Investigated thermal expansion of gases and relationships between temperature and volume.",
+      "Established simple whole-number ratios for combining gas volumes and used balloon experiments to investigate the atmosphere."
+    ],
+    "fields": [
+      "Gas physics",
+      "Physical chemistry",
+      "Atmospheric physics"
+    ],
+    "birth_display": "6 December 1778",
+    "death_display": "9 May 1850",
+    "notes": [],
+    "portrait_alt": "Image associated with Joseph Louis Gay-Lussac",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "BibNum — Sur la combinaison des substances gazeuses les unes avec les autres",
+        "url": "https://www.bibnum.education.fr/chimie/theorie-chimique/sur-la-combinaison-des-substances-gazeuses-les-unes-avec-les-autres"
+      },
+      {
+        "title": "Wikipedia — Joseph Louis Gay-Lussac",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Louis_Gay-Lussac"
+      }
+    ]
+  },
+  {
+    "id": "mary-somerville",
+    "name_en": "Mary Somerville",
+    "biography": "Somerville was a Scottish mathematical and scientific writer who entered European scholarly networks largely through self-education and later lived in Italy. Her Mechanism of the Heavens expounded Laplace's mathematical astronomy. On the Connexion of the Physical Sciences brought together knowledge of light, heat, electricity and astronomy.",
+    "contributions": [
+      "Explained Laplacian celestial mechanics mathematically and advanced the dissemination of mathematical physics.",
+      "Examined connections among physical sciences and undertook experiments concerning magnetism and sunlight."
+    ],
+    "fields": [
+      "Mathematical physics",
+      "Celestial mechanics",
+      "Science communication"
+    ],
+    "birth_display": "26 December 1780",
+    "death_display": "29 November 1872",
+    "notes": [
+      "Some results of her experiments on magnetization by sunlight were not reliably reproduced later; they are part of her historical research, not established modern physical results."
+    ],
+    "portrait_alt": "Image associated with Mary Somerville",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Mary Somerville",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Somerville/"
+      },
+      {
+        "title": "Wikipedia — Mary Somerville",
+        "url": "https://en.wikipedia.org/wiki/Mary_Somerville"
+      }
+    ]
+  },
+  {
+    "id": "friedrich-bessel",
+    "name_en": "Friedrich Bessel",
+    "biography": "Bessel was a German astronomer who moved from commerce into astronomy and directed the Königsberg Observatory for many years. Combining precision instruments, error analysis and mathematics, he measured the parallax of 61 Cygni in 1838 and developed methods involving the functions that later bore his name.",
+    "contributions": [
+      "Published the first widely accepted reliable stellar-parallax measurement, determining the distance of 61 Cygni.",
+      "Investigated celestial positions, observational errors and Bessel functions, providing tools for astronomy and mathematical physics."
+    ],
+    "fields": [
+      "Astrometry",
+      "Mathematical physics"
+    ],
+    "birth_display": "22 July 1784",
+    "death_display": "17 March 1846",
+    "notes": [],
+    "portrait_alt": "Image associated with Friedrich Bessel",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Friedrich Bessel",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bessel/"
+      },
+      {
+        "title": "Wikipedia — Friedrich Bessel",
+        "url": "https://en.wikipedia.org/wiki/Friedrich_Bessel"
+      }
+    ]
+  },
+  {
+    "id": "pierre-louis-dulong",
+    "name_en": "Pierre Louis Dulong",
+    "biography": "Dulong was a French chemist and physicist who became a professor and director at the École Polytechnique. He studied specific heat, gases, thermal expansion and cooling. Measurements of solid heat capacities with Petit connected atomic ideas to thermal measurement.",
+    "contributions": [
+      "Discovered with Petit the approximate similarity of molar heat capacities of many solid elements in a suitable temperature range.",
+      "Performed experiments on gases, thermal radiation and thermometry, advancing precision thermal physics."
+    ],
+    "fields": [
+      "Thermal physics",
+      "Calorimetry",
+      "Gas physics"
+    ],
+    "birth_display": "12 or 13 February 1785",
+    "death_display": "19 July 1838",
+    "notes": [
+      "Birth is given as 12 or 13 February 1785; CTHS gives 13 February, so the month and discrepancy are retained.",
+      "The Dulong–Petit law is approximate in an appropriate temperature range and fails in conditions including sufficiently low temperatures."
+    ],
+    "portrait_alt": "Image associated with Pierre Louis Dulong",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "CTHS — Pierre Louis Dulong",
+        "url": "https://www.cths.fr/an/savant.php?id=101613"
+      },
+      {
+        "title": "Wikipedia — Pierre Louis Dulong",
+        "url": "https://en.wikipedia.org/wiki/Pierre_Louis_Dulong"
+      }
+    ]
+  },
+  {
+    "id": "jean-charles-athanase-peltier",
+    "name_en": "Jean Charles Athanase Peltier",
+    "biography": "Peltier was a French physicist who initially worked in the watch trade and turned mainly to experimental research around the age of thirty. He investigated electricity, heat and atmospheric phenomena. In 1834 he reported current-dependent heating and cooling at junctions of different materials, providing a foundation for thermoelectric cooling.",
+    "contributions": [
+      "Discovered the Peltier effect: heat absorption or release when current passes through a junction of dissimilar conductors.",
+      "Investigated precision electrical measurement, atmospheric electricity and temperature phenomena, extending thermoelectric experimentation."
+    ],
+    "fields": [
+      "Thermoelectricity",
+      "Electrical science"
+    ],
+    "birth_display": "22 February 1785",
+    "death_display": "27 October 1845",
+    "notes": [],
+    "portrait_alt": "Image associated with Jean Charles Athanase Peltier",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "Florida State University MagLab Magnet Academy — Jean-Charles-Athanase Peltier",
+        "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/jean-charles-athanase-peltier/"
+      },
+      {
+        "title": "Technical University of Munich — Jean Charles Athanase Peltier",
+        "url": "https://av.ph.nat.tum.de/Bios/Peltier.php"
+      },
+      {
+        "title": "Wikipedia — Jean Charles Athanase Peltier",
+        "url": "https://en.wikipedia.org/wiki/Jean_Charles_Athanase_Peltier"
+      }
+    ]
+  },
+  {
+    "id": "joseph-von-fraunhofer",
+    "name_en": "Joseph von Fraunhofer",
+    "biography": "Fraunhofer was a Bavarian optician and physicist who began as an apprentice glassworker and later directed optical-glass and instrument production in Benediktbeuern and Munich. Combining materials work, precision measurement and research, he mapped dark solar-spectrum lines and advanced spectroscopy and astronomical instrumentation.",
+    "contributions": [
+      "Systematically mapped dark lines in the solar spectrum, establishing precision references for spectroscopy.",
+      "Developed diffraction gratings and wavelength measurements and improved optical glass, achromatic lenses and telescopes."
+    ],
+    "fields": [
+      "Spectroscopy",
+      "Diffraction",
+      "Optical instruments"
+    ],
+    "birth_display": "6 March 1787",
+    "death_display": "7 June 1826",
+    "notes": [],
+    "portrait_alt": "Image associated with Joseph von Fraunhofer",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "Fraunhofer-Gesellschaft — Joseph von Fraunhofer, biography and timeline",
+        "url": "https://www.fraunhofer.de/en/about-fraunhofer/profile-structure/chronicles/joseph-von-fraunhofer.html"
+      },
+      {
+        "title": "Wikipedia — Joseph von Fraunhofer",
+        "url": "https://en.wikipedia.org/wiki/Joseph_von_Fraunhofer"
+      }
+    ]
+  },
+  {
+    "id": "augustin-louis-cauchy",
+    "name_en": "Augustin-Louis Cauchy",
+    "biography": "Cauchy was a French mathematician trained in engineering who taught in Paris and experienced exile and changes of appointment shaped by politics and religion. Alongside foundational analysis, he systematically investigated elasticity, stress, waves and continua, extending differential-equation methods in physical theory.",
+    "contributions": [
+      "Developed stress-tensor and traction descriptions for continua, advancing elasticity theory.",
+      "Investigated waves, optics and fluids and supplied rigorous analytical tools used in physics."
+    ],
+    "fields": [
+      "Continuum mechanics",
+      "Elasticity",
+      "Mathematical physics"
+    ],
+    "birth_display": "21 August 1789",
+    "death_display": "23 May 1857",
+    "notes": [],
+    "portrait_alt": "Image associated with Augustin-Louis Cauchy",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Augustin-Louis Cauchy",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Cauchy/"
+      },
+      {
+        "title": "Wikipedia — Augustin-Louis Cauchy",
+        "url": "https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy"
+      }
+    ]
+  },
+  {
+    "id": "felix-savart",
+    "name_en": "Félix Savart",
+    "biography": "Savart was a French physician and physicist who initially served as an army surgeon and later investigated acoustics, electromagnetism and instruments in Paris. With Biot he measured the magnetic action of current. His studies of vibrations, sound and materials connected instrument making to quantitative physics.",
+    "contributions": [
+      "Established the quantitative magnetic-field relation associated with Biot and Savart.",
+      "Investigated vibrations of strings, plates and liquids and acoustic interference, advancing experimental acoustics."
+    ],
+    "fields": [
+      "Electromagnetism",
+      "Acoustics"
+    ],
+    "birth_display": "30 June 1791",
+    "death_display": "16 March 1841",
+    "notes": [],
+    "portrait_alt": "Image associated with Félix Savart",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Félix Savart",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Savart/"
+      },
+      {
+        "title": "Wikipedia — Félix Savart",
+        "url": "https://en.wikipedia.org/wiki/F%C3%A9lix_Savart"
+      }
+    ]
+  },
+  {
+    "id": "alexis-therese-petit",
+    "name_en": "Alexis Thérèse Petit",
+    "biography": "Petit was a French physicist whose early mathematical ability led to study and teaching at the École Polytechnique. With Dulong he investigated solid specific heats, gas thermometry and cooling. Despite dying young, his measurements became important evidence for nineteenth-century atomic and material studies.",
+    "contributions": [
+      "Established with Dulong an approximate empirical law for the molar heat capacities of solid elements.",
+      "Investigated cooling, thermal expansion and thermometry, improving quantitative thermal experiments."
+    ],
+    "fields": [
+      "Calorimetry",
+      "Thermometry"
+    ],
+    "birth_display": "2 October 1791",
+    "death_display": "21 June 1820",
+    "notes": [
+      "The Dulong–Petit law is not an exact universal equality for every solid at every temperature."
+    ],
+    "portrait_alt": "Image associated with Alexis Thérèse Petit",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Alexis Thérèse Petit",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Petit/"
+      },
+      {
+        "title": "Wikipedia — Alexis Thérèse Petit",
+        "url": "https://en.wikipedia.org/wiki/Alexis_Th%C3%A9r%C3%A8se_Petit"
+      }
+    ]
+  },
+  {
+    "id": "gaspard-gustave-de-coriolis",
+    "name_en": "Gaspard-Gustave de Coriolis",
+    "biography": "Coriolis was a French engineer and mathematical physicist associated with the bridges-and-roads service and the École Polytechnique. He studied mechanical work, collisions and rotating systems. In 1835 he explicitly formulated additional inertial-force terms for rotating frames, later widely applied in geophysics.",
+    "contributions": [
+      "Formulated the velocity-dependent Coriolis term in the dynamics of rotating reference frames.",
+      "Advanced quantitative engineering treatments of mechanical work and kinetic energy and investigated machines and collisions."
+    ],
+    "fields": [
+      "Classical mechanics",
+      "Rotating reference frames",
+      "Engineering mechanics"
+    ],
+    "birth_display": "21 May 1792",
+    "death_display": "19 September 1843",
+    "notes": [],
+    "portrait_alt": "Image associated with Gaspard-Gustave de Coriolis",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Gaspard-Gustave de Coriolis",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Coriolis/"
+      },
+      {
+        "title": "Wikipedia — Gaspard-Gustave de Coriolis",
+        "url": "https://en.wikipedia.org/wiki/Gaspard-Gustave_de_Coriolis"
+      }
+    ]
+  },
+  {
+    "id": "george-green",
+    "name_en": "George Green",
+    "biography": "Green was an English mathematician from Nottingham who worked in a mill and studied mathematics largely independently before attending Cambridge. His 1828 essay applied potential functions and boundary methods to electricity and magnetism. Later work treated light, sound and elasticity, gaining wider recognition after his death.",
+    "contributions": [
+      "Developed Green's functions and integral identities as general methods for potential and boundary-value problems.",
+      "Applied mathematics to electricity, magnetism, waves and elastic media, providing important tools for field calculations."
+    ],
+    "fields": [
+      "Potential theory",
+      "Mathematical physics"
+    ],
+    "birth_display": "1793 (baptized 14 July; exact birth date unknown)",
+    "death_display": "31 May 1841",
+    "notes": [
+      "14 July is the date of baptism; the exact birth date is unknown. MacTutor lists it as the birth date in its summary, but its biography explicitly identifies it as a baptismal record. The archive retains the year and labels the ritual date separately."
+    ],
+    "portrait_alt": "Image associated with George Green",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — George Green",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Green/"
+      },
+      {
+        "title": "Wikipedia — George Green",
+        "url": "https://en.wikipedia.org/wiki/George_Green_%28mathematician%29"
+      }
+    ]
+  },
+  {
+    "id": "franz-ernst-neumann",
+    "name_en": "Franz Ernst Neumann",
+    "biography": "Franz Ernst Neumann was a German physicist and mineralogist who taught in Königsberg and organized a mathematical-physics seminar with Jacobi. He investigated crystals, elasticity, induction and optics, combining precision experiments with theory and teaching physicists including Kirchhoff.",
+    "contributions": [
+      "Developed mathematical theories of electromagnetic induction, including interacting circuits.",
+      "Investigated relationships between crystal symmetry and physical properties and advanced elasticity and optics."
+    ],
+    "fields": [
+      "Electromagnetism",
+      "Crystal physics",
+      "Mathematical physics"
+    ],
+    "birth_display": "11 September 1798",
+    "death_display": "23 May 1895",
+    "notes": [],
+    "portrait_alt": "Image associated with Franz Ernst Neumann",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "Deutsche Biographie — Franz Ernst Neumann",
+        "url": "https://www.deutsche-biographie.de/118786008.html?language=en"
+      },
+      {
+        "title": "Wikipedia — Franz Ernst Neumann",
+        "url": "https://en.wikipedia.org/wiki/Franz_Ernst_Neumann"
+      }
+    ]
+  },
+  {
+    "id": "benoit-paul-emile-clapeyron",
+    "name_en": "Benoît Paul Émile Clapeyron",
+    "biography": "Clapeyron was a French engineer and physicist who worked in St Petersburg before returning to railway engineering and teaching in France. He recast Sadi Carnot's engine arguments mathematically and graphically and also studied phase equilibrium and beams, contributing to the emergence of thermodynamics.",
+    "contributions": [
+      "Reformulated Carnot's engine theory using tools including pressure-volume diagrams, helping disseminate it.",
+      "Established the Clapeyron relation linking pressure, temperature and latent heat at a phase transition and investigated structural mechanics."
+    ],
+    "fields": [
+      "Thermodynamics",
+      "Phase equilibrium",
+      "Structural mechanics"
+    ],
+    "birth_display": "26 January 1799",
+    "death_display": "28 January 1864",
+    "notes": [],
+    "portrait_alt": "Image associated with Benoît Paul Émile Clapeyron",
+    "portrait_note": "The creator, date and form of the image are documented at its source; later representations are not verified contemporary likenesses.",
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Benoît Paul Émile Clapeyron",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Clapeyron/"
+      },
+      {
+        "title": "Wikipedia — Benoît Paul Émile Clapeyron",
+        "url": "https://en.wikipedia.org/wiki/Beno%C3%AEt_Paul_%C3%89mile_Clapeyron"
+      }
+    ]
+  }
+]

@@ -1,0 +1,611 @@
+[
+  {
+    "id": "friedrich-hund",
+    "name_zh": "弗里德里希·洪德",
+    "name_en": "Friedrich Hund",
+    "wikipedia_title": "Friedrich Hund",
+    "birth": {
+      "date": "1896-02-04",
+      "precision": "day",
+      "display": "1896年2月4日"
+    },
+    "death": {
+      "date": "1997-03-31",
+      "precision": "day",
+      "display": "1997年3月31日"
+    },
+    "death_status": "deceased",
+    "biography": "德国理论物理学家，先后在莱比锡、耶拿、法兰克福和哥廷根等地任教。他研究原子与分子的量子结构，把光谱规律与电子态联系起来，并通过专著与教学影响量子物理的发展，晚年亦研究物理学史。",
+    "contributions": [
+      "提出洪德规则，用于判断原子电子组态的能级排列",
+      "与穆利肯等发展分子轨道和分子光谱的量子描述",
+      "早期研究分子中的量子隧穿现象"
+    ],
+    "fields": [
+      "原子物理",
+      "分子物理",
+      "量子力学"
+    ],
+    "sources": [
+      {
+        "title": "Saxon Academy of Sciences: Friedrich Hund",
+        "url": "https://www.saw-leipzig.de/de/personen/hundf"
+      },
+      {
+        "title": "Jena University: Friedrich Hermann Hund",
+        "url": "https://www.physik.uni-jena.de/4030/hund-friedrich-hermann-1896-1997"
+      },
+      {
+        "title": "Friedrich Hund family memorial and scientific biography",
+        "url": "https://www.teleschach.de/teleschach/f_hund.htm"
+      },
+      {
+        "title": "Wikipedia: Friedrich Hund",
+        "url": "https://en.wikipedia.org/wiki/Friedrich_Hund"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "robert-s-mulliken",
+    "name_zh": "罗伯特·桑德森·穆利肯",
+    "name_en": "Robert Sanderson Mulliken",
+    "wikipedia_title": "Robert S. Mulliken",
+    "birth": {
+      "date": "1896-06-07",
+      "precision": "day",
+      "display": "1896年6月7日"
+    },
+    "death": {
+      "date": "1986-10-31",
+      "precision": "day",
+      "display": "1986年10月31日"
+    },
+    "death_status": "deceased",
+    "biography": "美国化学物理学家，长期在芝加哥大学研究分子结构与光谱。他把新兴量子力学用于分子中的电子，发展分子轨道方法，并建立有影响的研究与教学团队；1966年因化学键及分子电子结构研究获诺贝尔化学奖。",
+    "contributions": [
+      "发展分子轨道方法，以量子电子态理解化学键",
+      "研究分子电子结构、光谱及相关命名分类",
+      "提出穆利肯布居分析等电子结构解释工具"
+    ],
+    "fields": [
+      "化学物理",
+      "分子轨道",
+      "光谱学"
+    ],
+    "sources": [
+      {
+        "title": "Nobel Foundation: Robert S. Mulliken facts",
+        "url": "https://www.nobelprize.org/prizes/chemistry/1966/mulliken/facts/"
+      },
+      {
+        "title": "R. Stephen Berry: Robert Sanderson Mulliken, NAS memoir",
+        "url": "https://www.nationalacademies.org/read/9977/chapter/10"
+      },
+      {
+        "title": "University of Chicago Library: Robert S. Mulliken papers",
+        "url": "https://www.lib.uchicago.edu/ead/rlg/ICU.SPCL.MULLIKEN.pdf"
+      },
+      {
+        "title": "Wikipedia: Robert S. Mulliken",
+        "url": "https://en.wikipedia.org/wiki/Robert_S._Mulliken"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "john-c-slater",
+    "name_zh": "约翰·克拉克·斯莱特",
+    "name_en": "John Clarke Slater",
+    "wikipedia_title": "John C. Slater",
+    "birth": {
+      "date": "1900-12-22",
+      "precision": "day",
+      "display": "1900年12月22日"
+    },
+    "death": {
+      "date": "1976-07-25",
+      "precision": "day",
+      "display": "1976年7月25日"
+    },
+    "death_status": "deceased",
+    "biography": "美国理论物理学家，曾在哈佛求学并长期在麻省理工学院领导物理研究，后来在佛罗里达大学工作。他把量子力学用于原子、分子和固体电子结构，重视可计算方法，并通过研究团队与教材培养理论物理人才。",
+    "contributions": [
+      "发展并推广用斯莱特行列式表示反对称多电子波函数的方法",
+      "提出斯莱特型轨道与屏蔽规则，促进原子电子结构计算",
+      "发展局域交换近似等实用方法，推动分子与固体理论计算"
+    ],
+    "fields": [
+      "原子物理",
+      "电子结构",
+      "凝聚态理论"
+    ],
+    "sources": [
+      {
+        "title": "National Academy of Sciences: John Slater",
+        "url": "https://www.nasonline.org/directory-entry/john-slater-up2tib/"
+      },
+      {
+        "title": "Philip M. Morse: John Clarke Slater, NAS Biographical Memoir",
+        "url": "https://www.nasonline.org/wp-content/uploads/2024/06/slater-john.pdf"
+      },
+      {
+        "title": "Wikipedia: John C. Slater",
+        "url": "https://en.wikipedia.org/wiki/John_C._Slater"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "ralph-kronig",
+    "name_zh": "拉尔夫·克罗尼格",
+    "name_en": "Ralph Kronig",
+    "wikipedia_title": "Ralph Kronig",
+    "birth": {
+      "date": "1904-03-10",
+      "precision": "day",
+      "display": "1904年3月10日"
+    },
+    "death": {
+      "date": "1995-11-16",
+      "precision": "day",
+      "display": "1995年11月16日"
+    },
+    "death_status": "deceased",
+    "biography": "出生于德累斯顿的理论物理学家，在哥伦比亚大学接受训练，后来在格罗宁根和代尔夫特工作。他研究原子光谱、晶体电子和线性响应，曾较早构想电子自旋但未据此优先发表，许多成果成为量子材料与光学的基本工具。",
+    "contributions": [
+      "发展克拉默斯—克罗尼格色散关系，联系响应的色散与吸收部分",
+      "与彭尼提出周期势中的克罗尼格—彭尼电子模型",
+      "研究分子光谱与电子自旋问题，参与早期量子理论发展"
+    ],
+    "fields": [
+      "量子理论",
+      "凝聚态物理",
+      "光学"
+    ],
+    "sources": [
+      {
+        "title": "University of Groningen: Ralph Kronig",
+        "url": "https://www.math.rug.nl/bernoulli/Geschiedenis/Kronig"
+      },
+      {
+        "title": "H. B. G. Casimir: KNAW memorial for Ralph Kronig",
+        "url": "https://www.math.rug.nl/bernoulli/uploads/Geschiedenis/levensberichtkronig.pdf"
+      },
+      {
+        "title": "Wikipedia: Ralph Kronig",
+        "url": "https://en.wikipedia.org/wiki/Ralph_Kronig"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "seth-neddermeyer",
+    "name_zh": "塞思·内德迈耶",
+    "name_en": "Seth Neddermeyer",
+    "wikipedia_title": "Seth Neddermeyer",
+    "birth": {
+      "date": "1907-09-16",
+      "precision": "day",
+      "display": "1907年9月16日"
+    },
+    "death": {
+      "date": "1988-01-29",
+      "precision": "day",
+      "display": "1988年1月29日"
+    },
+    "death_status": "deceased",
+    "biography": "美国实验物理学家，在加州理工学院接受训练，与安德森合作研究宇宙线。他参与发现后来称为μ子的粒子，战时从事核物理实验，后来继续开展研究和大学教学；其生涯连接宇宙线粒子发现与现代实验核物理。",
+    "contributions": [
+      "与卡尔·安德森共同发现μ子，扩展对宇宙线粒子组成的认识",
+      "参与实验核物理研究，并推动相关实验技术和物理教学"
+    ],
+    "fields": [
+      "宇宙线",
+      "粒子物理",
+      "实验核物理"
+    ],
+    "sources": [
+      {
+        "title": "Atomic Heritage Foundation / Nuclear Museum: Seth Neddermeyer",
+        "url": "https://ahf.nuclearmuseum.org/ahf/profile/seth-neddermeyer/"
+      },
+      {
+        "title": "Wikipedia: Seth Neddermeyer",
+        "url": "https://en.wikipedia.org/wiki/Seth_Neddermeyer"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "hendrik-casimir",
+    "name_zh": "亨德里克·卡西米尔",
+    "name_en": "Hendrik Casimir",
+    "wikipedia_title": "Hendrik Casimir",
+    "birth": {
+      "date": "1909-07-15",
+      "precision": "day",
+      "display": "1909年7月15日"
+    },
+    "death": {
+      "date": "2000-05-04",
+      "precision": "day",
+      "display": "2000年5月4日"
+    },
+    "death_status": "deceased",
+    "biography": "荷兰理论物理学家，曾随埃伦费斯特学习并在莱顿研究，后长期参与飞利浦实验室的科研组织。他研究核磁矩、超导和电磁涨落，把量子理论与工业实验问题相结合，以真空涨落产生力的理论预言尤其著称。",
+    "contributions": [
+      "预言理想导体边界之间由电磁量子涨落产生的卡西米尔力",
+      "与波尔德研究迟滞色散相互作用，即卡西米尔—波尔德作用",
+      "与戈特等研究超导热力学及双流体描述"
+    ],
+    "fields": [
+      "量子电动力学",
+      "凝聚态物理",
+      "超导"
+    ],
+    "sources": [
+      {
+        "title": "D. Polder: KNAW memorial for Hendrik Brugt Gerhard Casimir",
+        "url": "https://dwc.knaw.nl/DL/levensberichten/PE00004564.pdf"
+      },
+      {
+        "title": "Wikipedia: Hendrik Casimir",
+        "url": "https://en.wikipedia.org/wiki/Hendrik_Casimir"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "carl-friedrich-von-weizsacker",
+    "name_zh": "卡尔·弗里德里希·冯·魏茨泽克",
+    "name_en": "Carl Friedrich von Weizsäcker",
+    "wikipedia_title": "Carl Friedrich von Weizsäcker",
+    "birth": {
+      "date": "1912-06-28",
+      "precision": "day",
+      "display": "1912年6月28日"
+    },
+    "death": {
+      "date": "2007-04-28",
+      "precision": "day",
+      "display": "2007年4月28日"
+    },
+    "death_status": "deceased",
+    "biography": "德国物理学家和哲学家，在海森堡等人的影响下进入理论物理，先后研究原子核、恒星能源和行星形成。他后来在汉堡及马克斯·普朗克学会工作，并从事科学责任与和平研究；其物理成果对核结构和天体演化研究影响重要。",
+    "contributions": [
+      "发展描述原子核结合能的半经验质量公式",
+      "研究恒星中的核反应，并独立参与碳氮氧循环的理论发展",
+      "研究行星体系形成与理论物理的基本问题"
+    ],
+    "fields": [
+      "核物理",
+      "核天体物理",
+      "理论物理"
+    ],
+    "sources": [
+      {
+        "title": "German Research Foundation: Carl Friedrich von Weizsäcker",
+        "url": "https://gepris-historisch.dfg.de/person/5113433"
+      },
+      {
+        "title": "University of Leipzig: Carl Friedrich von Weizsäcker",
+        "url": "https://research.uni-leipzig.de/agintern/UNIGESCH/ug213.htm"
+      },
+      {
+        "title": "University of Hamburg: biography and publications",
+        "url": "https://www.chemie.uni-hamburg.de/forschung/publikationen/erweiterung/dozenten-uhh/weizsaecker.html"
+      },
+      {
+        "title": "Wikipedia: Carl Friedrich von Weizsäcker",
+        "url": "https://en.wikipedia.org/wiki/Carl_Friedrich_von_Weizs%C3%A4cker"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "erwin-hahn",
+    "name_zh": "欧文·哈恩",
+    "name_en": "Erwin Hahn",
+    "wikipedia_title": "Erwin Hahn",
+    "birth": {
+      "date": "1921-06-09",
+      "precision": "day",
+      "display": "1921年6月9日"
+    },
+    "death": {
+      "date": "2016-09-20",
+      "precision": "day",
+      "display": "2016年9月20日"
+    },
+    "death_status": "deceased",
+    "biography": "美国实验物理学家，在伊利诺伊大学研究核磁共振，后来长期在加州大学伯克利分校任教。他发现自旋回波并发展脉冲磁共振实验，使自旋体系的相干与弛豫可以被精细研究，其方法成为磁共振成像的重要基础。",
+    "contributions": [
+      "发现自旋回波，揭示表观退相干中可通过操控恢复的相干信息",
+      "发展脉冲核磁共振和自由感应衰减测量",
+      "为磁共振谱学及后来的磁共振成像提供关键实验方法"
+    ],
+    "fields": [
+      "核磁共振",
+      "量子相干",
+      "实验物理"
+    ],
+    "sources": [
+      {
+        "title": "University of California, Berkeley: Remembering Erwin Hahn",
+        "url": "https://hwni.berkeley.edu/news/remembering-erwin-hahn-1921-2016"
+      },
+      {
+        "title": "Erwin L. Hahn Institute for MRI: Erwin Hahn",
+        "url": "https://hahn-institute.de/de/ueber/erwin-l-hahn"
+      },
+      {
+        "title": "Wikipedia: Erwin Hahn",
+        "url": "https://en.wikipedia.org/wiki/Erwin_Hahn"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "walter-kohn",
+    "name_zh": "沃尔特·科恩",
+    "name_en": "Walter Kohn",
+    "wikipedia_title": "Walter Kohn",
+    "birth": {
+      "date": "1923-03-09",
+      "precision": "day",
+      "display": "1923年3月9日"
+    },
+    "death": {
+      "date": "2016-04-19",
+      "precision": "day",
+      "display": "2016年4月19日"
+    },
+    "death_status": "deceased",
+    "biography": "奥地利出生的美国理论物理学家，少年时逃离纳粹迫害，在加拿大和美国接受教育，后在加州大学圣迭戈与圣巴巴拉分校工作。他是密度泛函理论的主要奠基者，曾主持理论物理研究所，1998年获诺贝尔化学奖。",
+    "contributions": [
+      "与霍恩伯格建立基态密度泛函理论的重要定理",
+      "与沈吕九建立科恩—沈方程，为电子结构计算提供自洽框架",
+      "在半导体、金属电子结构和表面物理等领域作出重要贡献"
+    ],
+    "fields": [
+      "凝聚态理论",
+      "密度泛函理论",
+      "电子结构"
+    ],
+    "sources": [
+      {
+        "title": "UC Santa Barbara: Walter Kohn",
+        "url": "https://www.ucsb.edu/about/faculty-and-alumni/walter-kohn-1923-2016"
+      },
+      {
+        "title": "National Academy of Sciences: Walter Kohn memorial",
+        "url": "https://www.nasonline.org/wp-content/uploads/2024/06/kohn-walter.pdf"
+      },
+      {
+        "title": "UC Santa Barbara: Walter Kohn papers",
+        "url": "https://archives.library.ucsb.edu/repositories/2/resources/4397"
+      },
+      {
+        "title": "Wikipedia: Walter Kohn",
+        "url": "https://en.wikipedia.org/wiki/Walter_Kohn"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "robert-mills",
+    "name_zh": "罗伯特·米尔斯",
+    "name_en": "Robert Laurence Mills",
+    "wikipedia_title": "Robert Mills (physicist)",
+    "birth": {
+      "date": "1927-04-15",
+      "precision": "day",
+      "display": "1927年4月15日"
+    },
+    "death": {
+      "date": "1999-10-27",
+      "precision": "day",
+      "display": "1999年10月27日"
+    },
+    "death_status": "deceased",
+    "biography": "美国理论物理学家，在哥伦比亚大学和剑桥接受教育，曾在布鲁克海文与杨振宁合作，后长期在俄亥俄州立大学任教。他研究量子场论、合金和多体体系，1954年与杨振宁发表的非阿贝尔规范理论成为现代粒子物理的重要基础。",
+    "contributions": [
+      "与杨振宁建立非阿贝尔规范场论，即杨—米尔斯理论",
+      "研究多体体系的传播子和量子理论方法",
+      "研究合金理论，并通过专著和教学传播现代物理方法"
+    ],
+    "fields": [
+      "量子场论",
+      "规范理论",
+      "多体理论"
+    ],
+    "sources": [
+      {
+        "title": "Samuel L. Marateck: Remembering Robert L. Mills, Physics Today",
+        "url": "https://physicstoday.aip.org/letters/remembering-robert-l-mills"
+      },
+      {
+        "title": "Ohio State University: Department of Physics history",
+        "url": "https://physics.osu.edu/sites/default/files/2023-11/history_of_dept._of_physics.pdf"
+      },
+      {
+        "title": "Wikipedia: Robert Mills (physicist)",
+        "url": "https://en.wikipedia.org/wiki/Robert_Mills_%28physicist%29"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "john-hubbard",
+    "name_zh": "约翰·哈伯德",
+    "name_en": "John Hubbard",
+    "wikipedia_title": "John Hubbard (physicist)",
+    "birth": {
+      "date": "1931-10-27",
+      "precision": "day",
+      "display": "1931年10月27日"
+    },
+    "death": {
+      "date": "1980-11-27",
+      "precision": "day",
+      "display": "1980年11月27日"
+    },
+    "death_status": "deceased",
+    "biography": "英国理论物理学家，在伦敦帝国理工学院学习，后在哈韦尔原子能研究机构和美国IBM研究实验室工作。他以简化而保留关键电子相互作用的模型研究固体，推动强关联电子与多体量子理论的发展，英年早逝。",
+    "contributions": [
+      "提出描述电子跃迁与局域相互作用的哈伯德模型",
+      "发展处理多体电子关联的理论方法与算符表述",
+      "研究电子气体、磁性及金属—绝缘体行为"
+    ],
+    "fields": [
+      "凝聚态理论",
+      "强关联电子",
+      "统计物理"
+    ],
+    "sources": [
+      {
+        "title": "JINR: Biography of John Hubbard",
+        "url": "https://theor.jinr.ru/~kuzemsky/hubbio2.html"
+      },
+      {
+        "title": "Hubbard biography PDF hosted by JINR",
+        "url": "https://theor.jinr.ru/~kuzemsky/Hubbard_John.pdf"
+      },
+      {
+        "title": "Wikipedia: John Hubbard (physicist)",
+        "url": "https://en.wikipedia.org/wiki/John_Hubbard_%28physicist%29"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "peter-mansfield",
+    "name_zh": "彼得·曼斯菲尔德",
+    "name_en": "Peter Mansfield",
+    "wikipedia_title": "Peter Mansfield",
+    "birth": {
+      "date": "1933-10-09",
+      "precision": "day",
+      "display": "1933年10月9日"
+    },
+    "death": {
+      "date": "2017-02-08",
+      "precision": "day",
+      "display": "2017年2月8日"
+    },
+    "death_status": "deceased",
+    "biography": "英国物理学家，在伦敦接受高等教育，长期任教于诺丁汉大学。他从固体核磁共振转向空间成像，发展磁场梯度信号的分析与快速成像方法，与劳特伯共同获2003年诺贝尔生理学或医学奖，是物理方法进入医学诊断的重要先驱。",
+    "contributions": [
+      "发展磁场梯度下核磁共振信号的空间编码和数学分析方法",
+      "提出并发展回波平面成像等快速磁共振成像技术",
+      "推动核磁共振的物理原理转化为医学空间成像工具"
+    ],
+    "fields": [
+      "核磁共振",
+      "磁共振成像",
+      "实验物理"
+    ],
+    "sources": [
+      {
+        "title": "Nobel Foundation: Peter Mansfield autobiography",
+        "url": "https://www.nobelprize.org/prizes/medicine/2003/mansfield/biographical/"
+      },
+      {
+        "title": "University of Nottingham: Peter Mansfield papers",
+        "url": "https://mss-cat.nottingham.ac.uk/calmview/Record.aspx?id=PPM&src=CalmView.Catalog"
+      },
+      {
+        "title": "Queen Mary University: History of Modern Biomedicine, Peter Mansfield",
+        "url": "https://histmodbiomed.history.qmul.ac.uk/article/professor-sir-peter-mansfield.html"
+      },
+      {
+        "title": "Wikipedia: Peter Mansfield",
+        "url": "https://en.wikipedia.org/wiki/Peter_Mansfield"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "george-zweig",
+    "name_zh": "乔治·茨威格",
+    "name_en": "George Zweig",
+    "wikipedia_title": "George Zweig",
+    "birth": {
+      "date": "1937",
+      "precision": "day",
+      "display": "1937年"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "出生于莫斯科的美国物理学家，幼年移居美国，在加州理工学院随费曼学习。他独立于盖尔曼提出构成强子的基本组分模型，后在洛斯阿拉莫斯和麻省理工等机构从事神经生物学、耳蜗与信号分析研究，跨越粒子物理和生物物理。",
+    "contributions": [
+      "独立提出后来称为夸克的强子组分模型，当时称其组分为aces",
+      "把物理和数学方法用于耳蜗力学及听觉信号分析",
+      "发展与连续小波变换有关的信号处理方法"
+    ],
+    "fields": [
+      "粒子物理",
+      "生物物理",
+      "信号分析"
+    ],
+    "sources": [
+      {
+        "title": "CERN EP Department: Interview with George Zweig",
+        "url": "https://ep-news-wp.web.cern.ch/interview-george-zweig/"
+      },
+      {
+        "title": "MacArthur Foundation: George Zweig",
+        "url": "https://www.macfound.org/fellows/class-of-december-1981/george-zweig"
+      },
+      {
+        "title": "Wikipedia: George Zweig",
+        "url": "https://en.wikipedia.org/wiki/George_Zweig"
+      }
+    ],
+    "notes": [
+      "出生年份采用本人在CERN访谈中所述1937年；未把缺少独立原始证据的具体月日写入确日字段。"
+    ]
+  },
+  {
+    "id": "lu-jeu-sham",
+    "name_zh": "沈吕九",
+    "name_en": "Lu Jeu Sham",
+    "wikipedia_title": "Lu Jeu Sham",
+    "birth": {
+      "date": "1938",
+      "precision": "day",
+      "display": "1938年"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "出生于香港的美国理论物理学家，在英国接受大学与博士训练，长期在加州大学圣迭戈分校工作。他与科恩合作建立实用密度泛函计算框架，并研究半导体多体效应、光学性质和电子自旋控制，连接电子结构理论与量子信息研究。",
+    "contributions": [
+      "与科恩建立用于基态密度泛函计算的自洽辅助单电子方程",
+      "研究半导体中的多体效应、激子和非线性光学过程",
+      "研究半导体纳米结构中的电子自旋及其光学操控"
+    ],
+    "fields": [
+      "凝聚态理论",
+      "密度泛函理论",
+      "半导体光学"
+    ],
+    "sources": [
+      {
+        "title": "UC San Diego Jacobs School: Lu J. Sham",
+        "url": "https://jacobsschool.ucsd.edu/people/profile/lu-sham"
+      },
+      {
+        "title": "UC San Diego Profiles: Lu Sham",
+        "url": "https://profiles.ucsd.edu/lu.sham"
+      },
+      {
+        "title": "Wikipedia: Lu Jeu Sham",
+        "url": "https://en.wikipedia.org/wiki/Lu_Jeu_Sham"
+      }
+    ],
+    "notes": [
+      "本次可靠机构资料主要用于核对身份和研究履历；出生日期保留到1938年，未独立核实网络资料中的具体月日。"
+    ]
+  }
+]

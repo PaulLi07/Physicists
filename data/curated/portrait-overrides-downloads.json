@@ -1,0 +1,39 @@
+{
+  "Alfred Cornu": {
+    "commons_file": "Cornu - btv1b53152130b.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Cornu_-_btv1b53152130b.jpg",
+    "tested_download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Cornu_-_btv1b53152130b.jpg/500px-Cornu_-_btv1b53152130b.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250225060400",
+    "license": "Public domain (PD France; PD-1996)",
+    "artist": "Atelier Nadar; Bibliothèque nationale de France / Gallica",
+    "credit": "Atelier Nadar, 1875–1895. Bibliothèque nationale de France, département Estampes et photographie, FT 4-NA-238 (16).",
+    "kind": "portrait",
+    "rights_status": "public_domain",
+    "verified_local_path": "/tmp/cornu-fixed.jpg",
+    "verified_bytes": 75259
+  },
+  "Joseph Larmor": {
+    "external_image_url": "https://mathshistory.st-andrews.ac.uk/Biographies/Larmor/Larmor_2.jpeg",
+    "source_url": "https://mathshistory.st-andrews.ac.uk/Biographies/Larmor/pictdisplay/",
+    "tested_download_url": "https://mathshistory.st-andrews.ac.uk/Biographies/Larmor/Larmor_2.jpeg",
+    "license": "Public domain (historical photograph; same portrait as Commons Joseph Larmor.jpeg)",
+    "license_source_url": "https://commons.wikimedia.org/wiki/File:Joseph_Larmor.jpeg",
+    "artist": "摄影者未注明；MacTutor History of Mathematics, University of St Andrews",
+    "kind": "portrait",
+    "rights_status": "public_domain",
+    "verified_local_path": "/tmp/larmor-fixed.jpeg",
+    "verified_bytes": 6585
+  },
+  "Antonia Maury": {
+    "external_image_url": "https://vcencyclopedia.vassar.edu/wp-content/uploads/2021/12/antonia-maury-photograph-card.jpeg",
+    "source_url": "https://vcencyclopedia.vassar.edu/distinguished-alumni/antonia-maury/",
+    "tested_download_url": "https://vcencyclopedia.vassar.edu/wp-content/uploads/2021/12/antonia-maury-photograph-card.jpeg",
+    "license": "Public domain (circa 1887 photograph; same portrait source as Commons Antonia maury.jpg)",
+    "license_source_url": "https://commons.wikimedia.org/wiki/File:Antonia_maury.jpg",
+    "artist": "Vassar College；摄影者未明确",
+    "credit": "Vassar College senior-year portrait, circa 1887; courtesy Vassar College Encyclopedia.",
+    "kind": "portrait",
+    "rights_status": "public_domain",
+    "verified_local_path": "/tmp/maury-fixed.jpeg",
+    "verified_bytes": 15298
+  }
+}

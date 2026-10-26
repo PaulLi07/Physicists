@@ -1,0 +1,2622 @@
+[
+  {
+    "id": "julius-plucker",
+    "name_en": "Julius Plücker",
+    "biography": "A German mathematician and experimental physicist, Plücker worked for many years at the University of Bonn. He moved from analytical geometry into magnetism, gas discharges and spectroscopy, combining mathematical insight with experiments that helped prepare the discovery of the electron.",
+    "contributions": [
+      "Studied low-pressure gas discharges and the magnetic deflection of cathode rays",
+      "Worked with Hittorf on gas spectra, contributing to the foundations of spectroscopy",
+      "Developed line geometry, an important mathematical framework later used in physics"
+    ],
+    "fields": [
+      "Gas discharges",
+      "Spectroscopy",
+      "Mathematical physics"
+    ],
+    "birth_display": "16 July 1801",
+    "death_display": "22 May 1868",
+    "notes": [],
+    "portrait_alt": "Portrait of Julius Plücker",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Julius Plücker — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Plucker/"
+      },
+      {
+        "title": "Julius Plücker — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Julius_Pl%C3%BCcker"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "george-biddell-airy",
+    "name_en": "George Biddell Airy",
+    "biography": "Airy was a British astronomer and mathematical physicist. After teaching at Cambridge, he served as Astronomer Royal and directed the Greenwich Observatory. Alongside precision astronomy, he investigated optics, elasticity and geophysics, helping to standardize nineteenth-century observational practice.",
+    "contributions": [
+      "Calculated the diffraction pattern of a circular aperture, including the Airy disk",
+      "Introduced the Airy stress function for two-dimensional elasticity",
+      "Proposed an isostatic model of the crust and used gravity measurements to investigate Earth's density"
+    ],
+    "fields": [
+      "Optics",
+      "Elasticity",
+      "Geophysics"
+    ],
+    "birth_display": "27 July 1801",
+    "death_display": "2 January 1892",
+    "notes": [],
+    "portrait_alt": "Portrait of George Biddell Airy",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "George Biddell Airy — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Airy/"
+      },
+      {
+        "title": "George Biddell Airy — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/George_Biddell_Airy"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "joseph-plateau",
+    "name_en": "Joseph Plateau",
+    "biography": "Plateau was a Belgian physicist who taught at Ghent and studied vision, apparent motion and liquid surfaces. He continued scientific work with assistance after losing his sight. His soap-film experiments connected observable surface shapes with mathematical questions about minimal surfaces.",
+    "contributions": [
+      "Established experimental rules for the equilibrium and junctions of soap films",
+      "Used soap films to investigate the minimal surface spanning a boundary",
+      "Studied visual persistence and developed the phenakistiscope, an early moving-image device"
+    ],
+    "fields": [
+      "Surface physics",
+      "Optics",
+      "Mathematical physics"
+    ],
+    "birth_display": "14 October 1801",
+    "death_display": "15 September 1883",
+    "notes": [],
+    "portrait_alt": "Portrait of Joseph Plateau",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Joseph Plateau — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Plateau/"
+      },
+      {
+        "title": "Joseph Plateau — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Plateau"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "heinrich-gustav-magnus",
+    "name_en": "Heinrich Gustav Magnus",
+    "biography": "Magnus was a German experimental physicist originally trained in chemistry. At Berlin he investigated gases, heat and fluid motion while creating opportunities for younger scientists to learn experimental methods. His name is associated with the transverse force on a rotating body in a flowing fluid.",
+    "contributions": [
+      "Investigated the transverse force on rotating objects in fluids, now called the Magnus effect",
+      "Studied gas expansion, vapour pressure and thermal properties of matter",
+      "Helped establish experimental physics teaching and laboratory research in Berlin"
+    ],
+    "fields": [
+      "Fluid mechanics",
+      "Thermal physics",
+      "Experimental physics"
+    ],
+    "birth_display": "2 May 1802",
+    "death_display": "4 April 1870",
+    "notes": [],
+    "portrait_alt": "Portrait of Heinrich Gustav Magnus",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Heinrich Gustav Magnus — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Heinrich_Gustav_Magnus"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "heinrich-wilhelm-dove",
+    "name_en": "Heinrich Wilhelm Dove",
+    "biography": "Dove was a German physicist and meteorologist who worked in Berlin. He combined comparisons of weather observations with physical explanations, studying winds, temperature distributions and acoustics. His organizational work helped meteorology develop into a coordinated observational science.",
+    "contributions": [
+      "Investigated atmospheric circulation and changes in wind direction",
+      "Discovered binaural beats produced by slightly different tones presented to the two ears",
+      "Studied optical polarization and related experimental apparatus"
+    ],
+    "fields": [
+      "Physics of meteorology",
+      "Acoustics",
+      "Optics"
+    ],
+    "birth_display": "6 October 1803",
+    "death_display": "4 April 1879",
+    "notes": [],
+    "portrait_alt": "Portrait of Heinrich Wilhelm Dove",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Heinrich Wilhelm Dove — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Heinrich_Wilhelm_Dove"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "christian-doppler",
+    "name_en": "Christian Doppler",
+    "biography": "Doppler was an Austrian physicist and mathematician who taught in Prague, Banská Štiavnica and Vienna. He considered how motion changes the waves received by an observer, introducing a frequency-shift principle that later became central to acoustics, optics and astronomy.",
+    "contributions": [
+      "Proposed the change in observed wave frequency caused by relative motion of source and observer",
+      "Applied the idea of wave-frequency shifts to the study of starlight",
+      "Provided a theoretical basis for later spectroscopic and other velocity measurements"
+    ],
+    "fields": [
+      "Wave physics",
+      "Acoustics",
+      "Optics"
+    ],
+    "birth_display": "29 November 1803",
+    "death_display": "17 March 1853",
+    "notes": [],
+    "portrait_alt": "Portrait of Christian Doppler",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Christian Doppler — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Doppler/"
+      },
+      {
+        "title": "Christian Doppler — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Christian_Doppler"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "heinrich-lenz",
+    "name_en": "Heinrich Lenz",
+    "biography": "Born in Dorpat, Lenz spent much of his career teaching and researching in St Petersburg. He took part in a circumnavigation and made oceanographic measurements before becoming particularly known for quantitative investigations of electromagnetic induction and the heating produced by electric currents.",
+    "contributions": [
+      "Formulated the rule that an induced current opposes the change that produces it",
+      "Independently investigated the relation between electrical heating, current, resistance and time",
+      "Measured electrical resistance and its dependence on temperature"
+    ],
+    "fields": [
+      "Electromagnetism",
+      "Thermal physics",
+      "Experimental physics"
+    ],
+    "birth_display": "24 February 1804",
+    "death_display": "10 February 1865",
+    "notes": [
+      "Dates are given in the Gregorian calendar; the corresponding Old Style dates are 12 February 1804 and 29 January 1865."
+    ],
+    "portrait_alt": "Portrait of Heinrich Lenz",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Heinrich Lenz — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Heinrich_Lenz"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "wilhelm-eduard-weber",
+    "name_en": "Wilhelm Eduard Weber",
+    "biography": "Weber was a German physicist who collaborated with Gauss in Göttingen on geomagnetism and electrical measurement. Dismissed after joining the Göttingen Seven protest, he later returned to academic work. He sought precise, mutually comparable descriptions of electrical and magnetic phenomena.",
+    "contributions": [
+      "Worked with Gauss on an early electromagnetic telegraph and geomagnetic measurements",
+      "Developed electrodynamics and absolute electrical measurement systems",
+      "With Kohlrausch, compared electrostatic and electromagnetic units, revealing an important connection with the speed of light"
+    ],
+    "fields": [
+      "Electromagnetism",
+      "Geomagnetism",
+      "Metrology"
+    ],
+    "birth_display": "24 October 1804",
+    "death_display": "23 June 1891",
+    "notes": [
+      "The birth date follows the Royal Society archive: 24 October 1804. MacTutor gives 4 October, a conflicting entry."
+    ],
+    "portrait_alt": "Portrait of Wilhelm Eduard Weber",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Wilhelm Eduard Weber — Royal Society archive",
+        "url": "https://catalogues.royalsociety.org/CalmView/Record.aspx?id=NA2617&pos=1&src=CalmView.Persons"
+      },
+      {
+        "title": "Wilhelm Eduard Weber — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Weber/"
+      },
+      {
+        "title": "Wilhelm Eduard Weber — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Wilhelm_Eduard_Weber"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "carl-gustav-jacob-jacobi",
+    "name_en": "Carl Gustav Jacob Jacobi",
+    "biography": "Jacobi was a German mathematician who taught in Königsberg and later worked in Berlin. Alongside his major work on elliptic functions, he studied dynamics, differential equations and celestial mechanics, developing transformation and action-based methods that became central to mathematical physics.",
+    "contributions": [
+      "Developed Hamilton–Jacobi theory and methods for integrating its equation",
+      "Investigated integrable cases of rigid-body dynamics",
+      "Developed Jacobian determinants and transformation methods widely used in physics"
+    ],
+    "fields": [
+      "Mathematical physics",
+      "Classical mechanics",
+      "Celestial mechanics"
+    ],
+    "birth_display": "10 December 1804",
+    "death_display": "18 February 1851",
+    "notes": [],
+    "portrait_alt": "Portrait of Carl Gustav Jacob Jacobi",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Carl Gustav Jacob Jacobi — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Jacobi/"
+      },
+      {
+        "title": "Carl Gustav Jacob Jacobi — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "william-rowan-hamilton",
+    "name_en": "William Rowan Hamilton",
+    "biography": "Hamilton was an Irish mathematician, astronomer and mathematical physicist. Appointed to Trinity College Dublin's Andrews professorship while still young, he also directed Dunsink Observatory. He expressed optics and mechanics through a shared variational framework, laying foundations for modern analytical mechanics.",
+    "contributions": [
+      "Established Hamiltonian mechanics in terms of generalized coordinates and conjugate momenta",
+      "Developed formal connections between optics and mechanics and predicted conical refraction",
+      "Invented quaternions, later important for describing rotations and theoretical physics"
+    ],
+    "fields": [
+      "Classical mechanics",
+      "Optics",
+      "Mathematical physics"
+    ],
+    "birth_display": "4 August 1805",
+    "death_display": "2 September 1865",
+    "notes": [],
+    "portrait_alt": "Portrait of William Rowan Hamilton",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "William Rowan Hamilton — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hamilton/"
+      },
+      {
+        "title": "William Rowan Hamilton — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/William_Rowan_Hamilton"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "joseph-petzval",
+    "name_en": "Joseph Petzval",
+    "biography": "Petzval was a mathematician and optical researcher born in what is now Slovakia who taught at the University of Vienna. He applied mathematical calculation to photographic lenses, working with instrument makers to obtain brighter images and much shorter portrait exposures.",
+    "contributions": [
+      "Designed the high-aperture Petzval portrait lens",
+      "Investigated optical aberrations and the Petzval field-curvature condition",
+      "Helped move lens design from empirical trial toward systematic mathematical calculation"
+    ],
+    "fields": [
+      "Applied optics",
+      "Imaging physics"
+    ],
+    "birth_display": "6 January 1807",
+    "death_display": "17 September 1891",
+    "notes": [],
+    "portrait_alt": "Portrait of Joseph Petzval",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Joseph Petzval — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Petzval/"
+      },
+      {
+        "title": "Joseph Petzval — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Petzval"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "joseph-liouville",
+    "name_en": "Joseph Liouville",
+    "biography": "Liouville was a French mathematician who taught at the École Polytechnique and Collège de France and founded an influential mathematical journal. His work spanned differential equations, number theory and mechanics; his phase-space conservation theorem later became fundamental to statistical physics.",
+    "contributions": [
+      "Established conservation of phase-space volume under Hamiltonian evolution",
+      "Developed Sturm–Liouville eigenvalue theory with Charles-François Sturm",
+      "Advanced differential-equation and integration methods used throughout mathematical physics"
+    ],
+    "fields": [
+      "Mathematical physics",
+      "Classical mechanics",
+      "Statistical physics"
+    ],
+    "birth_display": "24 March 1809",
+    "death_display": "8 September 1882",
+    "notes": [],
+    "portrait_alt": "Portrait of Joseph Liouville",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Joseph Liouville — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Liouville/"
+      },
+      {
+        "title": "Joseph Liouville — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Liouville"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "hermann-grassmann",
+    "name_en": "Hermann Grassmann",
+    "biography": "Grassmann was a German mathematician and linguist who spent much of his working life as a schoolteacher in Stettin. His abstract theory of extension received limited recognition initially, but became an important source for vector algebra, exterior algebra and the mathematical language of physics.",
+    "contributions": [
+      "Developed vector operations and exterior algebra in general-dimensional spaces",
+      "Created an extension theory that contributed to the later language of differential forms",
+      "Provided algebraic structures later used for fermionic variables, without himself developing fermion theory"
+    ],
+    "fields": [
+      "Mathematical physics",
+      "Vector and exterior algebra"
+    ],
+    "birth_display": "15 April 1809",
+    "death_display": "26 September 1877",
+    "notes": [
+      "His principal professional identity was that of a mathematician.",
+      "His inclusion concerns mathematics later foundational to physics; he did not himself discover fermion theory."
+    ],
+    "portrait_alt": "Portrait of Hermann Grassmann",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Hermann Grassmann — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Grassmann/"
+      },
+      {
+        "title": "Hermann Grassmann — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Hermann_Grassmann"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "henri-victor-regnault",
+    "name_en": "Henri Victor Regnault",
+    "biography": "Regnault was a French chemist and physicist who held a chair at the Collège de France and directed the Sèvres porcelain works. His careful measurements of gases, vapours and thermal properties supplied dependable quantitative data for the development of thermodynamics.",
+    "contributions": [
+      "Measured gas heat capacities, expansion and compression with high precision",
+      "Systematically studied steam pressure and the heat of vaporization",
+      "Improved instruments and methods for measuring temperature, pressure and heat"
+    ],
+    "fields": [
+      "Thermal physics",
+      "Thermodynamics",
+      "Metrology"
+    ],
+    "birth_display": "21 July 1810",
+    "death_display": "19 January 1878",
+    "notes": [],
+    "portrait_alt": "Portrait of Henri Victor Regnault",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Henri Victor Regnault — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Henri_Victor_Regnault"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "robert-bunsen",
+    "name_en": "Robert Bunsen",
+    "biography": "Bunsen was a German chemist and experimental scientist who worked for many years at Heidelberg. In collaboration with Kirchhoff, he made flame spectra into an analytical tool. His instruments and methods also transformed laboratory work in gas analysis, combustion and calorimetry.",
+    "contributions": [
+      "Established spectroscopic chemical analysis with Kirchhoff",
+      "Discovered caesium and rubidium through their characteristic spectra",
+      "Improved gas analysis, calorimetry and combustion apparatus"
+    ],
+    "fields": [
+      "Spectroscopy",
+      "Experimental methods",
+      "Physical chemistry"
+    ],
+    "birth_display": "30 March 1811",
+    "death_display": "16 August 1899",
+    "notes": [
+      "The birth date follows the historically revised date of 30 March 1811; older sources often give 31 March."
+    ],
+    "portrait_alt": "Portrait of Robert Bunsen",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Robert Bunsen — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Robert_Bunsen"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "william-robert-grove",
+    "name_en": "William Robert Grove",
+    "biography": "Grove was a British lawyer and experimental scientist who combined a legal career with electrochemical research and teaching in London. His work on cells, electrolysis and the connections between natural forces helped shape early ideas about the transformation and conservation of energy.",
+    "contributions": [
+      "Constructed an early gas battery, a forerunner of the fuel cell",
+      "Promoted the interconversion and connectedness of heat, light, electricity, magnetism and mechanical action",
+      "Improved electrochemical cells used in electrical experiments"
+    ],
+    "fields": [
+      "Electrochemistry",
+      "Energy conversion",
+      "Experimental physics"
+    ],
+    "birth_display": "11 July 1811",
+    "death_display": "1 August 1896",
+    "notes": [],
+    "portrait_alt": "Portrait of William Robert Grove",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "William Robert Grove — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/William_Robert_Grove"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "anders-jonas-angstrom",
+    "name_en": "Anders Jonas Ångström",
+    "biography": "Ångström was a Swedish physicist and astronomer at Uppsala. He brought precise wavelength measurements to solar and laboratory spectroscopy and produced detailed spectral atlases, helping make spectral analysis a reliable means of investigating atomic radiation and stellar composition.",
+    "contributions": [
+      "Precisely measured and mapped lines in the solar spectrum",
+      "Investigated emission and absorption spectra and identified hydrogen in the solar atmosphere",
+      "Helped standardize spectroscopic wavelengths, with the ångström unit later named in his honour"
+    ],
+    "fields": [
+      "Spectroscopy",
+      "Astrophysics",
+      "Metrology"
+    ],
+    "birth_display": "13 August 1814",
+    "death_display": "21 June 1874",
+    "notes": [],
+    "portrait_alt": "Portrait of Anders Jonas Ångström",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Anders Jonas Ångström — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Anders_Jonas_%C3%85ngstr%C3%B6m"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "julius-robert-von-mayer",
+    "name_en": "Julius Robert von Mayer",
+    "biography": "Mayer was a German physician and natural investigator who travelled to the tropics as a ship's doctor. Questions about metabolism, heat and work led him toward energy conservation. Initially underappreciated, his work became an important part of nineteenth-century thermodynamics.",
+    "contributions": [
+      "Argued that heat and mechanical work can be quantitatively converted into one another",
+      "Estimated the mechanical equivalent of heat from gas heat capacities",
+      "Applied energy-conservation ideas to physiological and other natural processes"
+    ],
+    "fields": [
+      "Thermodynamics",
+      "Energy conservation",
+      "Natural philosophy"
+    ],
+    "birth_display": "25 November 1814",
+    "death_display": "20 March 1878",
+    "notes": [],
+    "portrait_alt": "Portrait of Julius Robert von Mayer",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Julius Robert von Mayer — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Julius_Robert_von_Mayer"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "james-prescott-joule",
+    "name_en": "James Prescott Joule",
+    "biography": "Joule was an English experimental physicist from a brewing family near Manchester. Working largely through privately supported experiments, he compared electrical, mechanical and thermal effects with unusual precision. He later collaborated with William Thomson and became a key founder of thermodynamics.",
+    "contributions": [
+      "Measured the mechanical equivalent of heat through paddle-wheel and other experiments",
+      "Established the quantitative law of heating by electric currents",
+      "Investigated throttling-induced temperature changes in gases with Thomson"
+    ],
+    "fields": [
+      "Thermodynamics",
+      "Electricity",
+      "Experimental physics"
+    ],
+    "birth_display": "24 December 1818",
+    "death_display": "11 October 1889",
+    "notes": [],
+    "portrait_alt": "Portrait of James Prescott Joule",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "James Prescott Joule — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/James_Prescott_Joule"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "george-gabriel-stokes",
+    "name_en": "George Gabriel Stokes",
+    "biography": "Stokes was an Irish-born British mathematician and physicist who held Cambridge's Lucasian chair and served as President of the Royal Society. He applied mathematical analysis to fluids, light and vibration, helping establish continuum mechanics and physical optics.",
+    "contributions": [
+      "Developed equations for viscous fluid motion and the drag law for a sphere at low Reynolds number",
+      "Investigated fluorescence and the usual shift of its emitted light to wavelengths longer than those of the exciting light",
+      "Introduced parameters that describe the polarization state of light"
+    ],
+    "fields": [
+      "Fluid mechanics",
+      "Optics",
+      "Mathematical physics"
+    ],
+    "birth_display": "13 August 1819",
+    "death_display": "1 February 1903",
+    "notes": [],
+    "portrait_alt": "Portrait of George Gabriel Stokes",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "George Gabriel Stokes — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Stokes/"
+      },
+      {
+        "title": "George Gabriel Stokes — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/George_Gabriel_Stokes"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "leon-foucault",
+    "name_en": "Léon Foucault",
+    "biography": "Foucault was a French experimental physicist who turned from early interests in medicine and photography to precision instruments and optics. His pendulum made Earth's rotation directly visible, while his rotating-mirror experiments advanced laboratory measurements of the propagation of light.",
+    "contributions": [
+      "Demonstrated Earth's rotation with the Foucault pendulum and developed gyroscope experiments",
+      "Improved rotating-mirror measurements of light speed and compared propagation in air and water",
+      "Investigated eddy currents in conducting materials"
+    ],
+    "fields": [
+      "Classical mechanics",
+      "Optics",
+      "Electromagnetism"
+    ],
+    "birth_display": "18 September 1819",
+    "death_display": "11 February 1868",
+    "notes": [],
+    "portrait_alt": "Portrait of Léon Foucault",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Léon Foucault — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Foucault/"
+      },
+      {
+        "title": "Léon Foucault — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/L%C3%A9on_Foucault"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "hippolyte-fizeau",
+    "name_en": "Hippolyte Fizeau",
+    "biography": "Fizeau was a French experimental physicist from a Paris medical family who largely worked independently. He studied photography and optics with collaborators including Foucault, devising toothed-wheel and interference experiments that made light propagation and moving-media theories accessible to terrestrial tests.",
+    "contributions": [
+      "Made an early successful terrestrial measurement of light speed using a rotating toothed wheel",
+      "Measured light propagation in flowing water and its partial-drag effect",
+      "Applied interference methods to precision optical measurements"
+    ],
+    "fields": [
+      "Optics",
+      "Measurements of light speed",
+      "Experimental physics"
+    ],
+    "birth_display": "23 September 1819",
+    "death_display": "18 September 1896",
+    "notes": [],
+    "portrait_alt": "Portrait of Hippolyte Fizeau",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Hippolyte Fizeau — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Fizeau/"
+      },
+      {
+        "title": "Hippolyte Fizeau — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Hippolyte_Fizeau"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "alexandre-edmond-becquerel",
+    "name_en": "Alexandre Edmond Becquerel",
+    "biography": "Edmond Becquerel was a French physicist from a family spanning several generations of scientists, and the father of Henri Becquerel. Working in Paris, including at the natural history museum, he investigated sunlight, electrochemistry and luminescence through experiments on light–matter interactions.",
+    "contributions": [
+      "Discovered the photovoltaic effect in an electrochemical system",
+      "Investigated phosphorescence and fluorescence and improved luminescence measurements",
+      "Studied the solar spectrum and photochemical processes connected with photography"
+    ],
+    "fields": [
+      "Photoelectric effects",
+      "Luminescence",
+      "Photochemistry"
+    ],
+    "birth_display": "24 March 1820",
+    "death_display": "11 May 1891",
+    "notes": [],
+    "portrait_alt": "Portrait of Alexandre Edmond Becquerel",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Alexandre Edmond Becquerel — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Alexandre_Edmond_Becquerel"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "william-john-macquorn-rankine",
+    "name_en": "William John Macquorn Rankine",
+    "biography": "Rankine was a Scottish engineer and physicist who worked in railway engineering before becoming professor of engineering at Glasgow. He systematically connected heat, mechanics and design and produced influential textbooks. His name is associated with a steam-power cycle and an absolute temperature scale.",
+    "contributions": [
+      "Helped develop thermodynamics and the analysis of heat-engine efficiency",
+      "Developed the steam-power cycle associated with his name",
+      "Advanced engineering mechanics and wave studies, linking physical laws with engineering practice"
+    ],
+    "fields": [
+      "Thermodynamics",
+      "Engineering physics",
+      "Mechanics"
+    ],
+    "birth_display": "5 July 1820",
+    "death_display": "24 December 1872",
+    "notes": [],
+    "portrait_alt": "Portrait of William John Macquorn Rankine",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "William John Macquorn Rankine — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Rankine/"
+      },
+      {
+        "title": "William John Macquorn Rankine — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/William_John_Macquorn_Rankine"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "john-tyndall",
+    "name_en": "John Tyndall",
+    "biography": "Tyndall was an Irish-born British experimental physicist at London's Royal Institution, also known for mountaineering and public lectures. His investigations of thermal radiation, scattering and magnetism connected laboratory physics with atmospheric processes, while his demonstrations brought science to a wide audience.",
+    "contributions": [
+      "Measured infrared absorption by gases including water vapour and carbon dioxide",
+      "Investigated the scattering of light by suspended particles",
+      "Studied diamagnetism, radiative heat transfer and sound propagation"
+    ],
+    "fields": [
+      "Thermal radiation",
+      "Atmospheric physics",
+      "Optics"
+    ],
+    "birth_display": "2 August 1820",
+    "death_display": "4 December 1893",
+    "notes": [],
+    "portrait_alt": "Portrait of John Tyndall",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "John Tyndall — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/John_Tyndall"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "johann-josef-loschmidt",
+    "name_en": "Johann Josef Loschmidt",
+    "biography": "Loschmidt was a Bohemian-born Austrian scientist who worked in industry and teaching before researching at the University of Vienna. He connected ideas about molecular structure with kinetic theory, estimated molecular dimensions and challenged explanations of macroscopic irreversibility based on reversible microscopic laws.",
+    "contributions": [
+      "Estimated molecular sizes and the number of molecules per unit volume of gas",
+      "Raised the reversibility objection to Boltzmann's account of irreversibility",
+      "Investigated connections between molecular structure and gas kinetic theory"
+    ],
+    "fields": [
+      "Statistical physics",
+      "Molecular physics",
+      "Kinetic theory of gases"
+    ],
+    "birth_display": "15 March 1821",
+    "death_display": "8 July 1895",
+    "notes": [],
+    "portrait_alt": "Portrait of Johann Josef Loschmidt",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Johann Josef Loschmidt — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Johann_Josef_Loschmidt"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "hermann-von-helmholtz",
+    "name_en": "Hermann von Helmholtz",
+    "biography": "Helmholtz was a German physician, physicist and physiologist who entered research through military medicine. He taught at several universities and later directed research in Berlin. His work joined precise measurement and mathematical explanation across energy, fluids, sound and visual perception.",
+    "contributions": [
+      "Gave an influential systematic account of energy conservation and its mechanical basis",
+      "Developed vortex-motion theory and fundamental results in fluid mechanics",
+      "Investigated acoustic resonance, timbre and vision at the interface of physics and physiology"
+    ],
+    "fields": [
+      "Thermodynamics",
+      "Fluid mechanics",
+      "Acoustics",
+      "Optics"
+    ],
+    "birth_display": "31 August 1821",
+    "death_display": "8 September 1894",
+    "notes": [],
+    "portrait_alt": "Portrait of Hermann von Helmholtz",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Hermann von Helmholtz — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Helmholtz/"
+      },
+      {
+        "title": "Hermann von Helmholtz — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Hermann_von_Helmholtz"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "rudolf-clausius",
+    "name_en": "Rudolf Clausius",
+    "biography": "Clausius was a German theoretical physicist who taught in Berlin, Zürich, Würzburg and Bonn. Re-examining Carnot's heat-engine theory, he distinguished energy conservation from the direction of thermal processes and introduced entropy, becoming a principal founder of thermodynamics and kinetic theory.",
+    "contributions": [
+      "Formulated a major statement of the second law of thermodynamics",
+      "Introduced entropy and its mathematical definition",
+      "Developed gas kinetic theory, the mean-free-path concept and the virial theorem"
+    ],
+    "fields": [
+      "Thermodynamics",
+      "Statistical physics",
+      "Kinetic theory of gases"
+    ],
+    "birth_display": "2 January 1822",
+    "death_display": "24 August 1888",
+    "notes": [],
+    "portrait_alt": "Portrait of Rudolf Clausius",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Rudolf Clausius — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Clausius/"
+      },
+      {
+        "title": "Rudolf Clausius — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Rudolf_Clausius"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "william-huggins",
+    "name_en": "William Huggins",
+    "biography": "Huggins was a British astronomer who built a private observatory near London and later worked closely with his wife Margaret. Applying laboratory spectroscopy to nebulae, stars and comets, he helped transform astronomy into a science of celestial composition, physical conditions and motion.",
+    "contributions": [
+      "Used emission spectra to show that some nebulae consist of luminous gas",
+      "Investigated stellar radial motion through spectral-line shifts",
+      "Advanced astronomical spectral photography and early astrophysics"
+    ],
+    "fields": [
+      "Astrophysics",
+      "Spectroscopy",
+      "Observational astronomy"
+    ],
+    "birth_display": "7 February 1824",
+    "death_display": "12 May 1910",
+    "notes": [],
+    "portrait_alt": "Portrait of William Huggins",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "William Huggins — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/William_Huggins"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "gustav-kirchhoff",
+    "name_en": "Gustav Kirchhoff",
+    "biography": "Kirchhoff was a German physicist who collaborated with Bunsen in Heidelberg before becoming a professor in Berlin. Combining mathematical analysis and spectral experiments, he made foundational contributions to electrical circuits, thermal radiation and optics.",
+    "contributions": [
+      "Formulated the junction-current and loop-voltage laws for electrical circuits",
+      "Established spectral analysis with Bunsen and explained the connection between solar dark lines and absorption",
+      "Formulated the absorption–emission relation for thermal radiation and introduced the black-body concept"
+    ],
+    "fields": [
+      "Electromagnetism",
+      "Spectroscopy",
+      "Thermal radiation"
+    ],
+    "birth_display": "12 March 1824",
+    "death_display": "17 October 1887",
+    "notes": [],
+    "portrait_alt": "Portrait of Gustav Kirchhoff",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Gustav Kirchhoff — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Kirchhoff/"
+      },
+      {
+        "title": "Gustav Kirchhoff — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Gustav_Kirchhoff"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "william-thomson-1st-baron-kelvin",
+    "name_en": "William Thomson, 1st Baron Kelvin",
+    "biography": "William Thomson, later Lord Kelvin, was a Belfast-born physicist who held the Glasgow chair of natural philosophy for more than five decades. Alongside thermodynamics, electromagnetism and fluids, he worked on submarine telegraphy and precision instruments; the kelvin temperature unit bears his title.",
+    "contributions": [
+      "Developed an absolute temperature scale and thermodynamic temperature",
+      "Formulated the Kelvin statement of the second law",
+      "Advanced telegraph transmission and electrical measurement, and studied gas throttling with Joule"
+    ],
+    "fields": [
+      "Thermodynamics",
+      "Electromagnetism",
+      "Metrology"
+    ],
+    "birth_display": "26 June 1824",
+    "death_display": "17 December 1907",
+    "notes": [],
+    "portrait_alt": "Portrait of William Thomson, 1st Baron Kelvin",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "William Thomson, 1st Baron Kelvin — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Thomson/"
+      },
+      {
+        "title": "William Thomson, 1st Baron Kelvin — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/William_Thomson%2C_1st_Baron_Kelvin"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "johann-jakob-balmer",
+    "name_en": "Johann Jakob Balmer",
+    "biography": "Balmer was a Swiss mathematics teacher working in Basel rather than a professional spectroscopist. From measured hydrogen wavelengths he found a simple numerical pattern, an empirical result that later provided a crucial test for atomic models and quantum theory.",
+    "contributions": [
+      "Formulated the Balmer relation for hydrogen's visible spectral lines",
+      "Predicted additional hydrogen-line wavelengths beyond those used to construct the relation",
+      "Provided an empirical basis for later Rydberg formulas and the Bohr model"
+    ],
+    "fields": [
+      "Atomic spectroscopy",
+      "Mathematical physics"
+    ],
+    "birth_display": "1 May 1825",
+    "death_display": "12 March 1898",
+    "notes": [],
+    "portrait_alt": "Portrait of Johann Jakob Balmer",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Johann Jakob Balmer — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Balmer/"
+      },
+      {
+        "title": "Johann Jakob Balmer — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Johann_Jakob_Balmer"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "bernhard-riemann",
+    "name_en": "Bernhard Riemann",
+    "biography": "Riemann was a German mathematician who studied and worked mainly in Göttingen and died young from illness. His work in analysis, geometry and complex functions introduced the description of space through an intrinsic metric, later fundamental to general relativity and modern field theory.",
+    "contributions": [
+      "Founded Riemannian geometry around intrinsic metrics and curvature",
+      "Developed Riemann surfaces and important analytical tools",
+      "Studied physical problems involving fluids and waves, while providing mathematics later used in gravitation"
+    ],
+    "fields": [
+      "Mathematical physics",
+      "Geometry and gravitation"
+    ],
+    "birth_display": "17 September 1826",
+    "death_display": "20 July 1866",
+    "notes": [
+      "Riemann did not formulate general relativity.",
+      "This entry records the foundational role of his mathematics in later physics."
+    ],
+    "portrait_alt": "Portrait of Bernhard Riemann",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Bernhard Riemann — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Riemann/"
+      },
+      {
+        "title": "Bernhard Riemann — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Bernhard_Riemann"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "balfour-stewart",
+    "name_en": "Balfour Stewart",
+    "biography": "Stewart was a Scottish physicist who moved from commercial work into science, directed Kew Observatory and later taught in Manchester. He investigated thermal radiation, geomagnetism and meteorological instruments, contributing early experimental evidence about the relation between absorption and emission.",
+    "contributions": [
+      "Investigated the relation between thermal emission and absorption",
+      "Studied geomagnetic and meteorological observations and their relation to solar activity",
+      "Contributed to radiation measurements and physical instrumentation"
+    ],
+    "fields": [
+      "Thermal radiation",
+      "Geophysics",
+      "Metrology"
+    ],
+    "birth_display": "1 November 1828",
+    "death_display": "19 December 1887",
+    "notes": [],
+    "portrait_alt": "Portrait of Balfour Stewart",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Balfour Stewart — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Balfour_Stewart"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "james-clerk-maxwell",
+    "name_en": "James Clerk Maxwell",
+    "biography": "Maxwell was a Scottish physicist who taught in Aberdeen and London before becoming Cambridge's first Cavendish Professor and organizing its laboratory. He translated Faraday's field ideas into mathematical theory and also investigated molecules, colour vision and the stability of Saturn's rings.",
+    "contributions": [
+      "Established classical electromagnetic field theory, predicted electromagnetic waves and identified light as an electromagnetic phenomenon",
+      "Derived a molecular speed distribution and advanced kinetic and transport theory",
+      "Studied trichromatic colour vision and the stability of Saturn's rings, and helped establish the Cavendish Laboratory"
+    ],
+    "fields": [
+      "Electromagnetism",
+      "Statistical physics",
+      "Optics"
+    ],
+    "birth_display": "13 June 1831",
+    "death_display": "5 November 1879",
+    "notes": [],
+    "portrait_alt": "Portrait of James Clerk Maxwell",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "James Clerk Maxwell — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Maxwell/"
+      },
+      {
+        "title": "James Clerk Maxwell — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/James_Clerk_Maxwell"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "william-crookes",
+    "name_en": "William Crookes",
+    "biography": "Crookes was a British chemist and physicist who worked mainly in a private laboratory and founded scientific periodicals. His vacuum and discharge experiments influenced later cathode-ray research. He also pursued spiritualism, a controversial activity distinct from his established laboratory contributions.",
+    "contributions": [
+      "Improved high-vacuum discharge tubes and investigated cathode rays",
+      "Invented the Crookes radiometer, stimulating research on rarefied gases",
+      "Discovered thallium through spectral analysis"
+    ],
+    "fields": [
+      "Gas discharges",
+      "Vacuum physics",
+      "Spectroscopy"
+    ],
+    "birth_display": "17 June 1832",
+    "death_display": "4 April 1919",
+    "notes": [],
+    "portrait_alt": "Portrait of William Crookes",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "William Crookes — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/William_Crookes"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "jozef-stefan",
+    "name_en": "Jožef Stefan",
+    "biography": "Stefan was a Slovenian-speaking Austrian physicist from Carinthia who worked at Vienna and taught Boltzmann. He drew quantitative laws from thermal experiments and investigated radiation, transport and phase changes, leaving lasting contributions to heat physics.",
+    "contributions": [
+      "Inferred the fourth-power temperature law of thermal radiation from experimental data",
+      "Investigated diffusion and heat conduction",
+      "Studied moving freezing and melting boundaries, associated with the Stefan problem"
+    ],
+    "fields": [
+      "Thermal radiation",
+      "Heat conduction",
+      "Phase transitions"
+    ],
+    "birth_display": "24 March 1835",
+    "death_display": "7 January 1893",
+    "notes": [],
+    "portrait_alt": "Portrait of Jožef Stefan",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Jožef Stefan — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Jo%C5%BEef_Stefan"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "norman-lockyer",
+    "name_en": "Norman Lockyer",
+    "biography": "Lockyer was a British astronomer and scientific organizer who initially worked as a civil servant. He concentrated on solar spectroscopy, founded Nature and later established observatories, helping to develop astrophysical observation and scientific communication.",
+    "contributions": [
+      "Used spectroscopy to study solar prominences and the solar atmosphere",
+      "Independently observed the unfamiliar yellow solar line associated with the discovery of helium",
+      "Developed methods of astrophysical spectroscopy and solar observation"
+    ],
+    "fields": [
+      "Solar physics",
+      "Spectroscopy",
+      "Astrophysics"
+    ],
+    "birth_display": "17 May 1836",
+    "death_display": "16 August 1920",
+    "notes": [
+      "The solar-spectral discovery of helium involved independent work by Janssen, Lockyer and others; it should not be attributed to a single discoverer."
+    ],
+    "portrait_alt": "Portrait of Norman Lockyer",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Norman Lockyer — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Norman_Lockyer"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "ernst-mach",
+    "name_en": "Ernst Mach",
+    "biography": "Mach was an Austrian physicist and philosopher who taught in Graz, Prague and Vienna. He investigated high-speed motion, shock waves and perception while critically examining the concepts of classical mechanics. Both his experiments and his philosophical arguments influenced physics around the turn of the twentieth century.",
+    "contributions": [
+      "Photographically investigated shock waves produced by supersonic objects",
+      "Investigated compressible flow, characterized by the Mach number: flow speed divided by the local speed of sound",
+      "Criticized absolute space and conventional accounts of inertia, influencing Einstein's thinking about gravitation"
+    ],
+    "fields": [
+      "Fluid mechanics",
+      "Acoustics",
+      "Foundations of physics"
+    ],
+    "birth_display": "18 February 1838",
+    "death_display": "19 February 1916",
+    "notes": [],
+    "portrait_alt": "Portrait of Ernst Mach",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Ernst Mach — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Ernst_Mach"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "josiah-willard-gibbs",
+    "name_en": "Josiah Willard Gibbs",
+    "biography": "Gibbs was an American mathematical physicist whose academic career was centred at Yale. He developed abstract and powerful treatments of thermodynamics, phase equilibrium and statistical ensembles. Initially slow to circulate, these became shared foundations of physics, physical chemistry and engineering thermodynamics.",
+    "contributions": [
+      "Systematized chemical potential, free energy and multiphase equilibrium, including the phase rule",
+      "Established a systematic statistical-mechanical framework using ensembles, including the canonical and grand-canonical descriptions",
+      "Developed vector analysis and methods used in mathematical physics"
+    ],
+    "fields": [
+      "Thermodynamics",
+      "Statistical physics",
+      "Mathematical physics"
+    ],
+    "birth_display": "11 February 1839",
+    "death_display": "28 April 1903",
+    "notes": [],
+    "portrait_alt": "Portrait of Josiah Willard Gibbs",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Josiah Willard Gibbs — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Gibbs/"
+      },
+      {
+        "title": "Josiah Willard Gibbs — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "august-kundt",
+    "name_en": "August Kundt",
+    "biography": "Kundt was a German experimental physicist who taught at several universities, notably Strasbourg and Berlin. He investigated acoustics, optical dispersion and the properties of gases, combining ingenious apparatus with careful measurements and influential experimental teaching.",
+    "contributions": [
+      "Developed Kundt's tube for visualizing standing sound waves and measuring sound speeds",
+      "Investigated anomalous optical dispersion and the connection between absorption and refraction",
+      "Performed magneto-optical experiments and studied the optical properties of thin metal films"
+    ],
+    "fields": [
+      "Acoustics",
+      "Optics",
+      "Experimental physics"
+    ],
+    "birth_display": "18 November 1839",
+    "death_display": "21 May 1894",
+    "notes": [],
+    "portrait_alt": "Portrait of August Kundt",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "August Kundt — Deutsche Biographie/Bavarian Academy of Sciences",
+        "url": "https://www.deutsche-biographie.de/sfz47023.html"
+      },
+      {
+        "title": "August Kundt — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/August_Kundt"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "ernst-abbe",
+    "name_en": "Ernst Abbe",
+    "biography": "Abbe was a German physicist and optical instrument designer who worked with Carl Zeiss and Otto Schott in Jena. He connected diffraction theory, optical glass and lens manufacture, putting microscope design on a quantitative physical foundation. He also participated in reforms of industrial and research organization.",
+    "contributions": [
+      "Established the diffraction-based account of microscope resolution",
+      "Developed aberration-control criteria, including the Abbe sine condition, to improve high-performance microscope objectives",
+      "Designed precision optical instruments, including apparatus for measuring refractive index"
+    ],
+    "fields": [
+      "Physical optics",
+      "Microscopy",
+      "Metrology"
+    ],
+    "birth_display": "23 January 1840",
+    "death_display": "14 January 1905",
+    "notes": [],
+    "portrait_alt": "Portrait of Ernst Abbe",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Ernst Abbe — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Abbe/"
+      },
+      {
+        "title": "Ernst Abbe — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Ernst_Abbe"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "alfred-cornu",
+    "name_en": "Alfred Cornu",
+    "biography": "Cornu was a French experimental physicist who taught at the École Polytechnique. His work joined precision optics and instrumentation, including refinements of light-speed measurements, diffraction analysis and spectroscopy. His graphical treatment of diffraction remains a standard optical tool.",
+    "contributions": [
+      "Improved terrestrial measurements of the speed of light",
+      "Developed the Cornu spiral for analysing Fresnel diffraction",
+      "Investigated spectroscopy, photoelasticity and precision optical measurements"
+    ],
+    "fields": [
+      "Optics",
+      "Diffraction",
+      "Metrology"
+    ],
+    "birth_display": "6 March 1841",
+    "death_display": "12 April 1902",
+    "notes": [],
+    "portrait_alt": "Portrait of Alfred Cornu",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Alfred Cornu — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Alfred_Cornu"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "joseph-boussinesq",
+    "name_en": "Joseph Boussinesq",
+    "biography": "Boussinesq was a French mathematician and physicist who taught in Lille and Paris. He developed mathematical descriptions of fluids, waves, heat and elasticity. His approximations made complex continuum problems more tractable while retaining the physical effects important to each regime.",
+    "contributions": [
+      "Developed the Boussinesq approximation for buoyancy-driven flow",
+      "Developed the Boussinesq equations for nonlinear shallow-water long waves",
+      "Developed the eddy-viscosity concept for turbulence and the theory of elastic contact problems"
+    ],
+    "fields": [
+      "Fluid mechanics",
+      "Waves",
+      "Continuum mechanics"
+    ],
+    "birth_display": "13 March 1842",
+    "death_display": "19 February 1929",
+    "notes": [],
+    "portrait_alt": "Portrait of Joseph Boussinesq",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Joseph Boussinesq — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Boussinesq/"
+      },
+      {
+        "title": "Joseph Boussinesq — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Boussinesq"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "osborne-reynolds",
+    "name_en": "Osborne Reynolds",
+    "biography": "Reynolds was an Irish-born British engineer and physicist whose career was based in Manchester. He combined experiments with mathematical analysis to investigate flow transitions, lubrication and heat transfer. His work helped establish modern fluid mechanics and research-based engineering education.",
+    "contributions": [
+      "Identified the Reynolds number, a dimensionless ratio of inertial to viscous effects characterizing flow similarity",
+      "Investigated the transition from laminar to turbulent pipe flow and developed turbulence analysis",
+      "Established the Reynolds equation for thin-film fluid lubrication"
+    ],
+    "fields": [
+      "Fluid mechanics",
+      "Turbulence",
+      "Engineering physics"
+    ],
+    "birth_display": "23 August 1842",
+    "death_display": "21 February 1912",
+    "notes": [
+      "The birth date follows the University of Manchester biographical study and MacTutor: 23 August 1842. The English Wikipedia infobox retrieved in this audit gives 23 October, also conflicting with its own article text."
+    ],
+    "portrait_alt": "Portrait of Osborne Reynolds",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Osborne Reynolds — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Reynolds/"
+      },
+      {
+        "title": "Osborne Reynolds — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Osborne_Reynolds"
+      },
+      {
+        "title": "Osborne Reynolds — University of Manchester biographical study",
+        "url": "https://personalpages.manchester.ac.uk/staff/jdjackson/10%20Reynolds.pdf"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "james-dewar",
+    "name_en": "James Dewar",
+    "biography": "Dewar was a Scottish chemist and physicist who worked at Cambridge and London's Royal Institution. He developed techniques for producing and investigating very low temperatures, creating vacuum-insulated vessels and pursuing the liquefaction of gases and their physical properties.",
+    "contributions": [
+      "Developed the vacuum-insulated Dewar vessel for storing cryogenic liquids",
+      "Liquefied and solidified hydrogen, advancing low-temperature experimental methods",
+      "Investigated material properties and gas adsorption at low temperatures"
+    ],
+    "fields": [
+      "Low-temperature physics",
+      "Experimental techniques",
+      "Physical chemistry"
+    ],
+    "birth_display": "20 September 1842",
+    "death_display": "27 March 1923",
+    "notes": [],
+    "portrait_alt": "Portrait of James Dewar",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "James Dewar — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/James_Dewar"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "ludwig-boltzmann",
+    "name_en": "Ludwig Boltzmann",
+    "biography": "Boltzmann was an Austrian theoretical physicist who held posts in Graz, Vienna and other European universities. He related the thermal behaviour of matter to microscopic motion and probability, defending atomistic explanations and establishing central ideas of statistical mechanics.",
+    "contributions": [
+      "Formulated the Boltzmann transport equation and H-theorem to study the approach of gases to equilibrium",
+      "Related entropy to the number of microscopic states and developed a statistical interpretation of the second law",
+      "Derived the thermal-radiation fourth-power law theoretically from thermodynamics and electromagnetism"
+    ],
+    "fields": [
+      "Statistical physics",
+      "Kinetic theory of gases",
+      "Thermal radiation"
+    ],
+    "birth_display": "20 February 1844",
+    "death_display": "5 September 1906",
+    "notes": [],
+    "portrait_alt": "Portrait of Ludwig Boltzmann",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Ludwig Boltzmann — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Boltzmann/"
+      },
+      {
+        "title": "Ludwig Boltzmann — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Ludwig_Boltzmann"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "thomas-edison",
+    "name_en": "Thomas Edison",
+    "biography": "Edison was an American inventor and organizer of industrial research. His laboratories developed practical electrical lighting, power systems, sound recording and other technologies through sustained collaborative experimentation. His observed thermionic effect also became important in the history of electronic devices.",
+    "contributions": [
+      "Systematically improved incandescent lighting and associated direct-current distribution systems with his laboratory teams",
+      "Observed one-way conduction in an evacuated incandescent lamp, later called the Edison effect, an early thermionic-emission phenomenon",
+      "Established an industrial research model organized around team experiments and iterative improvement of devices"
+    ],
+    "fields": [
+      "Electrical technology",
+      "Thermionic emission",
+      "Applied physics"
+    ],
+    "birth_display": "11 February 1847",
+    "death_display": "18 October 1931",
+    "notes": [
+      "His principal roles were inventor and organizer of engineering research.",
+      "Electric lighting, motion pictures and related technologies had multiple pioneers; this entry does not assign sole invention to Edison."
+    ],
+    "portrait_alt": "Portrait of Thomas Edison",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Thomas Edison — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Edison"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "lorand-eotvos",
+    "name_en": "Loránd Eötvös",
+    "biography": "Eötvös was a Hungarian physicist who worked in Budapest and also held public and academic offices. His highly sensitive torsion balances investigated gravitational fields and the relation between inertial and gravitational mass, while his earlier research addressed liquid surfaces.",
+    "contributions": [
+      "Conducted precision tests of the proportionality of inertial and gravitational mass",
+      "Developed torsion-balance methods for measuring gravity gradients",
+      "Established an empirical relation between liquid surface tension and temperature"
+    ],
+    "fields": [
+      "Gravitational experiments",
+      "Geophysics",
+      "Surface physics"
+    ],
+    "birth_display": "27 July 1848",
+    "death_display": "8 April 1919",
+    "notes": [],
+    "portrait_alt": "Portrait of Loránd Eötvös",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Loránd Eötvös — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Eotvos/"
+      },
+      {
+        "title": "Loránd Eötvös — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Lor%C3%A1nd_E%C3%B6tv%C3%B6s"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "margaret-lindsay-huggins",
+    "name_en": "Margaret Lindsay Huggins",
+    "biography": "Margaret Huggins was an Irish-born British astronomer who collaborated for decades with William Huggins at their private observatory. Skilled in photography and observational practice, she contributed to recording, interpreting and publishing stellar and nebular spectra, including ultraviolet observations.",
+    "contributions": [
+      "Helped develop astronomical spectral photography with William Huggins",
+      "Participated in ultraviolet stellar spectroscopy and studies of celestial emission spectra",
+      "Co-produced spectral atlases that made observations easier to compare"
+    ],
+    "fields": [
+      "Astrophysics",
+      "Spectroscopy",
+      "Scientific photography"
+    ],
+    "birth_display": "14 August 1848",
+    "death_display": "24 March 1915",
+    "notes": [],
+    "portrait_alt": "Portrait of Margaret Lindsay Huggins",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Margaret Lindsay Huggins — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Margaret_Lindsay_Huggins"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "henry-augustus-rowland",
+    "name_en": "Henry Augustus Rowland",
+    "biography": "Rowland was an American experimental physicist at Johns Hopkins who helped professionalize research in the United States. He investigated electromagnetic effects and thermal measurement, becoming especially known for precision diffraction gratings and measurements of the solar spectrum.",
+    "contributions": [
+      "Demonstrated the magnetic effect of moving electric charge using a rotating charged disk",
+      "Developed concave diffraction gratings and high-precision grating ruling",
+      "Measured the mechanical equivalent of heat and solar spectral wavelengths"
+    ],
+    "fields": [
+      "Electromagnetism",
+      "Spectroscopy",
+      "Metrology"
+    ],
+    "birth_display": "27 November 1848",
+    "death_display": "16 April 1901",
+    "notes": [],
+    "portrait_alt": "Portrait of Henry Augustus Rowland",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Henry Augustus Rowland — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Henry_Augustus_Rowland"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "sofya-kovalevskaya",
+    "name_en": "Sofya Kovalevskaya",
+    "biography": "Kovalevskaya was a Russian-born mathematician who pursued advanced study in Germany when women faced major educational barriers, and later taught in Stockholm. Her research on differential equations and rigid-body motion produced an important integrable case in analytical mechanics.",
+    "contributions": [
+      "Discovered the integrable rigid-body case known as the Kovalevskaya top",
+      "Developed existence theory for analytic partial differential equations associated with the Cauchy–Kovalevskaya theorem",
+      "Applied advanced analysis to classical mechanics and wave problems"
+    ],
+    "fields": [
+      "Mathematical physics",
+      "Classical mechanics"
+    ],
+    "birth_display": "15 January 1850",
+    "death_display": "10 February 1891",
+    "notes": [
+      "Dates are given in the Gregorian calendar.",
+      "Old Style Russian dates differ by several days."
+    ],
+    "portrait_alt": "Portrait of Sofya Kovalevskaya",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Sofya Kovalevskaya — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Kovalevskaya/"
+      },
+      {
+        "title": "Sofya Kovalevskaya — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Sofya_Kovalevskaya"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "oliver-heaviside",
+    "name_en": "Oliver Heaviside",
+    "biography": "Heaviside was a British electrical theorist who worked in telegraphy before becoming an independent researcher. He reformulated electromagnetic theory in vector language and studied cables, impedance and operational methods. His work profoundly influenced electromagnetic engineering despite uneven recognition during his lifetime.",
+    "contributions": [
+      "Helped express Maxwell's electromagnetic theory in its familiar vector form",
+      "Developed transmission-line theory, the distortionless condition and impedance methods",
+      "Proposed a reflecting ionized atmospheric layer and advanced operational calculus"
+    ],
+    "fields": [
+      "Electromagnetism",
+      "Electrical physics",
+      "Mathematical physics"
+    ],
+    "birth_display": "18 May 1850",
+    "death_display": "3 February 1925",
+    "notes": [],
+    "portrait_alt": "Portrait of Oliver Heaviside",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Oliver Heaviside — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Heaviside/"
+      },
+      {
+        "title": "Oliver Heaviside — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Oliver_Heaviside"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "oliver-lodge",
+    "name_en": "Oliver Lodge",
+    "biography": "Lodge was a British physicist who taught in Liverpool and became the first principal of the University of Birmingham. He investigated electromagnetic waves and radio reception after Hertz's experiments, while also remaining publicly associated with ether theories and psychical research.",
+    "contributions": [
+      "Demonstrated electromagnetic waves and improved radio detection and reception",
+      "Developed methods of tuned radio communication",
+      "Investigated electromagnetic propagation and moving-media tests relevant to ether theories"
+    ],
+    "fields": [
+      "Electromagnetism",
+      "Radio physics",
+      "Experimental physics"
+    ],
+    "birth_display": "12 June 1851",
+    "death_display": "22 August 1940",
+    "notes": [],
+    "portrait_alt": "Portrait of Oliver Lodge",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Oliver Lodge — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Oliver_Lodge"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "george-francis-fitzgerald",
+    "name_en": "George Francis FitzGerald",
+    "biography": "FitzGerald was an Irish theoretical physicist at Trinity College Dublin and an influential member of the Maxwellian school. He connected electromagnetic theory with experiments and proposed a contraction of moving bodies as a possible explanation of ether-drift results.",
+    "contributions": [
+      "Proposed producing electromagnetic waves with oscillating currents",
+      "Advanced the length-contraction hypothesis in the prehistory of special relativity",
+      "Promoted Maxwell's field theory and investigated electromagnetic radiation"
+    ],
+    "fields": [
+      "Electromagnetism",
+      "Prehistory of relativity",
+      "Theoretical physics"
+    ],
+    "birth_display": "3 August 1851",
+    "death_display": "21 February 1901",
+    "notes": [],
+    "portrait_alt": "Portrait of George Francis FitzGerald",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "George Francis FitzGerald — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/George_Francis_FitzGerald"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "john-henry-poynting",
+    "name_en": "John Henry Poynting",
+    "biography": "Poynting was a British physicist who taught at Mason College and the University of Birmingham. Combining theoretical work with precision measurement, he investigated electromagnetic energy transport, radiation pressure and gravity, helping clarify how fields carry energy.",
+    "contributions": [
+      "Introduced the electromagnetic energy-flux vector and associated energy-conservation theorem",
+      "Investigated radiation pressure and its effects on small celestial bodies",
+      "Performed precision gravitational experiments and measured Earth's mean density"
+    ],
+    "fields": [
+      "Electromagnetism",
+      "Radiation physics",
+      "Gravitational experiments"
+    ],
+    "birth_display": "9 September 1852",
+    "death_display": "30 March 1914",
+    "notes": [],
+    "portrait_alt": "Portrait of John Henry Poynting",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "John Henry Poynting — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/John_Henry_Poynting"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "henri-poincare",
+    "name_en": "Henri Poincaré",
+    "biography": "Poincaré was a French mathematician and theoretical physicist based in Paris. He studied celestial mechanics, topology, differential equations and electrodynamics, making foundational contributions to dynamical systems and the development of relativity while examining the structure of scientific theories.",
+    "contributions": [
+      "Revealed the complexity of the three-body problem and helped found qualitative dynamics",
+      "Investigated the group properties of Lorentz transformations and the relativity principle, contributing to the prehistory of special relativity",
+      "Developed mathematical methods in electrodynamics and celestial mechanics"
+    ],
+    "fields": [
+      "Mathematical physics",
+      "Celestial mechanics",
+      "Prehistory of relativity"
+    ],
+    "birth_display": "29 April 1854",
+    "death_display": "17 July 1912",
+    "notes": [],
+    "portrait_alt": "Portrait of Henri Poincaré",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Henri Poincaré — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Poincare/"
+      },
+      {
+        "title": "Henri Poincaré — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "c-v-boys",
+    "name_en": "C. V. Boys",
+    "biography": "Boys was a British experimental physicist noted for sensitive instruments and precision measurement. His extremely fine quartz-fibre suspensions made tiny torques accessible to experiment. He also investigated soap films, radiation measurement and high-speed photography.",
+    "contributions": [
+      "Developed quartz-fibre suspensions for highly sensitive torsion instruments",
+      "Improved Cavendish-type measurements of the gravitational constant",
+      "Developed radiation-measuring and high-speed photographic apparatus and studied surface-tension phenomena"
+    ],
+    "fields": [
+      "Precision measurement",
+      "Gravitational experiments",
+      "Surface physics"
+    ],
+    "birth_display": "15 March 1855",
+    "death_display": "30 March 1944",
+    "notes": [],
+    "portrait_alt": "Portrait of C. V. Boys",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "C. V. Boys — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Boys/"
+      },
+      {
+        "title": "C. V. Boys — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/C._V._Boys"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "james-alfred-ewing",
+    "name_en": "James Alfred Ewing",
+    "biography": "Ewing was a Scottish engineer and physicist who worked in Japan, Dundee, Cambridge and Edinburgh. His research on magnetic materials, seismic instruments and mechanical engineering joined laboratory physics with practical measurement and engineering education.",
+    "contributions": [
+      "Systematically investigated magnetic hysteresis in ferromagnets",
+      "Studied models of magnetic materials and their energy losses",
+      "Helped develop early seismographs and engineering-physics education"
+    ],
+    "fields": [
+      "Magnetism",
+      "Geophysics",
+      "Engineering physics"
+    ],
+    "birth_display": "27 March 1855",
+    "death_display": "7 January 1935",
+    "notes": [],
+    "portrait_alt": "Portrait of James Alfred Ewing",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "James Alfred Ewing — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/James_Alfred_Ewing"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "nikola-tesla",
+    "name_en": "Nikola Tesla",
+    "biography": "Tesla was a Serbian-American inventor and electrical engineer who moved from European electrical work to research in the United States. His rotating-field motors, polyphase systems and high-frequency experiments strongly influenced electrical engineering and applied physics.",
+    "contributions": [
+      "Developed polyphase alternating-current systems and induction motors",
+      "Built Tesla coils and investigated high-frequency, high-voltage discharges",
+      "Studied wireless energy transfer and applications of high-frequency currents"
+    ],
+    "fields": [
+      "Electromagnetism",
+      "Electrical technology",
+      "High-frequency physics"
+    ],
+    "birth_display": "10 July 1856",
+    "death_display": "7 January 1943",
+    "notes": [
+      "His principal roles were inventor and engineer.",
+      "Radio and alternating-current systems developed through the work of multiple scientists and engineers."
+    ],
+    "portrait_alt": "Portrait of Nikola Tesla",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Nikola Tesla — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Nikola_Tesla"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "aikitsu-tanakadate",
+    "name_en": "Aikitsu Tanakadate",
+    "biography": "Tanakadate was a Japanese physicist and geophysicist associated with Tokyo University. After studying in Europe and North America, he organized geomagnetic and gravity surveys in Japan and promoted precision observation, international scientific cooperation, physics education and aeronautical research.",
+    "contributions": [
+      "Organized systematic surveys of Japan's magnetic field",
+      "Investigated gravity measurements and geophysical instruments",
+      "Promoted experimental physics, aeronautical research and international metrological cooperation"
+    ],
+    "fields": [
+      "Geophysics",
+      "Metrology",
+      "Experimental physics"
+    ],
+    "birth_display": "18 September 1856",
+    "death_display": "21 May 1952",
+    "notes": [],
+    "portrait_alt": "Portrait of Aikitsu Tanakadate",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Aikitsu Tanakadate — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Aikitsu_Tanakadate"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "heinrich-hertz",
+    "name_en": "Heinrich Hertz",
+    "biography": "Hertz was a German experimental physicist trained under Helmholtz in Berlin who later taught in Karlsruhe and Bonn. His spark oscillators and receivers generated and detected electromagnetic waves, decisively testing Maxwell's theory. He also investigated contact mechanics and electrical discharges.",
+    "contributions": [
+      "Generated electromagnetic waves and demonstrated their reflection, refraction, interference and polarization",
+      "Observed ultraviolet enhancement of spark discharge, an early clue to the photoelectric effect",
+      "Established Hertzian elastic-contact theory"
+    ],
+    "fields": [
+      "Electromagnetism",
+      "Photoelectric effects",
+      "Contact mechanics"
+    ],
+    "birth_display": "22 February 1857",
+    "death_display": "1 January 1894",
+    "notes": [],
+    "portrait_alt": "Portrait of Heinrich Hertz",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Heinrich Hertz — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hertz_Heinrich/"
+      },
+      {
+        "title": "Heinrich Hertz — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Heinrich_Hertz"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "williamina-fleming",
+    "name_en": "Williamina Fleming",
+    "biography": "Fleming was a Scottish-born American astronomer at Harvard College Observatory. She classified photographic spectra and later supervised the observatory's women computers. Her systematic examination of plates supported stellar classification and the discovery of variable stars, novae and unusual spectra.",
+    "contributions": [
+      "Developed and applied an early Harvard stellar spectral classification and compiled extensive stellar catalogues",
+      "Discovered many variable stars, novae and other unusual objects on plates",
+      "Helped recognize anomalous white-dwarf spectra"
+    ],
+    "fields": [
+      "Stellar physics",
+      "Spectroscopy",
+      "Observational astronomy"
+    ],
+    "birth_display": "15 May 1857",
+    "death_display": "21 May 1911",
+    "notes": [],
+    "portrait_alt": "Portrait of Williamina Fleming",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Williamina Fleming — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Williamina_Fleming"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "joseph-larmor",
+    "name_en": "Joseph Larmor",
+    "biography": "Larmor was an Irish-born theoretical physicist at Cambridge, where he held the Lucasian chair. His work on electrons, electromagnetic radiation and motion in magnetic fields contributed important results to classical electrodynamics and the historical development of relativity.",
+    "contributions": [
+      "Derived the radiation-power formula for an accelerating charge",
+      "Developed the account of Larmor precession in a magnetic field",
+      "Investigated time transformations and moving systems within electron theory"
+    ],
+    "fields": [
+      "Classical electrodynamics",
+      "Magnetism",
+      "Prehistory of relativity"
+    ],
+    "birth_display": "11 July 1857",
+    "death_display": "19 May 1942",
+    "notes": [],
+    "portrait_alt": "Portrait of Joseph Larmor",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Joseph Larmor — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Larmor/"
+      },
+      {
+        "title": "Joseph Larmor — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Larmor"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "jagadish-chandra-bose",
+    "name_en": "Jagadish Chandra Bose",
+    "biography": "Bose was an Indian physicist and interdisciplinary researcher who taught at Presidency College in Calcutta and founded the Bose Institute. Working under colonial constraints, he designed sensitive detectors for millimetre-wave experiments and later applied precision instruments to plant responses.",
+    "contributions": [
+      "Conducted experiments on the generation, polarization, refraction and detection of millimetre waves",
+      "Developed semiconductor contact detectors as an early contributor to solid-state detection",
+      "Built sensitive instruments to investigate electrical and mechanical responses in plants"
+    ],
+    "fields": [
+      "Microwave physics",
+      "Solid-state detection",
+      "Biophysics"
+    ],
+    "birth_display": "30 November 1858",
+    "death_display": "23 November 1937",
+    "notes": [],
+    "portrait_alt": "Portrait of Jagadish Chandra Bose",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Jagadish Chandra Bose — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Jagadish_Chandra_Bose"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "pierre-duhem",
+    "name_en": "Pierre Duhem",
+    "biography": "Duhem was a French theoretical physicist, historian and philosopher of science who worked mainly at Bordeaux. He pursued thermodynamics as a framework for physics, investigated chemical equilibrium, fluids and elasticity, and wrote influential studies of scientific theories and their testing.",
+    "contributions": [
+      "Developed chemical thermodynamics, thermodynamic potentials and equilibrium theory",
+      "Contributed to the Gibbs–Duhem relation constraining changes in chemical potentials",
+      "Studied continuum physics and the logical structure of physical theories"
+    ],
+    "fields": [
+      "Thermodynamics",
+      "Physical chemistry",
+      "Foundations of physics"
+    ],
+    "birth_display": "10 June 1861 (date disputed)",
+    "death_display": "14 September 1916",
+    "notes": [
+      "Sources disagree between 9 and 10 June. This archive adopts 10 June from Picard’s 1921 memorial published by the Académie des sciences and the Royal Academy of Belgium; the University of Bordeaux collection description and some English sources give 9 June. The disagreement is retained."
+    ],
+    "portrait_alt": "Portrait of Pierre Duhem",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Pierre Duhem — Royal Academy of Belgium",
+        "url": "https://academieroyale.be/fr/who-who-detail/relations/pierre-maurice-marie-duhem"
+      },
+      {
+        "title": "Pierre Duhem — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Duhem/"
+      },
+      {
+        "title": "Pierre Duhem — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Pierre_Duhem"
+      },
+      {
+        "title": "Émile Picard: La vie et l’œuvre de Pierre Duhem — Académie des sciences (1921)",
+        "url": "https://www.academie-sciences.fr/pdf/dossiers/Picard/Picard_pdf/Picard_Duhem.pdf"
+      },
+      {
+        "title": "Pierre Duhem collection — University of Bordeaux Libraries",
+        "url": "https://bibliotheques.u-bordeaux.fr/Les-bibliotheques/Patrimoine-documentaire/Fonds-documentaires-patrimoniaux/Fonds-scientifique"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "agnes-pockels",
+    "name_en": "Agnes Pockels",
+    "biography": "Pockels was a largely self-taught experimental researcher born in Venice and living in Germany. Denied a conventional university education, she studied contaminated water surfaces at home. A letter to Rayleigh led to publication of work that became important to surface and monolayer physics.",
+    "contributions": [
+      "Designed a surface trough with controllable area for quantitative surface-tension measurements",
+      "Measured the effects of small quantities of oil and impurities on water surfaces",
+      "Provided experimental foundations for later monolayer and Langmuir-film studies"
+    ],
+    "fields": [
+      "Surface physics",
+      "Interface science",
+      "Experimental methods"
+    ],
+    "birth_display": "14 February 1862",
+    "death_display": "21 November 1935",
+    "notes": [],
+    "portrait_alt": "Portrait of Agnes Pockels",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Agnes Pockels — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Agnes_Pockels"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "paul-drude",
+    "name_en": "Paul Drude",
+    "biography": "Drude was a German theoretical and experimental physicist who worked in Göttingen, Leipzig, Giessen and Berlin and edited an important physics journal. He used mobile electrons to explain metallic transport and also investigated optics, helping establish classical electron theory.",
+    "contributions": [
+      "Introduced the Drude free-electron model for electrical and thermal conduction in metals",
+      "Advanced metallic optics and electromagnetic propagation studies",
+      "Developed a classical collision-based transport picture later refined by quantum theory"
+    ],
+    "fields": [
+      "Condensed-matter physics",
+      "Electronic transport",
+      "Optics"
+    ],
+    "birth_display": "12 July 1863",
+    "death_display": "5 July 1906",
+    "notes": [],
+    "portrait_alt": "Portrait of Paul Drude",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Paul Drude — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Paul_Drude"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "annie-jump-cannon",
+    "name_en": "Annie Jump Cannon",
+    "biography": "Cannon was an American astronomer who devoted her career at Harvard to stellar classification and catalogue work. Her skilled examination of hundreds of thousands of spectra organized earlier systems into the familiar spectral sequence, providing a major empirical foundation for stellar physics.",
+    "contributions": [
+      "Established and extensively applied the O–B–A–F–G–K–M spectral sequence",
+      "Led or contributed to the Henry Draper Catalogue and its extensions",
+      "Discovered and investigated variable stars and enabled comparisons across stellar populations"
+    ],
+    "fields": [
+      "Stellar physics",
+      "Spectroscopy",
+      "Observational astronomy"
+    ],
+    "birth_display": "11 December 1863",
+    "death_display": "13 April 1941",
+    "notes": [],
+    "portrait_alt": "Portrait of Annie Jump Cannon",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Annie Jump Cannon — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Annie_Jump_Cannon"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "walther-nernst",
+    "name_en": "Walther Nernst",
+    "biography": "Nernst was a German physical chemist and physicist who worked in Göttingen and Berlin and received the 1920 Nobel Prize in Chemistry. He applied thermodynamics to reactions and low-temperature processes while also investigating electrochemistry, materials and instruments.",
+    "contributions": [
+      "Proposed the heat theorem that helped establish the third law of thermodynamics",
+      "Formulated the relation between electrode potential and concentration",
+      "Studied low-temperature heat capacities, chemical equilibrium and thermomagnetic transport"
+    ],
+    "fields": [
+      "Thermodynamics",
+      "Low-temperature physics",
+      "Electrochemistry"
+    ],
+    "birth_display": "25 June 1864",
+    "death_display": "18 November 1941",
+    "notes": [],
+    "portrait_alt": "Portrait of Walther Nernst",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Walther Nernst — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Walther_Nernst"
+      },
+      {
+        "title": "Walther Nernst — Nobel Prize official biography",
+        "url": "https://www.nobelprize.org/prizes/chemistry/1920/nernst/biographical/"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "friedrich-pockels",
+    "name_en": "Friedrich Pockels",
+    "biography": "Friedrich Pockels was a German physicist who worked in Göttingen and Heidelberg. He investigated the optical, electrical and thermal behaviour of crystals and used symmetry to analyse propagation under external fields. His sister Agnes independently became known for surface experiments.",
+    "contributions": [
+      "Investigated the linear electro-optic change of crystal refractive indices known as the Pockels effect",
+      "Developed crystal-optical and photoelastic theory",
+      "Applied crystal symmetry to electro-optic and other anisotropic properties"
+    ],
+    "fields": [
+      "Crystal optics",
+      "Electro-optic effects",
+      "Condensed-matter physics"
+    ],
+    "birth_display": "18 June 1865",
+    "death_display": "29 August 1913",
+    "notes": [],
+    "portrait_alt": "Portrait of Friedrich Pockels",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Friedrich Pockels — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Friedrich_Pockels"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "hantaro-nagaoka",
+    "name_en": "Hantaro Nagaoka",
+    "biography": "Nagaoka was a Japanese physicist who studied in Europe and taught at Tokyo Imperial University. He investigated magnetism, spectroscopy and atomic structure, proposing a Saturnian atom before the nuclear model was established and helping build Japan's modern physics institutions.",
+    "contributions": [
+      "Proposed a historical atomic model with a massive positive centre and an electron ring",
+      "Investigated magnetostriction, spectra and electromagnetic phenomena",
+      "Helped develop modern physics research and higher education in Japan"
+    ],
+    "fields": [
+      "Atomic physics",
+      "Magnetism",
+      "Spectroscopy"
+    ],
+    "birth_display": "19 August 1865",
+    "death_display": "11 December 1950",
+    "notes": [
+      "The Saturnian atom is a historical model in the development of atomic structure, not a modern correct picture of the atom."
+    ],
+    "portrait_alt": "Portrait of Hantaro Nagaoka",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Hantaro Nagaoka — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Hantaro_Nagaoka"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "pyotr-lebedev",
+    "name_en": "Pyotr Lebedev",
+    "biography": "Lebedev was a Russian experimental physicist who trained in Germany and established a research laboratory at Moscow University. With extremely sensitive torsion balances, he measured radiation pressure to test the momentum carried by electromagnetic fields and helped develop Russian experimental physics.",
+    "contributions": [
+      "Measured the pressure of light on solids",
+      "Extended radiation-pressure measurements to gases",
+      "Developed techniques for detecting very weak forces"
+    ],
+    "fields": [
+      "Radiation physics",
+      "Electromagnetism",
+      "Precision measurement"
+    ],
+    "birth_display": "8 March 1866",
+    "death_display": "14 March 1912",
+    "notes": [
+      "Historical Russian sources often use the Julian calendar.",
+      "This archive gives Gregorian dates.",
+      "The Gregorian dates are 8 March 1866 and 14 March 1912; corresponding Old Style dates are 24 February 1866 and 1 March 1912."
+    ],
+    "portrait_alt": "Portrait of Pyotr Lebedev",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "150th anniversary of Petr Nikolaevich Lebedev — Physics-Uspekhi/Russian Academy of Sciences",
+        "url": "https://ufn.ru/en/events/lebedev150.html"
+      },
+      {
+        "title": "Pyotr Lebedev — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Pyotr_Lebedev"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "antonia-maury",
+    "name_en": "Antonia Maury",
+    "biography": "Maury was an American astronomer from a scientific family who studied stellar spectra at Harvard College Observatory. Her detailed classification emphasized line widths and shapes rather than only the usual sequence, supplying evidence important to understanding stellar luminosities and evolutionary states.",
+    "contributions": [
+      "Devised a spectral classification incorporating line width and morphology",
+      "Provided classifications that helped Hertzsprung distinguish giant and dwarf stars",
+      "Investigated spectroscopic binaries and changes in stellar spectra"
+    ],
+    "fields": [
+      "Stellar physics",
+      "Spectroscopy",
+      "Observational astronomy"
+    ],
+    "birth_display": "21 March 1866",
+    "death_display": "8 January 1952",
+    "notes": [],
+    "portrait_alt": "Portrait of Antonia Maury",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Antonia Maury — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Antonia_Maury"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "charles-fabry",
+    "name_en": "Charles Fabry",
+    "biography": "Fabry was a French physicist who taught in Marseille and later developed optical research and education in Paris. With Alfred Perot he created a high-resolution interferometer, applying precision interference to spectral structure, wavelength standards and atmospheric absorption.",
+    "contributions": [
+      "Invented the Fabry–Perot interferometer with Perot",
+      "Used interference to study fine spectral structure and wavelength standards",
+      "Investigated atmospheric ozone absorption with Henri Buisson"
+    ],
+    "fields": [
+      "Optics",
+      "Interferometric metrology",
+      "Spectroscopy"
+    ],
+    "birth_display": "11 June 1867",
+    "death_display": "11 December 1945",
+    "notes": [],
+    "portrait_alt": "Portrait of Charles Fabry",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Charles Fabry — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Charles_Fabry"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "robert-w-wood",
+    "name_en": "Robert W. Wood",
+    "biography": "Wood was an American experimental physicist at Johns Hopkins known for inventive optical experiments, photography and demonstrations. He studied ultraviolet and infrared radiation, resonance and grating effects, and used experimental investigation to expose the unsupported claim of N-rays.",
+    "contributions": [
+      "Investigated diffraction-grating anomalies now associated with his name",
+      "Advanced ultraviolet and infrared photography and selective optical filters",
+      "Studied resonance radiation, fluorescence and ultrasonic experiments"
+    ],
+    "fields": [
+      "Optics",
+      "Spectroscopy",
+      "Experimental methods"
+    ],
+    "birth_display": "2 May 1868",
+    "death_display": "11 August 1955",
+    "notes": [],
+    "portrait_alt": "Portrait of Robert W. Wood",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Robert W. Wood — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Robert_W._Wood"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "henrietta-swan-leavitt",
+    "name_en": "Henrietta Swan Leavitt",
+    "biography": "Leavitt was an American astronomer at Harvard who compared photographic plates and measured variable-star brightnesses. Her relation between Cepheid periods and luminosities in the Magellanic Clouds supplied a crucial tool for measuring distances beyond the Milky Way and developing observational cosmology.",
+    "contributions": [
+      "Discovered the period–luminosity relation for Cepheid variables",
+      "Used approximately equidistant stars in the Magellanic Clouds to establish the relation",
+      "Provided a foundation for calibrating Galactic and extragalactic distance measurements"
+    ],
+    "fields": [
+      "Stellar physics",
+      "Cosmic distance scale",
+      "Observational astronomy"
+    ],
+    "birth_display": "4 July 1868",
+    "death_display": "12 December 1921",
+    "notes": [],
+    "portrait_alt": "Portrait of Henrietta Swan Leavitt",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Henrietta Swan Leavitt — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Leavitt/"
+      },
+      {
+        "title": "Henrietta Swan Leavitt — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "arnold-sommerfeld",
+    "name_en": "Arnold Sommerfeld",
+    "biography": "Sommerfeld was a German theoretical physicist whose Munich research school trained Heisenberg, Pauli and many other leading scientists. His work bridged classical electrodynamics and early quantum theory, using powerful mathematical methods to solve concrete physical problems.",
+    "contributions": [
+      "Extended Bohr's model to elliptical orbits and relativistic spectral corrections",
+      "Developed a quantum-statistical free-electron theory of metals",
+      "Investigated diffraction and electromagnetic propagation and established an influential research school"
+    ],
+    "fields": [
+      "Quantum physics",
+      "Atomic physics",
+      "Condensed-matter physics"
+    ],
+    "birth_display": "5 December 1868",
+    "death_display": "26 April 1951",
+    "notes": [],
+    "portrait_alt": "Portrait of Arnold Sommerfeld",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Arnold Sommerfeld — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Sommerfeld/"
+      },
+      {
+        "title": "Arnold Sommerfeld — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Arnold_Sommerfeld"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "kotaro-honda",
+    "name_en": "Kotaro Honda",
+    "biography": "Honda was a Japanese physicist and metallurgical researcher at Tohoku Imperial University. He connected precise measurements of magnetic and thermal properties with the design of steels and alloys, while building research institutions devoted to metallic materials.",
+    "contributions": [
+      "Systematically investigated magnetic and thermal properties of metals and alloys",
+      "Helped develop high-performance KS permanent-magnet steel",
+      "Established a measurement-based approach to magnetic-material design"
+    ],
+    "fields": [
+      "Magnetism",
+      "Condensed-matter physics",
+      "Materials physics"
+    ],
+    "birth_display": "23 February 1870",
+    "death_display": "12 February 1954",
+    "notes": [],
+    "portrait_alt": "Portrait of Kotaro Honda",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Kotaro Honda — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Kotaro_Honda"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "ernest-rutherford",
+    "name_en": "Ernest Rutherford",
+    "biography": "Rutherford was a New Zealand-born experimental physicist who worked at McGill, Manchester and Cambridge and received the 1908 Nobel Prize in Chemistry. Beginning with radioactivity, he moved into atomic structure and nuclear reactions, establishing central foundations of nuclear physics.",
+    "contributions": [
+      "Distinguished alpha and beta radiation and developed radioactive-decay theory with Soddy",
+      "Proposed the nuclear atom on the basis of Geiger–Marsden scattering experiments",
+      "Produced artificial nuclear transmutation with alpha particles and identified the role of hydrogen nuclei"
+    ],
+    "fields": [
+      "Nuclear physics",
+      "Radioactivity",
+      "Atomic structure"
+    ],
+    "birth_display": "30 August 1871",
+    "death_display": "19 October 1937",
+    "notes": [],
+    "portrait_alt": "Portrait of Ernest Rutherford",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Ernest Rutherford — NobelPrize.org biography",
+        "url": "https://www.nobelprize.org/prizes/chemistry/1908/rutherford/biographical/"
+      },
+      {
+        "title": "Ernest Rutherford — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Ernest_Rutherford"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "paul-langevin",
+    "name_en": "Paul Langevin",
+    "biography": "Langevin was a French physicist who worked in Paris and spent time at Cambridge's Cavendish Laboratory. He studied magnetism, Brownian motion and relativity, developed ultrasonic detection during the First World War, and played a prominent role in scientific education.",
+    "contributions": [
+      "Developed electron-based theories of paramagnetism and diamagnetism",
+      "Introduced a stochastic equation of motion for Brownian particles",
+      "Applied piezoelectricity to underwater ultrasonic detection and promoted relativity"
+    ],
+    "fields": [
+      "Statistical physics",
+      "Magnetism",
+      "Ultrasonics"
+    ],
+    "birth_display": "23 January 1872",
+    "death_display": "19 December 1946",
+    "notes": [],
+    "portrait_alt": "Portrait of Paul Langevin",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Paul Langevin — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Paul_Langevin"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "karl-schwarzschild",
+    "name_en": "Karl Schwarzschild",
+    "biography": "Schwarzschild was a German astronomer and physicist who directed observatories in Göttingen and Potsdam. He investigated stellar photometry and theory before deriving a major exact solution of Einstein's field equations while serving in the First World War; he died shortly afterwards.",
+    "contributions": [
+      "Derived the spherically symmetric vacuum solution of general relativity",
+      "Advanced stellar photometry and astronomical radiation studies",
+      "Investigated celestial mechanics and the theory of observational instruments"
+    ],
+    "fields": [
+      "General relativity",
+      "Astrophysics",
+      "Observational methods"
+    ],
+    "birth_display": "9 October 1873",
+    "death_display": "11 May 1916",
+    "notes": [],
+    "portrait_alt": "Portrait of Karl Schwarzschild",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Karl Schwarzschild — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Schwarzschild/"
+      },
+      {
+        "title": "Karl Schwarzschild — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Karl_Schwarzschild"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "ludwig-prandtl",
+    "name_en": "Ludwig Prandtl",
+    "biography": "Prandtl was a German physicist and engineer who built a leading research school in Göttingen. Combining theory, wind-tunnel experiments and practical problems, he explained how thin viscous regions influence an otherwise nearly ideal flow and helped found modern aerodynamics.",
+    "contributions": [
+      "Introduced boundary-layer theory",
+      "Developed lifting-line theory and wind-tunnel methods",
+      "Investigated turbulence, mixing-length models and compressible flow"
+    ],
+    "fields": [
+      "Fluid mechanics",
+      "Aerodynamics",
+      "Turbulence"
+    ],
+    "birth_display": "4 February 1875",
+    "death_display": "15 August 1953",
+    "notes": [],
+    "portrait_alt": "Portrait of Ludwig Prandtl",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Ludwig Prandtl — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Prandtl/"
+      },
+      {
+        "title": "Ludwig Prandtl — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Ludwig_Prandtl"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "gilbert-n-lewis",
+    "name_en": "Gilbert N. Lewis",
+    "biography": "Lewis was an American physical chemist who built a major research programme at Berkeley. His work connected thermodynamic methods with real chemical systems and ranged across free energy, electrochemistry, bonding, isotopes and the early terminology of light quanta.",
+    "contributions": [
+      "Developed the activity and fugacity concepts for non-ideal systems",
+      "Systematized free-energy methods and precision thermodynamic data",
+      "Developed electron-pair bonding ideas, studied isotopes and introduced the word photon in 1926"
+    ],
+    "fields": [
+      "Thermodynamics",
+      "Physical chemistry",
+      "Atomic and molecular physics"
+    ],
+    "birth_display": "23 October 1875 (date disputed)",
+    "death_display": "23 March 1946",
+    "notes": [
+      "Lewis’s original theoretical meaning of photon was not identical to the modern light-quantum concept.",
+      "The birth date follows Lewis’s own curriculum vitae and memorial material reproduced by Berkeley Chemistry: 23 October. Some sources give 25 October."
+    ],
+    "portrait_alt": "Portrait of Gilbert N. Lewis",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Gilbert Newton Lewis — UC Berkeley College of Chemistry",
+        "url": "https://chemistry.berkeley.edu/news/gilbert-newton-lewis"
+      },
+      {
+        "title": "Gilbert N. Lewis — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Gilbert_N._Lewis"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "francis-william-aston",
+    "name_en": "Francis William Aston",
+    "biography": "Aston was a British experimental physicist at Cambridge's Cavendish Laboratory and received the 1922 Nobel Prize in Chemistry. Developing mass spectrography from discharge and positive-ray research, he established many isotopic compositions and important regularities in atomic masses.",
+    "contributions": [
+      "Developed high-resolution mass spectrographs and measured many isotopes",
+      "Provided experimental support for the whole-number rule",
+      "Produced precision mass data relevant to mass defects and nuclear binding"
+    ],
+    "fields": [
+      "Mass spectrometry",
+      "Nuclear physics",
+      "Isotope physics"
+    ],
+    "birth_display": "1 September 1877",
+    "death_display": "20 November 1945",
+    "notes": [],
+    "portrait_alt": "Portrait of Francis William Aston",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Francis William Aston — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Francis_William_Aston"
+      },
+      {
+        "title": "Francis William Aston — Nobel Prize official biography",
+        "url": "https://www.nobelprize.org/prizes/chemistry/1922/aston/biographical/"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "lise-meitner",
+    "name_en": "Lise Meitner",
+    "biography": "Meitner was an Austrian-born nuclear physicist who later became a Swedish citizen. She worked for many years with Hahn in Berlin, fled Nazi persecution in 1938, and then interpreted uranium fission with Frisch. Her career also broke major barriers facing women in physics.",
+    "contributions": [
+      "Investigated radioactive nuclides with Hahn and helped discover the long-lived isotope of protactinium",
+      "Explained uranium fission with Frisch and estimated its energy release",
+      "Studied beta spectra and nuclear radiation"
+    ],
+    "fields": [
+      "Nuclear physics",
+      "Radioactivity",
+      "Nuclear fission"
+    ],
+    "birth_display": "7 November 1878",
+    "death_display": "27 October 1968",
+    "notes": [],
+    "portrait_alt": "Portrait of Lise Meitner",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Lise Meitner — Physics Today, American Institute of Physics",
+        "url": "https://physicstoday.aip.org/news/lise-meitner"
+      },
+      {
+        "title": "Lise Meitner — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Lise_Meitner"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "torahiko-terada",
+    "name_en": "Torahiko Terada",
+    "biography": "Terada was a Japanese physicist and essayist at Tokyo Imperial University. He investigated X-ray diffraction, geophysics and everyday natural phenomena, emphasizing close observation and experimental questions. His writing spread an experimental outlook and interest in complex natural processes.",
+    "contributions": [
+      "Conducted early crystal X-ray diffraction studies",
+      "Investigated earthquakes, meteorology and complex natural phenomena",
+      "Promoted observation-based physics education and public understanding of science"
+    ],
+    "fields": [
+      "X-ray physics",
+      "Geophysics",
+      "Experimental physics"
+    ],
+    "birth_display": "28 November 1878",
+    "death_display": "31 December 1935",
+    "notes": [
+      "The birth date follows the National Diet Library of Japan: 28 November 1878. The 28 December date in some English infoboxes conflicts with this source."
+    ],
+    "portrait_alt": "Portrait of Torahiko Terada",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Torahiko Terada — biographical reference",
+        "url": "https://www.ndl.go.jp/portrait/datas/6078"
+      },
+      {
+        "title": "Torahiko Terada — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Torahiko_Terada"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  },
+  {
+    "id": "otto-hahn",
+    "name_en": "Otto Hahn",
+    "biography": "Hahn was a German radiochemist who investigated radioactive nuclides in Berlin and later led the Max Planck Society. His long collaboration with Meitner preceded the chemical identification of barium with Strassmann in neutron-irradiated uranium, decisive evidence underlying the discovery of nuclear fission. He was awarded the 1944 Nobel Prize in Chemistry.",
+    "contributions": [
+      "Discovered and studied radioactive nuclides with Meitner and other collaborators",
+      "Identified barium in irradiated uranium with Strassmann, providing decisive experimental evidence of fission",
+      "Developed radiochemical separation and tracer methods"
+    ],
+    "fields": [
+      "Radiochemistry",
+      "Nuclear physics",
+      "Nuclear fission"
+    ],
+    "birth_display": "8 March 1879",
+    "death_display": "28 July 1968",
+    "notes": [
+      "The discovery of nuclear fission involved the chemical experiments of Hahn and Strassmann and the physical explanation by Meitner and Frisch; their distinct contributions should be retained."
+    ],
+    "portrait_alt": "Portrait of Otto Hahn",
+    "portrait_note": "For the date, creator, form and attribution of this image, see its source record.",
+    "sources": [
+      {
+        "title": "Otto Hahn — Wikipedia — dates and biographical overview",
+        "url": "https://en.wikipedia.org/wiki/Otto_Hahn"
+      },
+      {
+        "title": "Otto Hahn — Nobel Prize official biography",
+        "url": "https://www.nobelprize.org/prizes/chemistry/1944/hahn/biographical/"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the cited biographical sources and the audited Chinese record."
+  }
+]

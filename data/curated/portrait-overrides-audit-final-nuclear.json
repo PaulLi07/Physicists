@@ -1,0 +1,62 @@
+{
+  "Walther Gerlach": {
+    "external_image_url": "file:///Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/final-nuclear-walther-gerlach.jpg",
+    "source_url": "https://en.wikipedia.org/wiki/File:Walther_Gerlach.jpg",
+    "tested_download_url": "https://upload.wikimedia.org/wikipedia/en/9/9e/Walther_Gerlach.jpg",
+    "verified_local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/final-nuclear-walther-gerlach.jpg",
+    "kind": "portrait",
+    "license": "Non-free historical photograph hosted by English Wikipedia under its fair-use rationale; that rationale does not grant a reusable image licence. Permission must be confirmed before website publication.",
+    "rights_status": "permission_required",
+    "credit": "University of Frankfurt physics portrait collection, reproduced on English Wikipedia; photographer unknown",
+    "verified_on": "2026-10-26",
+    "download_status": 200,
+    "verification_note": "Downloaded successfully and visually inspected. Confirmed an actual portrait against the named English Wikipedia file page and the corresponding biographical article; checked the file-description page for the non-free licensing status.",
+    "sha256": "3bf5a639e521d058f1631d85418c8cb1afee29cdb571a4d523a17f6bbdcb53a1",
+    "bytes": 15104
+  },
+  "Fritz Strassmann": {
+    "external_image_url": "file:///Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/final-nuclear-fritz-strassmann.jpg",
+    "source_url": "https://en.wikipedia.org/wiki/File:Fritz_Strassmann.jpg",
+    "tested_download_url": "https://upload.wikimedia.org/wikipedia/en/f/f2/Fritz_Strassmann.jpg",
+    "verified_local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/final-nuclear-fritz-strassmann.jpg",
+    "kind": "portrait",
+    "license": "Non-free historical photograph hosted by English Wikipedia under its fair-use rationale; that rationale does not grant a reusable image licence. Permission must be confirmed before website publication.",
+    "rights_status": "permission_required",
+    "credit": "Leibniz University Hannover alumni biography photograph, reproduced on English Wikipedia; photographer unknown",
+    "verified_on": "2026-10-26",
+    "download_status": 200,
+    "verification_note": "Downloaded successfully and visually inspected. Confirmed an actual portrait against the named English Wikipedia file page and the corresponding biographical article; checked the file-description page for the non-free licensing status.",
+    "sha256": "74b6cb21a99b7372a456448463420bae69156e39ca7d36935176643c4ce6b2cd",
+    "bytes": 63693
+  },
+  "Konstantin Petrzhak": {
+    "external_image_url": "file:///Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/final-nuclear-konstantin-petrzhak.jpg",
+    "source_url": "https://en.wikipedia.org/wiki/File:Konstantin_Petrzhak.jpg",
+    "tested_download_url": "https://upload.wikimedia.org/wikipedia/en/d/db/Konstantin_Petrzhak.jpg",
+    "verified_local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/final-nuclear-konstantin-petrzhak.jpg",
+    "kind": "portrait",
+    "license": "Non-free historical photograph hosted by English Wikipedia under its fair-use rationale; that rationale does not grant a reusable image licence. Permission must be confirmed before website publication.",
+    "rights_status": "permission_required",
+    "credit": "Historical photograph identified in the article as from the Radium Institute archive, reproduced on English Wikipedia; photographer unknown",
+    "verified_on": "2026-10-26",
+    "download_status": 200,
+    "verification_note": "Downloaded successfully and visually inspected. Confirmed an actual portrait against the named English Wikipedia file page and the corresponding biographical article; checked the file-description page for the non-free licensing status.",
+    "sha256": "828e5857dbb9e73a2770a15f79998a2f97c8ab73b9fbadaa4cc57baefbda9d91",
+    "bytes": 13043
+  },
+  "Erwin Hahn": {
+    "external_image_url": "file:///Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/final-nuclear-erwin-hahn.gif",
+    "source_url": "https://en.wikipedia.org/wiki/File:Erwin_Hahn.gif",
+    "tested_download_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/0f/Erwin_Hahn.gif/250px-Erwin_Hahn.gif?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "verified_local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/final-nuclear-erwin-hahn.gif",
+    "kind": "portrait",
+    "license": "Non-free historical photograph hosted by English Wikipedia under its fair-use rationale; that rationale does not grant a reusable image licence. Permission must be confirmed before website publication.",
+    "rights_status": "permission_required",
+    "credit": "Portrait reproduced in the Royal Society biographical memoir and on English Wikipedia; photographer unknown",
+    "verified_on": "2026-10-26",
+    "download_status": 200,
+    "verification_note": "Downloaded successfully and visually inspected. Confirmed an actual portrait against the named English Wikipedia file page and the corresponding biographical article; checked the file-description page for the non-free licensing status.",
+    "sha256": "25ca915d1df08d7b73b28eff88a5ad2b69ef56d8c95ed059c4abbd673d4fa469",
+    "bytes": 54465
+  }
+}

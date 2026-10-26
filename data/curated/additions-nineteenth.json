@@ -1,0 +1,1489 @@
+[
+  {
+    "id": "charles-wheatstone",
+    "name_zh": "查尔斯·惠斯通",
+    "name_en": "Charles Wheatstone",
+    "wikipedia_title": "Charles Wheatstone",
+    "birth": {
+      "date": "1802-02-06",
+      "precision": "day",
+      "display": "1802年2月6日"
+    },
+    "death": {
+      "date": "1875-10-19",
+      "precision": "day",
+      "display": "1875年10月19日"
+    },
+    "death_status": "deceased",
+    "biography": "英国物理学家和发明家，长期在伦敦国王学院研究实验物理。他从声学与乐器进入科学，后来研究视觉、电学测量和电报，与库克合作推动英国电报技术，使精密实验与通信工程紧密结合。",
+    "contributions": [
+      "发明镜式立体镜，研究双眼视觉与立体感",
+      "推广和改进以桥式电路精密测量电阻的方法",
+      "与库克合作发展早期实用电报，并研究声音与电信号传播"
+    ],
+    "fields": [
+      "电磁学",
+      "声学",
+      "视觉光学"
+    ],
+    "notes": [
+      "电桥最初由塞缪尔·亨特·克里斯蒂提出；不将惠斯通称作电桥的唯一发明者。"
+    ],
+    "sources": [
+      {
+        "title": "Wheatstone Collection — King’s College London",
+        "url": "https://www.kcl.ac.uk/wheatstone-collection"
+      },
+      {
+        "title": "Charles Wheatstone — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Charles_Wheatstone"
+      }
+    ]
+  },
+  {
+    "id": "rudolf-kohlrausch",
+    "name_zh": "鲁道夫·科尔劳施",
+    "name_en": "Rudolf Kohlrausch",
+    "wikipedia_title": "Rudolf Kohlrausch",
+    "birth": {
+      "date": "1809-11-06",
+      "precision": "day",
+      "display": "1809年11月6日"
+    },
+    "death": {
+      "date": "1858-03",
+      "precision": "month",
+      "display": "1858年3月（8日或9日记载不一）"
+    },
+    "death_status": "deceased",
+    "biography": "德国物理学家，先后在中学和大学从事数学物理教学与实验研究。他以电学测量见长，与威廉·韦伯合作比较不同电学单位体系；其子弗里德里希后来亦成为著名的精密实验物理学家。",
+    "contributions": [
+      "与韦伯测量静电与电磁单位之间的比值，提供电磁量与光速关系的实验线索",
+      "研究介电弛豫并提出描述衰减过程的经验函数",
+      "发展静电测量及电学计量方法"
+    ],
+    "fields": [
+      "电磁学",
+      "介电物理",
+      "计量学"
+    ],
+    "notes": [
+      "逝世日期存在1858年3月8日与9日两种记载，故只记到月；埃尔朗根教授名录记8日，马尔堡教授名录及《德意志通传》正文记9日。德意志人物传记目录年份1859又与同页正文1858不一致，不采用该目录年份。"
+    ],
+    "sources": [
+      {
+        "title": "Rudolf Kohlrausch — Deutsche Biographie",
+        "url": "https://www.deutsche-biographie.de/sfz44125.html"
+      },
+      {
+        "title": "Rudolf Kohlrausch — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Rudolf_Kohlrausch"
+      },
+      {
+        "title": "Erlangen professors catalogue — Rudolf Kohlrausch, p.114",
+        "url": "https://d-nb.info/1056019476/34"
+      },
+      {
+        "title": "Rudolf Kohlrausch — Marburg Professors Catalogue",
+        "url": "https://professorenkatalog.online.uni-marburg.de/de/pkat/gndrec?id=118864580"
+      }
+    ]
+  },
+  {
+    "id": "john-william-draper",
+    "name_zh": "约翰·威廉·德雷珀",
+    "name_en": "John William Draper",
+    "wikipedia_title": "John William Draper",
+    "birth": {
+      "date": "1811-05-05",
+      "precision": "day",
+      "display": "1811年5月5日"
+    },
+    "death": {
+      "date": "1882-01-04",
+      "precision": "day",
+      "display": "1882年1月4日"
+    },
+    "death_status": "deceased",
+    "biography": "英国出生的美国化学家、物理学家和摄影先驱，长期在纽约大学研究并教学。他把化学作用、光谱与摄影联系起来，留下早期月面摄影成果，并通过热辐射和光化学实验推动物理与化学交叉研究。",
+    "contributions": [
+      "提出只有被吸收的光才能引起光化学变化的相关原理",
+      "研究高温物体开始发出可见光的条件，即德雷珀点",
+      "开展早期天文摄影和太阳光谱实验"
+    ],
+    "fields": [
+      "光化学",
+      "热辐射",
+      "科学摄影"
+    ],
+    "notes": [],
+    "sources": [
+      {
+        "title": "Draper Family Papers — New York University Special Collections",
+        "url": "https://findingaids.library.nyu.edu/archives/mc_11/all/"
+      },
+      {
+        "title": "John William Draper — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/John_William_Draper"
+      }
+    ]
+  },
+  {
+    "id": "heinrich-geissler",
+    "name_zh": "海因里希·盖斯勒",
+    "name_en": "Heinrich Geissler",
+    "wikipedia_title": "Heinrich Geissler",
+    "birth": {
+      "date": "1814-05-26",
+      "precision": "day",
+      "display": "1814年5月26日"
+    },
+    "death": {
+      "date": "1879-01-24",
+      "precision": "day",
+      "display": "1879年1月24日"
+    },
+    "death_status": "deceased",
+    "biography": "德国玻璃仪器制造师和实验技术先驱，长期在波恩工作，与普吕克尔等研究者合作。他以精巧玻璃工艺和抽气技术制作低压放电装置，使稀薄气体中的发光和电流现象成为可反复研究的实验对象。",
+    "contributions": [
+      "改进水银真空泵，为低压气体实验提供条件",
+      "研制盖斯勒放电管，推动气体放电和阴极射线研究",
+      "通过精密玻璃仪器制造促进十九世纪实验物理的发展"
+    ],
+    "fields": [
+      "实验技术",
+      "气体放电",
+      "真空物理"
+    ],
+    "notes": [],
+    "sources": [
+      {
+        "title": "Heinrich Geissler — Neue Deutsche Biographie",
+        "url": "https://www.deutsche-biographie.de/pnd116541954.html?language=de"
+      },
+      {
+        "title": "Heinrich Geissler — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Heinrich_Geissler"
+      }
+    ]
+  },
+  {
+    "id": "werner-von-siemens",
+    "name_zh": "维尔纳·冯·西门子",
+    "name_en": "Werner von Siemens",
+    "wikipedia_title": "Werner von Siemens",
+    "birth": {
+      "date": "1816-12-13",
+      "precision": "day",
+      "display": "1816年12月13日"
+    },
+    "death": {
+      "date": "1892-12-06",
+      "precision": "day",
+      "display": "1892年12月6日"
+    },
+    "death_status": "deceased",
+    "biography": "德国电气工程师、发明家与工业研究组织者，早年在普鲁士军队接受科学和技术训练，后与哈尔斯克创办企业。他将电磁学实验转化为发电、电报和电气测量技术，对十九世纪电力系统形成有重要贡献。",
+    "contributions": [
+      "参与独立发现并发展自励式发电机原理",
+      "改进电报、绝缘电缆与电力设备",
+      "发展测量直流及交流电流的电动式仪表等电学技术"
+    ],
+    "fields": [
+      "电磁学",
+      "电气测量",
+      "应用物理"
+    ],
+    "notes": [
+      "主要身份是工程师与发明家，按电磁学或电子实验技术的重要贡献收录；相应技术发展涉及多位先驱。"
+    ],
+    "sources": [
+      {
+        "title": "Werner von Siemens — Magnet Academy, National High Magnetic Field Laboratory",
+        "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/werner-von-siemens/"
+      },
+      {
+        "title": "Werner von Siemens — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Werner_von_Siemens"
+      },
+      {
+        "title": "Siemens electrodynamometer — Smithsonian National Museum of American History",
+        "url": "https://americanhistory.si.edu/collections/object/nmah_1183906"
+      }
+    ]
+  },
+  {
+    "id": "eunice-newton-foote",
+    "name_zh": "尤妮斯·牛顿·富特",
+    "name_en": "Eunice Newton Foote",
+    "wikipedia_title": "Eunice Newton Foote",
+    "birth": {
+      "date": "1819-07-17",
+      "precision": "day",
+      "display": "1819年7月17日"
+    },
+    "death": {
+      "date": "1888-09-30",
+      "precision": "day",
+      "display": "1888年9月30日"
+    },
+    "death_status": "deceased",
+    "biography": "美国实验研究者、发明家和妇女权利倡导者，曾接受科学教育，在家中开展气体受日光加热的比较实验。她于1856年提出大气中较多二氧化碳可能提高地球温度，成果长期未获应有关注。",
+    "contributions": [
+      "比较不同气体在日照下的升温与冷却，发现二氧化碳样品具有显著差异",
+      "提出大气二氧化碳含量变化会影响地球温度的早期观点",
+      "研究空气的电学现象，是早期在物理领域发表成果的美国女性之一"
+    ],
+    "fields": [
+      "大气物理",
+      "热学",
+      "实验物理"
+    ],
+    "notes": [
+      "其装置比较气体的日照加热和冷却，不能等同于对大气温室效应全部过程或红外吸收谱的直接测量。",
+      "尚未取得可核实肖像，现存护照中的外貌描述页用作相关资料图，不是本人肖像。"
+    ],
+    "sources": [
+      {
+        "title": "Eunice Foote’s 1856 experiments — Ortiz and Jackson, Notes and Records",
+        "url": "https://doi.org/10.1098/rsnr.2020.0031"
+      },
+      {
+        "title": "Eunice Newton Foote — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Eunice_Newton_Foote"
+      },
+      {
+        "title": "August 1856: Eunice Foote and atmospheric warming — American Physical Society",
+        "url": "https://www.aps.org/apsnews/2023/07/carbon-dioxide-atmosphere-eunice-foote"
+      }
+    ]
+  },
+  {
+    "id": "johann-wilhelm-hittorf",
+    "name_zh": "约翰·威廉·希托夫",
+    "name_en": "Johann Wilhelm Hittorf",
+    "wikipedia_title": "Johann Wilhelm Hittorf",
+    "birth": {
+      "date": "1824-03-27",
+      "precision": "day",
+      "display": "1824年3月27日"
+    },
+    "death": {
+      "date": "1914-11-28",
+      "precision": "day",
+      "display": "1914年11月28日"
+    },
+    "death_status": "deceased",
+    "biography": "德国物理学家和化学家，长期在明斯特的学院与大学任教，早年受普吕克尔指导。他把电化学中的物质输运和低压放电中的射线行为都转化为定量实验，并建设当地物理实验教学。",
+    "contributions": [
+      "建立测量电解质离子迁移数的方法",
+      "研究阴极射线的直线传播和物体形成的阴影",
+      "与普吕克尔研究气体光谱，推动放电物理的发展"
+    ],
+    "fields": [
+      "电化学",
+      "气体放电",
+      "光谱学"
+    ],
+    "notes": [],
+    "sources": [
+      {
+        "title": "Wilhelm Hittorf — University of Münster, Department of Physics history",
+        "url": "https://www.uni-muenster.de/Physik/en/der_fachbereich/geschichte.html"
+      },
+      {
+        "title": "Johann Wilhelm Hittorf — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Johann_Wilhelm_Hittorf"
+      }
+    ]
+  },
+  {
+    "id": "carl-anton-bjerknes",
+    "name_zh": "卡尔·安东·比耶克内斯",
+    "name_en": "Carl Anton Bjerknes",
+    "wikipedia_title": "Carl Anton Bjerknes",
+    "birth": {
+      "date": "1825-10-24",
+      "precision": "day",
+      "display": "1825年10月24日"
+    },
+    "death": {
+      "date": "1903-03-20",
+      "precision": "day",
+      "display": "1903年3月20日"
+    },
+    "death_status": "deceased",
+    "biography": "挪威数学家和物理学家，早年从事采矿，后在克里斯蒂安尼亚大学任教。他受到狄利克雷流体课程启发，长期研究流体中的脉动物体，并与儿子威廉合作用实验检验理论。",
+    "contributions": [
+      "研究理想流体中脉动或振动物体之间的相互作用力",
+      "发展电磁现象的流体力学类比模型",
+      "把数学流体理论与可观测实验联系，影响后来的比耶克内斯力研究"
+    ],
+    "fields": [
+      "流体力学",
+      "数学物理",
+      "电磁类比"
+    ],
+    "notes": [
+      "电磁流体类比属于历史模型，不等同于现代电磁场理论的微观解释。"
+    ],
+    "sources": [
+      {
+        "title": "Carl Anton Bjerknes — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bjerknes_Carl/"
+      },
+      {
+        "title": "Carl Anton Bjerknes — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Carl_Anton_Bjerknes"
+      }
+    ]
+  },
+  {
+    "id": "carl-gottfried-neumann",
+    "name_zh": "卡尔·戈特弗里德·诺伊曼",
+    "name_en": "Carl Gottfried Neumann",
+    "wikipedia_title": "Carl Gottfried Neumann",
+    "birth": {
+      "date": "1832-05-07",
+      "precision": "day",
+      "display": "1832年5月7日"
+    },
+    "death": {
+      "date": "1925-03-27",
+      "precision": "day",
+      "display": "1925年3月27日"
+    },
+    "death_status": "deceased",
+    "biography": "德国数学家，弗朗茨·诺伊曼之子，长期在莱比锡任教。他研究势理论、积分方程、力学和光学，发展解决边值问题的方法，并参与创办《数学年刊》，为数学物理提供系统分析工具。",
+    "contributions": [
+      "发展势理论和以法向导数指定边界数据的边值问题方法",
+      "研究积分方程及诺伊曼级数",
+      "将数学分析用于力学、电势与光学问题"
+    ],
+    "fields": [
+      "势理论",
+      "数学物理",
+      "边值问题"
+    ],
+    "notes": [],
+    "sources": [
+      {
+        "title": "Carl Gottfried Neumann — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Neumann_Carl/"
+      },
+      {
+        "title": "Carl Gottfried Neumann — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Carl_Gottfried_Neumann"
+      }
+    ]
+  },
+  {
+    "id": "louis-paul-cailletet",
+    "name_zh": "路易·保罗·卡耶泰",
+    "name_en": "Louis Paul Cailletet",
+    "wikipedia_title": "Louis Paul Cailletet",
+    "birth": {
+      "date": "1832-09-21",
+      "precision": "day",
+      "display": "1832年9月21日"
+    },
+    "death": {
+      "date": "1913-01-05",
+      "precision": "day",
+      "display": "1913年1月5日"
+    },
+    "death_status": "deceased",
+    "biography": "法国实验物理学家和工业研究者，从钢铁生产中的气体问题进入高压实验。他于1877年通过压缩、冷却和快速膨胀使氧出现液化迹象，参与打破所谓永久气体不可液化的观念。",
+    "contributions": [
+      "用高压冷却和膨胀方法实现氧的早期液化实验",
+      "发展气体在高压下性质的测量装置",
+      "推动低温物理和气体液化实验技术的发展"
+    ],
+    "fields": [
+      "低温物理",
+      "高压物理",
+      "实验技术"
+    ],
+    "notes": [],
+    "sources": [
+      {
+        "title": "Louis Paul Cailletet — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Louis_Paul_Cailletet"
+      }
+    ]
+  },
+  {
+    "id": "friedrich-kohlrausch",
+    "name_zh": "弗里德里希·科尔劳施",
+    "name_en": "Friedrich Kohlrausch",
+    "wikipedia_title": "Friedrich Kohlrausch (physicist)",
+    "birth": {
+      "date": "1840-10-14",
+      "precision": "day",
+      "display": "1840年10月14日"
+    },
+    "death": {
+      "date": "1910-01-17",
+      "precision": "day",
+      "display": "1910年1月17日"
+    },
+    "death_status": "deceased",
+    "biography": "德国实验物理学家，曾在维尔茨堡和斯特拉斯堡任教，后主持德国物理技术研究所。他将高精度物理量测量、实验教学与电解质研究结合，编写的实验物理教材影响了数代研究者。",
+    "contributions": [
+      "提出电解质无限稀释条件下离子独立迁移的规律",
+      "发展交流电桥等精密电导测量方法",
+      "推动电学标准、计量制度和系统实验教学的发展"
+    ],
+    "fields": [
+      "电化学",
+      "精密测量",
+      "计量学"
+    ],
+    "notes": [],
+    "sources": [
+      {
+        "title": "Friedrich Kohlrausch — University of Würzburg Archives",
+        "url": "https://www.uni-wuerzburg.de/en/uniarchiv/personalities/plaques-in-honour-of-eminent-scholars/friedrich-kohlrausch/"
+      },
+      {
+        "title": "Friedrich Kohlrausch — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Friedrich_Kohlrausch_%28physicist%29"
+      }
+    ]
+  },
+  {
+    "id": "emil-warburg",
+    "name_zh": "埃米尔·瓦尔堡",
+    "name_en": "Emil Warburg",
+    "wikipedia_title": "Emil Warburg",
+    "birth": {
+      "date": "1846-03-09",
+      "precision": "day",
+      "display": "1846年3月9日"
+    },
+    "death": {
+      "date": "1931-07-28",
+      "precision": "day",
+      "display": "1931年7月28日"
+    },
+    "death_status": "deceased",
+    "biography": "德国物理学家，曾在斯特拉斯堡、弗赖堡和柏林工作，并主持德国物理技术研究所。他的研究横跨气体动理论、电磁现象和光化学，重视把实验、理论和计量标准结合。",
+    "contributions": [
+      "研究磁滞回线与磁化过程能量损耗的定量关系",
+      "与孔特研究稀薄气体和水银蒸气的热学性质",
+      "发展电化学扩散、光化学及物理计量研究"
+    ],
+    "fields": [
+      "磁学",
+      "物理化学",
+      "计量学"
+    ],
+    "notes": [],
+    "sources": [
+      {
+        "title": "Emil Warburg — Neue Deutsche Biographie",
+        "url": "https://www.deutsche-biographie.de/sfz18948.html"
+      },
+      {
+        "title": "Emil Warburg — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Emil_Warburg"
+      }
+    ]
+  },
+  {
+    "id": "raoul-pictet",
+    "name_zh": "拉乌尔·皮克泰",
+    "name_en": "Raoul Pictet",
+    "wikipedia_title": "Raoul Pictet",
+    "birth": {
+      "date": "1846-04-04",
+      "precision": "day",
+      "display": "1846年4月4日"
+    },
+    "death": {
+      "date": "1929-07-24",
+      "precision": "day",
+      "display": "1929年7月24日"
+    },
+    "death_status": "deceased",
+    "biography": "瑞士物理学家，曾在开罗和日内瓦任教，后来在柏林及巴黎从事低温技术研究与工业活动。他运用级联制冷和高压装置开展气体液化，与卡耶泰在同一时期推进氧液化研究。",
+    "contributions": [
+      "采用级联制冷与高压方法开展氧液化实验",
+      "发展制冷机械和低温实验技术",
+      "把热力学研究用于工业制冷及液化装置"
+    ],
+    "fields": [
+      "低温物理",
+      "热力学",
+      "应用物理"
+    ],
+    "notes": [
+      "逝世日期采用瑞士历史辞典的1929年7月24日；部分英文资料写为7月27日。",
+      "早期氧液化研究涉及卡耶泰与皮克泰的独立工作，不作单一发现者归属。"
+    ],
+    "sources": [
+      {
+        "title": "Raoul Pictet — Historical Dictionary of Switzerland",
+        "url": "https://hls-dhs-dss.ch/fr/articles/028910/2024-10-01/"
+      },
+      {
+        "title": "Raoul Pictet — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Raoul_Pictet"
+      }
+    ]
+  },
+  {
+    "id": "john-ambrose-fleming",
+    "name_zh": "约翰·安布罗斯·弗莱明",
+    "name_en": "John Ambrose Fleming",
+    "wikipedia_title": "John Ambrose Fleming",
+    "birth": {
+      "date": "1849-11-29",
+      "precision": "day",
+      "display": "1849年11月29日"
+    },
+    "death": {
+      "date": "1945-04-18",
+      "precision": "day",
+      "display": "1945年4月18日"
+    },
+    "death_status": "deceased",
+    "biography": "英国电气工程师和物理学家，曾在剑桥受麦克斯韦指导，长期任伦敦大学学院教授，并为爱迪生及马可尼的企业提供科学咨询。他将热电子发射用于无线电检波，是电子管技术的重要先驱。",
+    "contributions": [
+      "研制以热电子单向导电实现整流和检波的弗莱明电子管",
+      "研究高频电磁信号接收及无线电仪器",
+      "推动大学电气工程教育并发展电磁方向判断的教学规则"
+    ],
+    "fields": [
+      "热电子发射",
+      "无线电物理",
+      "电气技术"
+    ],
+    "notes": [
+      "主要身份是工程师与发明家，按电磁学或电子实验技术的重要贡献收录；相应技术发展涉及多位先驱。"
+    ],
+    "sources": [
+      {
+        "title": "John Ambrose Fleming — Magnet Academy, National High Magnetic Field Laboratory",
+        "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/john-ambrose-fleming/"
+      },
+      {
+        "title": "John Ambrose Fleming — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/John_Ambrose_Fleming"
+      },
+      {
+        "title": "The birth of electronics — University College London",
+        "url": "https://www.ucl.ac.uk/made-at-ucl/stories/birth-electronics-we-know-it"
+      }
+    ]
+  },
+  {
+    "id": "augusto-righi",
+    "name_zh": "奥古斯托·里吉",
+    "name_en": "Augusto Righi",
+    "wikipedia_title": "Augusto Righi",
+    "birth": {
+      "date": "1850-08-27",
+      "precision": "day",
+      "display": "1850年8月27日"
+    },
+    "death": {
+      "date": "1920-06-08",
+      "precision": "day",
+      "display": "1920年6月8日"
+    },
+    "death_status": "deceased",
+    "biography": "意大利实验物理学家，长期在博洛尼亚工作，早年接受工程训练。他改进火花振荡器，研究短波长电磁波及磁光现象，影响了马可尼的早期无线电实验，并推动意大利物理研究与机构建设。",
+    "contributions": [
+      "产生和研究短波长电磁波，开展反射、干涉和偏振实验",
+      "研究磁场对光和热电输运的影响",
+      "发展精密实验仪器并推动意大利电磁学研究"
+    ],
+    "fields": [
+      "电磁波",
+      "磁光学",
+      "实验物理"
+    ],
+    "notes": [],
+    "sources": [
+      {
+        "title": "Augusto Righi — University of Bologna Historical Archives",
+        "url": "https://archiviostorico.unibo.it/it/patrimonio-documentario/ritratti-di-docenti?record=27562"
+      },
+      {
+        "title": "Augusto Righi — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Augusto_Righi"
+      }
+    ]
+  },
+  {
+    "id": "woldemar-voigt",
+    "name_zh": "沃尔德马·福格特",
+    "name_en": "Woldemar Voigt",
+    "wikipedia_title": "Woldemar Voigt",
+    "birth": {
+      "date": "1850-09-02",
+      "precision": "day",
+      "display": "1850年9月2日"
+    },
+    "death": {
+      "date": "1919-12-13",
+      "precision": "day",
+      "display": "1919年12月13日"
+    },
+    "death_status": "deceased",
+    "biography": "德国理论与实验物理学家，在柯尼斯堡及哥廷根工作，师从弗朗茨·诺伊曼。他以晶体对称性联系弹性、电学和光学性质，培养了德鲁德、波克尔斯和里兹等研究者，是晶体物理的重要奠基者。",
+    "contributions": [
+      "发展以张量和晶体对称性描述各向异性物理性质的方法",
+      "研究弹性、压电及磁光现象",
+      "提出描述谱线展宽的福格特轮廓等理论工具"
+    ],
+    "fields": [
+      "晶体物理",
+      "弹性力学",
+      "光谱学"
+    ],
+    "notes": [],
+    "sources": [
+      {
+        "title": "Woldemar Voigt — Neue Deutsche Biographie",
+        "url": "https://www.deutsche-biographie.de/117478008.html"
+      },
+      {
+        "title": "Woldemar Voigt — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Woldemar_Voigt"
+      }
+    ]
+  },
+  {
+    "id": "arthur-schuster",
+    "name_zh": "阿瑟·舒斯特",
+    "name_en": "Arthur Schuster",
+    "wikipedia_title": "Arthur Schuster",
+    "birth": {
+      "date": "1851-09-12",
+      "precision": "day",
+      "display": "1851年9月12日"
+    },
+    "death": {
+      "date": "1934-10-14",
+      "precision": "day",
+      "display": "1934年10月14日"
+    },
+    "death_status": "deceased",
+    "biography": "德国出生、后来成为英国公民的实验物理学家，长期在曼彻斯特工作。他研究气体放电、光谱、太阳和地磁现象，并建设实验室和研究教育制度，是英国物理专业化的重要组织者。",
+    "contributions": [
+      "研究气体放电与原子光谱",
+      "发展光谱辐射传输的近似处理方法",
+      "研究地磁和太阳现象，并推动曼彻斯特实验物理研究体系建设"
+    ],
+    "fields": [
+      "光谱学",
+      "气体放电",
+      "地球物理"
+    ],
+    "notes": [],
+    "sources": [
+      {
+        "title": "Arthur Schuster — University of Manchester",
+        "url": "https://www.ww1.manchester.ac.uk/arthur-schuster/"
+      },
+      {
+        "title": "Arthur Schuster — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Arthur_Schuster"
+      }
+    ]
+  },
+  {
+    "id": "louis-georges-gouy",
+    "name_zh": "路易·乔治·古伊",
+    "name_en": "Louis Georges Gouy",
+    "wikipedia_title": "Louis Georges Gouy",
+    "birth": {
+      "date": "1854-02-19",
+      "precision": "day",
+      "display": "1854年2月19日"
+    },
+    "death": {
+      "date": "1926-01-27",
+      "precision": "day",
+      "display": "1926年1月27日"
+    },
+    "death_status": "deceased",
+    "biography": "法国物理学家，长期在里昂大学工作，研究光学、电磁学和热力学。他从聚焦光束的相位到电解质界面分布都提出重要理论，并以精密仪器研究磁性与微观运动。",
+    "contributions": [
+      "发现聚焦光束相位变化的古伊相位现象",
+      "发展电解质界面的扩散双电层理论",
+      "提出古伊磁天平等测量方法，并研究布朗运动"
+    ],
+    "fields": [
+      "光学",
+      "界面物理",
+      "磁学"
+    ],
+    "notes": [],
+    "sources": [
+      {
+        "title": "Louis Georges Gouy — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Louis_Georges_Gouy"
+      }
+    ]
+  },
+  {
+    "id": "hendrik-willem-bakhuis-roozeboom",
+    "name_zh": "亨德里克·威廉·巴克豪斯·罗泽布姆",
+    "name_en": "Hendrik Willem Bakhuis Roozeboom",
+    "wikipedia_title": "Hendrik Willem Bakhuis Roozeboom",
+    "birth": {
+      "date": "1854-10-24",
+      "precision": "day",
+      "display": "1854年10月24日"
+    },
+    "death": {
+      "date": "1907-02-08",
+      "precision": "day",
+      "display": "1907年2月8日"
+    },
+    "death_status": "deceased",
+    "biography": "荷兰物理化学家，曾在莱顿研究，后任阿姆斯特丹大学教授。他将吉布斯相律用于实际多组分体系，系统整理温度、压强和组成对相平衡的影响，使抽象热力学成为可用的材料研究方法。",
+    "contributions": [
+      "系统应用吉布斯相律分析多相平衡",
+      "研究固液平衡、固溶体与多组分相图",
+      "推动相变热力学在化学和材料研究中的应用"
+    ],
+    "fields": [
+      "热力学",
+      "相平衡",
+      "物理化学"
+    ],
+    "notes": [],
+    "sources": [
+      {
+        "title": "Bakhuis Roozeboom Medal: phase theory legacy — Royal Netherlands Academy",
+        "url": "https://storage.knaw.nl/2023-03/Bakuis-Roozeboom-Medal-regulations.pdf"
+      },
+      {
+        "title": "Hendrik Willem Bakhuis Roozeboom — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Hendrik_Willem_Bakhuis_Roozeboom"
+      }
+    ]
+  },
+  {
+    "id": "johannes-rydberg",
+    "name_zh": "约翰内斯·里德伯",
+    "name_en": "Johannes Rydberg",
+    "wikipedia_title": "Johannes Rydberg",
+    "birth": {
+      "date": "1854-11-08",
+      "precision": "day",
+      "display": "1854年11月8日"
+    },
+    "death": {
+      "date": "1919-12-28",
+      "precision": "day",
+      "display": "1919年12月28日"
+    },
+    "death_status": "deceased",
+    "biography": "瑞典物理学家，长期在隆德大学工作，早年接受数学训练。他比较不同元素的光谱线，用统一的波数公式整理复杂数据，使原子光谱在量子理论建立之前呈现出重要的系统规律。",
+    "contributions": [
+      "提出以波数表示原子光谱系列的里德伯公式",
+      "建立跨元素比较谱线的系统方法及里德伯常数",
+      "为后来的能级结构、里兹组合原理与量子原子模型提供经验基础"
+    ],
+    "fields": [
+      "原子光谱",
+      "原子结构",
+      "数学物理"
+    ],
+    "notes": [],
+    "sources": [
+      {
+        "title": "Johannes Rydberg — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Rydberg/"
+      },
+      {
+        "title": "Johannes Rydberg — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Johannes_Rydberg"
+      }
+    ]
+  },
+  {
+    "id": "julius-elster",
+    "name_zh": "尤利乌斯·埃尔斯特",
+    "name_en": "Julius Elster",
+    "wikipedia_title": "Julius Elster",
+    "birth": {
+      "date": "1854-12-24",
+      "precision": "day",
+      "display": "1854年12月24日"
+    },
+    "death": {
+      "date": "1920-04-08",
+      "precision": "day",
+      "display": "1920年4月8日"
+    },
+    "death_status": "deceased",
+    "biography": "德国物理学家和中学教师，在沃尔芬比特尔与童年好友汉斯·盖特尔长期合作，利用课余时间建立实验研究。他们研究光电效应、大气电与放射性，显示中学教师也能作出重要的基础物理贡献。",
+    "contributions": [
+      "与盖特尔发展高灵敏光电池和光电测量技术",
+      "研究空气电离、大气电及降水的电荷",
+      "实验研究放射性并讨论其原子内部能量来源"
+    ],
+    "fields": [
+      "光电效应",
+      "大气电学",
+      "放射性"
+    ],
+    "notes": [
+      "逝世日期采用《新德意志人物传记》的1920年4月8日；英文维基及部分转述资料写为4月6日。"
+    ],
+    "sources": [
+      {
+        "title": "Julius Elster — Neue Deutsche Biographie",
+        "url": "https://www.deutsche-biographie.de/sfz13120.html"
+      },
+      {
+        "title": "Julius Elster — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Julius_Elster"
+      },
+      {
+        "title": "Julius Elster and Hans Geitel — History of Geo- and Space Sciences (2017)",
+        "url": "https://hgss.copernicus.org/articles/8/1/2017/"
+      }
+    ]
+  },
+  {
+    "id": "hans-geitel",
+    "name_zh": "汉斯·盖特尔",
+    "name_en": "Hans Geitel",
+    "wikipedia_title": "Hans Geitel",
+    "birth": {
+      "date": "1855-07-16",
+      "precision": "day",
+      "display": "1855年7月16日"
+    },
+    "death": {
+      "date": "1923-08-15",
+      "precision": "day",
+      "display": "1923年8月15日"
+    },
+    "death_status": "deceased",
+    "biography": "德国物理学家和教师，长期与埃尔斯特在沃尔芬比特尔合作研究。他把物理思考与细致实验相结合，涉及光电流、空气电离和放射性，其研究连接了十九世纪电学与二十世纪原子物理的兴起。",
+    "contributions": [
+      "与埃尔斯特发展光电池和低强度光的电学探测",
+      "研究大气电和空气自发电离的来源",
+      "研究放射性及原子能概念的早期形成"
+    ],
+    "fields": [
+      "光电效应",
+      "大气电学",
+      "原子物理"
+    ],
+    "notes": [
+      "逝世日期采用《新德意志人物传记》的1923年8月15日；一篇2017年科学史论文记为8月23日，保留来源差异。"
+    ],
+    "sources": [
+      {
+        "title": "Hans Geitel — Neue Deutsche Biographie",
+        "url": "https://www.deutsche-biographie.de/sfz20248.html"
+      },
+      {
+        "title": "Hans Geitel — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Hans_Geitel"
+      },
+      {
+        "title": "Julius Elster and Hans Geitel — History of Geo- and Space Sciences (2017)",
+        "url": "https://hgss.copernicus.org/articles/8/1/2017/"
+      }
+    ]
+  },
+  {
+    "id": "edwin-hall",
+    "name_zh": "埃德温·霍尔",
+    "name_en": "Edwin Hall",
+    "wikipedia_title": "Edwin Hall",
+    "birth": {
+      "date": "1855-11-07",
+      "precision": "day",
+      "display": "1855年11月7日"
+    },
+    "death": {
+      "date": "1938-11-20",
+      "precision": "day",
+      "display": "1938年11月20日"
+    },
+    "death_status": "deceased",
+    "biography": "美国实验物理学家，研究生时期在约翰斯·霍普金斯大学发现霍尔效应，后来长期在哈佛任教。他研究金属在电场、磁场和温度梯度共同作用下的输运，连接经典实验与电子理论的发展。",
+    "contributions": [
+      "发现载流导体在横向磁场中产生横向电压的霍尔效应",
+      "研究金属电导和热电、热磁输运性质",
+      "为测量载流子性质及后来的半导体和量子输运研究提供基础实验效应"
+    ],
+    "fields": [
+      "电子输运",
+      "电磁学",
+      "凝聚态物理"
+    ],
+    "notes": [],
+    "sources": [
+      {
+        "title": "Elucidating the Hall Effect — American Physical Society",
+        "url": "https://www.aps.org/apsnews/1998/12/elucidating-the-hall-effect"
+      },
+      {
+        "title": "Edwin Hall — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Edwin_Hall"
+      }
+    ]
+  },
+  {
+    "id": "carl-runge",
+    "name_zh": "卡尔·龙格",
+    "name_en": "Carl Runge",
+    "wikipedia_title": "Carl Runge",
+    "birth": {
+      "date": "1856-08-30",
+      "precision": "day",
+      "display": "1856年8月30日"
+    },
+    "death": {
+      "date": "1927-01-03",
+      "precision": "day",
+      "display": "1927年1月3日"
+    },
+    "death_status": "deceased",
+    "biography": "德国数学家和物理学家，曾在汉诺威和哥廷根工作。他把数值计算用于微分方程，也与帕邢等实验者研究原子光谱，在实用计算方法与精密光谱测量之间建立重要联系。",
+    "contributions": [
+      "与库塔等发展常微分方程的数值积分方法",
+      "系统研究元素光谱系列并参与光谱精密测量",
+      "发展插值、近似和应用数学方法，促进物理计算"
+    ],
+    "fields": [
+      "数值方法",
+      "光谱学",
+      "数学物理"
+    ],
+    "notes": [],
+    "sources": [
+      {
+        "title": "Carl Runge — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Runge/"
+      },
+      {
+        "title": "Carl Runge — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Carl_Runge"
+      }
+    ]
+  },
+  {
+    "id": "knut-angstrom",
+    "name_zh": "克努特·埃格斯特朗",
+    "name_en": "Knut Ångström",
+    "wikipedia_title": "Knut Ångström",
+    "birth": {
+      "date": "1857-01-12",
+      "precision": "day",
+      "display": "1857年1月12日"
+    },
+    "death": {
+      "date": "1910-03-04",
+      "precision": "day",
+      "display": "1910年3月4日"
+    },
+    "death_status": "deceased",
+    "biography": "瑞典实验物理学家，安德斯·约纳斯·埃格斯特朗之子，曾在斯德哥尔摩和乌普萨拉工作。他研究太阳辐射和大气吸收，擅长设计测量仪器，并参与建设乌普萨拉新的物理研究设施。",
+    "contributions": [
+      "研制电补偿式日射强度计，用于直接太阳辐射的精密测量",
+      "测量太阳常数及高山地区太阳辐射",
+      "研究水汽、二氧化碳等对红外辐射的吸收"
+    ],
+    "fields": [
+      "太阳物理",
+      "大气物理",
+      "辐射测量"
+    ],
+    "notes": [],
+    "sources": [
+      {
+        "title": "Anders and Knut Ångström — Uppsala University",
+        "url": "https://www.uu.se/campus/angstromlaboratoriet/om-oss/historik/anders-och-knut-angstrom"
+      },
+      {
+        "title": "Knut Ångström — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Knut_%C3%85ngstr%C3%B6m"
+      }
+    ]
+  },
+  {
+    "id": "ferdinand-kurlbaum",
+    "name_zh": "费迪南德·库尔鲍姆",
+    "name_en": "Ferdinand Kurlbaum",
+    "wikipedia_title": "Ferdinand Kurlbaum",
+    "birth": {
+      "date": "1857-10-04",
+      "precision": "day",
+      "display": "1857年10月4日"
+    },
+    "death": {
+      "date": "1927-07-29",
+      "precision": "day",
+      "display": "1927年7月29日"
+    },
+    "death_status": "deceased",
+    "biography": "德国实验物理学家，曾在德国物理技术研究所和柏林技术高校工作。他改进热辐射探测器与绝对测量方法，与鲁本斯等人研究黑体光谱，为二十世纪初辐射理论的检验提供高精度实验资料。",
+    "contributions": [
+      "改进测辐射热计并发展绝对辐射测量方法",
+      "与鲁本斯研究长波黑体辐射，提供检验早期辐射公式的重要数据",
+      "研究黑体辐射功率和高温测量标准"
+    ],
+    "fields": [
+      "热辐射",
+      "辐射测量",
+      "实验技术"
+    ],
+    "notes": [],
+    "sources": [
+      {
+        "title": "Ferdinand Kurlbaum — Neue Deutsche Biographie",
+        "url": "https://www.deutsche-biographie.de/sfz47150.html"
+      },
+      {
+        "title": "Ferdinand Kurlbaum — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Ferdinand_Kurlbaum"
+      }
+    ]
+  },
+  {
+    "id": "svante-arrhenius",
+    "name_zh": "斯万特·阿伦尼乌斯",
+    "name_en": "Svante Arrhenius",
+    "wikipedia_title": "Svante Arrhenius",
+    "birth": {
+      "date": "1859-02-19",
+      "precision": "day",
+      "display": "1859年2月19日"
+    },
+    "death": {
+      "date": "1927-10-02",
+      "precision": "day",
+      "display": "1927年10月2日"
+    },
+    "death_status": "deceased",
+    "biography": "瑞典物理化学家和物理学家，曾在乌普萨拉和欧洲多地求学研究，后主持斯德哥尔摩的诺贝尔物理化学研究机构，1903年获诺贝尔化学奖。他以离子理论连接溶液、电学与化学，并研究大气辐射。",
+    "contributions": [
+      "提出电解质在溶液中解离为带电离子的理论",
+      "建立反应速率与温度关系的阿伦尼乌斯表达式",
+      "较早定量研究二氧化碳变化对地球温度的影响"
+    ],
+    "fields": [
+      "物理化学",
+      "电化学",
+      "气候物理"
+    ],
+    "notes": [],
+    "sources": [
+      {
+        "title": "Svante Arrhenius — Nobel Prize official facts",
+        "url": "https://www.nobelprize.org/prizes/chemistry/1903/arrhenius/facts/"
+      },
+      {
+        "title": "Svante Arrhenius — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Svante_Arrhenius"
+      }
+    ]
+  },
+  {
+    "id": "vilhelm-bjerknes",
+    "name_zh": "威廉·比耶克内斯",
+    "name_en": "Vilhelm Bjerknes",
+    "wikipedia_title": "Vilhelm Bjerknes",
+    "birth": {
+      "date": "1862-03-14",
+      "precision": "day",
+      "display": "1862年3月14日"
+    },
+    "death": {
+      "date": "1951-04-09",
+      "precision": "day",
+      "display": "1951年4月9日"
+    },
+    "death_status": "deceased",
+    "biography": "挪威物理学家和气象学家，早年协助父亲研究流体力学，后在斯德哥尔摩、莱比锡及卑尔根等地工作。他把热力学和流体方程用于大气运动，创立卑尔根气象学派，推动天气预报的物理化。",
+    "contributions": [
+      "把天气预报表述为由观测初值和动力学方程求解的问题",
+      "发展大气环流和气团、锋面研究的物理基础",
+      "建立卑尔根气象学派，促进现代动力气象学"
+    ],
+    "fields": [
+      "大气物理",
+      "流体力学",
+      "动力气象学"
+    ],
+    "notes": [],
+    "sources": [
+      {
+        "title": "Vilhelm Bjerknes — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bjerknes_Vilhelm/"
+      },
+      {
+        "title": "Vilhelm Bjerknes — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Vilhelm_Bjerknes"
+      }
+    ]
+  },
+  {
+    "id": "friedrich-paschen",
+    "name_zh": "弗里德里希·帕邢",
+    "name_en": "Friedrich Paschen",
+    "wikipedia_title": "Friedrich Paschen",
+    "birth": {
+      "date": "1865-01-22",
+      "precision": "day",
+      "display": "1865年1月22日"
+    },
+    "death": {
+      "date": "1947-02-25",
+      "precision": "day",
+      "display": "1947年2月25日"
+    },
+    "death_status": "deceased",
+    "biography": "德国实验物理学家，长期从事精密光谱和气体放电研究，曾在图宾根任教并主持德国物理技术研究所。他把谱线测量与外场实验结合，为原子结构和早期量子理论提供重要数据。",
+    "contributions": [
+      "发现气体击穿电压与压强和间隙乘积有关的帕邢定律",
+      "发现氢原子红外光谱的帕邢系",
+      "与巴克研究强磁场中的谱线行为，形成帕邢—巴克效应"
+    ],
+    "fields": [
+      "原子光谱",
+      "气体放电",
+      "精密测量"
+    ],
+    "notes": [],
+    "sources": [
+      {
+        "title": "Friedrich Paschen — Neue Deutsche Biographie",
+        "url": "https://www.deutsche-biographie.de/gnd11889210X.html"
+      },
+      {
+        "title": "Friedrich Paschen — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Friedrich_Paschen"
+      }
+    ]
+  },
+  {
+    "id": "heinrich-rubens",
+    "name_zh": "海因里希·鲁本斯",
+    "name_en": "Heinrich Rubens",
+    "wikipedia_title": "Heinrich Rubens",
+    "birth": {
+      "date": "1865-03-30",
+      "precision": "day",
+      "display": "1865年3月30日"
+    },
+    "death": {
+      "date": "1922-07-17",
+      "precision": "day",
+      "display": "1922年7月17日"
+    },
+    "death_status": "deceased",
+    "biography": "德国实验物理学家，在柏林从事精密光学和热辐射研究，师承孔特等人。他把红外测量推进到更长波段，与库尔鲍姆合作获得的数据影响普朗克建立黑体辐射定律，是量子论兴起的重要实验贡献者。",
+    "contributions": [
+      "发展远红外光谱和选择性反射实验方法",
+      "与库尔鲍姆精密测量长波黑体辐射，为普朗克定律提供关键资料",
+      "研究金属光学及热辐射与电导的联系"
+    ],
+    "fields": [
+      "红外物理",
+      "热辐射",
+      "精密测量"
+    ],
+    "notes": [],
+    "sources": [
+      {
+        "title": "Heinrich Rubens — Neue Deutsche Biographie",
+        "url": "https://www.deutsche-biographie.de/info_116669187.html"
+      },
+      {
+        "title": "Heinrich Rubens — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Heinrich_Rubens"
+      }
+    ]
+  },
+  {
+    "id": "kristian-birkeland",
+    "name_zh": "克里斯蒂安·比尔克兰",
+    "name_en": "Kristian Birkeland",
+    "wikipedia_title": "Kristian Birkeland",
+    "birth": {
+      "date": "1867-12-13",
+      "precision": "day",
+      "display": "1867年12月13日"
+    },
+    "death": {
+      "date": "1917-06-15",
+      "precision": "day",
+      "display": "1917年6月15日"
+    },
+    "death_status": "deceased",
+    "biography": "挪威物理学家，长期在克里斯蒂安尼亚大学从事电磁与极光研究。他组织北极观测，并用磁化球体和电子束模拟相关现象，同时把高温电弧用于工业固氮，兼具基础与应用研究成果。",
+    "contributions": [
+      "提出以来自太阳的带电粒子解释极光的重要模型",
+      "利用地磁观测和磁化球体实验研究空间电流与极光",
+      "与艾德合作发展电弧固氮工艺"
+    ],
+    "fields": [
+      "空间物理",
+      "等离子体物理",
+      "应用物理"
+    ],
+    "notes": [],
+    "sources": [
+      {
+        "title": "Kristian Birkeland — Norwegian Biographical Lexicon",
+        "url": "https://nbl.snl.no/Kristian_Birkeland"
+      },
+      {
+        "title": "Kristian Birkeland — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Kristian_Birkeland"
+      }
+    ]
+  },
+  {
+    "id": "john-sealy-townsend",
+    "name_zh": "约翰·西利·汤森",
+    "name_en": "John Sealy Townsend",
+    "wikipedia_title": "John Sealy Townsend",
+    "birth": {
+      "date": "1868-06-07",
+      "precision": "day",
+      "display": "1868年6月7日"
+    },
+    "death": {
+      "date": "1957-02-16",
+      "precision": "day",
+      "display": "1957年2月16日"
+    },
+    "death_status": "deceased",
+    "biography": "爱尔兰出生的实验物理学家，曾在剑桥研究气体电离，后长期任牛津大学物理学教授。他通过精密电学实验研究气体中的电子与离子，建立放电增长的定量描述，是气体放电和等离子体物理的重要先驱。",
+    "contributions": [
+      "研究碰撞电离和电子雪崩，建立汤森放电系数",
+      "测量气体离子及电子的输运性质",
+      "研究低能电子散射，参与发现拉姆绍尔—汤森效应"
+    ],
+    "fields": [
+      "气体放电",
+      "等离子体物理",
+      "电子输运"
+    ],
+    "notes": [],
+    "sources": [
+      {
+        "title": "John Sealy Townsend — Royal Society archive",
+        "url": "https://catalogues.royalsociety.org/CalmView/Record.aspx?src=CalmView.Persons&id=NA2902&pos=3"
+      },
+      {
+        "title": "John Sealy Townsend — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/John_Sealy_Townsend"
+      }
+    ]
+  },
+  {
+    "id": "gustav-mie",
+    "name_zh": "古斯塔夫·米",
+    "name_en": "Gustav Mie",
+    "wikipedia_title": "Gustav Mie",
+    "birth": {
+      "date": "1868-09-29",
+      "precision": "day",
+      "display": "1868年9月29日"
+    },
+    "death": {
+      "date": "1957-02-13",
+      "precision": "day",
+      "display": "1957年2月13日"
+    },
+    "death_status": "deceased",
+    "biography": "德国理论物理学家，曾在格赖夫斯瓦尔德、哈雷和弗赖堡任教。他研究电磁场、物质和光传播，以对球形粒子散射的严格计算著称，也尝试用场论理解物质的构成。",
+    "contributions": [
+      "建立均匀球形粒子电磁散射的完整解，成为米氏散射理论的核心",
+      "解释胶体颗粒等体系的散射与颜色性质",
+      "研究电磁场论和物质的场论模型"
+    ],
+    "fields": [
+      "电磁学",
+      "光散射",
+      "理论物理"
+    ],
+    "notes": [],
+    "sources": [
+      {
+        "title": "Gustav Mie — Neue Deutsche Biographie",
+        "url": "https://www.deutsche-biographie.de/pnd118733826.html"
+      },
+      {
+        "title": "Gustav Mie — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Gustav_Mie"
+      }
+    ]
+  },
+  {
+    "id": "marian-smoluchowski",
+    "name_zh": "马里安·斯莫卢霍夫斯基",
+    "name_en": "Marian Smoluchowski",
+    "wikipedia_title": "Marian Smoluchowski",
+    "birth": {
+      "date": "1872-05-28",
+      "precision": "day",
+      "display": "1872年5月28日"
+    },
+    "death": {
+      "date": "1917-09-05",
+      "precision": "day",
+      "display": "1917年9月5日"
+    },
+    "death_status": "deceased",
+    "biography": "波兰物理学家，在维也纳求学，后在利沃夫和克拉科夫任教。他用概率和分子运动解释布朗运动、涨落和胶体行为，与爱因斯坦的独立研究共同推动原子论的实验验证，是统计物理的主要先驱之一。",
+    "contributions": [
+      "独立建立布朗运动的理论解释",
+      "发展扩散、涨落及非平衡随机过程的统计描述",
+      "提出胶体粒子凝聚的动力学方程"
+    ],
+    "fields": [
+      "统计物理",
+      "布朗运动",
+      "非平衡物理"
+    ],
+    "notes": [],
+    "sources": [
+      {
+        "title": "Marian Smoluchowski — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Smoluchowski/"
+      },
+      {
+        "title": "Marian Smoluchowski — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Marian_Smoluchowski"
+      }
+    ]
+  },
+  {
+    "id": "lee-de-forest",
+    "name_zh": "李·德福雷斯特",
+    "name_en": "Lee de Forest",
+    "wikipedia_title": "Lee de Forest",
+    "birth": {
+      "date": "1873-08-26",
+      "precision": "day",
+      "display": "1873年8月26日"
+    },
+    "death": {
+      "date": "1961-06-30",
+      "precision": "day",
+      "display": "1961年6月30日"
+    },
+    "death_status": "deceased",
+    "biography": "美国发明家和电子技术先驱，在耶鲁大学接受物理与电学训练，后从事无线电器件和声电影技术。他在电子管中引入控制栅极，相关器件后来成为电子放大、振荡和广播系统的核心组成部分。",
+    "contributions": [
+      "发展带控制栅极的三极电子管Audion",
+      "推动电子管用于电信号放大、调制和振荡",
+      "研究无线电广播及声电影的电子记录技术"
+    ],
+    "fields": [
+      "电子器件",
+      "无线电物理",
+      "应用物理"
+    ],
+    "notes": [
+      "主要身份是工程师与发明家，按电磁学或电子实验技术的重要贡献收录；相应技术发展涉及多位先驱。"
+    ],
+    "sources": [
+      {
+        "title": "Lee de Forest — Magnet Academy, National High Magnetic Field Laboratory",
+        "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/lee-de-forest/"
+      },
+      {
+        "title": "Lee de Forest — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Lee_de_Forest"
+      }
+    ]
+  },
+  {
+    "id": "friedrich-hasenohrl",
+    "name_zh": "弗里德里希·哈森厄尔",
+    "name_en": "Friedrich Hasenöhrl",
+    "wikipedia_title": "Friedrich Hasenöhrl",
+    "birth": {
+      "date": "1874-11-30",
+      "precision": "day",
+      "display": "1874年11月30日"
+    },
+    "death": {
+      "date": "1915-10-07",
+      "precision": "day",
+      "display": "1915年10月7日"
+    },
+    "death_status": "deceased",
+    "biography": "奥地利理论物理学家，曾在维也纳受玻尔兹曼等人指导，后来继任相关教授职位。他研究气体动理论、热辐射与电磁惯性，并在第一次世界大战中阵亡，其工作属于相对论和量子论兴起时期的理论探索。",
+    "contributions": [
+      "研究空腔热辐射对惯性的贡献",
+      "发展气体动理论和辐射热力学研究",
+      "参与十九世纪末至二十世纪初的理论物理教学与研究"
+    ],
+    "fields": [
+      "热辐射",
+      "气体动理论",
+      "理论物理"
+    ],
+    "notes": [
+      "其空腔辐射惯性计算不同于狭义相对论中的普遍质能关系，不表述为先于爱因斯坦建立E=mc²。"
+    ],
+    "sources": [
+      {
+        "title": "Friedrich Hasenöhrl — University of Vienna Library",
+        "url": "https://bibliothek.univie.ac.at/zb-physik-fb-chemie/friedrich_hasenohrl.html"
+      },
+      {
+        "title": "Friedrich Hasenöhrl — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Friedrich_Hasen%C3%B6hrl"
+      }
+    ]
+  },
+  {
+    "id": "walter-ritz",
+    "name_zh": "瓦尔特·里兹",
+    "name_en": "Walter Ritz",
+    "wikipedia_title": "Walter Ritz",
+    "birth": {
+      "date": "1878-02-22",
+      "precision": "day",
+      "display": "1878年2月22日"
+    },
+    "death": {
+      "date": "1909-07-07",
+      "precision": "day",
+      "display": "1909年7月7日"
+    },
+    "death_status": "deceased",
+    "biography": "瑞士理论物理学家，曾在苏黎世及哥廷根求学研究，因病早逝。他把数学近似方法用于物理边值问题，并从光谱数据提出组合规律；短暂生涯中的两类成果都对后来的物理产生持久影响。",
+    "contributions": [
+      "提出谱线波数可由基本项之差组成的里兹组合原理",
+      "发展用于振动和边值问题的里兹变分近似方法",
+      "研究光谱与电动力学中的理论问题"
+    ],
+    "fields": [
+      "光谱学",
+      "变分方法",
+      "数学物理"
+    ],
+    "notes": [],
+    "sources": [
+      {
+        "title": "Gander and Wanner: From Euler, Ritz, and Galerkin to Modern Computing — SIAM Review",
+        "url": "https://epubs.siam.org/doi/10.1137/100804036"
+      },
+      {
+        "title": "Walter Ritz — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Walter_Ritz"
+      }
+    ]
+  }
+]

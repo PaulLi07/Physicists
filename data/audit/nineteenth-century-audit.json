@@ -1,0 +1,5624 @@
+{
+  "scope": "All88existing born1800–1879 non-physics-Nobel records plus37researched additions",
+  "existing_records": 88,
+  "additions": 37,
+  "total_records": 125,
+  "initial_existing_source_requests": 134,
+  "successful_initial_source_requests": 133,
+  "date_sources_not_automatically_trusted": true,
+  "catalogues_compared": [
+    {
+      "title": "List of physicists",
+      "url": "https://en.wikipedia.org/wiki/List_of_physicists"
+    },
+    {
+      "title": "List of theoretical physicists",
+      "url": "https://en.wikipedia.org/wiki/List_of_theoretical_physicists"
+    },
+    {
+      "title": "MacTutor biography collection",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/"
+    },
+    {
+      "title": "Deutsche Biographie",
+      "url": "https://www.deutsche-biographie.de/"
+    },
+    {
+      "title": "APS historical articles",
+      "url": "https://www.aps.org/apsnews"
+    }
+  ],
+  "limitations": [
+    "This review is not a proof that a worldwide contributor list is exhaustive.",
+    "Source access and matching infobox values are not treated as proof of historical truth; identified conflicts are explicitly retained.",
+    "Some source sites deny a direct script request but their relevant indexed/opened institutional text was separately inspected.",
+    "English records receive a separate independent peer review by the parent agent."
+  ],
+  "records": [
+    {
+      "id": "julius-plucker",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Plucker/",
+          "title": "Julius Plücker — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/f1fd8d28d057f04f.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Julius_Pl%C3%BCcker",
+          "title": "Julius Plücker — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/30f4554f1f8e00c8.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1801-07-16",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1801-07-16",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1868-05-22",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1868-05-22",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "george-biddell-airy",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Airy/",
+          "title": "George Biddell Airy — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/656fdf5103912d1c.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Biddell_Airy",
+          "title": "George Biddell Airy — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/154ad0b9213c0ea2.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1801-07-27",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1801-07-27",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1892-01-02",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1892-01-02",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "joseph-plateau",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Plateau/",
+          "title": "Joseph Plateau — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/985ee0d4a1dabe78.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Joseph_Plateau",
+          "title": "Joseph Plateau — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/e60b8559dbc60b98.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1801-10-14",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1801-10-14",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1883-09-15",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1883-09-15",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "heinrich-gustav-magnus",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Heinrich_Gustav_Magnus",
+          "title": "Heinrich Gustav Magnus — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/1cc83cfa92a8bb70.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1802-05-02",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1802-05-02",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1870-04-04",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1870-04-04",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "heinrich-wilhelm-dove",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Heinrich_Wilhelm_Dove",
+          "title": "Heinrich Wilhelm Dove — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/12c46f0c544a2783.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1803-10-06",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1803-10-06",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1879-04-04",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1879-04-04",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "christian-doppler",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Doppler/",
+          "title": "Christian Doppler — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/d110dc96dbbb365e.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Christian_Doppler",
+          "title": "Christian Doppler — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/54ff4e18e174a8cb.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1803-11-29",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1803-11-29",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1853-03-17",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1853-03-17",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "heinrich-lenz",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Heinrich_Lenz",
+          "title": "Heinrich Lenz — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/5280fc2c136d1d10.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1804-02-24",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1804-02-24",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1865-02-10",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1865-02-10",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "wilhelm-eduard-weber",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://catalogues.royalsociety.org/CalmView/Record.aspx?id=NA2617&pos=1&src=CalmView.Persons",
+          "title": "Wilhelm Eduard Weber — Royal Society archive",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/9b4720d6974a538e.html"
+        },
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Weber/",
+          "title": "Wilhelm Eduard Weber — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/98acfca848f0191d.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Wilhelm_Eduard_Weber",
+          "title": "Wilhelm Eduard Weber — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/ae3035207306d49b.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1804-10-24",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1804-10-24",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1891-06-23",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1891-06-23",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [
+        {
+          "type": "external_date_discrepancy",
+          "detail": "MacTutor gives 4 October, while the Royal Society archival record gives 24 October 1804.",
+          "resolution": "Retained 24 October and the explicit source-conflict note."
+        }
+      ],
+      "resolution_status": "resolved_with_explicit_caveat",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "carl-gustav-jacob-jacobi",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Jacobi/",
+          "title": "Carl Gustav Jacob Jacobi — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/c1e68bd41a1e13b8.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi",
+          "title": "Carl Gustav Jacob Jacobi — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/0a90962d01da544b.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1804-12-10",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1804-12-10",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1851-02-18",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1851-02-18",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "william-rowan-hamilton",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hamilton/",
+          "title": "William Rowan Hamilton — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/333c7644b9dd624d.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Rowan_Hamilton",
+          "title": "William Rowan Hamilton — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/088ce9a6ca2ccb01.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1805-08-04",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1805-08-04",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1865-09-02",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1865-09-02",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "joseph-petzval",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Petzval/",
+          "title": "Joseph Petzval — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/8d490845a579feaa.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Joseph_Petzval",
+          "title": "Joseph Petzval — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/537f6a0954723921.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1807-01-06",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1807-01-06",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1891-09-17",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1891-09-17",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "joseph-liouville",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Liouville/",
+          "title": "Joseph Liouville — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/d927bc006f6b98ac.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Joseph_Liouville",
+          "title": "Joseph Liouville — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/5a180ac82927b2fb.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1809-03-24",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1809-03-24",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1882-09-08",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1882-09-08",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "hermann-grassmann",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Grassmann/",
+          "title": "Hermann Grassmann — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/1d7f42bec7f9630f.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hermann_Grassmann",
+          "title": "Hermann Grassmann — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/892d0fa468988313.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1809-04-15",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1809-04-15",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1877-09-26",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1877-09-26",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "henri-victor-regnault",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Henri_Victor_Regnault",
+          "title": "Henri Victor Regnault — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/255aded7fe5928e1.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1810-07-21",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1810-07-21",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1878-01-19",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1878-01-19",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "robert-bunsen",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Bunsen",
+          "title": "Robert Bunsen — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/8d0bd8655ce31fc2.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1811-03-30",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1811-03-30",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1899-08-16",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1899-08-16",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [
+        {
+          "type": "historical_date_revision",
+          "detail": "Older references often give 31 March 1811; the current referenced biography records the revised 30 March date.",
+          "resolution": "Retained 30 March with the pre-existing historical-revision note."
+        }
+      ],
+      "resolution_status": "resolved_with_explicit_caveat",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "william-robert-grove",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Robert_Grove",
+          "title": "William Robert Grove — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/c23676f21e6ce54d.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1811-07-11",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        },
+        "death": {
+          "canonical": "1896-08-01",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1896-08-01",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "anders-jonas-angstrom",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Anders_Jonas_%C3%85ngstr%C3%B6m",
+          "title": "Anders Jonas Ångström — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/735b46e81d338211.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1814-08-13",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1814-08-13",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1874-06-21",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1874-06-21",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "julius-robert-von-mayer",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Julius_Robert_von_Mayer",
+          "title": "Julius Robert von Mayer — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/fce3b4505b4bee2f.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1814-11-25",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        },
+        "death": {
+          "canonical": "1878-03-20",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1878-03-20",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "james-prescott-joule",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/James_Prescott_Joule",
+          "title": "James Prescott Joule — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/5a0435025b59e8ef.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1818-12-24",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1818-12-24",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1889-10-11",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1889-10-11",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "george-gabriel-stokes",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Stokes/",
+          "title": "George Gabriel Stokes — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/e97691b973542402.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Gabriel_Stokes",
+          "title": "George Gabriel Stokes — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/b0d96db1660b52c3.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1819-08-13",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1819-08-13",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1903-02-01",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1903-02-01",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [
+        {
+          "type": "contribution_wording",
+          "detail": "The original Chinese wording could imply that Stokes introduced the later named concept of the Stokes shift.",
+          "resolution": "Reworded to describe his finding of typically longer fluorescence wavelengths, later known as the Stokes shift."
+        }
+      ],
+      "resolution_status": "resolved_with_explicit_caveat",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "leon-foucault",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Foucault/",
+          "title": "Léon Foucault — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/60f6618aa1232236.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/L%C3%A9on_Foucault",
+          "title": "Léon Foucault — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/8a2f070cb8f96cc6.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1819-09-18",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        },
+        "death": {
+          "canonical": "1868-02-11",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1868-02-11",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "hippolyte-fizeau",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Fizeau/",
+          "title": "Hippolyte Fizeau — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/c064048c087152df.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hippolyte_Fizeau",
+          "title": "Hippolyte Fizeau — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/6412f13bcd727fdf.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1819-09-23",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1819-09-23",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1896-09-18",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1896-09-18",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "alexandre-edmond-becquerel",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alexandre_Edmond_Becquerel",
+          "title": "Alexandre Edmond Becquerel — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/652110519571b827.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1820-03-24",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1820-03-24",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1891-05-11",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1891-05-11",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "william-john-macquorn-rankine",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Rankine/",
+          "title": "William John Macquorn Rankine — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/c69c008667972740.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/William_John_Macquorn_Rankine",
+          "title": "William John Macquorn Rankine — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/52cacf4b6c30c48f.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1820-07-05",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1820-07-05",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1872-12-24",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1872-12-24",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "john-tyndall",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Tyndall",
+          "title": "John Tyndall — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/a941a40ff9fecc20.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1820-08-02",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1820-08-02",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1893-12-04",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1893-12-04",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "johann-josef-loschmidt",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Johann_Josef_Loschmidt",
+          "title": "Johann Josef Loschmidt — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/ec0d6609263eeeab.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1821-03-15",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1821-03-15",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1895-07-08",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1895-07-08",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "hermann-von-helmholtz",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Helmholtz/",
+          "title": "Hermann von Helmholtz — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/0a73a3fb2f428dbb.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hermann_von_Helmholtz",
+          "title": "Hermann von Helmholtz — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/13f3944896bfe9e5.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1821-08-31",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1821-08-31",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1894-09-08",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1894-09-08",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "rudolf-clausius",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Clausius/",
+          "title": "Rudolf Clausius — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/6043c91cdbb7e282.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rudolf_Clausius",
+          "title": "Rudolf Clausius — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/5c56bd8cbd50cd04.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1822-01-02",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1822-01-02",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1888-08-24",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1888-08-24",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "william-huggins",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Huggins",
+          "title": "William Huggins — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/877d949ce0abd133.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1824-02-07",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1824-02-07",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1910-05-12",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1910-05-12",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "gustav-kirchhoff",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Kirchhoff/",
+          "title": "Gustav Kirchhoff — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/ffe23c04af4e006e.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Gustav_Kirchhoff",
+          "title": "Gustav Kirchhoff — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/11d56c81b93bf581.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1824-03-12",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1824-03-12",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1887-10-17",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1887-10-17",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "william-thomson-1st-baron-kelvin",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Thomson/",
+          "title": "William Thomson, 1st Baron Kelvin — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/98d0f82951fa02f3.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Thomson%2C_1st_Baron_Kelvin",
+          "title": "William Thomson, 1st Baron Kelvin — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/aac7e9132ad077fb.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1824-06-26",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1824-06-26",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1907-12-17",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1907-12-17",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "johann-jakob-balmer",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Balmer/",
+          "title": "Johann Jakob Balmer — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/55e0603a8e27148c.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Johann_Jakob_Balmer",
+          "title": "Johann Jakob Balmer — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/a2950f0abc324b7a.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1825-05-01",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        },
+        "death": {
+          "canonical": "1898-03-12",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1898-03-12",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "bernhard-riemann",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Riemann/",
+          "title": "Bernhard Riemann — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/bf7d89a49959da73.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bernhard_Riemann",
+          "title": "Bernhard Riemann — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/df08c55f15e9ae33.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1826-09-17",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1826-09-17",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1866-07-20",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1866-07-20",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "balfour-stewart",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Balfour_Stewart",
+          "title": "Balfour Stewart — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/c3ce50d8e2b37138.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1828-11-01",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        },
+        "death": {
+          "canonical": "1887-12-19",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1887-12-19",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "james-clerk-maxwell",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Maxwell/",
+          "title": "James Clerk Maxwell — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/30c22041c9f23ab0.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/James_Clerk_Maxwell",
+          "title": "James Clerk Maxwell — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/f7ad57f6c0b376b3.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1831-06-13",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1831-06-13",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1879-11-05",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1879-11-05",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "william-crookes",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Crookes",
+          "title": "William Crookes — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/ffff2e41210b17cc.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1832-06-17",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1832-06-17",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1919-04-04",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1919-04-04",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "jozef-stefan",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jo%C5%BEef_Stefan",
+          "title": "Jožef Stefan — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/26cb500bdf5ded73.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1835-03-24",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1835-03-24",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1893-01-07",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1893-01-07",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "norman-lockyer",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Norman_Lockyer",
+          "title": "Norman Lockyer — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/465ef7c536e0e2ae.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1836-05-17",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1836-05-17",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1920-08-16",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1920-08-16",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "ernst-mach",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ernst_Mach",
+          "title": "Ernst Mach — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/22a5e60d6a0e566a.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1838-02-18",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        },
+        "death": {
+          "canonical": "1916-02-19",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1916-02-19",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "josiah-willard-gibbs",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Gibbs/",
+          "title": "Josiah Willard Gibbs — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/2fc14580b50e1932.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs",
+          "title": "Josiah Willard Gibbs — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/c8a86db38c85212d.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1839-02-11",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1839-02-11",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1903-04-28",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1903-04-28",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "august-kundt",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.deutsche-biographie.de/sfz47023.html",
+          "title": "August Kundt — Deutsche Biographie/Bavarian Academy of Sciences",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/282492b15218a756.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/August_Kundt",
+          "title": "August Kundt — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/983df26a1d88ae51.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1839-11-18",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1839-11-18",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1894-05-21",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1894-05-21",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "ernst-abbe",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Abbe/",
+          "title": "Ernst Abbe — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/7f421bea6ffc4cb8.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ernst_Abbe",
+          "title": "Ernst Abbe — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/a3291f92d4d8fb52.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1840-01-23",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1840-01-23",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1905-01-14",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1905-01-14",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "alfred-cornu",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alfred_Cornu",
+          "title": "Alfred Cornu — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/3405e76509db55c0.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1841-03-06",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1841-03-06",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1902-04-12",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1902-04-12",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "joseph-boussinesq",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Boussinesq/",
+          "title": "Joseph Boussinesq — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/05517c528d625c5c.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Joseph_Boussinesq",
+          "title": "Joseph Boussinesq — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/796dfbf7d14e699f.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1842-03-13",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1842-03-13",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1929-02-19",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1929-02-19",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "osborne-reynolds",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Reynolds/",
+          "title": "Osborne Reynolds — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/92ddd5e1870f8179.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Osborne_Reynolds",
+          "title": "Osborne Reynolds — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/53aefcd8a34e3d5d.html"
+        },
+        {
+          "url": "https://personalpages.manchester.ac.uk/staff/jdjackson/10%20Reynolds.pdf",
+          "title": "Osborne Reynolds — University of Manchester biographical study",
+          "retrieval_note": "Reviewed through web search/open evidence or an additional institutional reference; not part of the original batch."
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1842-08-23",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1842-10-23",
+          "matches_if_comparable": false
+        },
+        "death": {
+          "canonical": "1912-02-21",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1912-02-21",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [
+        {
+          "type": "external_infobox_error",
+          "detail": "The retrieved English Wikipedia infobox gives 23 October 1842, while its prose, MacTutor and the University of Manchester biographical study give 23 August.",
+          "resolution": "Kept 23 August, added the institutional source and an explicit discrepancy note."
+        }
+      ],
+      "resolution_status": "resolved_with_explicit_caveat",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "james-dewar",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/James_Dewar",
+          "title": "James Dewar — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/0e361736783029d2.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1842-09-20",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1842-09-20",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1923-03-27",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1923-03-27",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "ludwig-boltzmann",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Boltzmann/",
+          "title": "Ludwig Boltzmann — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/0ee70636b55a674a.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ludwig_Boltzmann",
+          "title": "Ludwig Boltzmann — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/7e27cf268b6f4a45.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1844-02-20",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1844-02-20",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1906-09-05",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1906-09-05",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "thomas-edison",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Thomas_Edison",
+          "title": "Thomas Edison — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/185d25c838c3ef0a.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1847-02-11",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1847-02-11",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1931-10-18",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1931-10-18",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "lorand-eotvos",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Eotvos/",
+          "title": "Loránd Eötvös — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/84afbbde0b5da183.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lor%C3%A1nd_E%C3%B6tv%C3%B6s",
+          "title": "Loránd Eötvös — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/b1c19c4bda15b428.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1848-07-27",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        },
+        "death": {
+          "canonical": "1919-04-08",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1919-04-08",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "margaret-lindsay-huggins",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Margaret_Lindsay_Huggins",
+          "title": "Margaret Lindsay Huggins — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/f74a4603b7a2df12.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1848-08-14",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1848-08-14",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1915-03-24",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1915-03-24",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "henry-augustus-rowland",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Henry_Augustus_Rowland",
+          "title": "Henry Augustus Rowland — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/2ad6b9d83bdc7c71.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1848-11-27",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1848-11-27",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1901-04-16",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1901-04-16",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "sofya-kovalevskaya",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Kovalevskaya/",
+          "title": "Sofya Kovalevskaya — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/d468046d39b6bc99.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sofya_Kovalevskaya",
+          "title": "Sofya Kovalevskaya — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/b8e0ff50ece5f95f.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1850-01-15",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1850-01-15",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1891-02-10",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1891-02-10",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "oliver-heaviside",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Heaviside/",
+          "title": "Oliver Heaviside — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/7083875df01802af.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Oliver_Heaviside",
+          "title": "Oliver Heaviside — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/8d24d5f5d8d1005f.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1850-05-18",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1850-05-18",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1925-02-03",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1925-02-03",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "oliver-lodge",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Oliver_Lodge",
+          "title": "Oliver Lodge — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/33ebf4b7376ff421.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1851-06-12",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1851-06-12",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1940-08-22",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1940-08-22",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "george-francis-fitzgerald",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Francis_FitzGerald",
+          "title": "George Francis FitzGerald — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/1fdf46c0339a766e.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1851-08-03",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1851-08-03",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1901-02-21",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1901-02-21",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "john-henry-poynting",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Henry_Poynting",
+          "title": "John Henry Poynting — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/83e9e8cf111f020b.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1852-09-09",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1852-09-09",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1914-03-30",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1914-03-30",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "henri-poincare",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Poincare/",
+          "title": "Henri Poincaré — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/a3263d7ab17572be.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9",
+          "title": "Henri Poincaré — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/cec13d4ca81754c7.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1854-04-29",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1854-04-29",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1912-07-17",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1912-07-17",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "c-v-boys",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Boys/",
+          "title": "C. V. Boys — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/9000cb0a9a74f675.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/C._V._Boys",
+          "title": "C. V. Boys — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/d1a94b6012b9d7bb.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1855-03-15",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1855-03-15",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1944-03-30",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1944-03-30",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "james-alfred-ewing",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/James_Alfred_Ewing",
+          "title": "James Alfred Ewing — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/09f7c289548f9829.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1855-03-27",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1855-03-27",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1935-01-07",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1935-01-07",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "nikola-tesla",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+          "title": "Nikola Tesla — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/464e694fd287efb7.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1856-07-10",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1856-07-10",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1943-01-07",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1943-01-07",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "aikitsu-tanakadate",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Aikitsu_Tanakadate",
+          "title": "Aikitsu Tanakadate — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/ea41013d99decef7.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1856-09-18",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1856-09-18",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1952-05-21",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1952-05-21",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "heinrich-hertz",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hertz_Heinrich/",
+          "title": "Heinrich Hertz — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/401748564a3dca84.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Heinrich_Hertz",
+          "title": "Heinrich Hertz — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/a4c4b46c5e81529d.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1857-02-22",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1857-02-22",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1894-01-01",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1894-01-01",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "williamina-fleming",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Williamina_Fleming",
+          "title": "Williamina Fleming — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/6e797553243d16d4.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1857-05-15",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1857-05-15",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1911-05-21",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1911-05-21",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "joseph-larmor",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Larmor/",
+          "title": "Joseph Larmor — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/73347a2e94a65180.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Joseph_Larmor",
+          "title": "Joseph Larmor — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/62a0613176453a19.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1857-07-11",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1857-07-11",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1942-05-19",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1942-05-19",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "jagadish-chandra-bose",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jagadish_Chandra_Bose",
+          "title": "Jagadish Chandra Bose — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/3e3d6e740bc1b258.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1858-11-30",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1858-11-30",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1937-11-23",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1937-11-23",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "pierre-duhem",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://academieroyale.be/fr/who-who-detail/relations/pierre-maurice-marie-duhem",
+          "title": "Pierre Duhem — Royal Academy of Belgium",
+          "http_status": null,
+          "retrieval_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>",
+          "cached_source": "data/raw/audit-nineteenth/b8af8dfa8a21ab2e.html"
+        },
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Duhem/",
+          "title": "Pierre Duhem — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/617eba752969f3e3.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Pierre_Duhem",
+          "title": "Pierre Duhem — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/f740a231a88204b9.html"
+        },
+        {
+          "url": "https://www.academie-sciences.fr/pdf/dossiers/Picard/Picard_pdf/Picard_Duhem.pdf",
+          "title": "Émile Picard: La vie et l’œuvre de Pierre Duhem — Académie des sciences (1921)",
+          "retrieval_note": "Reviewed through web search/open evidence or an additional institutional reference; not part of the original batch."
+        },
+        {
+          "url": "https://bibliotheques.u-bordeaux.fr/Les-bibliotheques/Patrimoine-documentaire/Fonds-documentaires-patrimoniaux/Fonds-scientifique",
+          "title": "Pierre Duhem collection — University of Bordeaux Libraries",
+          "retrieval_note": "Reviewed through web search/open evidence or an additional institutional reference; not part of the original batch."
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1861-06-10",
+          "precision": "approximate",
+          "retrieved_wikipedia_infobox": "1861-06-09",
+          "matches_if_comparable": false
+        },
+        "death": {
+          "canonical": "1916-09-14",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1916-09-14",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [
+        {
+          "type": "source_date_disagreement",
+          "detail": "University of Bordeaux and some English sources give 9 June 1861; the Belgian Academy and Picard’s 1921 Académie des sciences memorial give 10 June.",
+          "resolution": "Retained 10 June with both sides documented and added the historical memorial and university collection description."
+        }
+      ],
+      "resolution_status": "resolved_with_explicit_caveat",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "agnes-pockels",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Agnes_Pockels",
+          "title": "Agnes Pockels — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/cef1519b39d4dbed.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1862-02-14",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1862-02-14",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1935-11-21",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1935-11-21",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "paul-drude",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Paul_Drude",
+          "title": "Paul Drude — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/53141122013bdc3d.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1863-07-12",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1863-07-12",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1906-07-05",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1906-07-05",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "annie-jump-cannon",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Annie_Jump_Cannon",
+          "title": "Annie Jump Cannon — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/9de0f23f117ed107.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1863-12-11",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1863-12-11",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1941-04-13",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1941-04-13",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "walther-nernst",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Walther_Nernst",
+          "title": "Walther Nernst — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/a330e130ca0cfc55.html"
+        },
+        {
+          "url": "https://www.nobelprize.org/prizes/chemistry/1920/nernst/biographical/",
+          "title": "Walther Nernst — Nobel Prize official biography",
+          "retrieval_note": "Reviewed through web search/open evidence or an additional institutional reference; not part of the original batch."
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1864-06-25",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1864-06-25",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1941-11-18",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1941-11-18",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "friedrich-pockels",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Friedrich_Pockels",
+          "title": "Friedrich Pockels — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/fcb816b324e1692f.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1865-06-18",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        },
+        "death": {
+          "canonical": "1913-08-29",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "hantaro-nagaoka",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hantaro_Nagaoka",
+          "title": "Hantaro Nagaoka — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/7e06ac4f439afd5f.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1865-08-19",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1865-08-19",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1950-12-11",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1950-12-11",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "pyotr-lebedev",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://ufn.ru/en/events/lebedev150.html",
+          "title": "150th anniversary of Petr Nikolaevich Lebedev — Physics-Uspekhi/Russian Academy of Sciences",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/f663ff0b05a91b53.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Pyotr_Lebedev",
+          "title": "Pyotr Lebedev — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/a7cc93b5a5527f7e.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1866-03-08",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1866-02-24",
+          "matches_if_comparable": false
+        },
+        "death": {
+          "canonical": "1912-03-14",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1912-03-01",
+          "matches_if_comparable": false
+        }
+      },
+      "issues": [
+        {
+          "type": "calendar_difference",
+          "detail": "English Wikipedia uses 24 February 1866 and 1 March 1912; institutional historical material and the archive distinguish these Julian dates from Gregorian 8 March and 14 March.",
+          "resolution": "Retained Gregorian dates and all calendar notes."
+        }
+      ],
+      "resolution_status": "resolved_with_explicit_caveat",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "antonia-maury",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Antonia_Maury",
+          "title": "Antonia Maury — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/229e1395ebd429d4.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1866-03-21",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        },
+        "death": {
+          "canonical": "1952-01-08",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1952-01-08",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "charles-fabry",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charles_Fabry",
+          "title": "Charles Fabry — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/5d81ab88459e31c4.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1867-06-11",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1867-06-11",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1945-12-11",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1945-12-11",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "robert-w-wood",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_W._Wood",
+          "title": "Robert W. Wood — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/b792ac7cf6f3e14f.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1868-05-02",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        },
+        "death": {
+          "canonical": "1955-08-11",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1955-08-11",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "henrietta-swan-leavitt",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Leavitt/",
+          "title": "Henrietta Swan Leavitt — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/a0629835f933e71c.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt",
+          "title": "Henrietta Swan Leavitt — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/9caddeb75c781f65.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1868-07-04",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1868-07-04",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1921-12-12",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1921-12-12",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "arnold-sommerfeld",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Sommerfeld/",
+          "title": "Arnold Sommerfeld — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/6270cf157f9aa31b.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Arnold_Sommerfeld",
+          "title": "Arnold Sommerfeld — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/f4c4ce191beee470.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1868-12-05",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1868-12-05",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1951-04-26",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1951-04-26",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "kotaro-honda",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kotaro_Honda",
+          "title": "Kotaro Honda — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/c4a33beb70b8eb8c.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1870-02-23",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1870-02-23",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1954-02-12",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1954-02-12",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "ernest-rutherford",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nobelprize.org/prizes/chemistry/1908/rutherford/biographical/",
+          "title": "Ernest Rutherford — NobelPrize.org biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/2be10021850a3111.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ernest_Rutherford",
+          "title": "Ernest Rutherford — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/07f92cfcf863f9d7.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1871-08-30",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1871-08-30",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1937-10-19",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1937-10-19",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "paul-langevin",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Paul_Langevin",
+          "title": "Paul Langevin — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/29f090c9ebafece1.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1872-01-23",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1872-01-23",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1946-12-19",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1946-12-19",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "karl-schwarzschild",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Schwarzschild/",
+          "title": "Karl Schwarzschild — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/5386fa095ce93f20.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Karl_Schwarzschild",
+          "title": "Karl Schwarzschild — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/909b4895a02f293d.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1873-10-09",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1873-10-09",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1916-05-11",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1916-05-11",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "ludwig-prandtl",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Prandtl/",
+          "title": "Ludwig Prandtl — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/339b764ae49abddf.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ludwig_Prandtl",
+          "title": "Ludwig Prandtl — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/e1dd356ef2f57037.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1875-02-04",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1875-02-04",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1953-08-15",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1953-08-15",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "gilbert-n-lewis",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://chemistry.berkeley.edu/news/gilbert-newton-lewis",
+          "title": "Gilbert Newton Lewis — UC Berkeley College of Chemistry",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/69a7512317335392.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Gilbert_N._Lewis",
+          "title": "Gilbert N. Lewis — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/96448efdd44d1c33.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1875-10-23",
+          "precision": "approximate",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        },
+        "death": {
+          "canonical": "1946-03-23",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        }
+      },
+      "issues": [
+        {
+          "type": "source_date_disagreement",
+          "detail": "23 and 25 October occur in sources; Berkeley reproduces Lewis’s own CV with 23 October.",
+          "resolution": "Retained 23 October and the explicit disagreement note."
+        }
+      ],
+      "resolution_status": "resolved_with_explicit_caveat",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "francis-william-aston",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Francis_William_Aston",
+          "title": "Francis William Aston — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/60e17a833da14f95.html"
+        },
+        {
+          "url": "https://www.nobelprize.org/prizes/chemistry/1922/aston/biographical/",
+          "title": "Francis William Aston — Nobel Prize official biography",
+          "retrieval_note": "Reviewed through web search/open evidence or an additional institutional reference; not part of the original batch."
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1877-09-01",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1877-09-01",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1945-11-20",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1945-11-20",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "lise-meitner",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://physicstoday.aip.org/news/lise-meitner",
+          "title": "Lise Meitner — Physics Today, American Institute of Physics",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/6b291ec2ed128855.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lise_Meitner",
+          "title": "Lise Meitner — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/c061edcff565346d.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1878-11-07",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1878-11-07",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1968-10-27",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1968-10-27",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "torahiko-terada",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.ndl.go.jp/portrait/datas/6078",
+          "title": "寺田寅彦 — National Diet Library, Japan",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/e2131ada1d4651b2.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Torahiko_Terada",
+          "title": "Torahiko Terada — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/273d928fa54db977.html"
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1878-11-28",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1878-12-28",
+          "matches_if_comparable": false
+        },
+        "death": {
+          "canonical": "1935-12-31",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1935-12-31",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [
+        {
+          "type": "external_infobox_error",
+          "detail": "The English Wikipedia infobox says 28 December, but its prose and the National Diet Library give 28 November 1878.",
+          "resolution": "Retained 28 November, preserving the National Diet Library source and note."
+        }
+      ],
+      "resolution_status": "resolved_with_explicit_caveat",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "otto-hahn",
+      "cohort": "existing",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Otto_Hahn",
+          "title": "Otto Hahn — Wikipedia（生卒日期与人物概述）",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": "data/raw/audit-nineteenth/a48771379b5559a2.html"
+        },
+        {
+          "url": "https://www.nobelprize.org/prizes/chemistry/1944/hahn/biographical/",
+          "title": "Otto Hahn — Nobel Prize official biography",
+          "retrieval_note": "Reviewed through web search/open evidence or an additional institutional reference; not part of the original batch."
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1879-03-08",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1879-03-08",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1968-07-28",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1968-07-28",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/nineteenth_century.en.json"
+    },
+    {
+      "id": "charles-wheatstone",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.kcl.ac.uk/wheatstone-collection",
+          "title": "Wheatstone Collection — King’s College London",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Charles_Wheatstone",
+          "title": "Charles Wheatstone — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1802-02-06",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1802-02-06",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1875-10-19",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1875-10-19",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [
+        {
+          "type": "priority_attribution",
+          "detail": "The Wheatstone bridge arrangement originated with Samuel Hunter Christie.",
+          "resolution": "Credited Wheatstone with popularization and development, with an explicit note against sole-inventor attribution."
+        }
+      ],
+      "resolution_status": "resolved_with_explicit_caveat",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "rudolf-kohlrausch",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.deutsche-biographie.de/sfz44125.html",
+          "title": "Rudolf Kohlrausch — Deutsche Biographie",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rudolf_Kohlrausch",
+          "title": "Rudolf Kohlrausch — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://d-nb.info/1056019476/34",
+          "title": "Erlangen professors catalogue — Rudolf Kohlrausch, p.114",
+          "retrieval_note": "Reviewed through web search/open evidence or an additional institutional reference; not part of the original batch."
+        },
+        {
+          "url": "https://professorenkatalog.online.uni-marburg.de/de/pkat/gndrec?id=118864580",
+          "title": "Rudolf Kohlrausch — Marburg Professors Catalogue",
+          "retrieval_note": "Reviewed through web search/open evidence or an additional institutional reference; not part of the original batch."
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1809-11-06",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        },
+        "death": {
+          "canonical": "1858-03",
+          "precision": "month",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        }
+      },
+      "issues": [
+        {
+          "type": "date_precision",
+          "detail": "Erlangen’s professors catalogue gives 8 March 1858; Marburg and the ADB prose give 9 March. Deutsche Biographie’s header additionally says1859, inconsistent with its own article.",
+          "resolution": "Recorded March1858 at month precision and retained all discrepancies and institutional evidence."
+        }
+      ],
+      "resolution_status": "resolved_with_explicit_caveat",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "john-william-draper",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://findingaids.library.nyu.edu/archives/mc_11/all/",
+          "title": "Draper Family Papers — New York University Special Collections",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_William_Draper",
+          "title": "John William Draper — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1811-05-05",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1811-05-05",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1882-01-04",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1882-01-04",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "heinrich-geissler",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.deutsche-biographie.de/pnd116541954.html?language=de",
+          "title": "Heinrich Geissler — Neue Deutsche Biographie",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Heinrich_Geissler",
+          "title": "Heinrich Geissler — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1814-05-26",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        },
+        "death": {
+          "canonical": "1879-01-24",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1879-01-24",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "werner-von-siemens",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/werner-von-siemens/",
+          "title": "Werner von Siemens — Magnet Academy, National High Magnetic Field Laboratory",
+          "retrieval_note": "Reviewed through web search/open evidence or an additional institutional reference; not part of the original batch."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Werner_von_Siemens",
+          "title": "Werner von Siemens — Wikipedia biography",
+          "retrieval_note": "Reviewed through web search/open evidence or an additional institutional reference; not part of the original batch."
+        },
+        {
+          "url": "https://americanhistory.si.edu/collections/object/nmah_1183906",
+          "title": "Siemens electrodynamometer — Smithsonian National Museum of American History",
+          "retrieval_note": "Reviewed through web search/open evidence or an additional institutional reference; not part of the original batch."
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1816-12-13",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        },
+        "death": {
+          "canonical": "1892-12-06",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "eunice-newton-foote",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://doi.org/10.1098/rsnr.2020.0031",
+          "title": "Eunice Foote’s 1856 experiments — Ortiz and Jackson, Notes and Records",
+          "retrieval_note": "Reviewed through web search/open evidence or an additional institutional reference; not part of the original batch."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Eunice_Newton_Foote",
+          "title": "Eunice Newton Foote — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://www.aps.org/apsnews/2023/07/carbon-dioxide-atmosphere-eunice-foote",
+          "title": "August 1856: Eunice Foote and atmospheric warming — American Physical Society",
+          "http_status": null,
+          "retrieval_error": "HTTP Error 403: Forbidden",
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1819-07-17",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1819-07-17",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1888-09-30",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1888-09-30",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [
+        {
+          "type": "experimental_scope_and_image",
+          "detail": "Her solar-heating apparatus must not be equated with a direct full greenhouse or infrared-spectrum measurement; the selected passport document is not a portrait.",
+          "resolution": "Added both caveats and a context_image override."
+        }
+      ],
+      "resolution_status": "resolved_with_explicit_caveat",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "johann-wilhelm-hittorf",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.uni-muenster.de/Physik/en/der_fachbereich/geschichte.html",
+          "title": "Wilhelm Hittorf — University of Münster, Department of Physics history",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Johann_Wilhelm_Hittorf",
+          "title": "Johann Wilhelm Hittorf — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1824-03-27",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        },
+        "death": {
+          "canonical": "1914-11-28",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1914-11-28",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "carl-anton-bjerknes",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bjerknes_Carl/",
+          "title": "Carl Anton Bjerknes — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Carl_Anton_Bjerknes",
+          "title": "Carl Anton Bjerknes — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1825-10-24",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1825-10-24",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1903-03-20",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1903-03-20",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "carl-gottfried-neumann",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Neumann_Carl/",
+          "title": "Carl Gottfried Neumann — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Carl_Gottfried_Neumann",
+          "title": "Carl Gottfried Neumann — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1832-05-07",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1832-05-07",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1925-03-27",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1925-03-27",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "louis-paul-cailletet",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Louis_Paul_Cailletet",
+          "title": "Louis Paul Cailletet — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1832-09-21",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1832-09-21",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1913-01-05",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1913-01-05",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "friedrich-kohlrausch",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.uni-wuerzburg.de/en/uniarchiv/personalities/plaques-in-honour-of-eminent-scholars/friedrich-kohlrausch/",
+          "title": "Friedrich Kohlrausch — University of Würzburg Archives",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Friedrich_Kohlrausch_%28physicist%29",
+          "title": "Friedrich Kohlrausch — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1840-10-14",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1840-10-14",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1910-01-17",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1910-01-17",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "emil-warburg",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.deutsche-biographie.de/sfz18948.html",
+          "title": "Emil Warburg — Neue Deutsche Biographie",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Emil_Warburg",
+          "title": "Emil Warburg — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1846-03-09",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1846-03-09",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1931-07-28",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1931-07-28",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "raoul-pictet",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://hls-dhs-dss.ch/fr/articles/028910/2024-10-01/",
+          "title": "Raoul Pictet — Historical Dictionary of Switzerland",
+          "http_status": null,
+          "retrieval_error": "HTTP Error 403: Forbidden",
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Raoul_Pictet",
+          "title": "Raoul Pictet — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1846-04-04",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1846-04-04",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1929-07-24",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1929-07-27",
+          "matches_if_comparable": false
+        }
+      },
+      "issues": [
+        {
+          "type": "external_date_discrepancy",
+          "detail": "English Wikipedia gives27July1929; the Historical Dictionary of Switzerland gives24July.",
+          "resolution": "Adopted24July and documented the conflict; avoided sole-discoverer claims about oxygen liquefaction."
+        }
+      ],
+      "resolution_status": "resolved_with_explicit_caveat",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "john-ambrose-fleming",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/john-ambrose-fleming/",
+          "title": "John Ambrose Fleming — Magnet Academy, National High Magnetic Field Laboratory",
+          "retrieval_note": "Reviewed through web search/open evidence or an additional institutional reference; not part of the original batch."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Ambrose_Fleming",
+          "title": "John Ambrose Fleming — Wikipedia biography",
+          "retrieval_note": "Reviewed through web search/open evidence or an additional institutional reference; not part of the original batch."
+        },
+        {
+          "url": "https://www.ucl.ac.uk/made-at-ucl/stories/birth-electronics-we-know-it",
+          "title": "The birth of electronics — University College London",
+          "retrieval_note": "Reviewed through web search/open evidence or an additional institutional reference; not part of the original batch."
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1849-11-29",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        },
+        "death": {
+          "canonical": "1945-04-18",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "augusto-righi",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://archiviostorico.unibo.it/it/patrimonio-documentario/ritratti-di-docenti?record=27562",
+          "title": "Augusto Righi — University of Bologna Historical Archives",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Augusto_Righi",
+          "title": "Augusto Righi — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1850-08-27",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1850-08-27",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1920-06-08",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1920-06-08",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "woldemar-voigt",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.deutsche-biographie.de/117478008.html",
+          "title": "Woldemar Voigt — Neue Deutsche Biographie",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Woldemar_Voigt",
+          "title": "Woldemar Voigt — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1850-09-02",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1850-09-02",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1919-12-13",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1919-12-13",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "arthur-schuster",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.ww1.manchester.ac.uk/arthur-schuster/",
+          "title": "Arthur Schuster — University of Manchester",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Arthur_Schuster",
+          "title": "Arthur Schuster — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1851-09-12",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1851-09-12",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1934-10-14",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1934-10-14",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "louis-georges-gouy",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Louis_Georges_Gouy",
+          "title": "Louis Georges Gouy — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1854-02-19",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1854-02-19",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1926-01-27",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1926-01-27",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "hendrik-willem-bakhuis-roozeboom",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://storage.knaw.nl/2023-03/Bakuis-Roozeboom-Medal-regulations.pdf",
+          "title": "Bakhuis Roozeboom Medal: phase theory legacy — Royal Netherlands Academy",
+          "retrieval_note": "Reviewed through web search/open evidence or an additional institutional reference; not part of the original batch."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hendrik_Willem_Bakhuis_Roozeboom",
+          "title": "Hendrik Willem Bakhuis Roozeboom — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1854-10-24",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        },
+        "death": {
+          "canonical": "1907-02-08",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1907-02-08",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "johannes-rydberg",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Rydberg/",
+          "title": "Johannes Rydberg — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Johannes_Rydberg",
+          "title": "Johannes Rydberg — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1854-11-08",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1854-11-08",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1919-12-28",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1919-12-28",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "julius-elster",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.deutsche-biographie.de/sfz13120.html",
+          "title": "Julius Elster — Neue Deutsche Biographie",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Julius_Elster",
+          "title": "Julius Elster — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://hgss.copernicus.org/articles/8/1/2017/",
+          "title": "Julius Elster and Hans Geitel — History of Geo- and Space Sciences (2017)",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1854-12-24",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        },
+        "death": {
+          "canonical": "1920-04-08",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        }
+      },
+      "issues": [
+        {
+          "type": "external_date_discrepancy",
+          "detail": "English Wikipedia gives6April1920; Neue Deutsche Biographie gives8April1920.",
+          "resolution": "Adopted8April with explicit conflict note."
+        }
+      ],
+      "resolution_status": "resolved_with_explicit_caveat",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "hans-geitel",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.deutsche-biographie.de/sfz20248.html",
+          "title": "Hans Geitel — Neue Deutsche Biographie",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hans_Geitel",
+          "title": "Hans Geitel — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://hgss.copernicus.org/articles/8/1/2017/",
+          "title": "Julius Elster and Hans Geitel — History of Geo- and Space Sciences (2017)",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1855-07-16",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        },
+        "death": {
+          "canonical": "1923-08-15",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        }
+      },
+      "issues": [
+        {
+          "type": "source_date_disagreement",
+          "detail": "Neue Deutsche Biographie gives15August1923; a2017history paper says23August.",
+          "resolution": "Adopted15August with explicit source-disagreement note."
+        }
+      ],
+      "resolution_status": "resolved_with_explicit_caveat",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "edwin-hall",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.aps.org/apsnews/1998/12/elucidating-the-hall-effect",
+          "title": "Elucidating the Hall Effect — American Physical Society",
+          "http_status": null,
+          "retrieval_error": "HTTP Error 403: Forbidden",
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Edwin_Hall",
+          "title": "Edwin Hall — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1855-11-07",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1855-11-07",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1938-11-20",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1938-11-20",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "carl-runge",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Runge/",
+          "title": "Carl Runge — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Carl_Runge",
+          "title": "Carl Runge — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1856-08-30",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1856-08-30",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1927-01-03",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1927-01-03",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "knut-angstrom",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.uu.se/campus/angstromlaboratoriet/om-oss/historik/anders-och-knut-angstrom",
+          "title": "Anders and Knut Ångström — Uppsala University",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Knut_%C3%85ngstr%C3%B6m",
+          "title": "Knut Ångström — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1857-01-12",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        },
+        "death": {
+          "canonical": "1910-03-04",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1910-03-04",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "ferdinand-kurlbaum",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.deutsche-biographie.de/sfz47150.html",
+          "title": "Ferdinand Kurlbaum — Neue Deutsche Biographie",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ferdinand_Kurlbaum",
+          "title": "Ferdinand Kurlbaum — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1857-10-04",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        },
+        "death": {
+          "canonical": "1927-07-29",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "svante-arrhenius",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nobelprize.org/prizes/chemistry/1903/arrhenius/facts/",
+          "title": "Svante Arrhenius — Nobel Prize official facts",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Svante_Arrhenius",
+          "title": "Svante Arrhenius — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1859-02-19",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1859-02-19",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1927-10-02",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1927-10-02",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "vilhelm-bjerknes",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bjerknes_Vilhelm/",
+          "title": "Vilhelm Bjerknes — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Vilhelm_Bjerknes",
+          "title": "Vilhelm Bjerknes — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1862-03-14",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1862-03-14",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1951-04-09",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1951-04-09",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "friedrich-paschen",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.deutsche-biographie.de/gnd11889210X.html",
+          "title": "Friedrich Paschen — Neue Deutsche Biographie",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Friedrich_Paschen",
+          "title": "Friedrich Paschen — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1865-01-22",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1865-01-22",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1947-02-25",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1947-02-25",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "heinrich-rubens",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.deutsche-biographie.de/info_116669187.html",
+          "title": "Heinrich Rubens — Neue Deutsche Biographie",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Heinrich_Rubens",
+          "title": "Heinrich Rubens — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1865-03-30",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1865-03-30",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1922-07-17",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1922-07-17",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "kristian-birkeland",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://nbl.snl.no/Kristian_Birkeland",
+          "title": "Kristian Birkeland — Norwegian Biographical Lexicon",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kristian_Birkeland",
+          "title": "Kristian Birkeland — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1867-12-13",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1867-12-13",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1917-06-15",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1917-06-15",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "john-sealy-townsend",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://catalogues.royalsociety.org/CalmView/Record.aspx?src=CalmView.Persons&id=NA2902&pos=3",
+          "title": "John Sealy Townsend — Royal Society archive",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Sealy_Townsend",
+          "title": "John Sealy Townsend — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1868-06-07",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1868-06-07",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1957-02-16",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1957-02-16",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "gustav-mie",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.deutsche-biographie.de/pnd118733826.html",
+          "title": "Gustav Mie — Neue Deutsche Biographie",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Gustav_Mie",
+          "title": "Gustav Mie — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1868-09-29",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1868-09-29",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1957-02-13",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1957-02-13",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "marian-smoluchowski",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Smoluchowski/",
+          "title": "Marian Smoluchowski — MacTutor, University of St Andrews",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Marian_Smoluchowski",
+          "title": "Marian Smoluchowski — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1872-05-28",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1872-05-28",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1917-09-05",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1917-09-05",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "lee-de-forest",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/lee-de-forest/",
+          "title": "Lee de Forest — Magnet Academy, National High Magnetic Field Laboratory",
+          "retrieval_note": "Reviewed through web search/open evidence or an additional institutional reference; not part of the original batch."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lee_de_Forest",
+          "title": "Lee de Forest — Wikipedia biography",
+          "retrieval_note": "Reviewed through web search/open evidence or an additional institutional reference; not part of the original batch."
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1873-08-26",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        },
+        "death": {
+          "canonical": "1961-06-30",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": null,
+          "matches_if_comparable": null
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "friedrich-hasenohrl",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://bibliothek.univie.ac.at/zb-physik-fb-chemie/friedrich_hasenohrl.html",
+          "title": "Friedrich Hasenöhrl — University of Vienna Library",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Friedrich_Hasen%C3%B6hrl",
+          "title": "Friedrich Hasenöhrl — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1874-11-30",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1874-11-30",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1915-10-07",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1915-10-07",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [
+        {
+          "type": "priority_and_scope",
+          "detail": "Cavity-radiation inertia calculations are sometimes misrepresented as the universal mass–energy relation before Einstein.",
+          "resolution": "Limited the claims to cavity-radiation inertia and explicitly distinguished special relativity’s universal result."
+        }
+      ],
+      "resolution_status": "resolved_with_explicit_caveat",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    },
+    {
+      "id": "walter-ritz",
+      "cohort": "added",
+      "review_date": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth and death dates and precision",
+        "professional and institutional biography",
+        "representative contributions",
+        "historical caveats",
+        "source identity and availability"
+      ],
+      "evidence": [
+        {
+          "url": "https://epubs.siam.org/doi/10.1137/100804036",
+          "title": "Gander and Wanner: From Euler, Ritz, and Galerkin to Modern Computing — SIAM Review",
+          "retrieval_note": "Reviewed through web search/open evidence or an additional institutional reference; not part of the original batch."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Walter_Ritz",
+          "title": "Walter Ritz — Wikipedia biography",
+          "http_status": 200,
+          "retrieval_error": null,
+          "cached_source": null
+        }
+      ],
+      "date_comparison": {
+        "birth": {
+          "canonical": "1878-02-22",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1878-02-22",
+          "matches_if_comparable": true
+        },
+        "death": {
+          "canonical": "1909-07-07",
+          "precision": "day",
+          "retrieved_wikipedia_infobox": "1909-07-07",
+          "matches_if_comparable": true
+        }
+      },
+      "issues": [],
+      "resolution_status": "no_material_issue_found_in_this_review",
+      "translation_file": "data/translations/additions-nineteenth.en.json"
+    }
+  ]
+}

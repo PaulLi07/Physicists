@@ -1,0 +1,20 @@
+[
+  {
+    "name": "john-schwarz",
+    "url": "https://aspenphys.org/assets/2023/08/John-Schwarz-scaled-e1690925479852.jpg",
+    "status": 200,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/modern-extra-john-schwarz.jpg"
+  },
+  {
+    "name": "dai-yuanben",
+    "url": "https://mmcs.cast.org.cn/cms_files/filemanager/95318146/picture/20263/Sf329cdb4433e4ba59851ab37a34fb500-600.png",
+    "status": 200,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/modern-extra-dai-yuanben.png"
+  },
+  {
+    "name": "robert-herman-nae",
+    "url": "https://www.nae.edu/File.aspx?id=188206",
+    "status": 200,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/modern-extra-robert-herman-nae.pdf"
+  }
+]

@@ -1,0 +1,3544 @@
+[
+  {
+    "id": "paul-ehrenfest",
+    "name_en": "Paul Ehrenfest",
+    "biography": "An Austrian-born theorist, Ehrenfest studied with Boltzmann and succeeded Lorentz at Leiden. His thought experiments clarified the conceptual foundations of physics, and his teaching and exchanges with Einstein and Bohr helped shape the emerging quantum community.",
+    "contributions": [
+      "Established the Ehrenfest theorem relating quantum expectation values to classical equations of motion.",
+      "Developed adiabatic-invariant ideas during the transition from old quantum theory to quantum mechanics.",
+      "Classified phase transitions through discontinuities in thermodynamic derivatives."
+    ],
+    "fields": [
+      "Statistical physics",
+      "Quantum mechanics"
+    ],
+    "birth_display": "18 January 1880",
+    "death_display": "25 September 1933",
+    "notes": [],
+    "portrait_alt": "Portrait of Paul Ehrenfest",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Paul Ehrenfest — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Paul_Ehrenfest"
+      }
+    ]
+  },
+  {
+    "id": "irving-langmuir",
+    "name_en": "Irving Langmuir",
+    "biography": "An American physical chemist at General Electric's research laboratory, Langmuir applied atomic and molecular theory to materials, vacuum devices, and gas discharges. His surface-chemistry research earned the 1932 Nobel Prize in Chemistry.",
+    "contributions": [
+      "Developed monolayer adsorption theory and the Langmuir adsorption isotherm.",
+      "Investigated ionized gases, helped establish the plasma concept, and developed Langmuir-probe diagnostics.",
+      "Improved vacuum tubes and gas-filled incandescent lamps."
+    ],
+    "fields": [
+      "Plasma physics",
+      "Surface physics"
+    ],
+    "birth_display": "31 January 1881",
+    "death_display": "16 August 1957",
+    "notes": [],
+    "portrait_alt": "Portrait of Irving Langmuir",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Irving Langmuir — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Irving_Langmuir"
+      }
+    ]
+  },
+  {
+    "id": "richard-c-tolman",
+    "name_en": "Richard C. Tolman",
+    "biography": "Tolman was an American theoretical physicist at Caltech and a wartime scientific adviser. He extended thermodynamics and statistical mechanics to relativistic settings and investigated the evolution of matter and radiation in cosmological models.",
+    "contributions": [
+      "Developed relativistic thermodynamics and the Tolman temperature-equilibrium relation in gravitational fields.",
+      "Investigated the thermodynamics of expanding universes.",
+      "Wrote influential treatments of classical and quantum statistical mechanics."
+    ],
+    "fields": [
+      "Statistical physics",
+      "Relativistic cosmology"
+    ],
+    "birth_display": "4 March 1881",
+    "death_display": "5 September 1948",
+    "notes": [],
+    "portrait_alt": "Portrait of Richard C. Tolman",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Richard C. Tolman — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Richard_C._Tolman"
+      }
+    ]
+  },
+  {
+    "id": "emmy-noether",
+    "name_en": "Emmy Noether",
+    "biography": "A German mathematician who worked with Hilbert and Klein in Göttingen, Noether faced persistent restrictions on women's academic employment. After the Nazi takeover she taught at Bryn Mawr College. Her work connected abstract mathematical structures with the symmetries underlying modern physics.",
+    "contributions": [
+      "Proved Noether's first theorem connecting continuous symmetries with conservation laws.",
+      "Established a second theorem for symmetries involving arbitrary functions, foundational to gauge theories."
+    ],
+    "fields": [
+      "Mathematical physics",
+      "Symmetry"
+    ],
+    "birth_display": "23 March 1882",
+    "death_display": "14 April 1935",
+    "notes": [],
+    "portrait_alt": "Portrait of Emmy Noether",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Emmy Noether — biographical or institutional source (mathshistory.st-andrews.ac.uk)",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Noether_Emmy/"
+      },
+      {
+        "title": "Emmy Noether — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Emmy_Noether"
+      }
+    ]
+  },
+  {
+    "id": "arthur-eddington",
+    "name_en": "Arthur Eddington",
+    "biography": "Eddington was a British astrophysicist at Cambridge who combined research on stellar interiors with advocacy of general relativity. He helped organize the 1919 eclipse observations that brought Einstein's gravitational theory international attention.",
+    "contributions": [
+      "Developed theories of stellar structure and radiative equilibrium.",
+      "Formulated the luminosity limit associated with the balance of radiation pressure and gravity.",
+      "Participated in the 1919 observations of gravitational light deflection."
+    ],
+    "fields": [
+      "Stellar physics",
+      "General relativity"
+    ],
+    "birth_display": "28 December 1882",
+    "death_display": "22 November 1944",
+    "notes": [],
+    "portrait_alt": "Portrait of Arthur Eddington",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Arthur Eddington — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Arthur_Eddington"
+      }
+    ]
+  },
+  {
+    "id": "peter-debye",
+    "name_en": "Peter Debye",
+    "biography": "A Dutch-born physicist, Debye held appointments at several European universities before moving to Cornell. His research spanned quantum theory, solid-state physics, and physical chemistry; work on molecular structure brought him the 1936 Nobel Prize in Chemistry.",
+    "contributions": [
+      "Developed the Debye model of crystalline heat capacity, including its low-temperature behaviour.",
+      "Developed electrolyte theory with Erich Hückel.",
+      "Helped establish powder X-ray diffraction and investigated molecular dipole moments."
+    ],
+    "fields": [
+      "Solid-state physics",
+      "Molecular physics"
+    ],
+    "birth_display": "24 March 1884",
+    "death_display": "2 November 1966",
+    "notes": [],
+    "portrait_alt": "Portrait of Peter Debye",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Peter Debye — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Peter_Debye"
+      }
+    ]
+  },
+  {
+    "id": "hermann-weyl",
+    "name_en": "Hermann Weyl",
+    "biography": "Weyl was a German mathematician and theoretical physicist who worked in Göttingen and Zürich before joining the Institute for Advanced Study in Princeton. He used geometry, analysis, and group theory to reshape the mathematical language of relativity and quantum physics.",
+    "contributions": [
+      "Introduced an early formulation of gauge invariance.",
+      "Developed the group-representation approach to quantum mechanics and symmetry.",
+      "Introduced Weyl spinors in relativistic particle theory."
+    ],
+    "fields": [
+      "Mathematical physics",
+      "Gauge theory"
+    ],
+    "birth_display": "9 November 1885",
+    "death_display": "8 December 1955",
+    "notes": [],
+    "portrait_alt": "Portrait of Hermann Weyl",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Hermann Weyl — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Hermann_Weyl"
+      }
+    ]
+  },
+  {
+    "id": "hedwig-kohn",
+    "name_en": "Hedwig Kohn",
+    "biography": "A German-born experimental physicist, Kohn was among the few women to obtain the German university teaching qualification in physics before the Second World War. Driven from Germany by Nazi persecution, she taught and conducted research at American women's colleges and Duke University.",
+    "contributions": [
+      "Developed quantitative measurements of flame radiation and spectral intensities.",
+      "Used spectroscopy to investigate atomic absorption and emission.",
+      "Wrote substantial reference treatments of radiation measurement."
+    ],
+    "fields": [
+      "Spectroscopy",
+      "Experimental physics"
+    ],
+    "birth_display": "5 April 1887",
+    "death_display": "26 November 1964",
+    "notes": [],
+    "portrait_alt": "Portrait of Hedwig Kohn",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Hedwig Kohn — biographical or institutional source (www.aip.org)",
+        "url": "https://www.aip.org/library/potm-the-letter-h"
+      },
+      {
+        "title": "Hedwig Kohn — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Hedwig_Kohn"
+      }
+    ]
+  },
+  {
+    "id": "alexander-friedmann",
+    "name_en": "Alexander Friedmann",
+    "biography": "Friedmann was a Russian mathematician and physicist who worked on meteorology and fluid mechanics before pursuing cosmology in Petrograd. His evolving homogeneous solutions of Einstein's equations established a central framework of dynamical cosmology before his early death.",
+    "contributions": [
+      "Derived the Friedmann equations governing homogeneous, isotropic cosmic evolution.",
+      "Showed that general relativity permits expanding or contracting universes.",
+      "Investigated turbulence and atmospheric dynamics."
+    ],
+    "fields": [
+      "Cosmology",
+      "Fluid mechanics"
+    ],
+    "birth_display": "16 June 1888",
+    "death_display": "16 September 1925",
+    "notes": [
+      "The birth date uses the Gregorian calendar; some Russian historical sources also give the Julian date."
+    ],
+    "portrait_alt": "Portrait of Alexander Friedmann",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Alexander Friedmann — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Alexander_Friedmann"
+      }
+    ]
+  },
+  {
+    "id": "leon-brillouin",
+    "name_en": "Léon Brillouin",
+    "biography": "A French theoretical physicist from a scientific family, Brillouin worked in France and the United States. His studies of electrons and sound in crystals were followed by research connecting statistical physics, information, and thermodynamics.",
+    "contributions": [
+      "Introduced Brillouin zones in reciprocal space.",
+      "Predicted Brillouin scattering of light by acoustic excitations.",
+      "Contributed to the WKB approximation and studied information and entropy."
+    ],
+    "fields": [
+      "Solid-state physics",
+      "Wave theory"
+    ],
+    "birth_display": "7 August 1889",
+    "death_display": "4 October 1969",
+    "notes": [],
+    "portrait_alt": "Portrait of Léon Brillouin",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Léon Brillouin — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/L%C3%A9on_Brillouin"
+      }
+    ]
+  },
+  {
+    "id": "edwin-hubble",
+    "name_en": "Edwin Hubble",
+    "biography": "An American astronomer at Mount Wilson Observatory, Hubble used large telescopes and Cepheid distance indicators to investigate nebulae. His work established galaxies beyond the Milky Way and helped make cosmic expansion a subject of observational astronomy.",
+    "contributions": [
+      "Used Cepheid distances to establish the extragalactic nature of the Andromeda nebula and other galaxies.",
+      "Developed a morphological classification of galaxies.",
+      "Combined galaxy-distance and redshift measurements to establish their approximately linear relation."
+    ],
+    "fields": [
+      "Observational cosmology",
+      "Extragalactic astronomy"
+    ],
+    "birth_display": "20 November 1889",
+    "death_display": "28 September 1953",
+    "notes": [],
+    "portrait_alt": "Portrait of Edwin Hubble",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Edwin Hubble — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Edwin_Hubble"
+      }
+    ]
+  },
+  {
+    "id": "walter-gordon",
+    "name_en": "Walter Gordon",
+    "biography": "Gordon was a German theoretical physicist who worked at Hamburg before emigrating to Sweden under Nazi persecution. His research in relativistic quantum theory and mathematics is commemorated in the wave equation now used to describe spin-zero particles.",
+    "contributions": [
+      "Independently developed the relativistic quantum wave equation now called the Klein–Gordon equation.",
+      "Investigated Compton scattering and relativistic electron theory."
+    ],
+    "fields": [
+      "Quantum mechanics",
+      "Relativistic quantum theory"
+    ],
+    "birth_display": "13 August 1893",
+    "death_display": "24 December 1939",
+    "notes": [
+      "Sources differ between 3 and 13 August for the birthday. The archive adopts 13 August 1893 from the German Research Foundation historical database.",
+      "A historical portrait is documented in Dieter Ullmann, “Ein Bild des Quantenphysikers Walter Gordon,” Apoldaer Heimat 14 (1996), p. 39. No verifiable digital copy was obtained. The present illustration shows his 1926 offprint and is explicitly not a portrait."
+    ],
+    "portrait_alt": "Title page of Walter Gordon’s 1926 paper",
+    "portrait_note": "Related documentary illustration, not a portrait. A printed historical portrait is documented in Apoldaer Heimat 14 (1996), p. 39, but a verifiable digital copy remains to be obtained.",
+    "sources": [
+      {
+        "title": "Walter Gordon — biographical or institutional source (www.gepris-historisch.dfg.de)",
+        "url": "https://www.gepris-historisch.dfg.de/person/5103898"
+      },
+      {
+        "title": "Walter Gordon — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Walter_Gordon_%28physicist%29"
+      },
+      {
+        "title": "Walter Gordon — biographical or institutional source (grolierclub.omeka.net)",
+        "url": "https://grolierclub.omeka.net/items/show/8115"
+      }
+    ]
+  },
+  {
+    "id": "meghnad-saha",
+    "name_en": "Meghnad Saha",
+    "biography": "An Indian astrophysicist who taught at Allahabad and Calcutta, Saha helped establish nuclear-physics research institutions in India. He connected laboratory atomic physics with stellar spectroscopy and took an active role in scientific planning.",
+    "contributions": [
+      "Established the Saha equation for ionization equilibria at thermal equilibrium.",
+      "Explained temperature-dependent stellar spectra through ionization balance."
+    ],
+    "fields": [
+      "Astrophysics",
+      "Plasma physics"
+    ],
+    "birth_display": "6 October 1893",
+    "death_display": "16 February 1956",
+    "notes": [],
+    "portrait_alt": "Portrait of Meghnad Saha",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Meghnad Saha — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Meghnad_Saha"
+      }
+    ]
+  },
+  {
+    "id": "satyendra-nath-bose",
+    "name_en": "Satyendra Nath Bose",
+    "biography": "Bose was an Indian theoretical physicist at Dhaka and Calcutta. In 1924 he sent Einstein a paper on photon statistics, initiating a quantum-statistical method fundamentally different from classical particle counting.",
+    "contributions": [
+      "Derived Planck's radiation law by counting indistinguishable photons.",
+      "Established the foundation of Bose–Einstein statistics.",
+      "Provided the statistical approach Einstein extended to atomic gases and condensation."
+    ],
+    "fields": [
+      "Quantum statistics",
+      "Theoretical physics"
+    ],
+    "birth_display": "1 January 1894",
+    "death_display": "4 February 1974",
+    "notes": [],
+    "portrait_alt": "Portrait of Satyendra Nath Bose",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Satyendra Nath Bose — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Satyendra_Nath_Bose"
+      }
+    ]
+  },
+  {
+    "id": "marietta-blau",
+    "name_en": "Marietta Blau",
+    "biography": "An Austrian experimental physicist, Blau studied radioactivity in Vienna before Nazi persecution forced her to leave Europe. Working later in Mexico and the United States, she developed photographic emulsions into quantitative records of microscopic particle tracks.",
+    "contributions": [
+      "Developed nuclear emulsions for identifying energetic charged particles.",
+      "Discovered cosmic-ray-induced nuclear-disintegration stars with Hertha Wambacher.",
+      "Established experimental foundations for later emulsion-based particle discoveries."
+    ],
+    "fields": [
+      "Particle detection",
+      "Cosmic rays"
+    ],
+    "birth_display": "29 April 1894",
+    "death_display": "27 January 1970",
+    "notes": [],
+    "portrait_alt": "Portrait of Marietta Blau",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Marietta Blau — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Marietta_Blau"
+      }
+    ]
+  },
+  {
+    "id": "georges-lemaitre",
+    "name_en": "Georges Lemaître",
+    "biography": "A Belgian physicist and Catholic priest, Lemaître studied in Cambridge and at MIT before teaching at Louvain. He connected relativistic cosmological solutions with galaxy observations and proposed evolution from a dense early state.",
+    "contributions": [
+      "Independently proposed an expanding universe and derived a distance–recession-velocity relation.",
+      "Proposed the primeval-atom hypothesis, an important precursor of Big Bang cosmology.",
+      "Developed relativistic cosmological models."
+    ],
+    "fields": [
+      "Cosmology"
+    ],
+    "birth_display": "17 July 1894",
+    "death_display": "20 June 1966",
+    "notes": [],
+    "portrait_alt": "Portrait of Georges Lemaître",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Georges Lemaître — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Georges_Lema%C3%AEtre"
+      }
+    ]
+  },
+  {
+    "id": "oskar-klein",
+    "name_en": "Oskar Klein",
+    "biography": "Klein was a Swedish theoretical physicist who worked in Copenhagen, Michigan, and Stockholm. He contributed to early relativistic quantum mechanics and explored extra spatial dimensions as a route toward unified interactions.",
+    "contributions": [
+      "Independently developed the relativistic scalar wave equation also associated with Gordon.",
+      "Advanced five-dimensional Kaluza–Klein theory.",
+      "Derived the Klein–Nishina photon-scattering formula with Yoshio Nishina."
+    ],
+    "fields": [
+      "Quantum field theory",
+      "Unified-field theory"
+    ],
+    "birth_display": "15 September 1894",
+    "death_display": "5 February 1977",
+    "notes": [],
+    "portrait_alt": "Portrait of Oskar Klein",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Oskar Klein — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Oskar_Klein"
+      }
+    ]
+  },
+  {
+    "id": "hendrik-kramers",
+    "name_en": "Hendrik Kramers",
+    "biography": "A Dutch theoretical physicist, Kramers worked with Bohr in Copenhagen before holding chairs in Utrecht and Leiden. His research ranged from old quantum theory and dispersion to stochastic processes during the formative period of quantum mechanics.",
+    "contributions": [
+      "Developed the Kramers–Heisenberg dispersion formula.",
+      "Contributed to the semiclassical WKB approximation.",
+      "Developed thermally activated escape-rate theory and investigated quantum degeneracy."
+    ],
+    "fields": [
+      "Quantum mechanics",
+      "Statistical physics"
+    ],
+    "birth_display": "17 December 1894",
+    "death_display": "24 April 1952",
+    "notes": [],
+    "portrait_alt": "Portrait of Hendrik Kramers",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Hendrik Kramers — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Hendrik_Kramers"
+      }
+    ]
+  },
+  {
+    "id": "hertha-sponer",
+    "name_en": "Hertha Sponer",
+    "biography": "A German-born experimental physicist, Sponer worked with Franck in Göttingen before leaving Nazi Germany and becoming the first woman on Duke University's physics faculty. She applied quantum mechanics to molecular spectra and trained generations of spectroscopists.",
+    "contributions": [
+      "Investigated electronic and vibrational spectra of diatomic and polyatomic molecules.",
+      "Developed methods for extracting molecular dissociation energies from spectra.",
+      "Wrote influential molecular-spectroscopy texts and advanced applications of quantum chemistry."
+    ],
+    "fields": [
+      "Molecular spectroscopy",
+      "Chemical physics"
+    ],
+    "birth_display": "1 September 1895",
+    "death_display": "17 February 1968",
+    "notes": [
+      "The English Wikipedia article gives 27 February 1968, while Neue Deutsche Biographie and German historical sources give 17 February. The archive adopts 17 February 1968 from the specialist biography and preserves this source discrepancy."
+    ],
+    "portrait_alt": "Portrait of Hertha Sponer",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Hertha Sponer — biographical or institutional source (www.deutsche-biographie.de)",
+        "url": "https://www.deutsche-biographie.de/sfz123855.html?language=de"
+      },
+      {
+        "title": "Hertha Sponer — biographical or institutional source (physics.duke.edu)",
+        "url": "https://physics.duke.edu/about/history/historical-faculty/HerthaSponer"
+      },
+      {
+        "title": "Hertha Sponer — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Hertha_Sponer"
+      }
+    ]
+  },
+  {
+    "id": "ida-noddack",
+    "name_en": "Ida Noddack",
+    "biography": "Noddack was a German chemist who worked at the boundary of chemistry and nuclear physics. With Walter Noddack and Otto Berg she discovered rhenium. Her suggestion that neutron-bombarded heavy nuclei might break into substantial fragments anticipated an essential idea of nuclear fission.",
+    "contributions": [
+      "Co-discovered rhenium, element 75.",
+      "Suggested in 1934 that heavy nuclei under neutron bombardment might split into large fragments.",
+      "Developed trace-element analysis."
+    ],
+    "fields": [
+      "Nuclear science",
+      "Analytical chemistry"
+    ],
+    "birth_display": "25 February 1896",
+    "death_display": "24 September 1978",
+    "notes": [],
+    "portrait_alt": "Portrait of Ida Noddack",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Ida Noddack — biographical or institutional source (physicstoday.aip.org)",
+        "url": "https://physicstoday.aip.org/news/ida-noddack"
+      },
+      {
+        "title": "Ida Noddack — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Ida_Noddack"
+      }
+    ]
+  },
+  {
+    "id": "wu-youxun",
+    "name_en": "Wu Youxun",
+    "biography": "Born in Gao'an, Jiangxi, Wu trained with Compton at the University of Chicago and later taught at Tsinghua and the National Southwestern Associated University. He helped organize the Chinese Physical Society and develop modern physics research and university education in China.",
+    "contributions": [
+      "Performed X-ray scattering experiments testing and extending research on the Compton effect.",
+      "Investigated relations between scattering intensity, elemental properties, and atomic structure.",
+      "Built experimental-physics teaching and research institutions in China."
+    ],
+    "fields": [
+      "Atomic physics",
+      "X-ray physics"
+    ],
+    "birth_display": "26 April 1897",
+    "death_display": "30 November 1977",
+    "notes": [],
+    "portrait_alt": "Portrait of Wu Youxun",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Wu Youxun — biographical or institutional source (xsg.tsinghua.edu.cn)",
+        "url": "https://xsg.tsinghua.edu.cn/info/1003/1296.htm"
+      },
+      {
+        "title": "Wu Youxun — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Wu_Youxun"
+      }
+    ]
+  },
+  {
+    "id": "irene-joliot-curie",
+    "name_en": "Irène Joliot-Curie",
+    "biography": "A French physical scientist and daughter of Marie and Pierre Curie, Joliot-Curie worked at the Radium Institute in Paris. Her nuclear-reaction research with Frédéric Joliot-Curie led to their joint 1935 Nobel Prize in Chemistry for artificial radioactivity.",
+    "contributions": [
+      "Co-discovered artificial radioactivity with Frédéric Joliot-Curie.",
+      "Studied alpha-induced reactions in light nuclei and positron-emitting activity.",
+      "Advanced radioisotope production and nuclear research in France."
+    ],
+    "fields": [
+      "Nuclear physics",
+      "Radioactivity"
+    ],
+    "birth_display": "12 September 1897",
+    "death_display": "17 March 1956",
+    "notes": [],
+    "portrait_alt": "Portrait of Irène Joliot-Curie",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Irène Joliot-Curie — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Ir%C3%A8ne_Joliot-Curie"
+      }
+    ]
+  },
+  {
+    "id": "katharine-burr-blodgett",
+    "name_en": "Katharine Burr Blodgett",
+    "biography": "An American experimental physicist with a Cambridge doctorate, Blodgett worked with Langmuir at General Electric. She transformed molecular-monolayer research into controlled thin-film techniques and applied them to optical surfaces.",
+    "contributions": [
+      "Developed Langmuir–Blodgett film-transfer techniques with Langmuir.",
+      "Used thin-film interference to produce low-reflection glass.",
+      "Investigated film-thickness measurement and interfacial properties."
+    ],
+    "fields": [
+      "Surface physics",
+      "Optical thin films"
+    ],
+    "birth_display": "10 January 1898",
+    "death_display": "12 October 1979",
+    "notes": [],
+    "portrait_alt": "Portrait of Katharine Burr Blodgett",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Katharine Burr Blodgett — biographical or institutional source (physicstoday.aip.org)",
+        "url": "https://physicstoday.aip.org/obituaries/katharine-burr-blodgett"
+      },
+      {
+        "title": "Katharine Burr Blodgett — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Katharine_Burr_Blodgett"
+      }
+    ]
+  },
+  {
+    "id": "leo-szilard",
+    "name_en": "Leo Szilard",
+    "biography": "A Hungarian-born physicist who worked in Germany and Britain before settling in the United States, Szilard recognized the possibility of nuclear chain reactions and participated in the Chicago reactor project. After the war he advocated international control of nuclear weapons.",
+    "contributions": [
+      "Conceived a self-sustaining nuclear chain reaction and contributed to reactor research.",
+      "Used a single-molecule engine to analyze measurement, information, and entropy.",
+      "Investigated neutron multiplication and nuclear-energy technology."
+    ],
+    "fields": [
+      "Nuclear physics",
+      "Statistical physics"
+    ],
+    "birth_display": "11 February 1898",
+    "death_display": "30 May 1964",
+    "notes": [],
+    "portrait_alt": "Portrait of Leo Szilard",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Leo Szilard — biographical or institutional source (home.nps.gov)",
+        "url": "https://home.nps.gov/people/manhattan-project-scientists-leo-szilard.htm"
+      },
+      {
+        "title": "Leo Szilard — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Le%C3%B3_Szil%C3%A1rd"
+      }
+    ]
+  },
+  {
+    "id": "fritz-zwicky",
+    "name_en": "Fritz Zwicky",
+    "biography": "A Swiss astrophysicist at Caltech and Palomar Observatory, Zwicky used observational anomalies to propose bold physical explanations. He studied galaxy clusters, supernovae, and stellar remnants and organized extensive astronomical surveys.",
+    "contributions": [
+      "Inferred substantial unseen matter from the dynamics of the Coma galaxy cluster.",
+      "Connected supernovae with neutron stars in work with Walter Baade.",
+      "Proposed using galaxy clusters as gravitational lenses."
+    ],
+    "fields": [
+      "Astrophysics",
+      "Observational cosmology"
+    ],
+    "birth_display": "14 February 1898",
+    "death_display": "8 February 1974",
+    "notes": [],
+    "portrait_alt": "Portrait of Fritz Zwicky",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Fritz Zwicky — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Fritz_Zwicky"
+      }
+    ]
+  },
+  {
+    "id": "gregor-wentzel",
+    "name_en": "Gregor Wentzel",
+    "biography": "A German-born theoretical physicist who taught in Europe and at the University of Chicago, Wentzel helped develop early quantum mechanics. He later investigated meson theory and quantum fields and influenced graduate teaching through systematic theoretical texts.",
+    "contributions": [
+      "Contributed to the semiclassical WKB approximation.",
+      "Investigated quantum scattering, meson theory, and field quantization.",
+      "Applied asymptotic expansions to quantum motion."
+    ],
+    "fields": [
+      "Quantum mechanics",
+      "Quantum field theory"
+    ],
+    "birth_display": "17 February 1898",
+    "death_display": "12 August 1978",
+    "notes": [],
+    "portrait_alt": "Portrait of Gregor Wentzel",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Gregor Wentzel — biographical or institutional source (ikarus.physik.uzh.ch)",
+        "url": "https://ikarus.physik.uzh.ch/de/institut/emeriti/Gregor-Wentzel.html"
+      },
+      {
+        "title": "Gregor Wentzel — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Gregor_Wentzel"
+      }
+    ]
+  },
+  {
+    "id": "ye-qisun",
+    "name_en": "Ye Qisun",
+    "biography": "Born in Shanghai, Ye earned his doctorate at Harvard and helped found Tsinghua University's physics department after returning to China. He linked teaching with research and recruited and trained influential members of China's modern physics community.",
+    "contributions": [
+      "Precisely measured Planck's constant with Duane and Palmer.",
+      "Investigated the magnetic properties of ferromagnetic materials under pressure.",
+      "Built physics teaching and research institutions and trained Chinese physicists."
+    ],
+    "fields": [
+      "Experimental physics",
+      "Magnetism"
+    ],
+    "birth_display": "16 July 1898",
+    "death_display": "13 January 1977",
+    "notes": [],
+    "portrait_alt": "Portrait of Ye Qisun",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Ye Qisun — biographical or institutional source (yswk.csdl.ac.cn)",
+        "url": "https://yswk.csdl.ac.cn/ys_detail?casid=1955A23"
+      },
+      {
+        "title": "Ye Qisun — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Ye_Qisun"
+      }
+    ]
+  },
+  {
+    "id": "vladimir-fock",
+    "name_en": "Vladimir Fock",
+    "biography": "A Soviet theoretical physicist based at Leningrad University, Fock applied rigorous mathematics to atomic structure and field theory. He was an important early developer of quantum theory and also investigated relativity and gravitation.",
+    "contributions": [
+      "Developed Fock-space descriptions of systems with variable particle number.",
+      "Developed the exchange-inclusive Hartree–Fock method from the self-consistent-field approach.",
+      "Investigated relativistic quantum theory and gravitation."
+    ],
+    "fields": [
+      "Quantum mechanics",
+      "Quantum field theory"
+    ],
+    "birth_display": "22 December 1898",
+    "death_display": "27 December 1974",
+    "notes": [],
+    "portrait_alt": "Portrait of Vladimir Fock",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Vladimir Fock — biographical or institutional source (www.mathsoc.spb.ru)",
+        "url": "https://www.mathsoc.spb.ru/pantheon/fock/"
+      },
+      {
+        "title": "Vladimir Fock — biographical or institutional source (mathshistory.st-andrews.ac.uk)",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Fock/"
+      },
+      {
+        "title": "Vladimir Fock — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Vladimir_Fock"
+      }
+    ]
+  },
+  {
+    "id": "fritz-london",
+    "name_en": "Fritz London",
+    "biography": "A German-born theorist, London worked in several European centres before joining Duke University. His applications of quantum theory to chemical bonding, intermolecular forces, and low-temperature matter helped establish the physics of macroscopic quantum phenomena.",
+    "contributions": [
+      "Developed the quantum valence-bond treatment of hydrogen with Heitler.",
+      "Explained dispersion forces between nonpolar atoms and molecules.",
+      "Developed the London equations of superconducting electrodynamics with Heinz London."
+    ],
+    "fields": [
+      "Condensed-matter physics",
+      "Quantum chemistry"
+    ],
+    "birth_display": "7 March 1900",
+    "death_display": "30 March 1954",
+    "notes": [],
+    "portrait_alt": "Portrait of Fritz London",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Fritz London — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Fritz_London"
+      }
+    ]
+  },
+  {
+    "id": "frederic-joliot-curie",
+    "name_en": "Frédéric Joliot-Curie",
+    "biography": "A French experimental physicist at the Radium Institute in Paris, Joliot-Curie shared the 1935 Nobel Prize in Chemistry with Irène Joliot-Curie. After the war he helped establish France's atomic-energy organization and its early reactor programme.",
+    "contributions": [
+      "Co-discovered artificial radioactivity with Irène Joliot-Curie.",
+      "Investigated neutron release in fission and the possibility of chain reactions.",
+      "Helped develop early French nuclear reactors."
+    ],
+    "fields": [
+      "Nuclear physics",
+      "Radioactivity"
+    ],
+    "birth_display": "19 March 1900",
+    "death_display": "14 August 1958",
+    "notes": [],
+    "portrait_alt": "Portrait of Frédéric Joliot-Curie",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Frédéric Joliot-Curie — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Joliot-Curie"
+      }
+    ]
+  },
+  {
+    "id": "jan-oort",
+    "name_en": "Jan Oort",
+    "biography": "A Dutch astronomer and director of Leiden Observatory, Oort began with stellar motions and later helped build Dutch radio astronomy. His observations revealed the structure and differential rotation of the Milky Way.",
+    "contributions": [
+      "Established differential Galactic rotation and the Oort constants.",
+      "Advanced the use of the 21-centimetre hydrogen line to map Galactic structure.",
+      "Proposed the distant comet reservoir now called the Oort cloud."
+    ],
+    "fields": [
+      "Galactic astronomy",
+      "Radio astronomy"
+    ],
+    "birth_display": "28 April 1900",
+    "death_display": "5 November 1992",
+    "notes": [],
+    "portrait_alt": "Portrait of Jan Oort",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Jan Oort — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Jan_Oort"
+      }
+    ]
+  },
+  {
+    "id": "cecilia-payne-gaposchkin",
+    "name_en": "Cecilia Payne-Gaposchkin",
+    "biography": "A British-born astrophysicist, Payne-Gaposchkin moved to Harvard to study stellar spectra and complete her doctorate. She later became one of Harvard's first women full professors and used quantum atomic physics to interpret stellar composition.",
+    "contributions": [
+      "Applied Saha ionization theory to the sequence of stellar spectra.",
+      "Established that stars consist predominantly of hydrogen and helium.",
+      "Conducted extensive research on variable stars and stellar evolution."
+    ],
+    "fields": [
+      "Stellar physics",
+      "Astronomical spectroscopy"
+    ],
+    "birth_display": "10 May 1900",
+    "death_display": "7 December 1979",
+    "notes": [],
+    "portrait_alt": "Portrait of Cecilia Payne-Gaposchkin",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Cecilia Payne-Gaposchkin — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin"
+      }
+    ]
+  },
+  {
+    "id": "george-uhlenbeck",
+    "name_en": "George Uhlenbeck",
+    "biography": "A Dutch-born theoretical physicist educated at Leiden, Uhlenbeck spent much of his career teaching in the United States. He proposed electron spin with Goudsmit and investigated Brownian motion, transport, and the foundations of statistical physics.",
+    "contributions": [
+      "Proposed electron spin with Samuel Goudsmit.",
+      "Developed the Ornstein–Uhlenbeck process with Leonard Ornstein to describe damped stochastic motion.",
+      "Investigated quantum gases and transport theory."
+    ],
+    "fields": [
+      "Quantum mechanics",
+      "Statistical physics"
+    ],
+    "birth_display": "6 December 1900",
+    "death_display": "31 October 1988",
+    "notes": [],
+    "portrait_alt": "Portrait of George Uhlenbeck",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "George Uhlenbeck — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/George_Uhlenbeck"
+      }
+    ]
+  },
+  {
+    "id": "maria-telkes",
+    "name_en": "Maria Telkes",
+    "biography": "A Hungarian-born American physical chemist, Telkes investigated solar-energy conversion and storage in industry and at MIT. She applied materials science and thermal physics to solar-heated buildings, desalination, and thermoelectric devices.",
+    "contributions": [
+      "Developed solar-heat collection and phase-change thermal storage.",
+      "Helped design early solar-heated houses.",
+      "Investigated solar distillation and thermoelectric energy conversion."
+    ],
+    "fields": [
+      "Solar-energy physics",
+      "Energy technology"
+    ],
+    "birth_display": "12 December 1900",
+    "death_display": "2 December 1995",
+    "notes": [],
+    "portrait_alt": "Portrait of Maria Telkes",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Maria Telkes — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Maria_Telkes"
+      }
+    ]
+  },
+  {
+    "id": "grete-hermann",
+    "name_en": "Grete Hermann",
+    "biography": "A German mathematician and philosopher of physics, Hermann studied with Noether in Göttingen. She critically examined logic and causality in early quantum mechanics, opposed Nazism, and later worked in education. Her contributions to quantum foundations long remained underrecognized.",
+    "contributions": [
+      "Identified limitations in the assumptions of von Neumann's argument against hidden variables.",
+      "Analyzed causality, measurement, and the conditions of knowledge in quantum theory.",
+      "Advanced philosophical and logical analysis of quantum mechanics."
+    ],
+    "fields": [
+      "Quantum foundations",
+      "Mathematical physics"
+    ],
+    "birth_display": "2 March 1901",
+    "death_display": "15 April 1984",
+    "notes": [
+      "Some older webpages give 15 February. Biographical research published by European Women in Mathematics and a 2024 Physics Today historical study both give 15 April 1984, which is adopted here."
+    ],
+    "portrait_alt": "Portrait of Grete Hermann",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Grete Hermann — biographical or institutional source (www.europeanwomeninmaths.org)",
+        "url": "https://www.europeanwomeninmaths.org/wp-content/uploads/2016/02/gretehermann.pdf"
+      },
+      {
+        "title": "Grete Hermann — biographical or institutional source (physicstoday.aip.org)",
+        "url": "https://physicstoday.aip.org/features/grete-hermanns-ethical-philosophy-of-physics"
+      },
+      {
+        "title": "Grete Hermann — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Grete_Hermann"
+      }
+    ]
+  },
+  {
+    "id": "robert-j-van-de-graaff",
+    "name_en": "Robert J. Van de Graaff",
+    "biography": "An American experimental physicist educated partly at Oxford, Van de Graaff worked at Princeton and MIT. His mechanical transport of electric charge provided high voltages and an important tool for nuclear experiments.",
+    "contributions": [
+      "Invented the Van de Graaff electrostatic accelerator.",
+      "Developed high-voltage generation, insulation, and charged-particle acceleration.",
+      "Advanced electrostatic accelerators for nuclear-reaction and structure research."
+    ],
+    "fields": [
+      "Accelerator physics"
+    ],
+    "birth_display": "20 December 1901",
+    "death_display": "16 January 1967",
+    "notes": [],
+    "portrait_alt": "Portrait of Robert J. Van de Graaff",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Robert J. Van de Graaff — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Robert_J._Van_de_Graaff"
+      }
+    ]
+  },
+  {
+    "id": "zhao-zhongyao",
+    "name_en": "Zhao Zhongyao",
+    "biography": "Born in Zhuji, Zhejiang, Zhao obtained his doctorate at Caltech and taught at Tsinghua. After returning to China he helped establish atomic-energy and high-energy-physics institutions, emphasizing particle detection, accelerators, and the training of experimentalists.",
+    "contributions": [
+      "Measured anomalous absorption and secondary radiation of energetic gamma rays in heavy elements, providing early evidence relevant to pair processes.",
+      "Advanced electrostatic accelerators and nuclear experiments in China.",
+      "Trained nuclear and high-energy physicists."
+    ],
+    "fields": [
+      "Nuclear physics",
+      "Experimental physics"
+    ],
+    "birth_display": "27 June 1902",
+    "death_display": "28 May 1998",
+    "notes": [],
+    "portrait_alt": "Portrait of Zhao Zhongyao",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Zhao Zhongyao — biographical or institutional source (www.cas.cn)",
+        "url": "https://www.cas.cn/xzfc/202207/t20220714_4841665.shtml"
+      },
+      {
+        "title": "Zhao Zhongyao — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Zhao_Zhongyao"
+      }
+    ]
+  },
+  {
+    "id": "rolf-widere",
+    "name_en": "Rolf Widerøe",
+    "biography": "A Norwegian physicist and engineer educated in Germany, Widerøe developed accelerator concepts and experiments that inspired several later high-energy machines. He also promoted the development of accelerators for radiation therapy.",
+    "contributions": [
+      "Proposed and experimentally demonstrated early radio-frequency linear acceleration.",
+      "Formulated the basic condition for electron induction acceleration and investigated betatron technology.",
+      "Advanced accelerator applications in medical radiotherapy."
+    ],
+    "fields": [
+      "Accelerator physics"
+    ],
+    "birth_display": "11 July 1902",
+    "death_display": "11 October 1996",
+    "notes": [],
+    "portrait_alt": "Portrait of Rolf Widerøe",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Rolf Widerøe — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Rolf_Wider%C3%B8e"
+      }
+    ]
+  },
+  {
+    "id": "samuel-goudsmit",
+    "name_en": "Samuel Goudsmit",
+    "biography": "A Dutch-born physicist, Goudsmit studied atomic spectra at Leiden before moving to the United States and working at Michigan and Brookhaven. He also served for many years as a physics-journal editor, supporting postwar scientific communication.",
+    "contributions": [
+      "Proposed electron spin with Uhlenbeck.",
+      "Investigated atomic spectral structure and quantum numbers.",
+      "Advanced atomic and nuclear research and scientific publishing."
+    ],
+    "fields": [
+      "Atomic physics",
+      "Quantum mechanics"
+    ],
+    "birth_display": "11 July 1902",
+    "death_display": "4 December 1978",
+    "notes": [],
+    "portrait_alt": "Portrait of Samuel Goudsmit",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Samuel Goudsmit — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Samuel_Goudsmit"
+      }
+    ]
+  },
+  {
+    "id": "zhou-peiyuan",
+    "name_en": "Zhou Peiyuan",
+    "biography": "Born in Yixing, Jiangsu, Zhou studied in Chicago, at Caltech, and in Europe before teaching at Tsinghua and Peking University. His research in turbulence and gravitation accompanied a major role in Chinese scientific education.",
+    "contributions": [
+      "Investigated Reynolds stresses and their transport equations in turbulent flow.",
+      "Studied gravitational-field solutions in general relativity.",
+      "Developed teaching and research communities in fluid mechanics and theoretical physics."
+    ],
+    "fields": [
+      "Fluid mechanics",
+      "General relativity"
+    ],
+    "birth_display": "28 August 1902",
+    "death_display": "24 November 1993",
+    "notes": [],
+    "portrait_alt": "Portrait of Zhou Peiyuan",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Zhou Peiyuan — biographical or institutional source (www.tsinghua.edu.cn)",
+        "url": "https://www.tsinghua.edu.cn/info/2013/78175.htm"
+      },
+      {
+        "title": "Zhou Peiyuan — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Zhou_Peiyuan"
+      }
+    ]
+  },
+  {
+    "id": "igor-kurchatov",
+    "name_en": "Igor Kurchatov",
+    "biography": "A Soviet experimental physicist, Kurchatov initially studied dielectrics and nuclei before leading the Soviet nuclear programme during and after the war. He organized reactor, weapons, and nuclear-energy research and helped establish its scientific institutions.",
+    "contributions": [
+      "Organized the construction of early Soviet nuclear reactors.",
+      "Led research on fission, chain reactions, and nuclear-energy technology.",
+      "Built institutions for nuclear power and controlled-fusion research."
+    ],
+    "fields": [
+      "Nuclear physics",
+      "Nuclear energy"
+    ],
+    "birth_display": "12 January 1903",
+    "death_display": "7 February 1960",
+    "notes": [
+      "The birth date uses the Gregorian calendar; some Russian historical sources also give the Julian date."
+    ],
+    "portrait_alt": "Portrait of Igor Kurchatov",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Igor Kurchatov — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Igor_Kurchatov"
+      }
+    ]
+  },
+  {
+    "id": "lars-onsager",
+    "name_en": "Lars Onsager",
+    "biography": "A Norwegian-born theoretical physical chemist at Yale, Onsager used mathematics to investigate irreversible processes and phase transitions. His reciprocal relations in irreversible thermodynamics earned the 1968 Nobel Prize in Chemistry.",
+    "contributions": [
+      "Established the Onsager reciprocal relations.",
+      "Solved the zero-field, two-dimensional square-lattice Ising model exactly.",
+      "Investigated quantized vortices and turbulence statistics."
+    ],
+    "fields": [
+      "Statistical physics",
+      "Thermodynamics"
+    ],
+    "birth_display": "27 November 1903",
+    "death_display": "5 October 1976",
+    "notes": [],
+    "portrait_alt": "Portrait of Lars Onsager",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Lars Onsager — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Lars_Onsager"
+      }
+    ]
+  },
+  {
+    "id": "john-von-neumann",
+    "name_en": "John von Neumann",
+    "biography": "A Hungarian-born mathematician at the Institute for Advanced Study, von Neumann shaped the mathematical foundations of quantum theory, operator algebras, and electronic computing. He also worked on computational and applied-mathematical problems at Los Alamos.",
+    "contributions": [
+      "Systematized quantum mechanics using Hilbert spaces and operators.",
+      "Developed operator-algebra and quantum-statistical methods.",
+      "Advanced electronic computing and numerical approaches to physical problems."
+    ],
+    "fields": [
+      "Mathematical physics",
+      "Quantum mechanics",
+      "Computational physics"
+    ],
+    "birth_display": "28 December 1903",
+    "death_display": "8 February 1957",
+    "notes": [],
+    "portrait_alt": "Portrait of John von Neumann",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "John von Neumann — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/John_von_Neumann"
+      }
+    ]
+  },
+  {
+    "id": "walter-heitler",
+    "name_en": "Walter Heitler",
+    "biography": "A German-born theoretical physicist, Heitler worked with Born in Göttingen and later in Bristol, Dublin, and Zürich. His research connected molecular bonding with high-energy radiation processes, and his quantum-radiation text became influential.",
+    "contributions": [
+      "Developed the quantum valence-bond theory of hydrogen with Fritz London.",
+      "Investigated electron–positron production and radiation with Bethe.",
+      "Developed theories of electromagnetic cascades."
+    ],
+    "fields": [
+      "Quantum electrodynamics",
+      "Quantum chemistry"
+    ],
+    "birth_display": "2 January 1904",
+    "death_display": "15 November 1981",
+    "notes": [],
+    "portrait_alt": "Portrait of Walter Heitler",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Walter Heitler — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Walter_Heitler"
+      }
+    ]
+  },
+  {
+    "id": "george-gamow",
+    "name_en": "George Gamow",
+    "biography": "Born in Odessa, Gamow studied in Europe before moving to the United States and teaching at George Washington University and elsewhere. His work ranged from nuclear physics to the early universe and popular science, helping develop hot Big Bang cosmology.",
+    "contributions": [
+      "Explained nuclear alpha decay through quantum tunnelling.",
+      "Developed early-universe nucleosynthesis with Alpher and collaborators.",
+      "Introduced Gamow–Teller beta transitions with Edward Teller."
+    ],
+    "fields": [
+      "Nuclear physics",
+      "Cosmology"
+    ],
+    "birth_display": "4 March 1904",
+    "death_display": "19 August 1968",
+    "notes": [
+      "The birth date uses the Gregorian calendar; some Russian historical sources also give the Julian date."
+    ],
+    "portrait_alt": "Portrait of George Gamow",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "George Gamow — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/George_Gamow"
+      }
+    ]
+  },
+  {
+    "id": "j-robert-oppenheimer",
+    "name_en": "J. Robert Oppenheimer",
+    "biography": "An American theorist at Berkeley and Caltech, Oppenheimer directed Los Alamos during the Second World War and later led the Institute for Advanced Study. His scientific career had a major intersection with public policy.",
+    "contributions": [
+      "Developed the Born–Oppenheimer approximation separating electronic and nuclear motion.",
+      "Investigated gravitational collapse of massive stars with Snyder.",
+      "Organized theoretical and experimental collaboration in the Manhattan Project."
+    ],
+    "fields": [
+      "Theoretical physics",
+      "Nuclear physics",
+      "Astrophysics"
+    ],
+    "birth_display": "22 April 1904",
+    "death_display": "18 February 1967",
+    "notes": [],
+    "portrait_alt": "Portrait of J. Robert Oppenheimer",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "J. Robert Oppenheimer — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/J._Robert_Oppenheimer"
+      }
+    ]
+  },
+  {
+    "id": "bruno-rossi",
+    "name_en": "Bruno Rossi",
+    "biography": "An Italian experimental physicist forced abroad by fascist racial laws, Rossi later worked at MIT. He applied fast electronics to cosmic-ray detection and helped establish X-ray astronomy in the space age.",
+    "contributions": [
+      "Developed fast electronic coincidence circuits for cosmic-ray measurements.",
+      "Investigated extensive air showers and meson lifetimes.",
+      "Advanced early space-based cosmic X-ray experiments."
+    ],
+    "fields": [
+      "Cosmic rays",
+      "Astrophysics"
+    ],
+    "birth_display": "13 April 1905",
+    "death_display": "21 November 1993",
+    "notes": [],
+    "portrait_alt": "Portrait of Bruno Rossi",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Bruno Rossi — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Bruno_Rossi"
+      }
+    ]
+  },
+  {
+    "id": "ettore-majorana",
+    "name_en": "Ettore Majorana",
+    "biography": "An Italian theorist in Fermi's Rome group, Majorana later became a professor at Naples. He disappeared in 1938, and his subsequent life and death remain unresolved. His small body of published work had a lasting influence on particle theory.",
+    "contributions": [
+      "Developed a description of fermions that can be their own antiparticles.",
+      "Investigated nuclear exchange forces and atomic spectra.",
+      "Developed relativistic wave-equation methods for particles of arbitrary spin."
+    ],
+    "fields": [
+      "Particle physics",
+      "Nuclear physics"
+    ],
+    "birth_display": "5 August 1906",
+    "death_display": null,
+    "notes": [
+      "Majorana disappeared in 1938. His exact date of death remains unresolved; a null death field does not indicate that he is living."
+    ],
+    "portrait_alt": "Portrait of Ettore Majorana",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Ettore Majorana — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Ettore_Majorana"
+      }
+    ]
+  },
+  {
+    "id": "wu-ta-you",
+    "name_en": "Wu Ta-You",
+    "biography": "Born in Guangdong, Wu received his doctorate at Michigan and taught at Peking University and the National Southwestern Associated University before working in Canada, the United States, and Taiwan. His molecular-spectroscopy research accompanied the training of students including Yang and Lee.",
+    "contributions": [
+      "Investigated vibrations and structures of polyatomic molecules.",
+      "Wrote influential treatments of theoretical physics and quantum scattering.",
+      "Developed physics education and research institutions."
+    ],
+    "fields": [
+      "Atomic and molecular physics",
+      "Theoretical physics"
+    ],
+    "birth_display": "1907",
+    "death_display": "4 March 2000",
+    "notes": [
+      "Sources mix Gregorian and traditional-calendar dates and give 27 September, 29 September, or 4 November. The archive retains the agreed year 1907 without assuming a month or day."
+    ],
+    "portrait_alt": "Portrait of Wu Ta-You",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Wu Ta-You — biographical or institutional source (www.phys.sinica.edu.tw)",
+        "url": "https://www.phys.sinica.edu.tw/~tywufund/introduction.html"
+      },
+      {
+        "title": "Wu Ta-You — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Wu_Ta-You"
+      }
+    ]
+  },
+  {
+    "id": "vladimir-veksler",
+    "name_en": "Vladimir Veksler",
+    "biography": "A Soviet experimental physicist, Veksler studied cosmic rays and particle detection before helping establish the Joint Institute for Nuclear Research in Dubna. His independent discovery of phase stability became a foundation of high-energy synchrotrons.",
+    "contributions": [
+      "Independently formulated automatic phase stability in accelerators.",
+      "Advanced synchrophasotrons and high-energy experimental facilities.",
+      "Investigated cosmic rays and collective acceleration."
+    ],
+    "fields": [
+      "Accelerator physics",
+      "Experimental physics"
+    ],
+    "birth_display": "4 March 1907",
+    "death_display": "22 September 1966",
+    "notes": [],
+    "portrait_alt": "Portrait of Vladimir Veksler",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Vladimir Veksler — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Vladimir_Veksler"
+      }
+    ]
+  },
+  {
+    "id": "wang-ganchang",
+    "name_en": "Wang Ganchang",
+    "biography": "Born in Changshu, Jiangsu, Wang graduated from Tsinghua and earned his doctorate in Germany. He worked at Shandong, Zhejiang, and JINR in Dubna before helping build China's nuclear-science and technology programmes.",
+    "contributions": [
+      "Proposed testing neutrinos through recoil following electron capture.",
+      "Led a team that discovered the antisigma-minus hyperon.",
+      "Contributed to Chinese nuclear testing and laser-driven inertial-confinement-fusion research."
+    ],
+    "fields": [
+      "Nuclear physics",
+      "Particle physics"
+    ],
+    "birth_display": "28 May 1907",
+    "death_display": "10 December 1998",
+    "notes": [],
+    "portrait_alt": "Portrait of Wang Ganchang",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Wang Ganchang — biographical or institutional source (www.caep.ac.cn)",
+        "url": "https://www.caep.ac.cn/doc/2020/01/06/499.shtml"
+      },
+      {
+        "title": "Wang Ganchang — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Wang_Ganchang"
+      }
+    ]
+  },
+  {
+    "id": "rudolf-peierls",
+    "name_en": "Rudolf Peierls",
+    "biography": "A German-born theorist who moved to Britain under Nazi persecution, Peierls taught at Birmingham and Oxford. He moved between electronic properties of crystals and nuclear research, later continuing condensed-matter physics and nuclear-policy work.",
+    "contributions": [
+      "Investigated energy bands, heat conduction, and low-dimensional lattice instability.",
+      "Estimated the scale of a fission weapon's critical mass with Frisch.",
+      "Developed the electron–lattice instability associated with the Peierls transition."
+    ],
+    "fields": [
+      "Condensed-matter physics",
+      "Nuclear physics"
+    ],
+    "birth_display": "5 June 1907",
+    "death_display": "19 September 1995",
+    "notes": [],
+    "portrait_alt": "Portrait of Rudolf Peierls",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Rudolf Peierls — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Rudolf_Peierls"
+      }
+    ]
+  },
+  {
+    "id": "zhao-jiuzhang",
+    "name_en": "Zhao Jiuzhang",
+    "biography": "Born in Kaifeng, Henan, Zhao studied at Tsinghua and in Berlin before conducting meteorological, geomagnetic, and space-science research in China. He advocated a Chinese satellite programme and helped plan early space investigations.",
+    "contributions": [
+      "Investigated atmospheric dynamics, geomagnetism, and the space environment.",
+      "Advanced high-altitude sounding and space physics in China.",
+      "Helped develop the scientific case and plans for early Chinese satellites."
+    ],
+    "fields": [
+      "Space physics",
+      "Geophysics"
+    ],
+    "birth_display": "15 October 1907",
+    "death_display": "26 October 1968",
+    "notes": [],
+    "portrait_alt": "Portrait of Zhao Jiuzhang",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Zhao Jiuzhang — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Zhao_Jiuzhang"
+      }
+    ]
+  },
+  {
+    "id": "heinz-london",
+    "name_en": "Heinz London",
+    "biography": "A German-born low-temperature physicist who moved to Britain under Nazi persecution, London worked at Oxford and other institutions. He combined superconductivity theory with experimental methods for reaching lower temperatures.",
+    "contributions": [
+      "Developed the London equations of superconducting electrodynamics with Fritz London.",
+      "Advanced low-temperature experimental techniques.",
+      "Proposed dilution refrigeration using mixtures of helium isotopes."
+    ],
+    "fields": [
+      "Low-temperature physics",
+      "Superconductivity"
+    ],
+    "birth_display": "7 November 1907",
+    "death_display": "3 August 1970",
+    "notes": [],
+    "portrait_alt": "Portrait of Heinz London",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Heinz London — biographical or institutional source (history.aip.org)",
+        "url": "https://history.aip.org/history/catalog/icos/641.html"
+      },
+      {
+        "title": "Heinz London — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Heinz_London"
+      }
+    ]
+  },
+  {
+    "id": "lev-artsimovich",
+    "name_en": "Lev Artsimovich",
+    "biography": "A Soviet experimental physicist at the Kurchatov research organization, Artsimovich led controlled-fusion research. His development of tokamak experiments and diagnostic methods helped establish the promise of magnetic plasma confinement.",
+    "contributions": [
+      "Led tokamak and controlled-fusion experiments.",
+      "Advanced high-temperature plasma confinement and diagnostics.",
+      "Investigated gas discharges and atomic and nuclear experimental physics."
+    ],
+    "fields": [
+      "Plasma physics",
+      "Nuclear fusion"
+    ],
+    "birth_display": "25 February 1909",
+    "death_display": "1 March 1973",
+    "notes": [],
+    "portrait_alt": "Portrait of Lev Artsimovich",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Lev Artsimovich — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Lev_Artsimovich"
+      }
+    ]
+  },
+  {
+    "id": "guo-yonghuai",
+    "name_en": "Guo Yonghuai",
+    "biography": "Born in Rongcheng, Shandong, Guo studied in Canada and the United States, working with von Kármán at Caltech. After returning to China in 1956, he helped establish mechanics and nuclear-weapons research. He died in an aircraft accident in 1968.",
+    "contributions": [
+      "Investigated transonic and high-speed gas dynamics.",
+      "Developed asymptotic methods for flow problems.",
+      "Contributed to explosion and fluid-mechanical research in China's nuclear programme."
+    ],
+    "fields": [
+      "Fluid mechanics",
+      "Explosion mechanics"
+    ],
+    "birth_display": "4 April 1909",
+    "death_display": "5 December 1968",
+    "notes": [],
+    "portrait_alt": "Portrait of Guo Yonghuai",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Guo Yonghuai — biographical or institutional source (imech.cas.cn)",
+        "url": "https://imech.cas.cn/people/na/202302/t20230227_6684134.html"
+      },
+      {
+        "title": "Guo Yonghuai — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Guo_Yonghuai"
+      }
+    ]
+  },
+  {
+    "id": "stanislaw-ulam",
+    "name_en": "Stanislaw Ulam",
+    "biography": "A Polish-born mathematician who moved to the United States before the war, Ulam spent much of his career at Los Alamos. He applied probability, computing, and dynamical-systems ideas to complex physical problems.",
+    "contributions": [
+      "Developed Monte Carlo computational methods with von Neumann and others.",
+      "Participated in the Fermi–Pasta–Ulam numerical experiment on nonlinear oscillators.",
+      "Investigated theoretical nuclear-reaction and thermonuclear-device problems."
+    ],
+    "fields": [
+      "Computational physics",
+      "Mathematical physics"
+    ],
+    "birth_display": "13 April 1909",
+    "death_display": "13 May 1984",
+    "notes": [],
+    "portrait_alt": "Portrait of Stanislaw Ulam",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Stanislaw Ulam — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Stanislaw_Ulam"
+      }
+    ]
+  },
+  {
+    "id": "homi-j-bhabha",
+    "name_en": "Homi J. Bhabha",
+    "biography": "An Indian theorist educated at Cambridge, Bhabha returned to India to establish the Tata Institute of Fundamental Research and organize atomic-energy research. His scientific contributions concerned cosmic rays and quantum electrodynamics.",
+    "contributions": [
+      "Calculated electron–positron scattering, now called Bhabha scattering.",
+      "Developed electromagnetic cosmic-ray shower theory with Heitler.",
+      "Built Indian nuclear-science and high-energy-physics institutions."
+    ],
+    "fields": [
+      "Particle physics",
+      "Cosmic rays"
+    ],
+    "birth_display": "30 October 1909",
+    "death_display": "24 January 1966",
+    "notes": [],
+    "portrait_alt": "Portrait of Homi J. Bhabha",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Homi J. Bhabha — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Homi_J._Bhabha"
+      }
+    ]
+  },
+  {
+    "id": "zhang-wenyu",
+    "name_en": "Zhang Wenyu",
+    "biography": "Born in Hui'an, Fujian, Zhang conducted research at Cambridge and American universities before returning to China in 1956. He led Chinese cosmic-ray and high-energy experiments and helped establish the Institute of High Energy Physics.",
+    "contributions": [
+      "Experimentally established capture of negative muons by atoms, advancing muonic-atom research.",
+      "Conducted cosmic-ray and elementary-particle experiments.",
+      "Built high-energy experimental facilities and research teams in China."
+    ],
+    "fields": [
+      "Cosmic rays",
+      "Particle physics"
+    ],
+    "birth_display": "9 January 1910",
+    "death_display": "5 November 1992",
+    "notes": [],
+    "portrait_alt": "Portrait of Zhang Wenyu",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Zhang Wenyu — biographical or institutional source (ihep.cas.cn)",
+        "url": "https://ihep.cas.cn/kxcb/kxrw/zhangwenyu/200909/t20090922_2514309.html"
+      },
+      {
+        "title": "Zhang Wenyu — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Zhang_Wenyu"
+      }
+    ]
+  },
+  {
+    "id": "shoichi-sakata",
+    "name_en": "Shoichi Sakata",
+    "biography": "A Japanese theorist at Nagoya, Sakata used experimental regularities to develop models of particle structure. With colleagues, he helped build a postwar particle-theory community whose work influenced quark models and neutrino mixing.",
+    "contributions": [
+      "Proposed the Sakata model based on protons, neutrons, and Lambda particles.",
+      "Contributed to neutral-meson and particle-classification theories.",
+      "Developed an early lepton-mixing framework with Maki and Nakagawa."
+    ],
+    "fields": [
+      "Particle physics"
+    ],
+    "birth_display": "18 January 1911",
+    "death_display": "16 October 1970",
+    "notes": [],
+    "portrait_alt": "Portrait of Shoichi Sakata",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Shoichi Sakata — biographical or institutional source (id.ndl.go.jp)",
+        "url": "https://id.ndl.go.jp/auth/ndlna/00066387"
+      },
+      {
+        "title": "Shoichi Sakata — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Shoichi_Sakata"
+      }
+    ]
+  },
+  {
+    "id": "wang-zhuxi",
+    "name_en": "Wang Zhuxi",
+    "biography": "Born in Gong'an, Hubei, Wang graduated from Tsinghua, earned his doctorate at Cambridge, and taught at Tsinghua and Peking University. His statistical-physics research, textbooks, and teaching influenced Chinese theoretical physics.",
+    "contributions": [
+      "Investigated statistical physics, cooperative phenomena, and phase transitions.",
+      "Wrote influential texts on thermodynamics, statistical physics, and special functions.",
+      "Built theoretical-physics teaching and research in China."
+    ],
+    "fields": [
+      "Statistical physics",
+      "Theoretical physics"
+    ],
+    "birth_display": "7 June 1911",
+    "death_display": "30 January 1983",
+    "notes": [],
+    "portrait_alt": "Portrait of Wang Zhuxi",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Wang Zhuxi — biographical or institutional source (casad.cas.cn)",
+        "url": "https://casad.cas.cn/ysxx2022/ygys/200906/t20090624_1809677.html"
+      },
+      {
+        "title": "Wang Zhuxi — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Wang_Zhuxi"
+      }
+    ]
+  },
+  {
+    "id": "john-archibald-wheeler",
+    "name_en": "John Archibald Wheeler",
+    "biography": "An American theorist at Princeton and Texas, Wheeler moved from nuclear fission to gravitation and quantum foundations. He trained researchers including Feynman and Bekenstein and helped make black-hole physics an active research field.",
+    "contributions": [
+      "Developed nuclear-fission theory with Bohr.",
+      "Formulated the Wheeler–DeWitt equation in quantum gravity with DeWitt.",
+      "Advanced black-hole concepts, spacetime geometry, and gravitational theory."
+    ],
+    "fields": [
+      "General relativity",
+      "Nuclear physics"
+    ],
+    "birth_display": "9 July 1911",
+    "death_display": "13 April 2008",
+    "notes": [],
+    "portrait_alt": "Portrait of John Archibald Wheeler",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "John Archibald Wheeler — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/John_Archibald_Wheeler"
+      }
+    ]
+  },
+  {
+    "id": "qian-xuesen",
+    "name_en": "Qian Xuesen",
+    "biography": "Born in Shanghai, Qian studied and worked at MIT and Caltech under von Kármán. After returning to China in 1955, he helped establish the country's aerospace programme and developed systematic approaches to engineering problems.",
+    "contributions": [
+      "Investigated high-speed aerodynamics, compressible flow, and rocket-flight theory.",
+      "Developed a systematic formulation of engineering cybernetics.",
+      "Advanced the theory and organization of Chinese rocket, missile, and space technology."
+    ],
+    "fields": [
+      "Aerodynamics",
+      "Engineering control"
+    ],
+    "birth_display": "11 December 1911",
+    "death_display": "31 October 2009",
+    "notes": [],
+    "portrait_alt": "Portrait of Qian Xuesen",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Qian Xuesen — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Qian_Xuesen"
+      }
+    ]
+  },
+  {
+    "id": "chien-shiung-wu",
+    "name_en": "Chien-Shiung Wu",
+    "biography": "Born in Jiangsu, Wu earned her doctorate at Berkeley and spent much of her career at Columbia. Known for precision nuclear experiments, she later became the first woman president of the American Physical Society.",
+    "contributions": [
+      "Led the low-temperature cobalt-60 beta-decay experiment testing parity and establishing parity violation in the weak interaction.",
+      "Performed precision tests of beta-decay spectra and weak-interaction theory.",
+      "Investigated photon correlations and related quantum phenomena."
+    ],
+    "fields": [
+      "Nuclear physics",
+      "Weak interactions"
+    ],
+    "birth_display": "31 May 1912",
+    "death_display": "16 February 1997",
+    "notes": [],
+    "portrait_alt": "Portrait of Chien-Shiung Wu",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Chien-Shiung Wu — biographical or institutional source (www.aip.org)",
+        "url": "https://www.aip.org/history/teaching-guide-chien-shiung-wu-chinese-nuclear-physicist"
+      },
+      {
+        "title": "Chien-Shiung Wu — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Chien-Shiung_Wu"
+      }
+    ]
+  },
+  {
+    "id": "bruno-pontecorvo",
+    "name_en": "Bruno Pontecorvo",
+    "biography": "An Italian-born physicist in Fermi's Rome group, Pontecorvo worked in France, North America, and Britain before moving to the Soviet Union in 1950. His combination of experimental skill and theoretical insight made him a pioneer of neutrino physics.",
+    "contributions": [
+      "Proposed radiochemical neutrino detection through chlorine-to-argon conversion.",
+      "Proposed oscillations involving neutrino and antineutrino states and later different neutrino types.",
+      "Investigated lepton universality and neutrino species."
+    ],
+    "fields": [
+      "Neutrino physics",
+      "Nuclear physics"
+    ],
+    "birth_display": "22 August 1913",
+    "death_display": "24 September 1993",
+    "notes": [],
+    "portrait_alt": "Portrait of Bruno Pontecorvo",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Bruno Pontecorvo — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Bruno_Pontecorvo"
+      }
+    ]
+  },
+  {
+    "id": "qian-sanqiang",
+    "name_en": "Qian Sanqiang",
+    "biography": "A Chinese nuclear physicist educated at Tsinghua, Qian investigated fission with He Zehui and colleagues at the Curie laboratory in Paris. Returning to China in 1948, he helped establish the Institute of Modern Physics and organize early nuclear research.",
+    "contributions": [
+      "Investigated and helped establish ternary and quaternary uranium-fission processes with He Zehui and colleagues.",
+      "Built Chinese nuclear-physics teams and experimental facilities.",
+      "Advanced atomic-energy research and scientific training."
+    ],
+    "fields": [
+      "Nuclear physics"
+    ],
+    "birth_display": "16 October 1913",
+    "death_display": "28 June 1992",
+    "notes": [],
+    "portrait_alt": "Portrait of Qian Sanqiang",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Qian Sanqiang — biographical or institutional source (www.cas.cn)",
+        "url": "https://www.cas.cn/xzfc/202206/t20220630_4840013.shtml"
+      },
+      {
+        "title": "Qian Sanqiang — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Qian_Sanqiang"
+      }
+    ]
+  },
+  {
+    "id": "he-zehui",
+    "name_en": "He Zehui",
+    "biography": "Born in Suzhou, He studied at Tsinghua and in Germany before conducting fission experiments in France. She returned to China with Qian Sanqiang in 1948 and worked on nuclear physics, cosmic rays, and particle detectors at the Chinese Academy of Sciences.",
+    "contributions": [
+      "Studied and helped discover multibody uranium-fission processes with Qian Sanqiang and other collaborators.",
+      "Developed nuclear emulsions and particle-detection techniques.",
+      "Advanced Chinese cosmic-ray, high-energy, and space experiments."
+    ],
+    "fields": [
+      "Nuclear physics",
+      "Particle detection"
+    ],
+    "birth_display": "5 March 1914",
+    "death_display": "20 June 2011",
+    "notes": [],
+    "portrait_alt": "Portrait of He Zehui",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "He Zehui — biographical or institutional source (ihep.cas.cn)",
+        "url": "https://ihep.cas.cn/zt/hzh110/mtbd/202402/t20240227_6997191.html"
+      },
+      {
+        "title": "He Zehui — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/He_Zehui"
+      }
+    ]
+  },
+  {
+    "id": "yakov-zeldovich",
+    "name_en": "Yakov Zeldovich",
+    "biography": "Born in Minsk, the Soviet theoretical physicist Zeldovich worked on combustion, detonation, and nuclear reactions before turning to cosmology. He applied fluid dynamics, statistical theory, and particle processes to cosmic structure and helped train a major school of cosmologists.",
+    "contributions": [
+      "Predicted distortions of the cosmic microwave background caused by scattering of its photons by hot electrons, with Sunyaev.",
+      "Developed the Zeldovich approximation for structure formation.",
+      "Investigated early-universe particle processes and combustion and detonation."
+    ],
+    "fields": [
+      "Cosmology",
+      "Theoretical physics"
+    ],
+    "birth_display": "8 March 1914",
+    "death_display": "2 December 1987",
+    "notes": [
+      "The birth date uses the Gregorian calendar; some Russian historical sources also give the Julian date."
+    ],
+    "portrait_alt": "Portrait of Yakov Zeldovich",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Yakov Zeldovich — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Yakov_Zeldovich"
+      }
+    ]
+  },
+  {
+    "id": "evgeny-lifshitz",
+    "name_en": "Evgeny Lifshitz",
+    "biography": "A Soviet theorist and long-term collaborator of Landau, Lifshitz coauthored the Course of Theoretical Physics. His research addressed magnetism, intermolecular interactions, and cosmology, alongside a major contribution to theoretical-physics education.",
+    "contributions": [
+      "Developed the Landau–Lifshitz equation for magnetization dynamics with Landau.",
+      "Established the macroscopic theory of dispersion forces between media.",
+      "Investigated dynamics near cosmological singularities."
+    ],
+    "fields": [
+      "Condensed-matter physics",
+      "Theoretical physics"
+    ],
+    "birth_display": "21 February 1915",
+    "death_display": "29 October 1985",
+    "notes": [],
+    "portrait_alt": "Portrait of Evgeny Lifshitz",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Evgeny Lifshitz — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Evgeny_Lifshitz"
+      }
+    ]
+  },
+  {
+    "id": "wang-daheng",
+    "name_en": "Wang Daheng",
+    "biography": "Born in Tokyo to a family from Jiangsu, Wang studied at Tsinghua and investigated optical glass in Britain before returning to China in 1948. He helped establish the Changchun optics institute and develop precision optical instruments.",
+    "contributions": [
+      "Investigated optical glass and materials.",
+      "Organized precision optical instrumentation, testing, and defence-optics research.",
+      "Helped establish China's optics community and advocate its high-technology programme."
+    ],
+    "fields": [
+      "Optics",
+      "Optical engineering"
+    ],
+    "birth_display": "26 February 1915",
+    "death_display": "21 July 2011",
+    "notes": [],
+    "portrait_alt": "Portrait of Wang Daheng",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Wang Daheng — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Wang_Daheng"
+      }
+    ]
+  },
+  {
+    "id": "nicholas-metropolis",
+    "name_en": "Nicholas Metropolis",
+    "biography": "An American physicist associated with wartime Los Alamos and early electronic computing, Metropolis helped combine random sampling with computers. His collaborations opened new methods in statistical mechanics and numerical simulation.",
+    "contributions": [
+      "Coauthored the equilibrium-sampling algorithm now called the Metropolis algorithm.",
+      "Advanced Monte Carlo methods in physics.",
+      "Led early scientific-computing work including the MANIAC computer."
+    ],
+    "fields": [
+      "Computational physics",
+      "Statistical physics"
+    ],
+    "birth_display": "11 June 1915",
+    "death_display": "17 October 1999",
+    "notes": [],
+    "portrait_alt": "Portrait of Nicholas Metropolis",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Nicholas Metropolis — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Nicholas_Metropolis"
+      }
+    ]
+  },
+  {
+    "id": "peng-huanwu",
+    "name_en": "Peng Huanwu",
+    "biography": "Born in Changchun, Peng graduated from Tsinghua, studied with Born in Edinburgh, and worked in Dublin. Returning to China in 1947, he helped develop theoretical physics and nuclear-weapons research while supporting scientific institutions and training.",
+    "contributions": [
+      "Investigated solids and quantum field theory.",
+      "Organized and contributed to Chinese atomic- and hydrogen-bomb theoretical design.",
+      "Helped establish the Institute of Theoretical Physics and train researchers."
+    ],
+    "fields": [
+      "Theoretical physics",
+      "Nuclear physics"
+    ],
+    "birth_display": "6 October 1915",
+    "death_display": "28 February 2007",
+    "notes": [],
+    "portrait_alt": "Portrait of Peng Huanwu",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Peng Huanwu — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Peng_Huanwu"
+      }
+    ]
+  },
+  {
+    "id": "ilya-prigogine",
+    "name_en": "Ilya Prigogine",
+    "biography": "A Russian-born Belgian physical chemist at Brussels and Texas, Prigogine investigated how open systems far from equilibrium form ordered structures. His work on nonequilibrium thermodynamics earned the 1977 Nobel Prize in Chemistry.",
+    "contributions": [
+      "Developed irreversible and nonequilibrium thermodynamics.",
+      "Introduced dissipative structures to describe ordered patterns maintained by flows through open systems.",
+      "Investigated time irreversibility and complex dynamics."
+    ],
+    "fields": [
+      "Nonequilibrium thermodynamics",
+      "Complex systems"
+    ],
+    "birth_display": "25 January 1917",
+    "death_display": "28 May 2003",
+    "notes": [],
+    "portrait_alt": "Portrait of Ilya Prigogine",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Ilya Prigogine — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Ilya_Prigogine"
+      }
+    ]
+  },
+  {
+    "id": "david-bohm",
+    "name_en": "David Bohm",
+    "biography": "An American-born theorist who taught at Princeton, Bohm left the United States under political persecution and worked in Brazil, Israel, and Britain. He studied plasmas and interpretations of quantum mechanics and helped develop debates about nonlocality.",
+    "contributions": [
+      "Developed a quantum theory with definite particle trajectories.",
+      "Predicted the observable electromagnetic-potential effect with Aharonov.",
+      "Investigated collective plasma motion and quantum many-body theory."
+    ],
+    "fields": [
+      "Quantum foundations",
+      "Plasma physics"
+    ],
+    "birth_display": "20 December 1917",
+    "death_display": "27 October 1992",
+    "notes": [],
+    "portrait_alt": "Portrait of David Bohm",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "David Bohm — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/David_Bohm"
+      }
+    ]
+  },
+  {
+    "id": "gersh-budker",
+    "name_en": "Gersh Budker",
+    "biography": "A Soviet physicist, Budker founded and directed the Institute of Nuclear Physics in Novosibirsk. Combining theoretical ideas with machine development, he pioneered work on electron–positron storage rings, beam control, and controlled fusion.",
+    "contributions": [
+      "Proposed and developed electron cooling of heavy-particle beams.",
+      "Advanced electron–positron colliders and storage rings.",
+      "Investigated plasma confinement and collective acceleration."
+    ],
+    "fields": [
+      "Accelerator physics",
+      "Plasma physics"
+    ],
+    "birth_display": "1 May 1918",
+    "death_display": "4 July 1977",
+    "notes": [],
+    "portrait_alt": "Portrait of Gersh Budker",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Gersh Budker — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Gersh_Budker"
+      }
+    ]
+  },
+  {
+    "id": "cheng-kaijia",
+    "name_en": "Cheng Kaijia",
+    "biography": "Born in Wujiang, Jiangsu, Cheng graduated from Zhejiang University and studied with Born in Edinburgh before returning to China in 1950. His early solid-state research was followed by leadership of physical measurements and experimental techniques for nuclear testing.",
+    "contributions": [
+      "Investigated solid-state theory and wrote textbooks.",
+      "Led nuclear-test physics and diagnostic research in China.",
+      "Established measurement methods and experimental systems for nuclear-explosion effects."
+    ],
+    "fields": [
+      "Solid-state physics",
+      "Nuclear-test physics"
+    ],
+    "birth_display": "3 August 1918",
+    "death_display": "17 November 2018",
+    "notes": [],
+    "portrait_alt": "Portrait of Cheng Kaijia",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Cheng Kaijia — biographical or institutional source (www.cas.cn)",
+        "url": "https://www.cas.cn/xzfc/202110/t20211018_4809933.shtml"
+      },
+      {
+        "title": "Cheng Kaijia — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Cheng_Kaijia"
+      }
+    ]
+  },
+  {
+    "id": "wang-shouwu",
+    "name_en": "Wang Shouwu",
+    "biography": "Born in Suzhou, Jiangsu, Wang received his doctorate at Purdue and returned to China in 1950. He helped establish the Institute of Semiconductors, combining fundamental semiconductor research with devices, fabrication, and scientific training.",
+    "contributions": [
+      "Investigated semiconductor transistors, integrated circuits, and device physics.",
+      "Advanced semiconductor-device development and fabrication in China.",
+      "Built semiconductor research institutions and trained technical specialists."
+    ],
+    "fields": [
+      "Semiconductor physics",
+      "Semiconductor devices"
+    ],
+    "birth_display": "15 March 1919",
+    "death_display": "30 July 2014",
+    "notes": [],
+    "portrait_alt": "Portrait of Wang Shouwu",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Wang Shouwu — biographical or institutional source (english.ime.cas.cn)",
+        "url": "https://english.ime.cas.cn/pe/cm/200909/t20090904_35631.html"
+      },
+      {
+        "title": "Wang Shouwu — biographical or institutional source (www.cas.cn)",
+        "url": "https://www.cas.cn/xzfc/202311/t20231116_4985900.shtml"
+      }
+    ]
+  },
+  {
+    "id": "vikram-sarabhai",
+    "name_en": "Vikram Sarabhai",
+    "biography": "An Indian physicist educated at Cambridge, Sarabhai established the Physical Research Laboratory in Ahmedabad after returning to India. His interests developed from cosmic-ray experiments to space science and satellite applications, making him a leading organizer of India's early space programme.",
+    "contributions": [
+      "Investigated tropical cosmic-ray variations and their geomagnetic connections.",
+      "Built research facilities for cosmic rays and space physics.",
+      "Organized early Indian space science and satellite-application research."
+    ],
+    "fields": [
+      "Cosmic rays",
+      "Space physics"
+    ],
+    "birth_display": "12 August 1919",
+    "death_display": "30 December 1971",
+    "notes": [],
+    "portrait_alt": "Portrait of Vikram Sarabhai",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Vikram Sarabhai — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Vikram_Sarabhai"
+      }
+    ]
+  },
+  {
+    "id": "huang-kun",
+    "name_en": "Huang Kun",
+    "biography": "Born in Beijing, Huang studied in Bristol and collaborated with Born before working at Peking University and the Institute of Semiconductors. His research and teaching helped establish solid-state and semiconductor physics in China.",
+    "contributions": [
+      "Coauthored a major treatise on lattice dynamics with Born.",
+      "Formulated the Huang equations coupling optical lattice vibrations and electromagnetic fields in polar crystals.",
+      "Developed lattice-relaxation and multiphonon-transition theory, including the Huang–Rhys treatment."
+    ],
+    "fields": [
+      "Solid-state physics",
+      "Semiconductor physics"
+    ],
+    "birth_display": "2 September 1919",
+    "death_display": "6 July 2005",
+    "notes": [],
+    "portrait_alt": "Portrait of Huang Kun",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Huang Kun — biographical or institutional source (www.cas.cn)",
+        "url": "https://www.cas.cn/xzfc/202209/t20220914_4847604.shtml"
+      },
+      {
+        "title": "Huang Kun — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Huang_Kun"
+      }
+    ]
+  },
+  {
+    "id": "isaak-khalatnikov",
+    "name_en": "Isaak Khalatnikov",
+    "biography": "A Soviet and Russian theorist, Khalatnikov collaborated with Landau and directed the Landau Institute. He investigated superfluids, quantum liquids, and cosmology, extending many-body methods to relativistic dynamics.",
+    "contributions": [
+      "Developed Landau–Khalatnikov dynamics of superfluid helium.",
+      "Investigated cosmological singularities with Belinski and Lifshitz, leading to BKL behaviour.",
+      "Studied quantum liquids and relativistic fluids."
+    ],
+    "fields": [
+      "Low-temperature physics",
+      "General relativity"
+    ],
+    "birth_display": "17 October 1919",
+    "death_display": "9 January 2021",
+    "notes": [],
+    "portrait_alt": "Portrait of Isaak Khalatnikov",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Isaak Khalatnikov — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Isaak_Khalatnikov"
+      }
+    ]
+  },
+  {
+    "id": "bruno-touschek",
+    "name_en": "Bruno Touschek",
+    "biography": "An Austrian-born physicist, Touschek survived Nazi persecution and later worked in Britain and Italy. He combined particle theory with accelerator development and played a central role in establishing electron–positron storage-ring collisions at Frascati.",
+    "contributions": [
+      "Proposed and helped build AdA, an early electron–positron collider.",
+      "Investigated intrabeam scattering now called the Touschek effect.",
+      "Investigated collider-beam dynamics and radiative corrections."
+    ],
+    "fields": [
+      "Accelerator physics"
+    ],
+    "birth_display": "3 February 1921",
+    "death_display": "25 May 1978",
+    "notes": [],
+    "portrait_alt": "Portrait of Bruno Touschek",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Bruno Touschek — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Bruno_Touschek"
+      }
+    ]
+  },
+  {
+    "id": "xie-xide",
+    "name_en": "Xie Xide",
+    "biography": "Born in Fujian, Xie studied and conducted research at Smith College, MIT, and Stanford. Returning to China in 1952, she taught at Fudan and later served as its president, building surface-physics research and international scientific exchanges.",
+    "contributions": [
+      "Investigated semiconductor bands, crystal defects, and surface electronic structure.",
+      "Helped establish Fudan’s surface-physics research programme.",
+      "Developed training in solid-state and semiconductor physics in China."
+    ],
+    "fields": [
+      "Solid-state physics",
+      "Surface physics"
+    ],
+    "birth_display": "19 March 1921",
+    "death_display": "4 March 2000",
+    "notes": [],
+    "portrait_alt": "Portrait of Xie Xide",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Xie Xide — biographical or institutional source (kxrsbn.casad.cas.cn)",
+        "url": "https://kxrsbn.casad.cas.cn/2021/bnysml/"
+      },
+      {
+        "title": "Xie Xide — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Xie_Xide"
+      }
+    ]
+  },
+  {
+    "id": "andrei-sakharov",
+    "name_en": "Andrei Sakharov",
+    "biography": "A Soviet theoretical physicist, Sakharov contributed to thermonuclear research before becoming an advocate of human rights and nuclear disarmament. His scientific interests also included particle physics and cosmology; he received the 1975 Nobel Peace Prize.",
+    "contributions": [
+      "Formulated conditions for generating a cosmic baryon asymmetry.",
+      "Investigated induced gravity and fundamental interactions.",
+      "Contributed to early Soviet thermonuclear and magnetic-confinement-fusion theory."
+    ],
+    "fields": [
+      "Particle physics",
+      "Cosmology"
+    ],
+    "birth_display": "21 May 1921",
+    "death_display": "14 December 1989",
+    "notes": [],
+    "portrait_alt": "Portrait of Andrei Sakharov",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Andrei Sakharov — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Andrei_Sakharov"
+      }
+    ]
+  },
+  {
+    "id": "freeman-dyson",
+    "name_en": "Freeman Dyson",
+    "biography": "A British-born theorist and mathematician, Dyson studied at Cambridge before working at Cornell and the Institute for Advanced Study. Without completing a doctorate, he made foundational contributions to quantum electrodynamics and many-body theory.",
+    "contributions": [
+      "Demonstrated the equivalence of the Feynman and Tomonaga–Schwinger approaches to quantum electrodynamics.",
+      "Developed the Dyson expansion and renormalization arguments.",
+      "Studied the stability of matter with Lenard and advanced random-matrix applications in physics."
+    ],
+    "fields": [
+      "Quantum field theory",
+      "Mathematical physics"
+    ],
+    "birth_display": "15 December 1923",
+    "death_display": "28 February 2020",
+    "notes": [],
+    "portrait_alt": "Portrait of Freeman Dyson",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Freeman Dyson — biographical or institutional source (www.ias.edu)",
+        "url": "https://www.ias.edu/press-releases/2020/freeman-j-dyson-1923%E2%80%932020"
+      },
+      {
+        "title": "Freeman Dyson — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Freeman_Dyson"
+      }
+    ]
+  },
+  {
+    "id": "deng-jiaxian",
+    "name_en": "Deng Jiaxian",
+    "biography": "Born in Huaining, Anhui, Deng graduated from the National Southwestern Associated University, received his doctorate at Purdue, and returned to China in 1950. He became a major organizer of nuclear-weapons theory under highly classified working conditions.",
+    "contributions": [
+      "Organized and contributed to the physical design and calculations for China's first atomic bomb.",
+      "Investigated hydrogen-bomb principles and nuclear-weapons theory.",
+      "Built research teams linking theoretical calculation with experimental verification."
+    ],
+    "fields": [
+      "Nuclear physics",
+      "Nuclear-weapons theory"
+    ],
+    "birth_display": "25 June 1924",
+    "death_display": "29 July 1986",
+    "notes": [],
+    "portrait_alt": "Portrait of Deng Jiaxian",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Deng Jiaxian — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Deng_Jiaxian"
+      }
+    ]
+  },
+  {
+    "id": "huang-zuqia",
+    "name_en": "Huang Zuqia",
+    "biography": "Born in Changsha, Huang graduated from Tsinghua and worked on Chinese nuclear-science theory before teaching at Beijing Normal University. His career connected fundamental theory, nuclear-energy applications, and advanced education.",
+    "contributions": [
+      "Investigated neutron transport, reactor theory, and nuclear-energy applications.",
+      "Contributed to Chinese nuclear-weapons theoretical research and calculations.",
+      "Advanced teaching and research in nuclear physics and nonequilibrium statistical problems."
+    ],
+    "fields": [
+      "Nuclear physics",
+      "Reactor theory"
+    ],
+    "birth_display": "2 October 1924",
+    "death_display": "7 September 2014",
+    "notes": [],
+    "portrait_alt": "Portrait of Huang Zuqia",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Huang Zuqia — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Huang_Zuqia"
+      }
+    ]
+  },
+  {
+    "id": "zhu-guangya",
+    "name_en": "Zhu Guangya",
+    "biography": "Born in Hubei, Zhu studied at the National Southwestern Associated University and earned his doctorate at Michigan before returning to China. He organized nuclear-weapons research and testing and helped establish defence-science institutions.",
+    "contributions": [
+      "Organized and contributed to nuclear-weapons physical design and testing in China.",
+      "Coordinated theoretical, experimental, and engineering research.",
+      "Advanced scientific training in nuclear and defence research."
+    ],
+    "fields": [
+      "Nuclear physics"
+    ],
+    "birth_display": "25 December 1924",
+    "death_display": "26 February 2011",
+    "notes": [],
+    "portrait_alt": "Portrait of Zhu Guangya",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Zhu Guangya — biographical or institutional source (www.caep.cn)",
+        "url": "https://www.caep.cn/doc/2020/01/06/497.shtml"
+      },
+      {
+        "title": "Zhu Guangya — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Zhu_Guangya"
+      }
+    ]
+  },
+  {
+    "id": "berni-alder",
+    "name_en": "Berni Alder",
+    "biography": "A German-born American physicist associated with the University of California and Lawrence Livermore, Alder applied early electronic computers to particle systems. He helped establish molecular dynamics and computational statistical physics.",
+    "contributions": [
+      "Developed hard-sphere molecular-dynamics simulations with Wainwright.",
+      "Investigated hard-sphere freezing and phase transitions numerically.",
+      "Discovered long-time tails in fluid correlation functions and transport."
+    ],
+    "fields": [
+      "Computational physics",
+      "Statistical physics"
+    ],
+    "birth_display": "9 September 1925",
+    "death_display": "7 September 2020",
+    "notes": [],
+    "portrait_alt": "Portrait of Berni Alder",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Berni Alder — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Berni_Alder"
+      }
+    ]
+  },
+  {
+    "id": "fay-ajzenberg-selove",
+    "name_en": "Fay Ajzenberg-Selove",
+    "biography": "A German-born American nuclear physicist who experienced wartime displacement, Ajzenberg-Selove studied in the United States and taught at the University of Pennsylvania. She combined experiments with nuclear-level evaluations that became essential reference data.",
+    "contributions": [
+      "Investigated energy levels and reactions of light nuclei.",
+      "Systematically evaluated light-nuclear-level data for comparisons of theory and experiment.",
+      "Maintained and updated nuclear-data reference compilations."
+    ],
+    "fields": [
+      "Nuclear physics"
+    ],
+    "birth_display": "13 February 1926",
+    "death_display": "8 August 2012",
+    "notes": [],
+    "portrait_alt": "Portrait of Fay Ajzenberg-Selove",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Fay Ajzenberg-Selove — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Fay_Ajzenberg-Selove"
+      }
+    ]
+  },
+  {
+    "id": "yu-min",
+    "name_en": "Yu Min",
+    "biography": "Born in Tianjin, Yu graduated from Peking University and joined the Institute of Modern Physics. He investigated nuclear theory and worked under extensive secrecy on the principles and design of China's hydrogen bomb.",
+    "contributions": [
+      "Investigated nuclear structure and light-nuclear reaction mechanisms.",
+      "Played a central role in developing China's hydrogen-bomb principles and theoretical scheme.",
+      "Advanced nuclear-weapons calculations and physical design."
+    ],
+    "fields": [
+      "Nuclear physics",
+      "Theoretical physics"
+    ],
+    "birth_display": "16 August 1926",
+    "death_display": "16 January 2019",
+    "notes": [],
+    "portrait_alt": "Portrait of Yu Min",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Yu Min — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Yu_Min_(physicist)"
+      }
+    ]
+  },
+  {
+    "id": "kazuhiko-nishijima",
+    "name_en": "Kazuhiko Nishijima",
+    "biography": "A Japanese theorist who worked at Osaka City University, American universities, and Tokyo, Nishijima interpreted newly discovered strange particles through new quantum-number relations. He later investigated gauge theory and confinement.",
+    "contributions": [
+      "Independently introduced quantum-number ideas explaining strange-particle production and decay.",
+      "Established the relation now associated jointly with Gell-Mann and Nishijima.",
+      "Investigated gauge properties and colour confinement in quantum field theory."
+    ],
+    "fields": [
+      "Particle physics",
+      "Quantum field theory"
+    ],
+    "birth_display": "4 October 1926",
+    "death_display": "15 February 2009",
+    "notes": [],
+    "portrait_alt": "Portrait of Kazuhiko Nishijima",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Kazuhiko Nishijima — biographical or institutional source (www.japan-acad.go.jp)",
+        "url": "https://www.japan-acad.go.jp/en/news/2009/021701.html"
+      },
+      {
+        "title": "Kazuhiko Nishijima — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Kazuhiko_Nishijima"
+      }
+    ]
+  },
+  {
+    "id": "marshall-rosenbluth",
+    "name_en": "Marshall Rosenbluth",
+    "biography": "An American theorist who worked at Los Alamos, General Atomics, and several universities, Rosenbluth became a major figure in fusion and plasma stability. He also helped develop early Monte Carlo sampling methods.",
+    "contributions": [
+      "Investigated plasma instabilities, transport, and magnetic confinement.",
+      "Contributed to the sampling method known as the Metropolis algorithm.",
+      "Developed Rosenbluth potentials for collision and transport theory."
+    ],
+    "fields": [
+      "Plasma physics",
+      "Computational physics"
+    ],
+    "birth_display": "5 February 1927",
+    "death_display": "28 September 2003",
+    "notes": [],
+    "portrait_alt": "Portrait of Marshall Rosenbluth",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Marshall Rosenbluth — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Marshall_Rosenbluth"
+      }
+    ]
+  },
+  {
+    "id": "robert-brout",
+    "name_en": "Robert Brout",
+    "biography": "An American-born Belgian theorist, Brout worked at Cornell before joining the Free University of Brussels. His collaboration with Englert on spontaneous symmetry breaking made him a co-originator of a mechanism for gauge-boson masses.",
+    "contributions": [
+      "Proposed spontaneous symmetry breaking in gauge theory with Englert.",
+      "Showed how scalar fields can generate gauge-field masses.",
+      "Investigated phase transitions, statistical physics, and cosmology."
+    ],
+    "fields": [
+      "Particle physics",
+      "Statistical physics"
+    ],
+    "birth_display": "14 June 1928",
+    "death_display": "3 May 2011",
+    "notes": [],
+    "portrait_alt": "Portrait of Robert Brout",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Robert Brout — biographical or institutional source (physicstoday.aip.org)",
+        "url": "https://physicstoday.aip.org/obituaries/robert-brout"
+      },
+      {
+        "title": "Robert Brout — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Robert_Brout"
+      }
+    ]
+  },
+  {
+    "id": "vera-rubin",
+    "name_en": "Vera Rubin",
+    "biography": "An American observational astronomer educated at Cornell and Georgetown, Rubin worked at the Carnegie Institution. With Ford, she used sensitive spectroscopy to measure galaxy rotation and advocated equal opportunities for women in research.",
+    "contributions": [
+      "Measured spiral-galaxy rotation curves systematically with Kent Ford.",
+      "Established persistent outer-galaxy rotation speeds as strong evidence for unseen matter.",
+      "Investigated galaxy motions and large-scale structure."
+    ],
+    "fields": [
+      "Galactic dynamics",
+      "Dark matter"
+    ],
+    "birth_display": "23 July 1928",
+    "death_display": "25 December 2016",
+    "notes": [],
+    "portrait_alt": "Portrait of Vera Rubin",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Vera Rubin — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Vera_Rubin"
+      }
+    ]
+  },
+  {
+    "id": "john-stewart-bell",
+    "name_en": "John Stewart Bell",
+    "biography": "A Northern Irish theorist who worked at Harwell and CERN, Bell pursued the foundations of quantum mechanics alongside particle physics. His work transformed conceptual arguments about quantum theory into experimentally testable constraints.",
+    "contributions": [
+      "Derived Bell inequalities obeyed by local hidden-variable theories.",
+      "Showed that some quantum-entanglement predictions are incompatible with hidden-variable models satisfying local causality.",
+      "Investigated the chiral anomaly with Jackiw."
+    ],
+    "fields": [
+      "Quantum foundations",
+      "Particle physics"
+    ],
+    "birth_display": "28 July 1928",
+    "death_display": "1 October 1990",
+    "notes": [],
+    "portrait_alt": "Portrait of John Stewart Bell",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "John Stewart Bell — biographical or institutional source (www.aps.org)",
+        "url": "https://www.aps.org/apsnews/2022/10/john-stewart-bell-quantum-theory"
+      },
+      {
+        "title": "John Stewart Bell — biographical or institutional source (mathshistory.st-andrews.ac.uk)",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bell_John/"
+      },
+      {
+        "title": "John Stewart Bell — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/John_Stewart_Bell"
+      }
+    ]
+  },
+  {
+    "id": "vera-kistiakowsky",
+    "name_en": "Vera Kistiakowsky",
+    "biography": "An American experimental physicist trained at Berkeley, Kistiakowsky spent much of her career at MIT. She worked on accelerator and particle-detection experiments and promoted women's participation and leadership in physics.",
+    "contributions": [
+      "Investigated nuclear reactions and elementary-particle scattering.",
+      "Contributed to high-energy detectors and accelerator experiments.",
+      "Performed experimental studies of particle properties and weak interactions."
+    ],
+    "fields": [
+      "Experimental particle physics",
+      "Nuclear physics"
+    ],
+    "birth_display": "9 September 1928",
+    "death_display": "11 December 2021",
+    "notes": [],
+    "portrait_alt": "Portrait of Vera Kistiakowsky",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Vera Kistiakowsky — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Vera_Kistiakowsky"
+      }
+    ]
+  },
+  {
+    "id": "zhou-guangzhao",
+    "name_en": "Zhou Guangzhao",
+    "biography": "Born in Changsha, Zhou studied and worked at Tsinghua, Peking University, and JINR in Dubna. He contributed to Chinese nuclear-weapons theory and later served as president of the Chinese Academy of Sciences, promoting basic research and international exchange.",
+    "contributions": [
+      "Contributed to the partially conserved axial-current idea.",
+      "Investigated relativistic scattering amplitudes and helicity methods.",
+      "Organized and contributed to nuclear-weapons theory and radiation hydrodynamics in China."
+    ],
+    "fields": [
+      "Particle physics",
+      "Nuclear physics"
+    ],
+    "birth_display": "15 May 1929",
+    "death_display": "17 August 2024",
+    "notes": [],
+    "portrait_alt": "Portrait of Zhou Guangzhao",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Zhou Guangzhao — biographical or institutional source (www.itp.cas.cn)",
+        "url": "https://www.itp.cas.cn/ztlm/zszt/ztzgz/202208/t20220822_6502343.html"
+      },
+      {
+        "title": "Zhou Guangzhao — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Zhou_Guangzhao"
+      }
+    ]
+  },
+  {
+    "id": "hugh-everett-iii",
+    "name_en": "Hugh Everett III",
+    "biography": "An American physicist, Everett completed his Princeton doctorate under Wheeler in 1957. He subsequently worked mainly in operations research and defence analysis, while the account of measurement in his dissertation became influential in quantum foundations.",
+    "contributions": [
+      "Proposed the universal wavefunction and relative-state formulation.",
+      "Sought to describe measurement using unitary evolution alone.",
+      "Established a foundation for research later called the many-worlds interpretation."
+    ],
+    "fields": [
+      "Quantum foundations"
+    ],
+    "birth_display": "11 November 1930",
+    "death_display": "19 July 1982",
+    "notes": [],
+    "portrait_alt": "Portrait of Hugh Everett III",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Hugh Everett III — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Hugh_Everett_III"
+      }
+    ]
+  },
+  {
+    "id": "mildred-dresselhaus",
+    "name_en": "Mildred Dresselhaus",
+    "biography": "An American condensed-matter physicist at MIT, Dresselhaus was among its early women tenured faculty. She used spectroscopy and transport to reveal the electronic properties of carbon materials and advocated women's participation in science.",
+    "contributions": [
+      "Investigated graphite, carbon fibres, nanotubes, and low-dimensional carbon electronic structure.",
+      "Developed Raman-spectroscopic characterization of carbon nanomaterials.",
+      "Investigated thermoelectric effects in low-dimensional systems."
+    ],
+    "fields": [
+      "Condensed-matter physics",
+      "Nanophysics"
+    ],
+    "birth_display": "11 November 1930",
+    "death_display": "20 February 2017",
+    "notes": [],
+    "portrait_alt": "Portrait of Mildred Dresselhaus",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Mildred Dresselhaus — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Mildred_Dresselhaus"
+      }
+    ]
+  },
+  {
+    "id": "e-c-george-sudarshan",
+    "name_en": "E. C. George Sudarshan",
+    "biography": "An Indian-born theorist who worked at Rochester, Harvard, and Texas, Sudarshan contributed to weak interactions, quantum optics, and open quantum systems. He also maintained an important role in Indian scientific institutions.",
+    "contributions": [
+      "Proposed the V−A theory of weak interactions with Marshak.",
+      "Established the diagonal coherent-state representation in quantum optics.",
+      "Contributed to dynamical-map descriptions of open quantum systems."
+    ],
+    "fields": [
+      "Particle physics",
+      "Quantum optics"
+    ],
+    "birth_display": "16 September 1931",
+    "death_display": "13 May 2018",
+    "notes": [],
+    "portrait_alt": "Portrait of E. C. George Sudarshan",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "E. C. George Sudarshan — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/E._C._George_Sudarshan"
+      }
+    ]
+  },
+  {
+    "id": "h-dieter-zeh",
+    "name_en": "H. Dieter Zeh",
+    "biography": "A German theorist at Heidelberg, Zeh moved from nuclear physics to measurement, the arrow of time, and cosmology. His emphasis on environmental interactions helped establish decoherence theory.",
+    "contributions": [
+      "Formulated an environmental approach to quantum decoherence.",
+      "Investigated decoherence, measurement, and the emergence of classical behaviour.",
+      "Studied the arrow of time and quantum cosmology."
+    ],
+    "fields": [
+      "Quantum foundations",
+      "Quantum gravity"
+    ],
+    "birth_display": "8 May 1932",
+    "death_display": "15 April 2018",
+    "notes": [],
+    "portrait_alt": "Portrait of H. Dieter Zeh",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "H. Dieter Zeh — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/H._Dieter_Zeh"
+      }
+    ]
+  },
+  {
+    "id": "yakir-aharonov",
+    "name_en": "Yakir Aharonov",
+    "biography": "An Israeli theorist educated at the Technion and Bristol, Aharonov taught at universities in Israel and the United States. His research addresses quantum phases, measurement, and time symmetry.",
+    "contributions": [
+      "Predicted the Aharonov–Bohm effect with Bohm, revealing the influence of electromagnetic potentials on quantum phase.",
+      "Co-developed weak measurements and weak values.",
+      "Investigated time-symmetric formulations of quantum theory."
+    ],
+    "fields": [
+      "Quantum foundations",
+      "Quantum measurement"
+    ],
+    "birth_display": "28 August 1932",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Yakir Aharonov",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Yakir Aharonov — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Yakir_Aharonov"
+      }
+    ]
+  },
+  {
+    "id": "tom-kibble",
+    "name_en": "Tom Kibble",
+    "biography": "Born in Madras, Kibble was a British theorist at Imperial College London. His work connected spontaneous symmetry breaking and gauge-field masses with phase transitions and defects in the early universe.",
+    "contributions": [
+      "Independently proposed a gauge-theory symmetry-breaking mechanism with Guralnik and Hagen.",
+      "Developed the Kibble mechanism for topological-defect formation.",
+      "Advanced the ideas underlying Kibble–Zurek nonequilibrium scaling."
+    ],
+    "fields": [
+      "Particle physics",
+      "Cosmology"
+    ],
+    "birth_display": "23 December 1932",
+    "death_display": "2 June 2016",
+    "notes": [],
+    "portrait_alt": "Portrait of Tom Kibble",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Tom Kibble — biographical or institutional source (home.cern)",
+        "url": "https://home.cern/tom-kibble-1932-2016/"
+      },
+      {
+        "title": "Tom Kibble — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Tom_Kibble"
+      }
+    ]
+  },
+  {
+    "id": "james-bjorken",
+    "name_en": "James Bjorken",
+    "biography": "An American theorist trained at Stanford, Bjorken worked mainly at SLAC and also at Fermilab. He connected field theory with high-energy scattering and helped establish the experimental interpretation of quark structure.",
+    "contributions": [
+      "Proposed Bjorken scaling in deep-inelastic scattering.",
+      "Advanced parton descriptions of nucleon structure.",
+      "Coauthored influential relativistic quantum-theory textbooks with Drell."
+    ],
+    "fields": [
+      "Particle physics"
+    ],
+    "birth_display": "22 June 1934",
+    "death_display": "6 August 2024",
+    "notes": [],
+    "portrait_alt": "Portrait of James Bjorken",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "James Bjorken — biographical or institutional source (history.fnal.gov)",
+        "url": "https://history.fnal.gov/historical/people/bjorken_landing.html"
+      },
+      {
+        "title": "James Bjorken — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/James_Bjorken"
+      }
+    ]
+  },
+  {
+    "id": "pierre-hohenberg",
+    "name_en": "Pierre Hohenberg",
+    "biography": "A French-born American theorist, Hohenberg worked at Bell Laboratories and later at New York University. His applications of statistical physics to quantum many-body and nonequilibrium systems included foundational work on density-functional theory and critical dynamics.",
+    "contributions": [
+      "Proved the Hohenberg–Kohn theorems with Kohn.",
+      "Established restrictions on low-dimensional long-range order from thermal fluctuations.",
+      "Classified critical dynamics systematically with Halperin."
+    ],
+    "fields": [
+      "Condensed-matter physics",
+      "Statistical physics"
+    ],
+    "birth_display": "3 October 1934",
+    "death_display": "15 December 2017",
+    "notes": [],
+    "portrait_alt": "Portrait of Pierre Hohenberg",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Pierre Hohenberg — biographical or institutional source (physics.nyu.edu)",
+        "url": "https://physics.nyu.edu/pierre-hohenberg-memorial/pierre-hohenberg-memorial.pdf"
+      },
+      {
+        "title": "Pierre Hohenberg — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Pierre_Hohenberg"
+      }
+    ]
+  },
+  {
+    "id": "n-david-mermin",
+    "name_en": "N. David Mermin",
+    "biography": "An American theorist at Cornell, Mermin worked in condensed-matter physics and quantum foundations and became known for clear exposition. His solid-state textbook with Ashcroft trained generations of physicists.",
+    "contributions": [
+      "Proved, with Wagner, the absence of finite-temperature long-range order in low-dimensional continuous-symmetry systems under specified conditions.",
+      "Investigated crystals and topological defects.",
+      "Developed concise arguments about quantum nonlocality and contextuality."
+    ],
+    "fields": [
+      "Condensed-matter physics",
+      "Quantum foundations"
+    ],
+    "birth_display": "30 March 1935",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of N. David Mermin",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "N. David Mermin — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/N._David_Mermin"
+      }
+    ]
+  },
+  {
+    "id": "nicola-cabibbo",
+    "name_en": "Nicola Cabibbo",
+    "biography": "An Italian theorist who worked at CERN and Rome and led INFN, Cabibbo studied weak-interaction mixing and helped develop large experimental programmes. His work linked apparently different classes of particle decays.",
+    "contributions": [
+      "Introduced the Cabibbo angle for weak mixing of down and strange quarks.",
+      "Unified descriptions of strange and nonstrange decays through weak-current universality.",
+      "Established a foundation for three-generation CKM mixing."
+    ],
+    "fields": [
+      "Particle physics"
+    ],
+    "birth_display": "10 April 1935",
+    "death_display": "16 August 2010",
+    "notes": [],
+    "portrait_alt": "Portrait of Nicola Cabibbo",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Nicola Cabibbo — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Nicola_Cabibbo"
+      }
+    ]
+  },
+  {
+    "id": "vadim-berezinskii",
+    "name_en": "Vadim Berezinskii",
+    "biography": "A Soviet theorist who worked in Leningrad and Moscow, Berezinskii studied two-dimensional and disordered systems. His short career established ideas about topological excitations and phase transitions that transformed low-dimensional physics.",
+    "contributions": [
+      "Established the possibility of quasi-long-range order in two dimensions.",
+      "Developed vortex-unbinding ideas underlying the BKT transition.",
+      "Investigated disorder and low-dimensional electronic systems."
+    ],
+    "fields": [
+      "Condensed-matter physics",
+      "Statistical physics"
+    ],
+    "birth_display": "15 July 1935",
+    "death_display": "23 June 1980",
+    "notes": [],
+    "portrait_alt": "Portrait of Vadim Berezinskii",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Vadim Berezinskii — biographical or institutional source (ufn.ru)",
+        "url": "https://ufn.ru/ufn81/ufn81_3/ufn813j.pdf"
+      },
+      {
+        "title": "Vadim Berezinskii — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Vadim_Berezinskii"
+      }
+    ]
+  },
+  {
+    "id": "sidney-coleman",
+    "name_en": "Sidney Coleman",
+    "biography": "An American theorist educated at Caltech and based at Harvard, Coleman combined influential teaching with research on symmetry, vacuum structure, and nonperturbative field theory.",
+    "contributions": [
+      "Investigated radiative symmetry breaking with Weinberg.",
+      "Proved restrictions on continuous-symmetry breaking in two-dimensional quantum field theory.",
+      "Investigated false-vacuum decay, solitons, and field-theory dualities."
+    ],
+    "fields": [
+      "Quantum field theory",
+      "Particle physics"
+    ],
+    "birth_display": "7 March 1937",
+    "death_display": "18 November 2007",
+    "notes": [],
+    "portrait_alt": "Portrait of Sidney Coleman",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Sidney Coleman — biographical or institutional source (www.nasonline.org)",
+        "url": "https://www.nasonline.org/directory-entry/sidney-r-coleman-uqrrru/"
+      },
+      {
+        "title": "Sidney Coleman — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Sidney_Coleman"
+      }
+    ]
+  },
+  {
+    "id": "mary-k-gaillard",
+    "name_en": "Mary K. Gaillard",
+    "biography": "An American theorist who worked at CERN and became the first woman to hold a tenured position in Berkeley's physics department, Gaillard connected precision calculations with experimental tests of the standard model.",
+    "contributions": [
+      "Estimated the charm-quark mass with Benjamin Lee.",
+      "Investigated three-jet events as evidence for gluons with Ellis and Ross.",
+      "Contributed to theoretical studies of Higgs-boson production and detection."
+    ],
+    "fields": [
+      "Particle physics"
+    ],
+    "birth_display": "1 April 1939",
+    "death_display": "23 May 2025",
+    "notes": [],
+    "portrait_alt": "Portrait of Mary K. Gaillard",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Mary K. Gaillard — biographical or institutional source (news.berkeley.edu)",
+        "url": "https://news.berkeley.edu/2025/07/08/pioneering-theoretical-physicist-mary-k-gaillard-has-died-at-86/"
+      },
+      {
+        "title": "Mary K. Gaillard — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Mary_K._Gaillard"
+      }
+    ]
+  },
+  {
+    "id": "john-iliopoulos",
+    "name_en": "John Iliopoulos",
+    "biography": "A Greek-born theorist, Iliopoulos worked at CERN and Harvard before joining the École normale supérieure in Paris. His studies of weak interactions and gauge theory contributed to the establishment of the standard model.",
+    "contributions": [
+      "Proposed the GIM mechanism and the role of charm with Glashow and Maiani.",
+      "Investigated gauge theory, renormalization, and supersymmetry.",
+      "Advanced the theoretical development of the standard model."
+    ],
+    "fields": [
+      "Particle physics"
+    ],
+    "birth_display": "1940",
+    "death_display": null,
+    "notes": [
+      "The sources reviewed establish the birth year; an unverified month and day have not been added."
+    ],
+    "portrait_alt": "Portrait of John Iliopoulos",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "John Iliopoulos — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/John_Iliopoulos"
+      }
+    ]
+  },
+  {
+    "id": "sau-lan-wu",
+    "name_en": "Sau Lan Wu",
+    "biography": "Born in Hong Kong, Wu obtained her doctorate at Harvard and taught at Wisconsin–Madison. She participated in several generations of collider experiments investigating elementary particles and strong and weak interactions.",
+    "contributions": [
+      "Participated in the experimental discovery of the J/psi particle.",
+      "Contributed to TASSO three-jet evidence for the gluon.",
+      "Led teams participating in ATLAS and the Higgs-boson discovery."
+    ],
+    "fields": [
+      "Experimental particle physics"
+    ],
+    "birth_display": "11 May 1940",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Sau Lan Wu",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Sau Lan Wu — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Sau_Lan_Wu"
+      }
+    ]
+  },
+  {
+    "id": "leonard-susskind",
+    "name_en": "Leonard Susskind",
+    "biography": "An American theorist educated at Cornell and based at Stanford, Susskind helped develop string descriptions of strong interactions. His later work connected black-hole quantum information, holography, and cosmology.",
+    "contributions": [
+      "Helped formulate string models of particles.",
+      "Developed black-hole complementarity and the holographic principle.",
+      "Investigated links among black-hole information, quantum complexity, and quantum gravity."
+    ],
+    "fields": [
+      "String theory",
+      "Quantum gravity"
+    ],
+    "birth_display": "16 June 1940",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Leonard Susskind",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Leonard Susskind — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Leonard_Susskind"
+      }
+    ]
+  },
+  {
+    "id": "michael-berry",
+    "name_en": "Michael Berry",
+    "biography": "A British theorist at Bristol, Berry uses geometry and asymptotic analysis to understand quantum and classical waves. His work revealed geometric structure in quantum evolution and illuminated many everyday wave phenomena.",
+    "contributions": [
+      "Discovered the geometric phase of adiabatic quantum evolution.",
+      "Investigated wave singularities, optical catastrophes, and semiclassical theory.",
+      "Advanced quantum-chaos and wave-asymptotic methods."
+    ],
+    "fields": [
+      "Mathematical physics",
+      "Wave theory"
+    ],
+    "birth_display": "14 March 1941",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Michael Berry",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Michael Berry — biographical or institutional source (www.bristol.ac.uk)",
+        "url": "https://www.bristol.ac.uk/news/2014/december/lorentz-medal-sir-michael-berry.html"
+      },
+      {
+        "title": "Michael Berry — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Michael_Berry_%28physicist%29"
+      }
+    ]
+  },
+  {
+    "id": "guido-altarelli",
+    "name_en": "Guido Altarelli",
+    "biography": "An Italian theorist who worked in Rome, the United States, and CERN, Altarelli developed testable predictions of quantum chromodynamics. His work helped make detailed comparisons between collider theory and data possible.",
+    "contributions": [
+      "Developed parton-distribution evolution equations with Parisi.",
+      "Advanced perturbative quantum chromodynamics and phenomenology.",
+      "Investigated precision electroweak tests and theories beyond the standard model."
+    ],
+    "fields": [
+      "Particle physics",
+      "Quantum chromodynamics"
+    ],
+    "birth_display": "12 July 1941",
+    "death_display": "30 September 2015",
+    "notes": [],
+    "portrait_alt": "Portrait of Guido Altarelli",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Guido Altarelli — biographical or institutional source (physicstoday.aip.org)",
+        "url": "https://physicstoday.aip.org/obituaries/guido-altarelli"
+      },
+      {
+        "title": "Guido Altarelli — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Guido_Altarelli"
+      }
+    ]
+  },
+  {
+    "id": "luciano-maiani",
+    "name_en": "Luciano Maiani",
+    "biography": "Born in Rome, Maiani is a theoretical physicist associated with the University of Rome and the leadership of INFN and CERN. His weak-interaction research accompanied an important role in European large-scale particle physics.",
+    "contributions": [
+      "Proposed the GIM mechanism with Glashow and Iliopoulos.",
+      "Investigated quark flavour, CP violation, and hadron structure.",
+      "Advanced standard-model research and major high-energy experiments."
+    ],
+    "fields": [
+      "Particle physics"
+    ],
+    "birth_display": "16 July 1941",
+    "death_display": null,
+    "notes": [
+      "The birth date is 16 July 1941 according to CERN’s official curriculum vitae. Some encyclopedia infoboxes incorrectly give 16 June."
+    ],
+    "portrait_alt": "Portrait of Luciano Maiani",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Luciano Maiani — biographical or institutional source (archives.web.cern.ch)",
+        "url": "https://archives.web.cern.ch/CERN_archive/guide/management/directors_general/isamaiani/"
+      },
+      {
+        "title": "Luciano Maiani — biographical or institutional source (home.cern)",
+        "url": "https://home.cern/fr/le-professeur-luciano-maiani-sera-le-prochain-directeur-general-du-cern/"
+      },
+      {
+        "title": "Luciano Maiani — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Luciano_Maiani"
+      }
+    ]
+  },
+  {
+    "id": "stephen-hawking",
+    "name_en": "Stephen Hawking",
+    "biography": "A British theorist at Cambridge and former Lucasian Professor, Hawking continued research and writing during decades of motor-neurone disease. He connected general relativity, quantum theory, and cosmology.",
+    "contributions": [
+      "Established singularity theorems with Penrose.",
+      "Predicted that black holes have a temperature and emit Hawking radiation.",
+      "Proposed the no-boundary cosmological wavefunction with Hartle."
+    ],
+    "fields": [
+      "Cosmology",
+      "Black-hole physics"
+    ],
+    "birth_display": "8 January 1942",
+    "death_display": "14 March 2018",
+    "notes": [],
+    "portrait_alt": "Portrait of Stephen Hawking",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Stephen Hawking — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Stephen_Hawking"
+      }
+    ]
+  },
+  {
+    "id": "renata-kallosh",
+    "name_en": "Renata Kallosh",
+    "biography": "A Russian-born theorist, Kallosh worked at the Lebedev Institute before joining Stanford. Her research on supersymmetry, supergravity, and inflation connects particle theory with models of the early universe.",
+    "contributions": [
+      "Investigated quantum corrections and ultraviolet properties of supergravity.",
+      "Constructed string-vacuum and cosmological models with collaborators.",
+      "Developed supergravity inflation and alpha-attractor models."
+    ],
+    "fields": [
+      "Supergravity",
+      "Cosmology"
+    ],
+    "birth_display": "16 January 1943",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Renata Kallosh",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Renata Kallosh — biographical or institutional source (web.stanford.edu)",
+        "url": "https://web.stanford.edu/~rkallosh/"
+      },
+      {
+        "title": "Renata Kallosh — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Renata_Kallosh"
+      }
+    ]
+  },
+  {
+    "id": "helen-quinn",
+    "name_en": "Helen Quinn",
+    "biography": "An Australian-born theorist who worked at Stanford and SLAC, Quinn investigated the standard model, symmetry breaking, and particle phenomenology. She also became active in science education and curriculum development.",
+    "contributions": [
+      "Proposed Peccei–Quinn symmetry as a solution to the strong-CP problem.",
+      "Investigated coupling-constant evolution in unified theories with Georgi and Weinberg.",
+      "Studied CP violation and heavy-flavour physics."
+    ],
+    "fields": [
+      "Particle physics"
+    ],
+    "birth_display": "19 May 1943",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Helen Quinn",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Helen Quinn — biographical or institutional source (ahro.slac.stanford.edu)",
+        "url": "https://ahro.slac.stanford.edu/resources/slac-history/faculty-and-staff-biographies/helen-quinn"
+      },
+      {
+        "title": "Helen Quinn — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Helen_Quinn"
+      }
+    ]
+  },
+  {
+    "id": "jocelyn-bell-burnell",
+    "name_en": "Jocelyn Bell Burnell",
+    "biography": "Born in Northern Ireland, Bell Burnell helped build a radio telescope as a Cambridge graduate student and identified regular pulses in its records in 1967. She later worked at British universities and supported science education and equitable research opportunities.",
+    "contributions": [
+      "Discovered the first pulsar radio signals.",
+      "Helped establish the observational study of rapidly rotating neutron stars.",
+      "Advanced radio and high-energy astronomy."
+    ],
+    "fields": [
+      "Radio astronomy",
+      "Neutron stars"
+    ],
+    "birth_display": "15 July 1943",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Jocelyn Bell Burnell",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Jocelyn Bell Burnell — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell"
+      }
+    ]
+  },
+  {
+    "id": "alexander-polyakov",
+    "name_en": "Alexander Polyakov",
+    "biography": "A Russian-born theorist, Polyakov worked at the Landau Institute before joining Princeton. His nonperturbative methods connect gauge theory, conformal field theory, strings, and critical phenomena.",
+    "contributions": [
+      "Helped establish the framework of two-dimensional conformal field theory.",
+      "Developed studies of instantons, monopoles, and confinement in gauge theories.",
+      "Introduced the Polyakov action in string quantization."
+    ],
+    "fields": [
+      "Quantum field theory",
+      "Statistical physics"
+    ],
+    "birth_display": "27 September 1945",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Alexander Polyakov",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Alexander Polyakov — biographical or institutional source (faculty.princeton.edu)",
+        "url": "https://faculty.princeton.edu/people/alexander-polyakov"
+      },
+      {
+        "title": "Alexander Polyakov — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Alexander_Polyakov_%28physicist%29"
+      }
+    ]
+  },
+  {
+    "id": "alan-guth",
+    "name_en": "Alan Guth",
+    "biography": "An American theorist educated at MIT, Guth worked at Cornell and SLAC before returning to MIT. He applied vacuum phase-transition ideas from particle physics to the evolution of the early universe.",
+    "contributions": [
+      "Proposed inflation to address the horizon and flatness problems through rapid accelerated expansion.",
+      "Advanced the idea that quantum fluctuations seed cosmic large-scale structure."
+    ],
+    "fields": [
+      "Cosmology",
+      "Particle physics"
+    ],
+    "birth_display": "27 February 1947",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Alan Guth",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Alan Guth — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Alan_Guth"
+      }
+    ]
+  },
+  {
+    "id": "jacob-bekenstein",
+    "name_en": "Jacob Bekenstein",
+    "biography": "Born in Mexico, Bekenstein studied with Wheeler at Princeton before teaching in Israel. His early proposal that black holes possess entropy helped establish links between thermodynamics, information, and gravitation.",
+    "contributions": [
+      "Proposed black-hole entropy proportional to horizon area.",
+      "Formulated the generalized second law including black-hole entropy.",
+      "Established the Bekenstein bound on entropy and information in finite systems."
+    ],
+    "fields": [
+      "Black-hole physics",
+      "Gravitation"
+    ],
+    "birth_display": "1 May 1947",
+    "death_display": "16 August 2015",
+    "notes": [],
+    "portrait_alt": "Portrait of Jacob Bekenstein",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Jacob Bekenstein — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Jacob_Bekenstein"
+      }
+    ]
+  },
+  {
+    "id": "andrei-linde",
+    "name_en": "Andrei Linde",
+    "biography": "A Russian-born theorist who worked at the Lebedev Institute before joining Stanford, Linde developed several inflationary models. He investigated early-universe scalar-field dynamics and quantum cosmology.",
+    "contributions": [
+      "Developed new and chaotic inflation.",
+      "Developed the picture of self-reproducing inflationary universes.",
+      "Investigated scalar fields, vacuum transitions, and cosmological initial conditions."
+    ],
+    "fields": [
+      "Cosmology",
+      "Quantum field theory"
+    ],
+    "birth_display": "2 March 1948",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Andrei Linde",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Andrei Linde — biographical or institutional source (profiles.stanford.edu)",
+        "url": "https://profiles.stanford.edu/andrei-linde"
+      },
+      {
+        "title": "Andrei Linde — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Andrei_Linde"
+      }
+    ]
+  },
+  {
+    "id": "edward-witten",
+    "name_en": "Edward Witten",
+    "biography": "An American theorist with a Princeton doctorate, Witten works at the Institute for Advanced Study. He links quantum field theory with geometry and topology, promoting deep exchanges between physics and mathematics; he received the Fields Medal in 1990.",
+    "contributions": [
+      "Developed topological quantum field theory and connections with geometric invariants.",
+      "Advanced string dualities and M-theory.",
+      "Investigated nonperturbative supersymmetric gauge theories with Seiberg and others."
+    ],
+    "fields": [
+      "String theory",
+      "Mathematical physics"
+    ],
+    "birth_display": "26 August 1951",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Edward Witten",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Edward Witten — biographical or institutional source (www.ias.edu)",
+        "url": "https://www.ias.edu/scholars/witten"
+      },
+      {
+        "title": "Edward Witten — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Edward_Witten"
+      }
+    ]
+  },
+  {
+    "id": "lene-hau",
+    "name_en": "Lene Hau",
+    "biography": "A Danish-born experimental physicist educated at Aarhus, Hau worked at the Rowland Institute and Harvard. She uses ultracold atoms to control light propagation and coherent exchanges between optical and material states.",
+    "contributions": [
+      "Greatly reduced light-pulse group velocities in a Bose–Einstein condensate.",
+      "Stored and recovered optical-pulse information using electromagnetically induced transparency and related coherent mechanisms.",
+      "Investigated ultracold atoms and quantum-coherent control."
+    ],
+    "fields": [
+      "Atomic physics",
+      "Quantum optics"
+    ],
+    "birth_display": "13 November 1959",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Lene Hau",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Lene Hau — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Lene_Hau"
+      }
+    ]
+  },
+  {
+    "id": "fabiola-gianotti",
+    "name_en": "Fabiola Gianotti",
+    "biography": "An Italian experimental particle physicist with a Milan doctorate, Gianotti joined CERN and served as ATLAS spokesperson during the Higgs-discovery period. She subsequently became CERN's director-general, combining experimental work with leadership of international collaborations.",
+    "contributions": [
+      "Led and contributed to ATLAS detector development, analysis, and collaboration.",
+      "Participated in the Higgs-boson discovery and property measurements.",
+      "Advanced collider research and international scientific cooperation."
+    ],
+    "fields": [
+      "Experimental particle physics"
+    ],
+    "birth_display": "29 October 1960",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Fabiola Gianotti",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Fabiola Gianotti — biographical or institutional source (home.cern)",
+        "url": "https://home.cern/about/who-we-are/our-people/fabiola-gianotti/"
+      },
+      {
+        "title": "Fabiola Gianotti — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Fabiola_Gianotti"
+      }
+    ]
+  },
+  {
+    "id": "lisa-randall",
+    "name_en": "Lisa Randall",
+    "biography": "An American theorist who studied and worked at Harvard, Princeton, and MIT, Randall is based at Harvard. She investigates extra dimensions, dark matter, and connections between particle physics and cosmology.",
+    "contributions": [
+      "Proposed warped-extra-dimension models with Raman Sundrum.",
+      "Investigated the hierarchy problem, localized gravity, and testable new physics.",
+      "Explored dark-matter and early-universe models."
+    ],
+    "fields": [
+      "Particle physics",
+      "Cosmology"
+    ],
+    "birth_display": "18 June 1962",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Lisa Randall",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Lisa Randall — biographical or institutional source (www.physics.harvard.edu)",
+        "url": "https://www.physics.harvard.edu/people/facpages/randall"
+      },
+      {
+        "title": "Lisa Randall — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Lisa_Randall"
+      }
+    ]
+  },
+  {
+    "id": "nergis-mavalvala",
+    "name_en": "Nergis Mavalvala",
+    "biography": "A Pakistan-born American experimental physicist with an MIT doctorate, Mavalvala participated in LIGO and later returned to MIT as a faculty member. Her work combines precision interferometry, quantum optics, and gravitational-wave detection.",
+    "contributions": [
+      "Developed precision laser interferometry for gravitational-wave detectors.",
+      "Investigated squeezed light and quantum-noise reduction.",
+      "Advanced quantum measurement and control of macroscopic optomechanical systems."
+    ],
+    "fields": [
+      "Gravitational waves",
+      "Quantum optics"
+    ],
+    "birth_display": "1968",
+    "death_display": null,
+    "notes": [
+      "The sources reviewed establish only the birth year; a month and day have not been invented."
+    ],
+    "portrait_alt": "Portrait of Nergis Mavalvala",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Nergis Mavalvala — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Nergis_Mavalvala"
+      }
+    ]
+  },
+  {
+    "id": "juan-maldacena",
+    "name_en": "Juan Maldacena",
+    "biography": "An Argentine-born theorist with a Princeton doctorate, Maldacena taught at Harvard before joining the Institute for Advanced Study. His research connects black holes, quantum field theory, and quantum gravity.",
+    "contributions": [
+      "Proposed the AdS/CFT correspondence between certain gravitational theories and lower-dimensional quantum field theories.",
+      "Investigated black-hole thermodynamics, entanglement, and holography.",
+      "Advanced calculations in strongly coupled quantum systems."
+    ],
+    "fields": [
+      "Quantum gravity",
+      "String theory"
+    ],
+    "birth_display": "10 September 1968",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Juan Maldacena",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Juan Maldacena — biographical or institutional source (www.ias.edu)",
+        "url": "https://www.ias.edu/sns/malda"
+      },
+      {
+        "title": "Juan Maldacena — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Juan_Maldacena"
+      }
+    ]
+  },
+  {
+    "id": "deborah-s-jin",
+    "name_en": "Deborah S. Jin",
+    "biography": "An American experimental physicist educated at Chicago, Jin worked at JILA and NIST. By cooling fermionic atoms into quantum degeneracy she opened experimental approaches to strongly interacting many-body systems.",
+    "contributions": [
+      "Produced an early quantum-degenerate Fermi gas.",
+      "Created a condensate of paired fermionic atoms with her team.",
+      "Advanced experiments on the BEC–BCS crossover and strongly correlated Fermi gases."
+    ],
+    "fields": [
+      "Ultracold atoms",
+      "Quantum many-body physics"
+    ],
+    "birth_display": "15 November 1968",
+    "death_display": "15 September 2016",
+    "notes": [],
+    "portrait_alt": "Portrait of Deborah S. Jin",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Deborah S. Jin — biographical or institutional source (www.nist.gov)",
+        "url": "https://www.nist.gov/news-events/news/2016/09/prominent-nist-and-jila-physicist-deborah-jin-passes-away"
+      },
+      {
+        "title": "Deborah S. Jin — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Deborah_S._Jin"
+      }
+    ]
+  },
+  {
+    "id": "nima-arkani-hamed",
+    "name_en": "Nima Arkani-Hamed",
+    "biography": "An American-born theorist of Iranian ancestry, Arkani-Hamed worked at Berkeley and Harvard before joining the Institute for Advanced Study. He investigates physics beyond the standard model and geometric structures in scattering amplitudes.",
+    "contributions": [
+      "Proposed large extra dimensions with Dimopoulos and Dvali.",
+      "Contributed to little-Higgs and split-supersymmetry models.",
+      "Developed geometric scattering-amplitude methods and the amplituhedron programme."
+    ],
+    "fields": [
+      "Particle physics",
+      "Quantum field theory"
+    ],
+    "birth_display": "5 April 1972",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Nima Arkani-Hamed",
+    "portrait_note": "Sourced photograph or portrait; the image record identifies its creator, provenance, and reuse conditions.",
+    "sources": [
+      {
+        "title": "Nima Arkani-Hamed — biographical or institutional source (www.ias.edu)",
+        "url": "https://www.ias.edu/sites/default/files/Nima%20Arkani-Hamed_CV%20%26%20Bibilography%209.23.25.pdf"
+      },
+      {
+        "title": "Nima Arkani-Hamed — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Nima_Arkani-Hamed"
+      }
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Gertrude Scharff Goldhaber",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/Gertrude_Scharff_Goldhaber_from_Biographical_Memoirs.png",
+    "source": "https://en.wikipedia.org/wiki/File:Gertrude_Scharff_Goldhaber_from_Biographical_Memoirs.png",
+    "image_status": 200,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/modern-extra-gertrude-scharff-goldhaber.png",
+    "page_status": 200,
+    "nonfree": true
+  },
+  {
+    "name": "Hermann Bondi",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/fa/HermanBondi.jpg/250px-HermanBondi.jpg",
+    "source": "https://en.wikipedia.org/wiki/File:HermanBondi.jpg",
+    "image_status": 200,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/modern-extra-hermann-bondi.jpg",
+    "page_status": 200,
+    "nonfree": true
+  },
+  {
+    "name": "Thomas Gold",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/58/Thomas_Gold.jpg/250px-Thomas_Gold.jpg",
+    "source": "https://en.wikipedia.org/wiki/File:Thomas_Gold.jpg",
+    "image_status": 200,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/modern-extra-thomas-gold.jpg",
+    "page_status": 200,
+    "nonfree": true
+  },
+  {
+    "name": "Xie Jialin",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/Xie_Jialin.jpeg",
+    "source": "https://en.wikipedia.org/wiki/File:Xie_Jialin.jpeg",
+    "image_status": 200,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/modern-extra-xie-jialin.jpeg",
+    "page_status": 200,
+    "nonfree": true
+  },
+  {
+    "name": "Sulamith Goldhaber",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/Sulamith_Goldhaber.jpeg",
+    "source": "https://en.wikipedia.org/wiki/File:Sulamith_Goldhaber.jpeg",
+    "image_status": 200,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/modern-extra-sulamith-goldhaber.jpeg",
+    "page_status": 200,
+    "nonfree": true
+  },
+  {
+    "name": "Dai Yuanben",
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/6a/Dai_Yuanben.jpeg",
+    "source": "https://en.wikipedia.org/wiki/File:Dai_Yuanben.jpeg",
+    "image_status": 429,
+    "page_status": 200,
+    "nonfree": true
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "people": 721,
+  "images": 721,
+  "image_kinds": {
+    "portrait": 672,
+    "posthumous_depiction": 29,
+    "context_image": 20
+  },
+  "nobel_physics_people": 230,
+  "cohorts": {
+    "additions-early": 57,
+    "additions-experimental": 10,
+    "additions-field-theory": 14,
+    "additions-modern": 72,
+    "additions-nineteenth": 37,
+    "early_history": 81,
+    "modern_contributors": 132,
+    "nineteenth_century": 88,
+    "nobel-physics": 230
+  },
+  "missing_portraits": [],
+  "as_of": "2026-10-26"
+}

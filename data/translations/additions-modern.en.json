@@ -1,0 +1,2204 @@
+[
+  {
+    "id": "walther-meissner",
+    "name_en": "Walther Meissner",
+    "biography": "A German experimentalist who worked in national metrology and Munich, Meissner investigated materials at low temperatures. His discovery with Ochsenfeld of magnetic-flux expulsion distinguished superconductivity from zero resistance alone.",
+    "contributions": [
+      "Discovered the Meissner effect with Ochsenfeld.",
+      "Investigated low-temperature metallic transport and superconductivity.",
+      "Developed cryogenic apparatus and precision measurements."
+    ],
+    "fields": [
+      "Low-temperature physics",
+      "Superconductivity"
+    ],
+    "birth_display": "16 December 1882",
+    "death_display": "16 November 1974",
+    "notes": [],
+    "portrait_alt": "Portrait of Walther Meissner",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Walther Meissner — institutional or reference biography (maglabweb.magnet.fsu.edu)",
+        "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/walther-meissner/"
+      },
+      {
+        "title": "Walther Meissner — institutional or reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Walther_Meissner"
+      }
+    ]
+  },
+  {
+    "id": "walter-baade",
+    "name_en": "Walter Baade",
+    "biography": "A German-born observational astronomer, Baade worked in Hamburg and at Mount Wilson and Palomar. Resolving stars in galaxies allowed him to revise stellar populations and the extragalactic distance scale.",
+    "contributions": [
+      "Distinguished Population I and Population II stars.",
+      "Revised Cepheid calibration and extragalactic distances.",
+      "Connected supernovae with neutron stars with Zwicky."
+    ],
+    "fields": [
+      "Stellar physics",
+      "Observational cosmology"
+    ],
+    "birth_display": "24 March 1893",
+    "death_display": "25 June 1960",
+    "notes": [],
+    "portrait_alt": "Portrait of Walter Baade",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Walter Baade — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Walter_Baade"
+      }
+    ]
+  },
+  {
+    "id": "pascual-jordan",
+    "name_en": "Pascual Jordan",
+    "biography": "A German theorist who collaborated with Born and Heisenberg in Göttingen, Jordan later taught in Rostock, Berlin, and Hamburg. He helped establish quantum mechanics and field quantization and investigated algebraic and gravitational theories.",
+    "contributions": [
+      "Helped establish matrix mechanics and canonical quantization.",
+      "Developed fermionic anticommutation relations and field quantization.",
+      "Introduced Jordan algebras and investigated scalar–tensor gravitation."
+    ],
+    "fields": [
+      "Quantum mechanics",
+      "Quantum field theory"
+    ],
+    "birth_display": "18 October 1902",
+    "death_display": "31 July 1980",
+    "notes": [
+      "Jordan joined the Nazi Party in 1933 and later entered postwar politics; his scientific achievements should be presented together with this historical context."
+    ],
+    "portrait_alt": "Portrait of Pascual Jordan",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Pascual Jordan — institutional or scholarly source (www.deutsche-biographie.de)",
+        "url": "https://www.deutsche-biographie.de/dbo075663.html?language=en"
+      },
+      {
+        "title": "Pascual Jordan — institutional or scholarly source (mathshistory.st-andrews.ac.uk)",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies//Jordan_Pascual/"
+      },
+      {
+        "title": "Pascual Jordan — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Pascual_Jordan"
+      }
+    ]
+  },
+  {
+    "id": "ernst-stueckelberg",
+    "name_en": "Ernst Stueckelberg",
+    "biography": "A Swiss theorist who worked in Europe and the United States, Stueckelberg taught in Geneva and Lausanne. Several of his field-theory ideas anticipated later widely adopted formulations but initially received limited recognition.",
+    "contributions": [
+      "Developed relativistically covariant perturbation theory.",
+      "Related antiparticles to propagation backward in time.",
+      "Developed renormalization-group ideas with Petermann."
+    ],
+    "fields": [
+      "Quantum field theory",
+      "Particle physics"
+    ],
+    "birth_display": "1 February 1905",
+    "death_display": "4 September 1984",
+    "notes": [],
+    "portrait_alt": "Portrait of Ernst Stueckelberg",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Ernst Stueckelberg — institutional or scholarly source (cern-courier.web.cern.ch)",
+        "url": "https://cern-courier.web.cern.ch/a/interactions-with-andr-petermann/"
+      },
+      {
+        "title": "Ernst Stueckelberg — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Ernst_Stueckelberg"
+      },
+      {
+        "title": "Ernst Stueckelberg — institutional or scholarly source (mathshistory.st-andrews.ac.uk)",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Stueckelberg.html"
+      }
+    ]
+  },
+  {
+    "id": "karl-jansky",
+    "name_en": "Karl Jansky",
+    "biography": "An American radio engineer at Bell Laboratories, Jansky identified Galactic radio emission while studying shortwave-communication noise. By recognizing an astronomical origin for apparent interference, he helped establish radio astronomy.",
+    "contributions": [
+      "Discovered radio emission from the Milky Way.",
+      "Used antenna directionality and sidereal periodicity to identify astronomical signals.",
+      "Established experimental foundations for radio astronomy."
+    ],
+    "fields": [
+      "Radio astronomy",
+      "Experimental physics"
+    ],
+    "birth_display": "22 October 1905",
+    "death_display": "14 February 1950",
+    "notes": [],
+    "portrait_alt": "Portrait of Karl Jansky",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Karl Jansky — institutional or reference biography (maglabweb.magnet.fsu.edu)",
+        "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/karl-jansky/"
+      },
+      {
+        "title": "Karl Jansky — institutional or reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Karl_Guthe_Jansky"
+      }
+    ]
+  },
+  {
+    "id": "giuseppe-occhialini",
+    "name_en": "Giuseppe Occhialini",
+    "biography": "An Italian experimentalist, Occhialini worked with Blackett and Powell in Britain before building cosmic-ray and space research in Milan. He combined track detectors with electronics and participated in new-particle discoveries.",
+    "contributions": [
+      "Developed coincidence-triggered cloud chambers with Blackett.",
+      "Participated in the nuclear-emulsion discovery of the pion.",
+      "Advanced Italian space physics and X-ray astronomy."
+    ],
+    "fields": [
+      "Cosmic rays",
+      "Particle physics"
+    ],
+    "birth_display": "5 December 1907",
+    "death_display": "30 December 1993",
+    "notes": [],
+    "portrait_alt": "Portrait of Giuseppe Occhialini",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Giuseppe Occhialini — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Giuseppe_Occhialini"
+      }
+    ]
+  },
+  {
+    "id": "john-d-kraus",
+    "name_en": "John D. Kraus",
+    "biography": "An American physicist and antenna researcher educated at Michigan, Kraus taught at Ohio State. He developed antennas, radio telescopes, and astronomical surveys and wrote influential electromagnetics and antenna texts.",
+    "contributions": [
+      "Invented and developed helical and other radio antennas.",
+      "Designed and built the Big Ear radio telescope and conducted radio surveys.",
+      "Advanced radio astronomy and electromagnetic education."
+    ],
+    "fields": [
+      "Radio astronomy",
+      "Electromagnetism"
+    ],
+    "birth_display": "28 June 1910",
+    "death_display": "18 July 2004",
+    "notes": [],
+    "portrait_alt": "Portrait of John D. Kraus",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "John D. Kraus — institutional or reference biography (maglabweb.magnet.fsu.edu)",
+        "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/john-daniel-kraus/"
+      },
+      {
+        "title": "John D. Kraus — institutional or reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/John_D._Kraus"
+      }
+    ]
+  },
+  {
+    "id": "maurice-goldhaber",
+    "name_en": "Maurice Goldhaber",
+    "biography": "An Austrian-born American experimentalist, Goldhaber worked with Chadwick at Cambridge and later at Illinois and Brookhaven, which he directed. His nuclear experiments measured fundamental-particle properties.",
+    "contributions": [
+      "Investigated deuteron photodisintegration with Chadwick.",
+      "Measured neutrino helicity with Grodzins and Sunyar.",
+      "Investigated nuclear and particle conservation properties."
+    ],
+    "fields": [
+      "Nuclear physics",
+      "Neutrino physics"
+    ],
+    "birth_display": "18 April 1911",
+    "death_display": "11 May 2011",
+    "notes": [],
+    "portrait_alt": "Portrait of Maurice Goldhaber",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Maurice Goldhaber — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Maurice_Goldhaber"
+      },
+      {
+        "title": "Brookhaven National Laboratory — In Memoriam: Maurice Goldhaber",
+        "url": "https://www.bnl.gov/newsroom/news.php?a=22383"
+      }
+    ]
+  },
+  {
+    "id": "gertrude-scharff-goldhaber",
+    "name_en": "Gertrude Scharff Goldhaber",
+    "biography": "A German-born American nuclear physicist who left Nazi Germany, Scharff Goldhaber worked at Brookhaven. She investigated nuclear levels, isomers, and collective motion and advocated equal opportunities for women scientists.",
+    "contributions": [
+      "Investigated nuclear excited states and isomers.",
+      "Established systematic patterns of nuclear levels with neutron number.",
+      "Developed collective-motion models with collaborators."
+    ],
+    "fields": [
+      "Nuclear physics",
+      "Experimental physics"
+    ],
+    "birth_display": "14 July 1911",
+    "death_display": "2 February 1998",
+    "notes": [],
+    "portrait_alt": "Portrait of Gertrude Scharff Goldhaber",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Gertrude Scharff Goldhaber — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Gertrude_Scharff_Goldhaber"
+      },
+      {
+        "title": "Gertrude Scharff Goldhaber — institutional or scholarly source (cwp.library.ucla.edu)",
+        "url": "http://cwp.library.ucla.edu/Phase2/Goldhaber,_Gertrude_Scharff@812345678.html"
+      }
+    ]
+  },
+  {
+    "id": "martin-schwarzschild",
+    "name_en": "Martin Schwarzschild",
+    "biography": "A German-born American astrophysicist at Princeton, Schwarzschild used early computers to investigate stellar interiors and evolution. He also developed high-altitude astronomical observations.",
+    "contributions": [
+      "Advanced numerical stellar-structure and evolution calculations.",
+      "Investigated convection and post-main-sequence evolution.",
+      "Developed Stratoscope balloon-telescope observations."
+    ],
+    "fields": [
+      "Stellar physics",
+      "Computational physics"
+    ],
+    "birth_display": "31 May 1912",
+    "death_display": "10 April 1997",
+    "notes": [],
+    "portrait_alt": "Portrait of Martin Schwarzschild",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Martin Schwarzschild — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Martin_Schwarzschild"
+      }
+    ]
+  },
+  {
+    "id": "lyman-spitzer",
+    "name_en": "Lyman Spitzer",
+    "biography": "An American astrophysicist at Princeton, Spitzer studied interstellar matter, stellar dynamics, and fusion plasmas. He was an early advocate of observing the universe with space telescopes.",
+    "contributions": [
+      "Proposed the stellarator for magnetic-confinement fusion.",
+      "Investigated interstellar matter and plasma transport.",
+      "Advocated space telescopes and helped develop the later Hubble programme."
+    ],
+    "fields": [
+      "Plasma physics",
+      "Astrophysics"
+    ],
+    "birth_display": "26 June 1914",
+    "death_display": "31 March 1997",
+    "notes": [],
+    "portrait_alt": "Portrait of Lyman Spitzer",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Lyman Spitzer — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Lyman_Spitzer"
+      }
+    ]
+  },
+  {
+    "id": "robert-herman",
+    "name_en": "Robert Herman",
+    "biography": "An American physicist, Herman worked on spectroscopy and wartime technology before studying cosmology, industrial problems, and traffic flow. His collaboration with Alpher connected early-universe nuclear physics with relic thermal radiation.",
+    "contributions": [
+      "Estimated the temperature of relic cosmic radiation with Alpher.",
+      "Investigated primordial nucleosynthesis and cosmic thermal evolution.",
+      "Applied statistical-physics methods to traffic and complex systems."
+    ],
+    "fields": [
+      "Cosmology",
+      "Statistical physics"
+    ],
+    "birth_display": "29 August 1914",
+    "death_display": "13 February 1997",
+    "notes": [],
+    "portrait_alt": "Portrait of Robert Herman",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Robert Herman — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Robert_Herman"
+      }
+    ]
+  },
+  {
+    "id": "fred-hoyle",
+    "name_en": "Fred Hoyle",
+    "biography": "A British astrophysicist at Cambridge, Hoyle helped build theoretical-astronomy institutions. He made major contributions to stellar nucleosynthesis and also proposed the steady-state model later contradicted by observations.",
+    "contributions": [
+      "Developed stellar nucleosynthesis and coauthored the B²FH synthesis.",
+      "Predicted the carbon-12 resonance enabling stellar carbon production.",
+      "Proposed steady-state cosmology with Bondi and Gold."
+    ],
+    "fields": [
+      "Nuclear astrophysics",
+      "Cosmology"
+    ],
+    "birth_display": "24 June 1915",
+    "death_display": "20 August 2001",
+    "notes": [],
+    "portrait_alt": "Portrait of Fred Hoyle",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Fred Hoyle — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Fred_Hoyle"
+      },
+      {
+        "title": "Fred Hoyle — institutional or scholarly source (astro.sites.clemson.edu)",
+        "url": "https://astro.sites.clemson.edu/NucleoArchive/PhotoList/1970s/75letterHC.html"
+      }
+    ]
+  },
+  {
+    "id": "hu-ning",
+    "name_en": "Hu Ning",
+    "biography": "Born in Suqian, Hu worked at Caltech, Princeton, Dublin, and Copenhagen before teaching at Peking University. He investigated nuclear forces, scattering matrices, and hadron structure and trained Chinese theorists.",
+    "contributions": [
+      "Investigated meson-mediated nuclear forces and relativistic field theory.",
+      "Developed a hadron substructure model with Zhu Hongyuan and collaborators.",
+      "Wrote electrodynamics and field-theory texts and built theoretical-physics research."
+    ],
+    "fields": [
+      "Quantum field theory",
+      "Particle physics"
+    ],
+    "birth_display": "11 February 1916",
+    "death_display": "26 December 1997",
+    "notes": [
+      "Some foreign-language webpages give 16 December. The archive uses 26 December 1997 from Peking University’s memorial biography."
+    ],
+    "portrait_alt": "Portrait of Hu Ning",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Hu Ning — institutional or scholarly source (www.xsg.pku.edu.cn)",
+        "url": "https://www.xsg.pku.edu.cn/heros/scholar/detail/553.html"
+      },
+      {
+        "title": "Hu Ning — institutional or scholarly source (news.pku.edu.cn)",
+        "url": "https://news.pku.edu.cn/xwzh/129-119217.htm"
+      },
+      {
+        "title": "Hu Ning — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Hu_Ning"
+      }
+    ]
+  },
+  {
+    "id": "claude-shannon",
+    "name_en": "Claude Shannon",
+    "biography": "An American mathematician and electrical engineer at Bell Laboratories and MIT, Shannon established a probabilistic theory of communication and applied Boolean algebra to switching circuits. He is included for foundational contributions relevant to the physics of information.",
+    "contributions": [
+      "Established information theory through entropy and channel capacity.",
+      "Applied Boolean algebra to switching-circuit analysis.",
+      "Investigated coding limits and cryptographic systems."
+    ],
+    "fields": [
+      "Information theory",
+      "Statistical physics"
+    ],
+    "birth_display": "30 April 1916",
+    "death_display": "24 February 2001",
+    "notes": [],
+    "portrait_alt": "Portrait of Claude Shannon",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Claude Shannon — institutional or reference biography (maglabweb.magnet.fsu.edu)",
+        "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/claude-shannon/"
+      },
+      {
+        "title": "Claude Shannon — institutional or reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Claude_Shannon"
+      }
+    ]
+  },
+  {
+    "id": "margaret-burbidge",
+    "name_en": "Margaret Burbidge",
+    "biography": "A British-born American astrophysicist at UC San Diego and former director of the Royal Greenwich Observatory, Burbidge used stellar and galactic spectra to investigate elemental origins and advocated equality for women in astronomy.",
+    "contributions": [
+      "Coauthored the B²FH synthesis of stellar nucleosynthesis.",
+      "Investigated elemental abundances through stellar spectra.",
+      "Studied galaxies and quasars and helped develop Hubble's spectrograph."
+    ],
+    "fields": [
+      "Astronomical spectroscopy",
+      "Nuclear astrophysics"
+    ],
+    "birth_display": "12 August 1919",
+    "death_display": "5 April 2020",
+    "notes": [],
+    "portrait_alt": "Portrait of Margaret Burbidge",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Margaret Burbidge — institutional or reference biography (today.ucsd.edu)",
+        "url": "https://today.ucsd.edu/story/physics-pioneer-margaret-burbidge-dies-at-100"
+      },
+      {
+        "title": "Margaret Burbidge — institutional or reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Margaret_Burbidge"
+      }
+    ]
+  },
+  {
+    "id": "hermann-bondi",
+    "name_en": "Hermann Bondi",
+    "biography": "An Austrian-born British mathematician and cosmologist, Bondi worked at Cambridge and King's College London and led scientific organizations. His research addressed gravitational radiation and cosmological models.",
+    "contributions": [
+      "Developed the treatment of gravitational radiation and Bondi mass.",
+      "Proposed steady-state cosmology with Gold and Hoyle.",
+      "Investigated gravitational accretion and relativistic astrophysics."
+    ],
+    "fields": [
+      "General relativity",
+      "Cosmology"
+    ],
+    "birth_display": "1 November 1919",
+    "death_display": "10 September 2005",
+    "notes": [],
+    "portrait_alt": "Portrait of Hermann Bondi",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Hermann Bondi — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Hermann_Bondi"
+      }
+    ]
+  },
+  {
+    "id": "clyde-cowan",
+    "name_en": "Clyde Cowan",
+    "biography": "An American experimental physicist, Cowan worked at Los Alamos and later at the Catholic University of America. With Reines he used intense reactor antineutrino fluxes to detect extremely weak interactions.",
+    "contributions": [
+      "Made the first direct detection of electron antineutrinos with Reines.",
+      "Developed coincidence-based reactor-neutrino experiments.",
+      "Investigated particle detection and nuclear experimental techniques."
+    ],
+    "fields": [
+      "Neutrino physics",
+      "Nuclear physics"
+    ],
+    "birth_display": "6 December 1919",
+    "death_display": "24 May 1974",
+    "notes": [],
+    "portrait_alt": "Portrait of Clyde Cowan",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Clyde Cowan — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Clyde_Cowan"
+      },
+      {
+        "title": "Clyde Cowan — institutional or scholarly source (hyperphysics.phy-astr.gsu.edu)",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/particles/cowan.html"
+      }
+    ]
+  },
+  {
+    "id": "thomas-gold",
+    "name_en": "Thomas Gold",
+    "biography": "An Austrian-born astrophysicist who worked in Britain and at Cornell, Gold proposed wide-ranging and sometimes controversial hypotheses. His work contributed to pulsar interpretation, space science, and cosmology.",
+    "contributions": [
+      "Proposed rotating magnetized neutron stars as an explanation of pulsars.",
+      "Developed steady-state cosmology with Bondi and Hoyle.",
+      "Investigated planetary surfaces and space physics."
+    ],
+    "fields": [
+      "Astrophysics",
+      "Cosmology"
+    ],
+    "birth_display": "22 May 1920",
+    "death_display": "22 June 2004",
+    "notes": [],
+    "portrait_alt": "Portrait of Thomas Gold",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Thomas Gold — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Gold"
+      }
+    ]
+  },
+  {
+    "id": "xie-jialin",
+    "name_en": "Xie Jialin",
+    "biography": "Born in Harbin, Xie earned his doctorate at Stanford and returned to China in 1955. He led high-energy electron-linear-accelerator and BEPC development, building major experimental-physics facilities.",
+    "contributions": [
+      "Developed an early high-energy-electron cancer-treatment accelerator.",
+      "Led Chinese electron-linac and Beijing Electron–Positron Collider construction.",
+      "Advanced free-electron lasers and accelerator technologies."
+    ],
+    "fields": [
+      "Accelerator physics",
+      "Experimental physics"
+    ],
+    "birth_display": "8 August 1920",
+    "death_display": "20 February 2016",
+    "notes": [],
+    "portrait_alt": "Portrait of Xie Jialin",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Xie Jialin — institutional or scholarly source (ihep.cas.cn)",
+        "url": "https://ihep.cas.cn/kydw/yszj/ygys/202210/t20221010_6521758.html"
+      },
+      {
+        "title": "Xie Jialin — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Xie_Jialin"
+      }
+    ]
+  },
+  {
+    "id": "ralph-alpher",
+    "name_en": "Ralph Alpher",
+    "biography": "An American theorist, Alpher studied early-universe nuclear reactions with Gamow during his doctorate and later worked in applied research and universities. His work with Herman anticipated the cosmic microwave background.",
+    "contributions": [
+      "Investigated light-element production in the early universe.",
+      "Predicted relic thermal cosmic radiation with Herman.",
+      "Studied cosmic thermal history and elemental abundances."
+    ],
+    "fields": [
+      "Cosmology",
+      "Nuclear astrophysics"
+    ],
+    "birth_display": "3 February 1921",
+    "death_display": "12 August 2007",
+    "notes": [],
+    "portrait_alt": "Portrait of Ralph Alpher",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Ralph Alpher — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Ralph_Alpher"
+      }
+    ]
+  },
+  {
+    "id": "esther-conwell",
+    "name_en": "Esther Conwell",
+    "biography": "An American physicist educated at Rochester and Chicago, Conwell worked at Bell Laboratories, Xerox, and Rochester. She investigated charge transport in semiconductors and organic materials and supported women in science.",
+    "contributions": [
+      "Developed semiconductor impurity-scattering theory with Weisskopf.",
+      "Investigated high-field carrier transport.",
+      "Studied charge motion in conducting polymers and organic semiconductors."
+    ],
+    "fields": [
+      "Semiconductor physics",
+      "Condensed-matter physics"
+    ],
+    "birth_display": "23 May 1922",
+    "death_display": "16 November 2014",
+    "notes": [],
+    "portrait_alt": "Portrait of Esther Conwell",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Esther Conwell — institutional or reference biography (maglabweb.magnet.fsu.edu)",
+        "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/esther-conwell/"
+      },
+      {
+        "title": "Esther Conwell — institutional or reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Esther_M._Conwell"
+      }
+    ]
+  },
+  {
+    "id": "bryce-dewitt",
+    "name_en": "Bryce DeWitt",
+    "biography": "An American theorist trained by Schwinger, DeWitt worked at North Carolina and Texas. He extended quantum-field methods to gravity and curved spacetime and helped build research and teaching in quantum gravity.",
+    "contributions": [
+      "Developed canonical quantum-gravity equations with Wheeler.",
+      "Advanced background-field methods and quantum fields in curved spacetime.",
+      "Developed and disseminated relative-state approaches to quantum theory."
+    ],
+    "fields": [
+      "Quantum gravity",
+      "Quantum field theory"
+    ],
+    "birth_display": "8 January 1923",
+    "death_display": "23 September 2004",
+    "notes": [],
+    "portrait_alt": "Portrait of Bryce DeWitt",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Bryce DeWitt — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Bryce_DeWitt"
+      },
+      {
+        "title": "Bryce DeWitt — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ]
+  },
+  {
+    "id": "bruno-zumino",
+    "name_en": "Bruno Zumino",
+    "biography": "An Italian-born theorist at CERN and Berkeley, Zumino helped turn supersymmetry into concrete four-dimensional field theories. He also developed supergravity and the study of quantum anomalies.",
+    "contributions": [
+      "Developed four-dimensional supersymmetric field models with Wess.",
+      "Independently constructed supergravity with Deser.",
+      "Developed consistency conditions for gauge anomalies."
+    ],
+    "fields": [
+      "Supergravity",
+      "Quantum field theory"
+    ],
+    "birth_display": "28 April 1923",
+    "death_display": "21 June 2014",
+    "notes": [],
+    "portrait_alt": "Portrait of Bruno Zumino",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Bruno Zumino — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Bruno_Zumino"
+      },
+      {
+        "title": "Bruno Zumino — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ]
+  },
+  {
+    "id": "sulamith-goldhaber",
+    "name_en": "Sulamith Goldhaber",
+    "biography": "An Austrian-born experimental physicist educated in Israel, Goldhaber worked at Berkeley. She developed emulsion and bubble-chamber experiments to investigate energetic mesons and strange particles.",
+    "contributions": [
+      "Developed nuclear-emulsion experiments for high-energy particles.",
+      "Investigated kaon–nucleon interactions.",
+      "Analyzed bubble-chamber data and hadronic resonances."
+    ],
+    "fields": [
+      "Particle physics",
+      "Particle detection"
+    ],
+    "birth_display": "4 November 1923",
+    "death_display": "11 December 1965",
+    "notes": [],
+    "portrait_alt": "Portrait of Sulamith Goldhaber",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Sulamith Goldhaber — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Sulamith_Goldhaber"
+      },
+      {
+        "title": "Sulamith Goldhaber — institutional or scholarly source (cwp.library.ucla.edu)",
+        "url": "http://cwp.library.ucla.edu/Phase2/Goldhaber,_Sulamith@812345678.html"
+      },
+      {
+        "title": "Sulamith Goldhaber — institutional or scholarly source (cwp.library.ucla.edu)",
+        "url": "http://cwp.library.ucla.edu/articles/goldhaber/tribute.html"
+      }
+    ]
+  },
+  {
+    "id": "efim-fradkin",
+    "name_en": "Efim Fradkin",
+    "biography": "A Soviet and Russian theorist at the Lebedev Institute, Fradkin applied functional methods to interacting fields, quantum statistics, and gauge theory, developing quantization methods for constrained systems.",
+    "contributions": [
+      "Developed functional methods in field theory and quantum statistics.",
+      "Developed, with collaborators, the Hamiltonian BFV formulation of BRST quantization for constrained systems.",
+      "Investigated higher-spin and conformal field theories."
+    ],
+    "fields": [
+      "Quantum field theory",
+      "Statistical physics"
+    ],
+    "birth_display": "30 November 1924",
+    "death_display": "25 May 1999",
+    "notes": [],
+    "portrait_alt": "Portrait of Efim Fradkin",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Efim Fradkin — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Efim_Fradkin"
+      }
+    ]
+  },
+  {
+    "id": "geoffrey-burbidge",
+    "name_en": "Geoffrey Burbidge",
+    "biography": "A British-born theoretical astrophysicist at UC San Diego and former Kitt Peak director, Burbidge studied stellar nucleosynthesis, radio galaxies, and cosmology. He also explored alternatives to standard cosmological models.",
+    "contributions": [
+      "Coauthored the B²FH account of stellar nucleosynthesis.",
+      "Investigated energy sources in radio galaxies, quasars, and energetic objects.",
+      "Developed alternative cosmological models that did not become the mainstream account."
+    ],
+    "fields": [
+      "Nuclear astrophysics",
+      "Cosmology"
+    ],
+    "birth_display": "24 September 1925",
+    "death_display": "26 January 2010",
+    "notes": [],
+    "portrait_alt": "Portrait of Geoffrey Burbidge",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Geoffrey Burbidge — institutional or reference biography (casswww.ucsd.edu)",
+        "url": "https://casswww.ucsd.edu/archive/personal/gburbidge.html"
+      },
+      {
+        "title": "Geoffrey Burbidge — institutional or reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Geoffrey_Burbidge"
+      }
+    ]
+  },
+  {
+    "id": "rolf-landauer",
+    "name_en": "Rolf Landauer",
+    "biography": "A German-born American physicist at IBM, Landauer investigated electronic transport and the physical costs of information processing, emphasizing that computation is implemented by physical systems.",
+    "contributions": [
+      "Formulated Landauer's principle for logically irreversible information erasure.",
+      "Developed the Landauer formula for mesoscopic electronic transport.",
+      "Investigated physical limits of computation and reversible information processing."
+    ],
+    "fields": [
+      "Statistical physics",
+      "Condensed-matter physics"
+    ],
+    "birth_display": "4 February 1927",
+    "death_display": "27 April 1999",
+    "notes": [],
+    "portrait_alt": "Portrait of Rolf Landauer",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Rolf Landauer — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Rolf_Landauer"
+      }
+    ]
+  },
+  {
+    "id": "theodore-maiman",
+    "name_en": "Theodore Maiman",
+    "biography": "An American experimental physicist trained by Lamb at Stanford, Maiman worked at Hughes Research Laboratories. He constructed the first operating laser using ruby and advanced practical laser technology.",
+    "contributions": [
+      "Demonstrated the first operating ruby laser in 1960.",
+      "Investigated solid-state laser media and optical pumping.",
+      "Advanced laser engineering and applications."
+    ],
+    "fields": [
+      "Laser physics",
+      "Quantum electronics"
+    ],
+    "birth_display": "11 July 1927",
+    "death_display": "5 May 2007",
+    "notes": [],
+    "portrait_alt": "Portrait of Theodore Maiman",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Theodore Maiman — institutional or reference biography (maglabweb.magnet.fsu.edu)",
+        "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/theodore-maiman/"
+      },
+      {
+        "title": "Theodore Maiman — institutional or reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Theodore_Maiman"
+      }
+    ]
+  },
+  {
+    "id": "dai-yuanben",
+    "name_en": "Dai Yuanben",
+    "biography": "Born in Nanjing, Dai conducted particle-theory research at the Chinese Academy of Sciences. He studied strong interactions, hadron structure, and quantum fields and helped build theoretical-physics institutions.",
+    "contributions": [
+      "Investigated hadron structure and strong-interaction phenomenology.",
+      "Developed heavy-quark and quantum-chromodynamics calculations.",
+      "Advanced particle-theory research and scientific training."
+    ],
+    "fields": [
+      "Particle physics",
+      "Quantum field theory"
+    ],
+    "birth_display": "15 July 1928",
+    "death_display": "26 September 2020",
+    "notes": [
+      "Sources differ between 15 and 31 July. This archive adopts 15 July 1928 from the Institute of Theoretical Physics and the China Scientists Museum and preserves the discrepancy."
+    ],
+    "portrait_alt": "Portrait of Dai Yuanben",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Dai Yuanben — institutional or scholarly source (mmcs.cast.org.cn)",
+        "url": "https://mmcs.cast.org.cn/xwz/kxjrl/art/2026/art_be9e2f7c0176440e9252583417cc12f4.html"
+      },
+      {
+        "title": "Dai Yuanben — institutional or scholarly source (www.itp.cas.cn)",
+        "url": "https://www.itp.cas.cn/sourcedb_itp_cas/zw/zjrck/ys/202107/t20210723_6145287.html"
+      },
+      {
+        "title": "Dai Yuanben — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Dai_Yuanben"
+      }
+    ]
+  },
+  {
+    "id": "stanley-mandelstam",
+    "name_en": "Stanley Mandelstam",
+    "biography": "A South African-born theorist educated in Britain, Mandelstam taught at Berkeley. Beginning with analytic scattering amplitudes, he investigated strong interactions, gauge theories, and strings.",
+    "contributions": [
+      "Introduced Mandelstam variables and double-dispersion representations.",
+      "Developed gauge-theory and low-dimensional bosonization methods.",
+      "Investigated ultraviolet properties of supersymmetric Yang–Mills theory and string amplitudes."
+    ],
+    "fields": [
+      "Quantum field theory",
+      "String theory"
+    ],
+    "birth_display": "12 December 1928",
+    "death_display": "11 June 2016",
+    "notes": [
+      "Some news or memorial materials give 23 or 24 June. The archive adopts 11 June 2016, consistently reported by the University of California Academic Senate memorial and Physics Today obituary."
+    ],
+    "portrait_alt": "Portrait of Stanley Mandelstam",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Stanley Mandelstam — institutional or scholarly source (physicstoday.aip.org)",
+        "url": "https://physicstoday.aip.org/obituaries/stanley-mandelstam"
+      },
+      {
+        "title": "Stanley Mandelstam — institutional or scholarly source (senate.universityofcalifornia.edu)",
+        "url": "https://senate.universityofcalifornia.edu/_files/inmemoriam/html/StanleyMandelstam.html"
+      },
+      {
+        "title": "Stanley Mandelstam — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Stanley_Mandelstam"
+      },
+      {
+        "title": "Stanley Mandelstam — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ]
+  },
+  {
+    "id": "paul-lauterbur",
+    "name_en": "Paul Lauterbur",
+    "biography": "An American chemist and magnetic-resonance researcher at Stony Brook and Illinois, Lauterbur combined NMR with spatial magnetic-field gradients. His contributions to imaging earned a share of the 2003 Nobel Prize in Physiology or Medicine.",
+    "contributions": [
+      "Used magnetic-field gradients to encode spatial positions in NMR signals.",
+      "Demonstrated early two-dimensional magnetic-resonance images.",
+      "Developed physical methods in NMR spectroscopy and imaging."
+    ],
+    "fields": [
+      "Magnetic resonance imaging",
+      "Medical physics"
+    ],
+    "birth_display": "6 May 1929",
+    "death_display": "27 March 2007",
+    "notes": [],
+    "portrait_alt": "Portrait of Paul Lauterbur",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Paul Lauterbur — institutional or reference biography (www.nobelprize.org)",
+        "url": "https://www.nobelprize.org/laureate/764"
+      },
+      {
+        "title": "Paul Lauterbur — institutional or reference biography (maglabweb.magnet.fsu.edu)",
+        "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/paul-lauterbur/"
+      },
+      {
+        "title": "Paul Lauterbur — institutional or reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Paul_Lauterbur"
+      }
+    ]
+  },
+  {
+    "id": "joel-lebowitz",
+    "name_en": "Joel Lebowitz",
+    "biography": "A European-born American mathematical physicist at Rutgers, Lebowitz studies rigorous statistical mechanics, equilibrium and nonequilibrium processes, and the origins of macroscopic irreversibility. He also organizes international statistical-physics meetings.",
+    "contributions": [
+      "Developed rigorous equilibrium and nonequilibrium statistical mechanics.",
+      "Investigated thermodynamic limits, phase transitions, and transport.",
+      "Studied links between reversible microscopic dynamics and irreversible macroscopic behaviour."
+    ],
+    "fields": [
+      "Statistical physics",
+      "Nonequilibrium thermodynamics"
+    ],
+    "birth_display": "10 May 1930",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Joel Lebowitz",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Joel Lebowitz — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Joel_Lebowitz"
+      },
+      {
+        "title": "Joel Lebowitz — institutional or scholarly source (ww2.aip.org)",
+        "url": "https://ww2.aip.org/news/joel-l-lebowitz-honored-2021-dannie-heineman-prize-mathematical-physics"
+      }
+    ]
+  },
+  {
+    "id": "stanley-deser",
+    "name_en": "Stanley Deser",
+    "biography": "A Polish-born American theorist at Brandeis, Deser studied canonical gravity, supergravity, and consistency in field theory. His work connected general relativity with quantum-field methods.",
+    "contributions": [
+      "Developed the ADM canonical formulation with Arnowitt and Misner.",
+      "Independently constructed supergravity with Zumino.",
+      "Investigated consistency of gravitational and higher-spin theories."
+    ],
+    "fields": [
+      "General relativity",
+      "Supergravity"
+    ],
+    "birth_display": "19 March 1931",
+    "death_display": "21 April 2023",
+    "notes": [],
+    "portrait_alt": "Portrait of Stanley Deser",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Stanley Deser — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Stanley_Deser"
+      }
+    ]
+  },
+  {
+    "id": "li-fanghua",
+    "name_en": "Li Fanghua",
+    "biography": "Born in Hong Kong, Li studied in the Soviet Union and worked at the Institute of Physics of the Chinese Academy of Sciences. She developed high-resolution electron microscopy and methods for extracting reliable crystal-structure information.",
+    "contributions": [
+      "Developed high-resolution electron microscopy and image analysis.",
+      "Investigated crystal defects and complex-material microstructure.",
+      "Improved reliable structure determination from electron micrographs."
+    ],
+    "fields": [
+      "Condensed-matter physics",
+      "Electron microscopy"
+    ],
+    "birth_display": "6 January 1932",
+    "death_display": "24 January 2020",
+    "notes": [],
+    "portrait_alt": "Portrait of Li Fanghua",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Li Fanghua — institutional or scholarly source (casad.cas.cn)",
+        "url": "https://casad.cas.cn/zt2022/ysksgs/czy/202605/t20260513_5109507.html"
+      },
+      {
+        "title": "Li Fanghua — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Li_Fanghua"
+      }
+    ]
+  },
+  {
+    "id": "elliott-lieb",
+    "name_en": "Elliott H. Lieb",
+    "biography": "An American mathematical physicist at Princeton, Lieb uses rigorous inequalities and exact solutions to study matter stability, quantum many-body systems, and statistical mechanics.",
+    "contributions": [
+      "Investigated stability of matter and many-body energy bounds.",
+      "Established bounds on quantum-lattice propagation speeds with Robinson.",
+      "Solved important statistical models and developed mathematical inequalities."
+    ],
+    "fields": [
+      "Mathematical physics",
+      "Quantum many-body physics"
+    ],
+    "birth_display": "31 July 1932",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Elliott H. Lieb",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Elliott H. Lieb — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Elliott_H._Lieb"
+      },
+      {
+        "title": "Elliott H. Lieb — institutional or scholarly source (www.math.princeton.edu)",
+        "url": "http://www.math.princeton.edu/~lieb/"
+      },
+      {
+        "title": "Elliott H. Lieb — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ]
+  },
+  {
+    "id": "jeffrey-goldstone",
+    "name_en": "Jeffrey Goldstone",
+    "biography": "A British theorist who worked at Cambridge and MIT, Goldstone investigated many-fermion systems, spontaneous symmetry breaking, and quantum computation. He died in October 2026.",
+    "contributions": [
+      "Established Goldstone’s theorem connecting spontaneous breaking of continuous symmetries with massless modes.",
+      "Developed diagrammatic methods for many-fermion systems.",
+      "Investigated quantum computing and algorithms."
+    ],
+    "fields": [
+      "Quantum field theory",
+      "Quantum many-body physics"
+    ],
+    "birth_display": "3 September 1933",
+    "death_display": "12 October 2026",
+    "notes": [],
+    "portrait_alt": "Portrait of Jeffrey Goldstone",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Jeffrey Goldstone — institutional or scholarly source (physics.mit.edu)",
+        "url": "https://physics.mit.edu/faculty/jeffrey-goldstone/"
+      },
+      {
+        "title": "Jeffrey Goldstone — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Jeffrey_Goldstone"
+      },
+      {
+        "title": "Jeffrey Goldstone — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/home/dirac-medallists-1991"
+      },
+      {
+        "title": "Jeffrey Goldstone — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ]
+  },
+  {
+    "id": "asher-peres",
+    "name_en": "Asher Peres",
+    "biography": "An Israeli theorist at the Technion, Peres studied measurement, entanglement, and information processing through precise operational arguments, helping establish quantum information theory.",
+    "contributions": [
+      "Introduced the partial-transpose entanglement criterion.",
+      "Co-proposed quantum teleportation.",
+      "Investigated quantum contextuality, measurement, and relativistic quantum information."
+    ],
+    "fields": [
+      "Quantum information",
+      "Quantum foundations"
+    ],
+    "birth_display": "30 January 1934",
+    "death_display": "1 January 2005",
+    "notes": [],
+    "portrait_alt": "Portrait of Asher Peres",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Asher Peres — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Asher_Peres"
+      }
+    ]
+  },
+  {
+    "id": "ludvig-faddeev",
+    "name_en": "Ludvig Faddeev",
+    "biography": "A Russian mathematical physicist based in Leningrad and St Petersburg, Faddeev connected scattering theory, gauge-field quantization, and integrable systems through rigorous mathematical methods.",
+    "contributions": [
+      "Established Faddeev equations for quantum three-body scattering.",
+      "Developed gauge fixing in path integrals with Popov.",
+      "Advanced quantum inverse scattering and integrable-model theory."
+    ],
+    "fields": [
+      "Mathematical physics",
+      "Quantum field theory"
+    ],
+    "birth_display": "23 March 1934",
+    "death_display": "26 February 2017",
+    "notes": [],
+    "portrait_alt": "Portrait of Ludvig Faddeev",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Ludvig Faddeev — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Ludvig_Faddeev"
+      }
+    ]
+  },
+  {
+    "id": "roy-kerr",
+    "name_en": "Roy Kerr",
+    "biography": "A New Zealand mathematician and relativist, Kerr worked in Cambridge and Texas before teaching at Canterbury. His exact rotating-black-hole solution became central to modern black-hole astrophysics.",
+    "contributions": [
+      "Discovered the Kerr metric for rotating vacuum black holes.",
+      "Investigated exact solutions of Einstein's equations.",
+      "Established foundations for rotating-black-hole astrophysical models."
+    ],
+    "fields": [
+      "General relativity",
+      "Black-hole physics"
+    ],
+    "birth_display": "16 May 1934",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Roy Kerr",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Roy Kerr — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/home/dirac-medallists-2025"
+      },
+      {
+        "title": "Roy Kerr — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Roy_Kerr"
+      },
+      {
+        "title": "Roy Kerr — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/news/2025/8/2025-ictp-dirac-medal-goes-gravity-explorers"
+      },
+      {
+        "title": "Roy Kerr — institutional or scholarly source (press.uchicago.edu)",
+        "url": "http://press.uchicago.edu/ucp/books/book/chicago/C/bo6817175.html"
+      },
+      {
+        "title": "Roy Kerr — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ]
+  },
+  {
+    "id": "willie-hobbs-moore",
+    "name_en": "Willie Hobbs Moore",
+    "biography": "An American experimental physicist, Moore earned her Michigan doctorate in 1972 and became the first Black American woman with a physics PhD. She studied molecular spectra before working in industrial engineering and quality systems.",
+    "contributions": [
+      "Investigated molecular vibrational spectra experimentally.",
+      "Applied spectroscopy to molecular-structure analysis.",
+      "Applied physics training to industrial engineering and technical management."
+    ],
+    "fields": [
+      "Molecular spectroscopy",
+      "Experimental physics"
+    ],
+    "birth_display": "23 May 1934",
+    "death_display": "14 March 1994",
+    "notes": [],
+    "portrait_alt": "Portrait of Willie Hobbs Moore",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Willie Hobbs Moore — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Willie_Hobbs_Moore"
+      }
+    ]
+  },
+  {
+    "id": "donald-lynden-bell",
+    "name_en": "Donald Lynden-Bell",
+    "biography": "A British theoretical astrophysicist at Cambridge, Lynden-Bell applied dynamics and statistical mechanics to galaxies, accretion discs, and active nuclei, helping establish black holes as astrophysical engines.",
+    "contributions": [
+      "Developed violent-relaxation theory for collisionless stellar systems.",
+      "Proposed accreting supermassive black holes as engines of active galactic nuclei.",
+      "Investigated accretion-disc evolution and Galactic dynamics."
+    ],
+    "fields": [
+      "Galactic dynamics",
+      "Astrophysics"
+    ],
+    "birth_display": "5 April 1935",
+    "death_display": "6 February 2018",
+    "notes": [],
+    "portrait_alt": "Portrait of Donald Lynden-Bell",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Donald Lynden-Bell — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Donald_Lynden-Bell"
+      }
+    ]
+  },
+  {
+    "id": "david-ruelle",
+    "name_en": "David Ruelle",
+    "biography": "A Belgian-born mathematical physicist at IHES, Ruelle connects dynamical systems with rigorous statistical mechanics. His research addresses turbulence, chaos, and nonequilibrium systems.",
+    "contributions": [
+      "Developed a strange-attractor route to turbulence with Takens.",
+      "Advanced thermodynamic formalism in statistical mechanics.",
+      "Investigated SRB measures for chaotic dissipative systems."
+    ],
+    "fields": [
+      "Statistical physics",
+      "Complex systems"
+    ],
+    "birth_display": "20 August 1935",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of David Ruelle",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "David Ruelle — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/David_Ruelle"
+      },
+      {
+        "title": "David Ruelle — institutional or scholarly source (www.ihes.fr)",
+        "url": "http://www.ihes.fr/~ruelle/CVAnglais"
+      }
+    ]
+  },
+  {
+    "id": "fang-lizhi",
+    "name_en": "Fang Lizhi",
+    "biography": "Born in Beijing, Fang taught at the University of Science and Technology of China and served as its vice-president before joining the University of Arizona. He studied cosmology and galaxy formation and participated in scientific education and public debate.",
+    "contributions": [
+      "Investigated relativistic cosmology and the early universe.",
+      "Studied galaxy formation, quasars, and large-scale structure.",
+      "Advanced modern astrophysics research and teaching in China."
+    ],
+    "fields": [
+      "Astrophysics",
+      "Cosmology"
+    ],
+    "birth_display": "12 February 1936",
+    "death_display": "6 April 2012",
+    "notes": [],
+    "portrait_alt": "Portrait of Fang Lizhi",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Fang Lizhi — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Fang_Lizhi"
+      },
+      {
+        "title": "Fang Lizhi — institutional or scholarly source (www.brookings.edu)",
+        "url": "https://www.brookings.edu/blog/order-from-chaos/2019/05/29/june-4-1989-a-personal-recollection/"
+      }
+    ]
+  },
+  {
+    "id": "peter-van-nieuwenhuizen",
+    "name_en": "Peter van Nieuwenhuizen",
+    "biography": "A Dutch-born theorist at Stony Brook, van Nieuwenhuizen established supergravity with Freedman and Ferrara. His work also addresses quantum gravity, renormalization, and gauge-system quantization.",
+    "contributions": [
+      "Established supergravity with Freedman and Ferrara.",
+      "Investigated ultraviolet properties of quantum gravity and supergravity.",
+      "Developed BRST and gauge-field quantization methods."
+    ],
+    "fields": [
+      "Supergravity",
+      "Quantum field theory"
+    ],
+    "birth_display": "26 October 1938",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Peter van Nieuwenhuizen",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Peter van Nieuwenhuizen — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Peter_van_Nieuwenhuizen"
+      },
+      {
+        "title": "Peter van Nieuwenhuizen — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ]
+  },
+  {
+    "id": "daniel-freedman",
+    "name_en": "Daniel Z. Freedman",
+    "biography": "An American theorist who worked at Stony Brook and MIT, Freedman combined local supersymmetry with gravitation in collaboration with Ferrara and van Nieuwenhuizen, helping establish supergravity.",
+    "contributions": [
+      "Constructed supergravity with Ferrara and van Nieuwenhuizen.",
+      "Investigated supersymmetric field theory and quantum gravity.",
+      "Developed field-theoretic and gravitational methods relevant to holography."
+    ],
+    "fields": [
+      "Supergravity",
+      "Quantum field theory"
+    ],
+    "birth_display": "1939",
+    "death_display": null,
+    "notes": [
+      "The sources reviewed establish the birth year; an unverified month and day have not been added."
+    ],
+    "portrait_alt": "Portrait of Daniel Z. Freedman",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Daniel Z. Freedman — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Daniel_Z._Freedman"
+      },
+      {
+        "title": "Daniel Z. Freedman — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ]
+  },
+  {
+    "id": "john-henry-schwarz",
+    "name_en": "John Henry Schwarz",
+    "biography": "An American theorist who worked at Princeton before joining Caltech, Schwarz pursued superstrings as a framework for fundamental interactions. His collaboration with Green helped initiate a major revival of string theory.",
+    "contributions": [
+      "Discovered the Green–Schwarz cancellation of gauge and gravitational anomalies.",
+      "Developed superstring and supersymmetry methods.",
+      "Investigated string dualities and unified-interaction frameworks."
+    ],
+    "fields": [
+      "String theory",
+      "Theoretical physics"
+    ],
+    "birth_display": "22 November 1941",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of John Henry Schwarz",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "John Henry Schwarz — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/John_Henry_Schwarz"
+      },
+      {
+        "title": "John Henry Schwarz — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ]
+  },
+  {
+    "id": "gabriele-veneziano",
+    "name_en": "Gabriele Veneziano",
+    "biography": "An Italian theorist at CERN and the Collège de France, Veneziano proposed a hadronic-scattering amplitude that became a starting point of string theory. His later work addresses strong interactions and cosmology.",
+    "contributions": [
+      "Introduced the Veneziano amplitude.",
+      "Advanced large-N and nonperturbative approaches to strong interactions.",
+      "Investigated connections between strings and the early universe."
+    ],
+    "fields": [
+      "String theory",
+      "Particle physics"
+    ],
+    "birth_display": "7 September 1942",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Gabriele Veneziano",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Gabriele Veneziano — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Gabriele_Veneziano"
+      },
+      {
+        "title": "Gabriele Veneziano — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ]
+  },
+  {
+    "id": "charles-bennett",
+    "name_en": "Charles H. Bennett",
+    "biography": "An American physicist at IBM, Bennett investigates the physical foundations of information processing. He connects reversible computation, entanglement, and communication and helped establish quantum information science.",
+    "contributions": [
+      "Developed reversible computing and information thermodynamics.",
+      "Proposed the BB84 quantum key-distribution protocol with Brassard.",
+      "Co-developed quantum teleportation, entanglement distillation, and superdense coding."
+    ],
+    "fields": [
+      "Quantum information",
+      "Statistical physics"
+    ],
+    "birth_display": "1943",
+    "death_display": null,
+    "notes": [
+      "The sources reviewed establish the birth year; an unverified month and day have not been added."
+    ],
+    "portrait_alt": "Portrait of Charles H. Bennett",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Charles H. Bennett — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Charles_H._Bennett_%28physicist%29"
+      },
+      {
+        "title": "Charles H. Bennett — institutional or scholarly source (researcher.watson.ibm.com)",
+        "url": "http://researcher.watson.ibm.com/researcher/view_person_pubs.php?person=us-bennetc&t=1"
+      },
+      {
+        "title": "Charles H. Bennett — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ]
+  },
+  {
+    "id": "paul-corkum",
+    "name_en": "Paul Corkum",
+    "biography": "A Canadian experimental and theoretical laser physicist at the National Research Council and the University of Ottawa, Corkum connected strong-field ionization with electron recollision, establishing a central picture of high-harmonic generation and attosecond pulses.",
+    "contributions": [
+      "Proposed the three-step recollision model of strong-field harmonic generation.",
+      "Developed attosecond-pulse and molecular-imaging methods.",
+      "Investigated ultrafast laser control of electron motion."
+    ],
+    "fields": [
+      "Attosecond physics",
+      "Laser physics"
+    ],
+    "birth_display": "30 October 1943",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Paul Corkum",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Paul Corkum — institutional or reference biography (nrc.canada.ca)",
+        "url": "https://nrc.canada.ca/en/corporate/dr-paul-corkum"
+      },
+      {
+        "title": "Paul Corkum — institutional or reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Paul_Corkum"
+      }
+    ]
+  },
+  {
+    "id": "sergio-ferrara",
+    "name_en": "Sergio Ferrara",
+    "biography": "An Italian theorist associated with Frascati, CERN, and UCLA, Ferrara investigates supersymmetry and gravitation, including extended supergravity, black holes, and unification.",
+    "contributions": [
+      "Established supergravity with Freedman and van Nieuwenhuizen.",
+      "Developed supersymmetric Yang–Mills theories.",
+      "Investigated extended supergravity and supersymmetric black holes."
+    ],
+    "fields": [
+      "Supergravity",
+      "Quantum field theory"
+    ],
+    "birth_display": "2 May 1945",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Sergio Ferrara",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Sergio Ferrara — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Sergio_Ferrara"
+      },
+      {
+        "title": "Sergio Ferrara — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ]
+  },
+  {
+    "id": "michael-green",
+    "name_en": "Michael Green",
+    "biography": "A British theorist at London and Cambridge and a former Lucasian Professor, Green helped develop superstring theory with Schwarz. His research addresses anomalies, scattering amplitudes, and nonperturbative string structure.",
+    "contributions": [
+      "Established superstring anomaly cancellation with Schwarz.",
+      "Developed superstring amplitudes and quantum-correction calculations.",
+      "Investigated duality and nonperturbative effects."
+    ],
+    "fields": [
+      "String theory",
+      "Quantum field theory"
+    ],
+    "birth_display": "22 May 1946",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Michael Green",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Michael Green — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Michael_Green_%28physicist%29"
+      },
+      {
+        "title": "Michael Green — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ]
+  },
+  {
+    "id": "gary-gibbons",
+    "name_en": "Gary Gibbons",
+    "biography": "A British theorist at Cambridge, Gibbons developed Euclidean approaches to gravity with Hawking and others. His work connects the thermodynamics of black-hole and cosmological horizons with geometry and quantum theory.",
+    "contributions": [
+      "Developed Euclidean quantum-gravity methods with Hawking.",
+      "Investigated gravitational boundary terms and horizon thermodynamics.",
+      "Advanced gravitational-instanton and higher-dimensional-black-hole research."
+    ],
+    "fields": [
+      "Quantum gravity",
+      "Mathematical physics"
+    ],
+    "birth_display": "1 July 1946",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Gary Gibbons",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Gary Gibbons — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/home/dirac-medallists-2025"
+      },
+      {
+        "title": "Gary Gibbons — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Gary_Gibbons"
+      },
+      {
+        "title": "Gary Gibbons — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/news/2025/8/2025-ictp-dirac-medal-goes-gravity-explorers"
+      },
+      {
+        "title": "Gary Gibbons — institutional or scholarly source (damtp.cam.ac.uk)",
+        "url": "http://damtp.cam.ac.uk/people/g.w.gibbons"
+      },
+      {
+        "title": "Gary Gibbons — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ]
+  },
+  {
+    "id": "shirley-ann-jackson",
+    "name_en": "Shirley Ann Jackson",
+    "biography": "An American theorist, Jackson was the first Black woman to earn a doctorate at MIT. She studied condensed matter at Bell Laboratories and later chaired the US Nuclear Regulatory Commission and led Rensselaer Polytechnic Institute.",
+    "contributions": [
+      "Investigated two-dimensional electrons, semiconductors, and charge-density waves.",
+      "Developed theoretical analyses of condensed-matter systems.",
+      "Advanced science-based nuclear regulation and scientific education."
+    ],
+    "fields": [
+      "Condensed-matter physics",
+      "Theoretical physics"
+    ],
+    "birth_display": "5 August 1946",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Shirley Ann Jackson",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Shirley Ann Jackson — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Shirley_Ann_Jackson"
+      },
+      {
+        "title": "Shirley Ann Jackson — institutional or scholarly source (news.rpi.edu)",
+        "url": "http://news.rpi.edu/content/2015/12/22/president-shirley-ann-jackson-named-recipient-national-medal-science"
+      }
+    ]
+  },
+  {
+    "id": "john-cardy",
+    "name_en": "John Cardy",
+    "biography": "A British theorist who worked at UC Santa Barbara and Oxford, Cardy applies conformal field theory and probability to low-dimensional critical phenomena and universality.",
+    "contributions": [
+      "Developed boundary conformal field theory and critical-scaling methods.",
+      "Derived a crossing-probability formula for two-dimensional percolation.",
+      "Investigated conformal state counting and statistical universality."
+    ],
+    "fields": [
+      "Statistical physics",
+      "Quantum field theory"
+    ],
+    "birth_display": "19 March 1947",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of John Cardy",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "John Cardy — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/John_Cardy"
+      },
+      {
+        "title": "John Cardy — institutional or scholarly source (www-thphys.physics.ox.ac.uk)",
+        "url": "http://www-thphys.physics.ox.ac.uk/people/JohnCardy/"
+      },
+      {
+        "title": "John Cardy — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ]
+  },
+  {
+    "id": "robert-wald",
+    "name_en": "Robert Wald",
+    "biography": "An American theorist at Chicago, Wald investigates black-hole thermodynamics, quantum fields in curved spacetime, and the mathematical foundations of gravitation. His general-relativity textbook has been widely influential.",
+    "contributions": [
+      "Related black-hole entropy to Noether charge.",
+      "Developed rigorous quantum-field methods in curved spacetime.",
+      "Investigated black-hole thermodynamics and gravitational stability."
+    ],
+    "fields": [
+      "General relativity",
+      "Quantum field theory"
+    ],
+    "birth_display": "29 June 1947",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Robert Wald",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Robert Wald — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/home/dirac-medallists-2025"
+      },
+      {
+        "title": "Robert Wald — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Robert_Wald"
+      },
+      {
+        "title": "Robert Wald — institutional or scholarly source (mag.uchicago.edu)",
+        "url": "https://mag.uchicago.edu/science-medicine/silver-screen"
+      },
+      {
+        "title": "Robert Wald — institutional or scholarly source (physicalsciences.uchicago.edu)",
+        "url": "https://physicalsciences.uchicago.edu/news/article/robert-wald-awarded-2025-albert-einstein-medal/"
+      },
+      {
+        "title": "Robert Wald — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ]
+  },
+  {
+    "id": "saul-teukolsky",
+    "name_en": "Saul Teukolsky",
+    "biography": "A South African-born American theorist associated with Cornell and Caltech, Teukolsky combines black-hole perturbation theory with numerical relativity. His methods support gravitational-wave models and observations.",
+    "contributions": [
+      "Derived the Teukolsky equation for rotating-black-hole perturbations.",
+      "Advanced numerical relativity and binary-black-hole simulations.",
+      "Developed computational models for gravitational-wave interpretation."
+    ],
+    "fields": [
+      "General relativity",
+      "Gravitational waves"
+    ],
+    "birth_display": "2 August 1947",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Saul Teukolsky",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Saul Teukolsky — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Saul_Teukolsky"
+      },
+      {
+        "title": "Saul Teukolsky — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/home/dirac-medallists-2021"
+      },
+      {
+        "title": "Saul Teukolsky — institutional or scholarly source (astro.cornell.edu)",
+        "url": "https://astro.cornell.edu/saul-teukolsky"
+      },
+      {
+        "title": "Saul Teukolsky — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ]
+  },
+  {
+    "id": "alexei-starobinsky",
+    "name_en": "Alexei Starobinsky",
+    "biography": "A Russian theorist at the Landau Institute, Starobinsky studied quantum fields coupled to gravity, proposed an early inflationary model, and investigated cosmological fluctuations and quantum black-hole processes.",
+    "contributions": [
+      "Developed curvature-squared Starobinsky inflation.",
+      "Investigated inflationary quantum fluctuations and seeds of cosmic structure.",
+      "Studied curved-spacetime quantum fields and black-hole radiation."
+    ],
+    "fields": [
+      "Cosmology",
+      "Quantum gravity"
+    ],
+    "birth_display": "19 April 1948",
+    "death_display": "21 December 2023",
+    "notes": [],
+    "portrait_alt": "Portrait of Alexei Starobinsky",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Alexei Starobinsky — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Alexei_Starobinsky"
+      },
+      {
+        "title": "Alexei Starobinsky — institutional or scholarly source (gruber.yale.edu)",
+        "url": "https://gruber.yale.edu/press/2013-gruber-cosmology-prize-press-release"
+      },
+      {
+        "title": "Alexei Starobinsky — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ]
+  },
+  {
+    "id": "abhay-ashtekar",
+    "name_en": "Abhay Ashtekar",
+    "biography": "An Indian-born theorist based at Pennsylvania State University, Ashtekar reformulated general relativity in variables resembling those of gauge theory. His work helped establish loop quantum gravity and quantum cosmology.",
+    "contributions": [
+      "Introduced Ashtekar variables for general relativity.",
+      "Developed mathematical foundations of loop quantum gravity.",
+      "Investigated isolated horizons, quantum black holes, and loop quantum cosmology."
+    ],
+    "fields": [
+      "Quantum gravity",
+      "General relativity"
+    ],
+    "birth_display": "5 July 1949",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Abhay Ashtekar",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Abhay Ashtekar — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Abhay_Ashtekar"
+      },
+      {
+        "title": "Abhay Ashtekar — institutional or scholarly source (science.psu.edu)",
+        "url": "https://science.psu.edu/physics/people/ava1"
+      },
+      {
+        "title": "Abhay Ashtekar — institutional or scholarly source (www.psu.edu)",
+        "url": "https://www.psu.edu/news/academics/story/evan-pugh-professor-abhay-ashtekar-honored-einstein-prize"
+      }
+    ]
+  },
+  {
+    "id": "wojciech-zurek",
+    "name_en": "Wojciech H. Zurek",
+    "biography": "A Polish-born American theorist at Los Alamos, Zurek investigates how environments select stable quantum states. His work connects decoherence, information, and nonequilibrium phase transitions.",
+    "contributions": [
+      "Developed environmental decoherence and pointer-state selection.",
+      "Proposed the quantum-Darwinism framework.",
+      "Developed Kibble–Zurek scaling of nonequilibrium transitions."
+    ],
+    "fields": [
+      "Quantum foundations",
+      "Quantum information"
+    ],
+    "birth_display": "1951",
+    "death_display": null,
+    "notes": [
+      "The sources reviewed establish the birth year; an unverified month and day have not been added."
+    ],
+    "portrait_alt": "Portrait of Wojciech H. Zurek",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Wojciech H. Zurek — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Wojciech_H._Zurek"
+      }
+    ]
+  },
+  {
+    "id": "thibault-damour",
+    "name_en": "Thibault Damour",
+    "biography": "A French theorist at IHES, Damour connects precision relativistic calculations with compact binaries, gravitational waves, and tests of gravity. He also studies cosmology and string theory.",
+    "contributions": [
+      "Developed high-order post-Newtonian compact-binary dynamics.",
+      "Introduced effective-one-body gravitational-wave models with Buonanno.",
+      "Advanced binary-pulsar and precision-relativity tests."
+    ],
+    "fields": [
+      "General relativity",
+      "Gravitational waves"
+    ],
+    "birth_display": "7 February 1951",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Thibault Damour",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Thibault Damour — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Thibault_Damour"
+      },
+      {
+        "title": "Thibault Damour — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/about-ictp/prizes-awards/the-dirac-medal/the-medallists/dirac-medallists-2021.aspx"
+      },
+      {
+        "title": "Thibault Damour — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ]
+  },
+  {
+    "id": "david-deutsch",
+    "name_en": "David Deutsch",
+    "biography": "An Israeli-born British theorist associated with Oxford, Deutsch connected quantum physics with computational universality. His research includes quantum computers, algorithms, and interpretations of quantum theory.",
+    "contributions": [
+      "Proposed a universal quantum-computer model.",
+      "Developed quantum-advantage algorithms with Jozsa.",
+      "Investigated many-worlds quantum theory and constructor theory."
+    ],
+    "fields": [
+      "Quantum information",
+      "Quantum foundations"
+    ],
+    "birth_display": "18 May 1953",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of David Deutsch",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "David Deutsch — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/David_Deutsch"
+      },
+      {
+        "title": "David Deutsch — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/about-ictp/prizes-awards/the-dirac-medal/the-medallists/dirac-medallists-2017.aspx"
+      },
+      {
+        "title": "David Deutsch — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ]
+  },
+  {
+    "id": "gary-horowitz",
+    "name_en": "Gary Horowitz",
+    "biography": "An American theorist at UC Santa Barbara, Horowitz studies singularities, black holes in string theory, and holography. His work connects classical gravitation, quantum microstates, and strongly coupled matter.",
+    "contributions": [
+      "Investigated string-theoretic black holes, black branes, and microscopic structure.",
+      "Helped develop Calabi–Yau superstring compactification.",
+      "Developed holographic-superconductor models."
+    ],
+    "fields": [
+      "String theory",
+      "Quantum gravity"
+    ],
+    "birth_display": "14 April 1955",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Gary Horowitz",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Gary Horowitz — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/home/dirac-medallists-2025"
+      },
+      {
+        "title": "Gary Horowitz — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Gary_Horowitz"
+      },
+      {
+        "title": "Gary Horowitz — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/news/2025/8/2025-ictp-dirac-medal-goes-gravity-explorers"
+      },
+      {
+        "title": "Gary Horowitz — institutional or scholarly source (www.physics.ucsb.edu)",
+        "url": "http://www.physics.ucsb.edu/~gary/"
+      },
+      {
+        "title": "Gary Horowitz — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ]
+  },
+  {
+    "id": "ashoke-sen",
+    "name_en": "Ashoke Sen",
+    "biography": "An Indian theorist who worked in the United States and at the Harish-Chandra Research Institute before joining ICTS, Sen made foundational contributions to string duality, black-hole microstates, and string field theory.",
+    "contributions": [
+      "Established key evidence for strong–weak string dualities.",
+      "Investigated extremal black-hole entropy and microstate counting.",
+      "Developed tachyon-condensation and string-field-theory methods."
+    ],
+    "fields": [
+      "String theory",
+      "Quantum gravity"
+    ],
+    "birth_display": "15 July 1956",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Ashoke Sen",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Ashoke Sen — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Ashoke_Sen"
+      },
+      {
+        "title": "Ashoke Sen — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/about-ictp/prizes-awards/the-dirac-medal/the-medallists/dirac-medallists-2014.aspx"
+      },
+      {
+        "title": "Ashoke Sen — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/about-ictp/prizes-awards/the-ictp-prize/the-prize-winners/ictp-prize-winner-1989.aspx"
+      },
+      {
+        "title": "Ashoke Sen — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ]
+  },
+  {
+    "id": "nathan-seiberg",
+    "name_en": "Nathan Seiberg",
+    "biography": "An Israeli-born American theorist, Seiberg worked at the Weizmann Institute and Rutgers before joining the Institute for Advanced Study. He uses duality, symmetry, and exact results to investigate strongly coupled quantum fields.",
+    "contributions": [
+      "Solved important supersymmetric gauge-theory low-energy dynamics with Witten.",
+      "Proposed Seiberg duality.",
+      "Advanced nonperturbative field theory and generalized-symmetry research."
+    ],
+    "fields": [
+      "Quantum field theory",
+      "String theory"
+    ],
+    "birth_display": "22 September 1956",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Nathan Seiberg",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Nathan Seiberg — institutional or scholarly source (www.ias.edu)",
+        "url": "https://www.ias.edu/sns/seiberg"
+      },
+      {
+        "title": "Nathan Seiberg — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Nathan_Seiberg"
+      },
+      {
+        "title": "Nathan Seiberg — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ]
+  },
+  {
+    "id": "peter-shor",
+    "name_en": "Peter Shor",
+    "biography": "An American mathematician and quantum-computing researcher, Shor worked at Bell Laboratories before joining MIT. His algorithms revealed quantum computing's potential impact on cryptography, while his later work advanced error correction.",
+    "contributions": [
+      "Developed polynomial-time quantum factoring and discrete-logarithm algorithms.",
+      "Constructed an early quantum error-correcting code.",
+      "Advanced foundations of fault-tolerant quantum computing."
+    ],
+    "fields": [
+      "Quantum information",
+      "Mathematical physics"
+    ],
+    "birth_display": "14 August 1959",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Peter Shor",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Peter Shor — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Peter_Shor"
+      },
+      {
+        "title": "Peter Shor — institutional or scholarly source (catalog.mit.edu)",
+        "url": "https://catalog.mit.edu/schools/science/mathematics/#facultystafftext"
+      },
+      {
+        "title": "Peter Shor — institutional or scholarly source (news.mit.edu)",
+        "url": "https://news.mit.edu/2022/shor-spielman-breakthrough-prize-0922"
+      },
+      {
+        "title": "Peter Shor — institutional or scholarly source (www.cs.cmu.edu)",
+        "url": "https://www.cs.cmu.edu/afs/cs/usr/copetas/www/public/pr/nov5-99.html"
+      }
+    ]
+  },
+  {
+    "id": "artur-ekert",
+    "name_en": "Artur Ekert",
+    "biography": "A Polish-born theorist who researched at Oxford and later led Singapore’s Centre for Quantum Technologies, Ekert connected entanglement and Bell tests with cryptographic security and advanced quantum communication research.",
+    "contributions": [
+      "Proposed entanglement-based quantum key distribution using Bell tests.",
+      "Investigated quantum computing and information processing.",
+      "Built quantum-technology research and training programmes."
+    ],
+    "fields": [
+      "Quantum information",
+      "Quantum foundations"
+    ],
+    "birth_display": "19 September 1961",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Artur Ekert",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Artur Ekert — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Artur_Ekert"
+      }
+    ]
+  },
+  {
+    "id": "subir-sachdev",
+    "name_en": "Subir Sachdev",
+    "biography": "An Indian-born theorist who worked at Yale and Harvard, Sachdev studies quantum criticality, correlated electrons, and strange metals, including connections with holography.",
+    "contributions": [
+      "Developed theories of quantum phase transitions and criticality.",
+      "Introduced the Sachdev–Ye many-body model with Jinwu Ye.",
+      "Investigated correlated electrons, strange metals, and holographic connections."
+    ],
+    "fields": [
+      "Condensed-matter physics",
+      "Quantum many-body physics"
+    ],
+    "birth_display": "2 December 1961",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Subir Sachdev",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Subir Sachdev — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Subir_Sachdev"
+      },
+      {
+        "title": "Subir Sachdev — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ]
+  },
+  {
+    "id": "jun-ye",
+    "name_en": "Jun Ye",
+    "biography": "An American experimental physicist born in Shanghai, Ye trained with Hall at the University of Colorado and worked at JILA and NIST. His research connects metrology and quantum physics through ultrastable lasers, optical lattice clocks, and ultracold molecules.",
+    "contributions": [
+      "Developed strontium optical lattice clocks and precision optical-frequency measurements.",
+      "Investigated frequency combs and ultrastable lasers.",
+      "Prepared and controlled ultracold molecules and quantum gases."
+    ],
+    "fields": [
+      "Atomic physics",
+      "Precision measurement"
+    ],
+    "birth_display": "1967",
+    "death_display": null,
+    "notes": [
+      "NIST and JILA sources establish the birth year 1967; a month and day not consistently verified across sources have not been added."
+    ],
+    "portrait_alt": "Portrait of Jun Ye",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Jun Ye — institutional or reference biography (www.nist.gov)",
+        "url": "https://www.nist.gov/people/jun-ye"
+      },
+      {
+        "title": "Jun Ye — institutional or reference biography (www.nist.gov)",
+        "url": "https://www.nist.gov/news-events/news/2023/06/jun-ye-timely-profile"
+      },
+      {
+        "title": "Jun Ye — institutional or reference biography (www.colorado.edu)",
+        "url": "https://www.colorado.edu/jila/jun-ye"
+      },
+      {
+        "title": "Jun Ye — institutional or reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Jun_Ye"
+      }
+    ]
+  },
+  {
+    "id": "alessandra-buonanno",
+    "name_en": "Alessandra Buonanno",
+    "biography": "An Italian-born theorist who worked in France and the United States, Buonanno became a director at the Max Planck Institute for Gravitational Physics. She connects analytical relativity, numerical modelling, and LIGO data analysis.",
+    "contributions": [
+      "Developed the effective-one-body approach with Damour.",
+      "Developed waveforms for merging compact binaries.",
+      "Applied precision waveforms to gravitational-wave detection and parameter inference."
+    ],
+    "fields": [
+      "Gravitational waves",
+      "General relativity"
+    ],
+    "birth_display": "1968",
+    "death_display": null,
+    "notes": [
+      "The sources reviewed establish the birth year; an unverified month and day have not been added."
+    ],
+    "portrait_alt": "Portrait of Alessandra Buonanno",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Alessandra Buonanno — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Alessandra_Buonanno"
+      },
+      {
+        "title": "Alessandra Buonanno — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/about-ictp/prizes-awards/the-dirac-medal/the-medallists/dirac-medallists-2021.aspx"
+      },
+      {
+        "title": "Alessandra Buonanno — institutional or scholarly source (www.aei.mpg.de)",
+        "url": "https://www.aei.mpg.de/790105/alessandra-buonanno-receives-the-2022-tomalla-prize"
+      },
+      {
+        "title": "Alessandra Buonanno — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ]
+  },
+  {
+    "id": "immanuel-bloch",
+    "name_en": "Immanuel Bloch",
+    "biography": "A German experimental physicist trained in Hänsch's group, Bloch worked in Mainz, Munich, and the Max Planck Institute of Quantum Optics. He uses ultracold atoms in optical lattices to build controllable many-body quantum simulators.",
+    "contributions": [
+      "Helped realize a superfluid-to-Mott-insulator quantum transition.",
+      "Developed control and imaging of optical-lattice quantum gases.",
+      "Simulated strongly correlated many-body models with ultracold atoms."
+    ],
+    "fields": [
+      "Ultracold atoms",
+      "Quantum many-body physics"
+    ],
+    "birth_display": "16 November 1972",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Immanuel Bloch",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Immanuel Bloch — institutional or reference biography (www.mpq.mpg.de)",
+        "url": "https://www.mpq.mpg.de/person/34641/4571983"
+      },
+      {
+        "title": "Immanuel Bloch — institutional or reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Immanuel_Bloch"
+      }
+    ]
+  },
+  {
+    "id": "frans-pretorius",
+    "name_en": "Frans Pretorius",
+    "biography": "A South African-born theorist who worked in Canada and the United States, Pretorius joined Princeton. His numerical studies of Einstein's equations overcame central obstacles to simulating merging black holes.",
+    "contributions": [
+      "Produced an early stable simulation of binary-black-hole inspiral and merger.",
+      "Developed generalized-harmonic and numerical-relativity techniques.",
+      "Investigated strong-gravity dynamics and gravitational-wave generation."
+    ],
+    "fields": [
+      "General relativity",
+      "Computational physics"
+    ],
+    "birth_display": "31 July 1973",
+    "death_display": null,
+    "notes": [],
+    "portrait_alt": "Portrait of Frans Pretorius",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Frans Pretorius — reference biography (en.wikipedia.org)",
+        "url": "https://en.wikipedia.org/wiki/Frans_Pretorius"
+      },
+      {
+        "title": "Frans Pretorius — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/about-ictp/prizes-awards/the-dirac-medal/the-medallists/dirac-medallists-2021.aspx"
+      },
+      {
+        "title": "Frans Pretorius — institutional or scholarly source (www.ictp.it)",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ]
+  }
+]

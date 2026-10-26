@@ -1,0 +1,104 @@
+# Nobel API id | fields (semicolon separated) | individual contribution summaries (semicolon separated)
+2|Electromagnetism;Relativity|Developed an electron theory of matter that explained magnetic influences on radiation;Developed the Lorentz transformations, an important mathematical precursor to special relativity
+3|Spectroscopy;Electromagnetism|Discovered the splitting of atomic spectral lines in a magnetic field, the Zeeman effect;Used spectroscopy to reveal the relation between atomic radiation and magnetic fields
+4|Radioactivity;Nuclear physics|Discovered that uranium salts emit penetrating radiation without external illumination;Revealed the spontaneous radioactivity of matter
+5|Radioactivity;Magnetism;Piezoelectricity|Investigated radioactivity with Marie Curie and co-discovered polonium and radium;Established Curie's law of magnetism and co-discovered piezoelectricity with Jacques Curie
+6|Radioactivity;Nuclear physics|Systematically investigated radioactivity and co-discovered polonium and radium with Pierre Curie;Advanced the isolation of radioactive elements and investigation of their physical and chemical properties
+13|Electromagnetism;Wireless communication|Developed long-distance wireless telegraphy and advanced transatlantic radio-transmission experiments;Helped turn electromagnetic-wave communication into a practical engineering system
+14|Electromagnetism;Electronic instruments|Improved radio-transmission circuits and coupled tuning methods;Developed the cathode-ray oscillograph, an important foundation for electronic measurement instruments
+20|Crystallography;X-rays|Developed an X-ray spectrometer and investigated crystal structures with Lawrence Bragg;Established experimental methods for determining crystal structures using X-rays
+21|Crystallography;X-rays|Formulated Bragg's law relating X-ray wavelength, crystal-plane spacing and diffraction angle;Co-founded X-ray crystal-structure analysis with William Henry Bragg
+33|Quantum physics;X-rays|Discovered the wavelength change of X-rays scattered by electrons, the Compton effect;Provided decisive evidence that photons carry both energy and momentum
+34|Particle detection;Experimental physics|Invented the cloud chamber, using supersaturated vapour to make charged-particle tracks visible;Opened direct visual observation of the paths of individual microscopic particles
+39|Quantum mechanics;Mathematical physics|Developed the Schrödinger equation and wave mechanics;Described quantum states and atomic energy levels through the evolution of wavefunctions
+40|Quantum mechanics;Quantum field theory|Developed the Dirac equation combining quantum mechanics with special relativity;Predicted antimatter and developed foundational tools of quantum field theory
+42|Cosmic rays;Experimental physics|Found that penetrating radiation increases at high altitude through balloon measurements;Provided crucial evidence that cosmic rays originate beyond Earth's atmosphere
+43|Particle physics;Cosmic rays|Discovered the positron in cosmic-ray cloud-chamber tracks;Co-discovered the particle later identified as the muon
+61|Quantum mechanics;Condensed-matter physics|Introduced the probabilistic interpretation of the wavefunction;Helped establish matrix mechanics and developed lattice dynamics
+62|Particle detection;Nuclear physics|Developed the coincidence-counting method;Used timing correlations between detected events to investigate scattering and nuclear processes
+63|Atomic physics;Quantum electrodynamics|Discovered the Lamb shift in the fine structure of hydrogen energy levels;Provided a precise experimental test of radiative corrections in quantum electrodynamics
+64|Atomic physics;Precision measurement|Precisely measured the electron's magnetic moment and established its small departure from the simple Dirac value;Provided experimental evidence for the anomalous magnetic moment and quantum-electrodynamic corrections
+66|Semiconductor physics;Superconductivity|Made pioneering transistor research contributions with Walter Brattain and William Shockley;Developed the BCS microscopic theory of conventional superconductivity with Leon Cooper and John Robert Schrieffer
+68|Particle physics;Gauge theory;Statistical physics|Proposed tests of parity conservation in weak interactions with Tsung-Dao Lee;Developed non-Abelian gauge theory with Robert Mills and made important contributions to statistical physics
+69|Particle physics;Statistical physics|Proposed experimental tests of parity conservation in weak interactions with Chen Ning Yang;Made contributions to particle physics and statistical many-body theory
+70|Radiation physics;Particle detection|Experimentally discovered radiation emitted when charged particles exceed the phase velocity of light in a medium, now called Cherenkov radiation;Opened ways to detect particles using that radiation
+71|Theoretical physics;Radiation physics|Developed the theoretical explanation of Cherenkov radiation with Ilya Frank;Contributed to quantum theory and condensed-matter physics
+721|Radiation physics;Nuclear physics|Explained the conditions and properties of Cherenkov radiation with Igor Tamm;Advanced the use of the phenomenon in experimental physics
+75|Nuclear physics;Scattering experiments|Used high-energy electron scattering to measure nuclear charge distributions;Investigated the electromagnetic structure of protons and neutrons
+76|Nuclear physics;Precision spectroscopy|Discovered recoil-free resonant emission and absorption of gamma rays, the Mössbauer effect;Established a spectroscopic method for precise energy measurements and material studies
+78|Nuclear physics;Symmetry;Mathematical physics|Systematically applied group theory and fundamental symmetries to quantum mechanics;Investigated nuclear structure and symmetry principles of elementary particles
+79|Nuclear physics;Nuclear structure|Developed a nuclear shell model explaining magic numbers through strong spin-orbit coupling;Revealed the quantum-shell structure of nucleons in nuclei
+80|Nuclear physics;Nuclear structure|Independently developed the nuclear shell model explaining magic numbers;Used spin-orbit coupling to improve the description of nuclear stability
+86|Quantum electrodynamics;Quantum theory|Developed computational methods and Feynman diagrams for quantum electrodynamics;Formulated the path-integral approach and investigated quantum many-body phenomena including superfluidity
+91|Plasma physics;Space physics|Developed magnetohydrodynamics and predicted Alfvén waves;Applied plasma theory to phenomena in space and astrophysics
+92|Condensed-matter physics;Magnetism|Developed theories of antiferromagnetism and ferrimagnetism;Explained macroscopic magnetic behaviour through interacting magnetic sublattices
+97|Semiconductor physics;Quantum tunnelling|Discovered electron tunnelling in heavily doped semiconductor junctions;Developed the Esaki tunnel diode
+98|Condensed-matter physics;Superconductivity|Used electron tunnelling to investigate superconducting energy gaps;Provided experimental support for the microscopic theory of superconductivity
+99|Condensed-matter physics;Superconductivity|Predicted the tunnelling of Cooper pairs between superconductors;Established the theoretical basis of the Josephson effect
+100|Radio astronomy;Interferometry|Developed radio interferometry and aperture synthesis;Improved angular resolution and enabled systematic investigation of radio sources
+101|Radio astronomy;Pulsars|Led construction of the interplanetary-scintillation radio array and contributed to the discovery and interpretation of pulsars;Jocelyn Bell Burnell first recognized the unusual pulsed signals in the array's data
+106|Particle physics;Experimental physics|Led the Brookhaven experiment that discovered the J particle, identical to the psi found by Richter's group;Advanced precision particle spectroscopy and space-based particle detection
+107|Condensed-matter physics;Disordered systems|Proposed Anderson localization, explaining how disorder can inhibit electron propagation;Made major contributions to magnetism, superconductivity and many-body theory
+108|Condensed-matter physics;Electron correlations|Investigated the role of electron correlations in metal-insulator transitions;Developed theories of electronic behaviour in amorphous and disordered solids
+109|Condensed-matter physics;Magnetism|Explained paramagnetism and diamagnetism using quantum mechanics;Developed theories of magnetic-ion electronic structure and magnetic susceptibility in crystals
+110|Low-temperature physics;Superfluidity|Developed experimental methods for low temperatures and strong magnetic fields;Discovered and investigated the superfluid properties of liquid helium
+111|Radio astronomy;Cosmology|Discovered the cosmic microwave background with Robert Woodrow Wilson;Provided crucial observational evidence for hot Big Bang cosmology
+112|Radio astronomy;Cosmology|Discovered the nearly isotropic cosmic microwave background with Arno Penzias;Established a major observational probe of the early universe through microwave-receiver experiments
+118|Nonlinear optics;Laser spectroscopy|Developed nonlinear optics and methods of laser spectroscopy;Investigated nonlinear interactions between intense light fields and matter
+119|Laser physics;Precision spectroscopy|Developed laser spectroscopy and precise measurements of narrow spectral lines;Proposed an important theoretical scheme for an optical maser with Charles Townes
+120|Electron spectroscopy;Atomic physics|Developed high-resolution electron-spectroscopy methods;Used photoelectron energies to investigate chemical environments and electronic structure
+122|Astrophysics;Stellar structure|Established the theory of the limiting mass of white dwarfs;Investigated stellar structure, stellar dynamics and compact-object evolution
+123|Nuclear astrophysics;Nuclear physics|Investigated stellar nucleosynthesis through nuclear-reaction experiments and theory;Explained connections between nuclear reactions and cosmic elemental abundances
+124|Particle physics;Experimental physics|Promoted proton-antiproton collider experiments and led the UA1 experiment;Made decisive contributions to discovering the W and Z bosons
+125|Accelerator physics|Invented stochastic cooling;Made intense antiproton beams and the collider experiments that discovered the W and Z bosons possible
+127|Electron optics;Microscopy|Developed electron optics and built early electron microscopes;Enabled microscopic observations beyond the resolution limits set by visible light
+128|Surface physics;Scanning probes|Invented the scanning tunnelling microscope with Heinrich Rohrer;Used tunnelling current to investigate conductive surfaces at atomic scales
+129|Surface physics;Scanning probes|Developed the scanning tunnelling microscope with Gerd Binnig;Established a scanning-probe method for investigating atomic-scale surface structure
+135|Atomic physics;Precision measurement|Invented the separated-oscillatory-fields method;Established foundations for atomic clocks and precise frequency standards
+136|Atomic physics;Particle trapping|Developed techniques for trapping charged particles in electromagnetic fields;Advanced precision measurements of systems including individual electrons
+137|Atomic physics;Ion traps|Developed the Paul trap, using alternating electric fields to confine charged particles stably;Provided foundational tools for precision ion studies and quantum control
+145|Neutron scattering;Condensed-matter physics|Developed neutron spectroscopy and the triple-axis spectrometer;Used inelastic neutron scattering to investigate lattice vibrations and microscopic dynamics
+146|Neutron scattering;Condensed-matter physics|Developed neutron diffraction;Used neutrons to determine atomic arrangements and magnetic structures in matter
+147|Particle physics;Leptons|Discovered the tau lepton in electron-positron collision experiments;Established the charged member of the third lepton generation
+148|Particle physics;Neutrinos|First directly detected electron antineutrinos with Clyde Cowan in reactor experiments;Provided experimental confirmation of the neutrino's existence
+726|Semiconductor physics;Optoelectronics|Developed semiconductor heterostructures;Established important material and device foundations for high-speed electronics and semiconductor lasers
+727|Semiconductor physics;Electronic devices|Proposed and developed heterojunction semiconductor devices;Established theoretical foundations for high-speed transistors and heterostructure lasers
+728|Semiconductor physics;Microelectronics|Realized an early monolithic integrated circuit;Advanced the integration of multiple electronic components on a single semiconductor substrate
+753|Neutrino astronomy;Experimental physics|Developed an underground chlorine detector to measure solar neutrinos;Observed a deficit in the solar-neutrino flux, establishing the solar-neutrino problem
+754|Neutrino astronomy;Particle physics|Led the Kamiokande experiment;Observed neutrinos from supernova SN1987A and investigated solar neutrinos
+755|X-ray astronomy;Astrophysics|Developed space-based X-ray detection and discovered early cosmic X-ray sources;Helped establish X-ray astronomy as a major field for investigating high-energy celestial objects
+766|Condensed-matter physics;Superconductivity|Developed the vortex theory of type-II superconductors;Explained the mixed state in which magnetic flux enters as quantized vortices
+767|Condensed-matter physics;Superconductivity|Developed the Ginzburg-Landau phenomenological theory of superconductivity with Lev Landau;Described superconducting transitions and spatial variation through an order parameter and free energy
+768|Condensed-matter physics;Superfluidity|Developed a theoretical explanation of superfluid helium-3;Investigated unconventional pairing and macroscopic quantum phenomena
+791|Quantum optics|Developed the quantum theory of optical coherence;Used quantum correlation functions to describe photon statistics and coherence
+792|Precision spectroscopy;Laser physics|Developed precision laser spectroscopy and optical-frequency measurement;Advanced optical-frequency combs and frequency standards
+793|Precision spectroscopy;Laser physics|Developed high-precision laser spectroscopy and optical-frequency combs;Connected optical frequencies precisely with countable radio frequencies
+804|Cosmology;Cosmic microwave background|Led scientific work on COBE and the FIRAS experiment;Precisely established the nearly ideal black-body spectrum of the cosmic microwave background
+805|Cosmology;Cosmic microwave background|Led key work on COBE's DMR experiment;Detected large-scale temperature anisotropies in the cosmic microwave background
+826|Particle physics;Symmetry breaking|Systematically introduced spontaneous symmetry breaking into elementary-particle theory;Provided important ideas for understanding low-energy strong-interaction phenomena
+827|Particle physics;Quark mixing|Proposed a six-quark mixing framework with Toshihide Maskawa;Explained how weak interactions could violate CP symmetry
+828|Particle physics;Quark mixing|Developed a three-generation quark-mixing theory with Makoto Kobayashi;Showed how a complex phase in the quark-mixing matrix can produce CP violation
+838|Optics;Optical-fibre communication|Showed that high-purity glass could greatly reduce optical-fibre attenuation;Established a physical and materials-research path to long-distance optical communication
+839|Semiconductor physics;Imaging devices|Invented the charge-coupled device with George Smith;Provided an important technology for digital image sensing and astronomical imaging
+840|Semiconductor physics;Imaging devices|Invented the CCD image sensor with Willard Boyle;Developed a way to convert light into charge signals transferred and read out through a semiconductor device
+876|Quantum optics;Quantum information|Controlled atom-photon interactions using cavity quantum electrodynamics;Developed non-destructive measurements of individual photon states and studies of quantum coherence
+877|Atomic physics;Quantum information|Developed laser cooling, trapping and quantum-state control of ions;Advanced ion-based quantum computing and high-precision atomic clocks
+919|Particle physics;Neutrinos|Led key analyses of atmospheric neutrinos in Super-Kamiokande;Established oscillation evidence through neutrino deficits varying with propagation distance
+920|Particle physics;Neutrinos|Led the Sudbury Neutrino Observatory experiment;Used different reaction channels to show that solar electron neutrinos transform into other flavours
+928|Condensed-matter physics;Topological matter|Developed the theory of topological phase transitions in two-dimensional systems with Michael Kosterlitz;Made major contributions to the topological understanding of the quantum Hall effect
+929|Condensed-matter physics;Topological matter|Proposed the Haldane conjecture and predicted an excitation gap in integer-spin antiferromagnetic Heisenberg chains;Proposed a lattice model exhibiting a quantum Hall effect without a net magnetic field
+930|Condensed-matter physics;Statistical physics|Developed the theory of vortex-pair unbinding in two-dimensional systems with David Thouless;Explained a phase-transition mechanism beyond ordinary symmetry breaking
+960|Laser physics;Optical manipulation|Invented optical tweezers, using radiation pressure to trap and manipulate microscopic objects;Extended laser applications in microscopic physics and biophysics
+961|Laser physics;Ultrafast optics|Proposed chirped-pulse amplification with Donna Strickland;Enabled intense ultrashort pulses by stretching, amplifying and recompressing laser pulses
+962|Laser physics;Ultrafast optics|Developed chirped-pulse amplification with Gérard Mourou;Addressed optical damage during the direct amplification of ultrashort laser pulses
+973|Physical cosmology|Investigated the cosmic microwave background, structure formation and dark matter;Established important theoretical foundations of modern physical cosmology
+974|Astrophysics;Exoplanets|Discovered the exoplanet 51 Pegasi b with Didier Queloz;Advanced high-precision radial-velocity searches for planets orbiting Sun-like stars
+975|Astrophysics;Exoplanets|Discovered 51 Pegasi b with Michel Mayor through stellar radial-velocity measurements;Advanced the investigation of exoplanets orbiting ordinary stars
+988|General relativity;Black holes;Mathematical physics|Proved that gravitational collapse produces a spacetime singularity under specified physical conditions;Applied rigorous geometrical methods to the theory of black-hole formation
+989|Astrophysics;Galactic Centre|Led infrared observations tracking stars near the centre of the Milky Way;Provided crucial evidence for a supermassive compact object at the Galactic Centre
+990|Astrophysics;Galactic Centre|Led high-resolution infrared imaging and orbit measurements of stars at the Galactic Centre;Made decisive observational contributions to establishing the Milky Way's central supermassive black hole
+999|Climate physics;Earth systems|Developed climate models coupling atmospheric radiation and convection;Quantified the temperature response to increasing atmospheric carbon dioxide
+1000|Climate physics;Statistical physics|Developed stochastic climate models connecting short-term weather fluctuations with long-term climate variation;Developed methods for identifying human influences in climate observations
+1001|Statistical physics;Complex systems|Developed the theory of spin glasses and disordered systems;Revealed complex organization arising from disorder and fluctuations
+1037|Statistical physics;Neural networks|Proposed the Hopfield network as a model of associative memory;Used energy functions and collective dynamics to describe information storage in neural networks
+1038|Statistical learning;Neural networks|Helped develop Boltzmann machines and other learning models drawing on statistical physics;Advanced representation-learning methods for multilayer neural networks

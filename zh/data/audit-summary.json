@@ -1,0 +1,128 @@
+{
+  "as_of": "2026-10-26",
+  "baseline_records": 531,
+  "records_per_language": 721,
+  "added_records": 190,
+  "removed_records": 0,
+  "existing_records_with_editorial_or_source_changes": 150,
+  "existing_records_with_date_precision_display_or_status_changes": 15,
+  "nobel_physics_people": 230,
+  "images_per_language": 721,
+  "image_kinds": {
+    "posthumous_depiction": 29,
+    "context_image": 20,
+    "portrait": 672
+  },
+  "website_image_permission_unverified": 62,
+  "english_independent_semantic_review": {
+    "records": 721,
+    "missing_ids": [],
+    "duplicate_ids": [],
+    "reports": [
+      {
+        "file": "data/audit/english-peer-review-early.json",
+        "records": 138
+      },
+      {
+        "file": "data/audit/english-peer-review-experimental.json",
+        "records": 10
+      },
+      {
+        "file": "data/audit/english-peer-review-field-theory.json",
+        "records": 14
+      },
+      {
+        "file": "data/audit/english-peer-review-modern.json",
+        "records": 204
+      },
+      {
+        "file": "data/audit/english-peer-review-nineteenth.json",
+        "records": 125
+      },
+      {
+        "file": "data/audit/english-peer-review-nobel.json",
+        "records": 230
+      }
+    ]
+  },
+  "canonical_validation": {
+    "passed": true,
+    "people_checked": 721,
+    "nobel_people_checked": 230,
+    "images_checked": 721,
+    "errors": []
+  },
+  "bilingual_validation": {
+    "passed": true,
+    "records_per_language": 721,
+    "paired_records_checked": 721,
+    "errors": [],
+    "notes": [],
+    "method": "All record pairs and asset hashes checked. Original-script creator names and original legal metadata are intentionally preserved outside the translated prose fields. Semantic English peer review is recorded separately."
+  },
+  "scope": "Broad, source-checked, expandable history archive; no claim of worldwide exhaustiveness or historical infallibility.",
+  "limitations": [
+    "Source conflicts and uncertain dates remain explicit.",
+    "Posthumous depictions and contextual illustrations are not authenticated lifetime portraits.",
+    "Permission flags must be resolved before public image republication."
+  ],
+  "final_english_publication_qa": {
+    "passed": true,
+    "profiles": 721,
+    "reviewed_data_sha256": "2dd2a31d7608129e018ef52d51d485b6e7d14541f66392e281bb8f1e091afec4",
+    "current_data_sha256": "2dd2a31d7608129e018ef52d51d485b6e7d14541f66392e281bb8f1e091afec4",
+    "source_report": "data/audit/final-english-publication-qa.json"
+  },
+  "added_image_visual_qa": {
+    "passed": true,
+    "profiles": 190,
+    "source_scan": {
+      "commons_pages_in_scope": 154,
+      "current_pages_successfully_fetched": 124,
+      "throttled_page_ids": [
+        "robert-s-mulliken",
+        "lester-germer",
+        "pascual-jordan",
+        "ralph-kronig",
+        "seth-neddermeyer",
+        "giuseppe-occhialini",
+        "edward-teller",
+        "hendrik-casimir",
+        "maurice-goldhaber",
+        "carl-friedrich-von-weizsacker",
+        "claude-shannon",
+        "walter-kohn",
+        "theodore-maiman",
+        "paul-lauterbur",
+        "joel-lebowitz",
+        "elliott-lieb",
+        "asher-peres",
+        "roy-kerr",
+        "david-ruelle",
+        "gabriele-veneziano",
+        "charles-bennett",
+        "gary-gibbons",
+        "saul-teukolsky",
+        "abhay-ashtekar",
+        "wojciech-zurek",
+        "thibault-damour",
+        "ashoke-sen",
+        "peter-shor",
+        "subir-sachdev",
+        "frans-pretorius"
+      ],
+      "throttle_error": "HTTP 429; no aggressive retries. Existing metadata and institutional/peer evidence were retained.",
+      "fresh_results": "data/raw/final-image-qa/fresh-source-page-results.json",
+      "explicit_new_active_deletion_notice_ids": [
+        "shirley-ann-jackson"
+      ]
+    },
+    "limitations": [
+      "This is an image identity/caption/provenance QA, not a legal clearance of every historical photograph.",
+      "A source_license_recorded tag records the source assertion; the audit does not independently prove every underlying copyright chain.",
+      "Thirty current Commons source requests returned429. Their existing source metadata and image identity evidence were reviewed; the fetch limitation is explicit.",
+      "Thirty-three images initially already carried permission_required; these were retained as documented restrictions, not silently treated as open-licence material."
+    ],
+    "source_report": "data/audit/final-image-qa.json"
+  }
+}

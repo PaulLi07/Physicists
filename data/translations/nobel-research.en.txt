@@ -1,0 +1,121 @@
+# year | fields (semicolon separated) | original English contribution summaries (semicolon separated)
+1901|Experimental physics;X-rays|Discovered X-rays and investigated their penetrating properties;Opened a new way to examine the internal structure of matter
+1902|Electromagnetism;Spectroscopy|Investigated how magnetic fields affect atomic radiation and spectra;Helped establish the physical understanding of the Zeeman effect and interactions between electrons and light
+1903|Radioactivity;Nuclear physics|Discovered or investigated spontaneous radiation from matter;Helped establish radioactivity as a distinct area of physical research
+1904|Acoustics;Optics;Gas physics|Made precise studies of gas densities and co-discovered argon;Developed theories of waves, sound and the scattering of light
+1905|Electron physics;Experimental physics|Investigated the penetration, absorption and propagation of cathode rays;Provided important experimental knowledge about electron beams
+1906|Atomic physics;Electron physics|Studied cathode rays and gas discharges, establishing experimental evidence for the electron;Measured the charge-to-mass ratio of cathode-ray particles
+1907|Optics;Precision measurement|Developed high-precision interferometric instruments and methods;Applied optical precision measurements to the speed of light and spectroscopy
+1908|Optics;Imaging|Developed a colour-photography method based on optical interference and standing waves;Used the wave properties of light to record colour information
+1909|Electromagnetism;Wireless communication|Advanced the generation and detection of radio waves and wireless communication;Helped turn electromagnetic research into practical wireless transmission systems
+1910|Thermodynamics;Statistical physics|Developed an equation of state accounting for molecular size and intermolecular forces;Explained the continuity of gaseous and liquid states and critical behaviour
+1911|Thermal radiation;Thermodynamics|Established Wien's displacement law for black-body radiation;Investigated the relation between temperature and the distribution of thermal radiation
+1912|Applied physics;Optical engineering|Developed automatic gas regulators and daylight-control devices for lighthouse and buoy illumination;Improved the reliability and fuel efficiency of navigational lighting
+1913|Low-temperature physics;Superconductivity|Liquefied helium and extended experiments to lower temperatures;Discovered the disappearance of electrical resistance in cold mercury
+1914|X-rays;Crystal physics|Discovered the diffraction of X-rays by crystals;Provided evidence for both the wave nature of X-rays and periodic crystal structure
+1915|Crystallography;X-rays|Used X-ray diffraction to determine crystal structures;Developed methods relating diffraction angles, wavelength and crystal-plane spacing
+1917|X-rays;Atomic physics|Investigated characteristic X-radiation from elements;Established that elements have identifiable characteristic X-ray spectra
+1918|Quantum theory;Thermal radiation|Introduced energy quantization and formulated the black-body radiation law;Introduced Planck's constant and helped initiate quantum physics
+1919|Atomic physics;Spectroscopy|Discovered the splitting of spectral lines in an electric field, the Stark effect;Investigated positive-ion rays and atomic spectra
+1920|Precision measurement;Materials physics|Discovered and studied low-expansion iron-nickel alloys, including Invar;Improved length standards and instruments affected by temperature changes
+1921|Relativity;Quantum theory;Statistical physics|Developed special and general relativity, transforming the description of spacetime and gravity;Explained the photoelectric effect with light quanta and investigated Brownian motion
+1922|Atomic physics;Quantum theory|Proposed an atomic model with quantized energy levels that explained hydrogen spectra;Developed complementarity and contributed to the interpretation of quantum theory
+1923|Atomic physics;Precision measurement|Measured the elementary electric charge through oil-drop experiments;Experimentally investigated the photoelectric effect and tested Einstein's relation
+1924|X-rays;Spectroscopy|Developed high-precision methods of X-ray spectroscopy;Used accurate spectral measurements to investigate atomic structure
+1925|Atomic physics;Quantum experiments|Measured discrete atomic excitation energies through electron-atom collisions;Provided direct experimental support for quantized atomic energy levels
+1926|Statistical physics;Atomic theory|Studied Brownian motion experimentally and determined Avogadro's constant;Provided strong evidence for the physical existence of atoms and molecules
+1927|Quantum physics;Particle detection|Developed experiments on radiation and charged particles;Advanced the investigation of microscopic radiation processes and particle tracks
+1928|Electron physics;Thermionic emission|Investigated the emission of electrons from hot materials;Developed a quantitative description of how thermionic current depends on temperature
+1929|Quantum mechanics;Matter waves|Proposed that matter particles have wave properties;Provided a conceptual foundation for wave mechanics and electron diffraction
+1930|Optics;Spectroscopy|Discovered frequency-shifted scattering of light, the Raman effect;Established a method for investigating molecular and material structure through scattered light
+1932|Quantum mechanics;Mathematical physics|Established matrix mechanics as a formulation of quantum mechanics;Formulated the uncertainty relation and investigated atomic nuclei and elementary particles
+1933|Quantum mechanics;Mathematical physics|Developed fundamental mathematical formulations of quantum mechanics;Established tools for describing atomic structure and quantum states
+1935|Nuclear physics;Experimental physics|Discovered the neutron and measured its basic properties;Established a foundation for understanding nuclear composition and neutron-induced reactions
+1936|Cosmic rays;Particle physics|Experimentally investigated high-energy radiation and particles arriving from space;Helped make cosmic rays a major tool for discovering new particles
+1937|Quantum mechanics;Electron diffraction|Observed the diffraction of electrons by crystals;Confirmed the wave properties of electrons predicted by matter-wave theory
+1938|Nuclear physics;Neutron physics|Investigated nuclear reactions and induced radioactivity using neutron bombardment;Showed that slow neutrons are particularly effective in producing certain nuclear reactions
+1939|Accelerator physics;Nuclear physics|Invented and developed the cyclotron;Made higher-energy charged-particle beams available for nuclear research
+1943|Atomic physics;Molecular beams|Developed molecular-beam experiments and measured the proton's magnetic moment;Used space-quantization experiments to investigate atomic magnetic moments
+1944|Atomic physics;Magnetic resonance|Developed the molecular-beam magnetic-resonance method;Used resonance to measure nuclear magnetic moments precisely
+1945|Quantum mechanics;Particle physics|Formulated the exclusion principle, explaining electronic shells and matter's structure;Proposed the neutrino to address energy conservation in beta decay
+1946|High-pressure physics;Experimental methods|Developed apparatus for producing very high pressures;Investigated material properties and phase transitions under extreme pressure
+1947|Space physics;Ionospheric physics|Used radio experiments to investigate the ionosphere;Identified high-altitude ionized regions responsible for reflecting radio waves
+1948|Particle physics;Cosmic rays|Improved cloud chambers and automatic triggering techniques;Used cosmic-ray experiments to investigate positrons and particle showers
+1949|Particle physics;Nuclear forces|Proposed that meson exchange explains the interaction between nucleons;Predicted a new particle associated with the transmission of the nuclear force
+1950|Particle physics;Detection methods|Developed photographic-emulsion methods for recording high-energy particle tracks;Contributed to the discovery and study of the pion
+1951|Nuclear physics;Accelerator physics|Produced nuclear transformations using artificially accelerated charged particles;Developed early high-voltage particle-accelerator experiments
+1952|Nuclear magnetic resonance;Atomic physics|Independently developed methods for detecting nuclear magnetic resonance in bulk matter;Provided experimental foundations for condensed-matter research and later magnetic-resonance technologies
+1953|Optics;Microscopy|Invented phase-contrast microscopy;Converted phase changes produced by transparent samples into visible intensity differences
+1954|Quantum mechanics;Particle detection|Advanced the interpretation of quantum processes and precise experimental methods;Provided foundational tools for microscopic physical research
+1955|Atomic physics;Precision measurement|Used precise atomic experiments to test quantum electrodynamics;Revealed small quantum corrections to electronic properties and atomic energy levels
+1956|Semiconductor physics;Electronic devices|Investigated semiconductors and contributed to the invention of the transistor;Established important foundations of solid-state electronics and microelectronics
+1957|Particle physics;Symmetry|Identified the lack of experimental tests of parity conservation in weak interactions and proposed tests;Helped initiate the discovery of parity violation in weak processes
+1958|Particle physics;Radiation physics|Discovered or explained Cherenkov radiation emitted by charged particles exceeding light's phase velocity in a medium;Established a basis for measuring particle speeds and identifying particles
+1959|Particle physics;Antimatter|Discovered the antiproton in accelerator experiments;Provided experimental evidence important to antimatter and particle-antiparticle symmetry
+1960|Particle detection;Experimental physics|Invented the bubble chamber;Used superheated liquids to record charged-particle tracks in high-energy experiments
+1961|Nuclear physics;Precision experiments|Used precise scattering or resonance experiments to investigate nuclei and matter;Extended experimental methods for probing microscopic structure
+1962|Condensed-matter physics;Quantum fluids|Developed the theory of superfluid helium;Made major contributions to Fermi liquids, phase transitions, plasmas and quantum field theory
+1963|Nuclear physics;Symmetry|Developed theories of nuclear structure;Applied quantum symmetry principles or shell concepts to atomic nuclei
+1964|Quantum electronics;Lasers|Developed microwave amplification and oscillation based on stimulated emission;Established important theoretical and experimental foundations for masers and lasers
+1965|Quantum electrodynamics;Particle physics|Developed renormalized quantum electrodynamics;Enabled highly precise calculations of interactions between electrons and electromagnetic fields
+1966|Atomic physics;Optics|Proposed and developed optical pumping;Used light-atom interactions to prepare and investigate non-equilibrium atomic states
+1967|Nuclear astrophysics;Nuclear physics|Explained nuclear reactions responsible for stellar energy production;Investigated the proton-proton chain and carbon-nitrogen-oxygen cycle
+1968|Particle physics;Detection methods|Developed large hydrogen bubble chambers and associated analysis methods;Contributed to the discovery and investigation of hadronic resonances
+1969|Particle physics;Quark theory|Used symmetry to classify hadrons systematically;Proposed the quark model and advanced the theory of strong interactions
+1970|Plasma physics;Magnetism|Developed foundational theories of plasmas or magnetic materials;Advanced understanding of collective behaviour in matter
+1971|Optics;Holography|Invented and developed holography;Reconstructed wavefronts by recording both phase and amplitude information
+1972|Condensed-matter physics;Superconductivity|Developed the BCS microscopic theory of superconductivity;Explained conventional superconductivity through electron pairing and condensation
+1973|Condensed-matter physics;Quantum tunnelling|Investigated quantum tunnelling in semiconductors or superconductors;Used tunnelling to reveal electronic structure and macroscopic quantum behaviour
+1974|Radio astronomy;Astrophysics|Advanced the methods and observational achievements of radio astronomy;Extended the investigation of the universe using radio waves
+1975|Nuclear physics;Nuclear structure|Connected collective nuclear motion with individual-particle motion;Developed a theory of the structure of deformed nuclei
+1976|Particle physics;Experimental physics|Led independent experiments that discovered the J/psi particle;Provided key evidence for the charm quark and the quark model
+1977|Condensed-matter physics;Electronic structure|Investigated electronic structure in magnetic and disordered systems;Explained mechanisms involving electron correlations, localization or magnetism
+1978|Low-temperature physics;Cosmology|Extended experimental knowledge of cold matter or cosmic radiation;Developed key observations and experimental techniques in these areas
+1979|Particle physics;Electroweak theory|Developed a unified theory of electromagnetic and weak interactions;Predicted and explained phenomena including weak neutral currents
+1980|Particle physics;CP symmetry|Discovered CP violation in neutral-kaon decays;Showed that some processes violate the combined symmetry of charge conjugation and spatial reflection
+1981|Laser spectroscopy;Electron spectroscopy|Developed high-resolution spectroscopic methods;Used light or electron spectra to probe atoms and materials precisely
+1982|Statistical physics;Renormalization group|Developed renormalization-group methods for critical phenomena at continuous phase transitions;Explained the universality of critical behaviour across different physical systems
+1983|Astrophysics;Nuclear astrophysics|Investigated stellar structure and evolution or the formation of elements in the universe;Connected nuclear physics with stellar astrophysics
+1984|Particle physics;Accelerator physics|Made decisive contributions to the CERN experiments that discovered the W and Z bosons;Enabled direct experimental tests of electroweak unification
+1985|Condensed-matter physics;Quantum Hall effect|Discovered the integer quantum Hall effect;Established precise quantization of Hall conductance in a two-dimensional electron system
+1986|Microscopy;Surface physics|Developed electron or tunnelling-based microscopy;Extended high-resolution observation of microscopic material structure
+1987|Condensed-matter physics;Superconductivity|Discovered high-temperature superconductivity in copper-oxide materials;Opened new research on unconventional superconductivity and strongly correlated electrons
+1988|Particle physics;Neutrinos|Used a high-energy neutrino beam to discover the muon neutrino;Established that electron and muon neutrinos are distinct
+1989|Atomic physics;Precision measurement|Developed precise atomic measurements or charged-particle trapping methods;Provided tools for frequency standards and tests of quantum properties
+1990|Particle physics;Deep inelastic scattering|Revealed nucleon substructure through high-energy electron scattering;Provided crucial evidence for quarks as constituents of protons and neutrons
+1991|Condensed-matter physics;Soft matter|Extended theoretical methods for ordering phenomena to liquid crystals and polymers;Connected the behaviour of different soft-matter systems
+1992|Particle detection;Experimental physics|Invented and developed the multiwire proportional chamber;Enabled efficient position measurements and electronic readout of charged particles
+1993|Astrophysics;Gravitation|Discovered and investigated a binary pulsar system;Its orbital decay supplied indirect evidence consistent with gravitational-wave emission
+1994|Neutron scattering;Condensed-matter physics|Developed neutron-scattering methods;Used neutrons to probe the structure or microscopic dynamics of condensed matter
+1995|Particle physics;Leptons|Experimentally discovered a new lepton or detected neutrinos;Extended knowledge of elementary-particle families
+1996|Low-temperature physics;Quantum fluids|Discovered superfluidity in helium-3;Revealed a new system in which paired fermions form a macroscopic quantum state
+1997|Atomic physics;Laser cooling|Developed methods to cool and trap atoms with laser light;Provided foundations for ultracold-atom experiments, precision measurements and quantum gases
+1998|Condensed-matter physics;Fractional quantum Hall effect|Investigated the fractional quantum Hall effect in two-dimensional electron systems;Revealed strongly correlated quantum states with fractionalized excitations
+1999|Particle physics;Quantum field theory|Established and developed the renormalizable treatment of non-Abelian gauge theories;Enabled precise calculations and experimental tests of electroweak theory
+2000|Semiconductor physics;Microelectronics|Developed semiconductor devices and integration technologies;Advanced the physical foundations of high-speed electronics and information technology
+2001|Atomic physics;Quantum gases|Realized Bose-Einstein condensation in dilute atomic gases;Opened experimental research on controllable macroscopic quantum states in atomic gases
+2002|Astrophysics;Neutrino astronomy;X-ray astronomy|Opened new ways to observe the universe with neutrinos or X-rays;Extended astronomy beyond visible light to new cosmic messengers
+2003|Condensed-matter physics;Superconductivity;Superfluidity|Developed theories of superconductors or superfluids;Explained vortices, order parameters or pairing structures in macroscopic quantum matter
+2004|Particle physics;Quantum chromodynamics|Discovered asymptotic freedom in non-Abelian gauge theory;Explained why quark interactions become weaker at short distances and high energies
+2005|Quantum optics;Precision spectroscopy|Developed the quantum theory of light or methods of precision laser spectroscopy;Advanced photon statistics, frequency measurement and optical coherence
+2006|Cosmology;Cosmic microwave background|Used COBE to measure the cosmic microwave background's black-body spectrum or temperature anisotropies;Provided observations central to hot Big Bang cosmology and structure formation
+2007|Condensed-matter physics;Spintronics|Independently discovered giant magnetoresistance;Revealed the influence of electron spin on electrical transport in magnetic multilayers
+2008|Particle physics;Symmetry breaking|Developed theories of broken symmetries in elementary-particle physics;Advanced understanding of mass generation or quark flavour mixing
+2009|Optics;Optical-fibre communication;Semiconductor imaging|Advanced optical information transmission or electronic image sensing;Applied physical research to modern communications and digital imaging
+2010|Condensed-matter physics;Two-dimensional materials|Isolated and experimentally investigated graphene;Revealed distinctive electronic and quantum-transport properties of a two-dimensional carbon material
+2011|Cosmology;Observational astronomy|Discovered the accelerating expansion of the universe through distant Type Ia supernovae;Provided crucial observational evidence motivating dark-energy research
+2012|Quantum optics;Quantum information|Developed experimental methods to manipulate and measure individual quantum systems;Investigated photons or ions while preserving quantum coherence
+2013|Particle physics;Symmetry breaking|Proposed a mechanism in which spontaneous symmetry breaking gives mass to gauge bosons;Established a central component of the particle-physics Standard Model
+2014|Semiconductor physics;Optoelectronics|Developed efficient blue light-emitting diodes;Enabled energy-efficient white lighting and related optoelectronic devices
+2015|Particle physics;Neutrinos|Established neutrino oscillations through atmospheric or solar-neutrino experiments;Showed that neutrinos have nonzero masses
+2016|Condensed-matter physics;Topological matter|Used topological concepts to investigate phases of matter and phase transitions;Expanded the theoretical description of two-dimensional and low-dimensional quantum systems
+2017|Gravitational waves;Experimental physics;Relativity|Made decisive contributions to the LIGO detector and the first direct observation of gravitational waves;Opened gravitational-wave astronomy through precision interferometry
+2018|Laser physics;Optical manipulation|Developed methods for microscopic optical manipulation or intense ultrashort laser pulses;Extended the uses of lasers in fundamental physics and experimental technology
+2019|Cosmology;Exoplanets|Advanced understanding of cosmic evolution or planets beyond the Solar System;Extended physical cosmology and the study of planetary systems
+2020|Relativity;Black holes;Astrophysics|Investigated black holes through mathematical theory or astronomical observation;Established rigorous theoretical arguments or decisive observational evidence for black holes
+2021|Statistical physics;Climate physics;Complex systems|Developed descriptions of complex physical systems;Investigated climate change or collective behaviour in disordered systems
+2022|Quantum foundations;Quantum information|Performed entangled-photon experiments and tested Bell inequalities;Established important experimental foundations for quantum information science
+2023|Attosecond physics;Ultrafast optics|Developed experimental methods for producing attosecond light pulses;Made it possible to investigate ultrafast electron dynamics in matter
+2024|Statistical physics;Neural networks|Applied collective behaviour and statistical methods to artificial neural networks;Developed foundational models and learning methods used in machine learning
+2025|Condensed-matter physics;Superconducting circuits;Quantum mechanics|Discovered macroscopic quantum tunnelling and energy quantization in electrical circuits;Established foundations for controllable quantum behaviour in superconducting circuits
+2026|Particle astrophysics;Neutrino astronomy|Helped establish the IceCube Neutrino Observatory;Made decisive contributions to discovering high-energy neutrinos of astrophysical origin

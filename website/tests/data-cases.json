@@ -1,0 +1,511 @@
+{
+  "as_of": "2026-10-26",
+  "source_count": 721,
+  "purpose": "Source-grounded website QA cases; source data is unchanged. Some interaction/accessibility checks require the final browser implementation.",
+  "cases": [
+    {
+      "id": "default-complete-chronology",
+      "type": "timeline",
+      "expected_count": 721,
+      "first_person": "thales",
+      "last_person": "konstantin-novoselov",
+      "expectation": "Chronological order follows the supplied order/sort_year, not JavaScript Date parsing or lexical signed-year sorting."
+    },
+    {
+      "id": "bce-uncertainty",
+      "type": "dates",
+      "person_id": "thales",
+      "expectation": "Show the exact supplied localized approximate BCE life dates; do not turn year-only dates into 1 January or remove circa.",
+      "source_expectations": {
+        "name": {
+          "zh": "泰勒斯",
+          "en": "Thales"
+        },
+        "birth": {
+          "date": "-0624",
+          "precision": "approximate",
+          "display": {
+            "zh": "约公元前624年",
+            "en": "c. 624 BCE"
+          }
+        },
+        "death_status": "deceased",
+        "portrait_kind": "posthumous_depiction",
+        "rights_status": null,
+        "contributions_count": 2,
+        "notes_count": 2,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "uncertain-death-not-living",
+      "type": "dates",
+      "person_id": "ettore-majorana",
+      "expectation": "death is null but death_status is unknown. Show unknown death/whereabouts, preserve the 1938 disappearance note; never mark living.",
+      "source_expectations": {
+        "name": {
+          "zh": "埃托雷·马约拉纳",
+          "en": "Ettore Majorana"
+        },
+        "birth": {
+          "date": "1906-08-05",
+          "precision": "day",
+          "display": {
+            "zh": "1906年8月5日",
+            "en": "5 August 1906"
+          }
+        },
+        "death_status": "unknown",
+        "portrait_kind": "portrait",
+        "rights_status": "source_license_recorded",
+        "contributions_count": 3,
+        "notes_count": 1,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "living-status-as-of",
+      "type": "dates",
+      "person_id": "nima-arkani-hamed",
+      "expectation": "death is null and death_status is alive. Show living as of archive date, not an invented death date.",
+      "source_expectations": {
+        "name": {
+          "zh": "尼玛·阿尔卡尼-哈米德",
+          "en": "Nima Arkani-Hamed"
+        },
+        "birth": {
+          "date": "1972-04-05",
+          "precision": "day",
+          "display": {
+            "zh": "1972年4月5日",
+            "en": "5 April 1972"
+          }
+        },
+        "death_status": "alive",
+        "portrait_kind": "portrait",
+        "rights_status": "source_license_recorded",
+        "contributions_count": 3,
+        "notes_count": 0,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "baptism-not-birth",
+      "type": "dates",
+      "person_id": "george-green",
+      "expectation": "Preserve the 1793 year-only birth and 14 July baptism qualification, including in the detail panel.",
+      "source_expectations": {
+        "name": {
+          "zh": "乔治·格林",
+          "en": "George Green"
+        },
+        "birth": {
+          "date": "1793",
+          "precision": "year",
+          "display": {
+            "zh": "1793年（7月14日受洗，确切生日不详）",
+            "en": "1793 (baptized 14 July; exact birth date unknown)"
+          }
+        },
+        "death_status": "deceased",
+        "portrait_kind": "context_image",
+        "rights_status": "source_license_recorded",
+        "contributions_count": 2,
+        "notes_count": 1,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "burial-not-death",
+      "type": "dates",
+      "person_id": "denis-papin",
+      "expectation": "Preserve year-only 1647/1713 and separate baptism/burial descriptions.",
+      "source_expectations": {
+        "name": {
+          "zh": "德尼·帕潘",
+          "en": "Denis Papin"
+        },
+        "birth": {
+          "date": "1647",
+          "precision": "year",
+          "display": {
+            "zh": "1647年（8月22日受洗，确切生日不详）",
+            "en": "1647 (baptized 22 August; exact birth date unknown)"
+          }
+        },
+        "death_status": "deceased",
+        "portrait_kind": "portrait",
+        "rights_status": null,
+        "contributions_count": 2,
+        "notes_count": 1,
+        "source_count": 3
+      }
+    },
+    {
+      "id": "calendar-note",
+      "type": "dates",
+      "person_id": "isaac-newton",
+      "expectation": "The supplied Gregorian dates and Julian-calendar notes both remain visible in the full dossier.",
+      "source_expectations": {
+        "name": {
+          "zh": "艾萨克·牛顿",
+          "en": "Isaac Newton"
+        },
+        "birth": {
+          "date": "1643-01-04",
+          "precision": "day",
+          "display": {
+            "zh": "1643年1月4日",
+            "en": "4 January 1643"
+          }
+        },
+        "death_status": "deceased",
+        "portrait_kind": "portrait",
+        "rights_status": null,
+        "contributions_count": 3,
+        "notes_count": 1,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "disputed-date-localization",
+      "type": "dates",
+      "person_id": "pierre-duhem",
+      "expectation": "Chinese and English must preserve the June 9/10 source dispute; display the supplied text rather than only an exact canonical date.",
+      "source_expectations": {
+        "name": {
+          "zh": "皮埃尔·迪昂",
+          "en": "Pierre Duhem"
+        },
+        "birth": {
+          "date": "1861-06-10",
+          "precision": "approximate",
+          "display": {
+            "zh": "1861年6月10日（另有6月9日记载）",
+            "en": "10 June 1861 (date disputed)"
+          }
+        },
+        "death_status": "deceased",
+        "portrait_kind": "portrait",
+        "rights_status": "source_license_recorded",
+        "contributions_count": 3,
+        "notes_count": 1,
+        "source_count": 5
+      }
+    },
+    {
+      "id": "cross-language-name-zh-in-en",
+      "type": "search",
+      "ui_language": "en",
+      "query": "杨振宁",
+      "must_include": [
+        "chen-ning-yang"
+      ],
+      "expectation": "Search indexes both Chinese and English names independently of UI language."
+    },
+    {
+      "id": "cross-language-name-en-in-zh",
+      "type": "search",
+      "ui_language": "zh",
+      "query": "Einstein",
+      "must_include": [
+        "albert-einstein"
+      ],
+      "expectation": "Find the same person using English surname while displaying Chinese UI."
+    },
+    {
+      "id": "case-insensitive-name",
+      "type": "search",
+      "ui_language": "zh",
+      "query": "  eINsTeIn  ",
+      "must_include": [
+        "albert-einstein"
+      ],
+      "expectation": "Ignore surrounding whitespace and case."
+    },
+    {
+      "id": "diacritic-name",
+      "type": "search",
+      "ui_language": "en",
+      "query": "Schrodinger",
+      "must_include": [
+        "erwin-schrodinger"
+      ],
+      "expectation": "ASCII query finds the supplied Schrödinger name after accent normalization."
+    },
+    {
+      "id": "distinct-similar-names",
+      "type": "search",
+      "query": "Wolfgang Paul",
+      "must_include": [
+        "wolfgang-paul",
+        "wolfgang-pauli"
+      ],
+      "expectation": "Partial search may match both, but they remain two distinct cards and correct detail IDs; do not merge Paul with Pauli."
+    },
+    {
+      "id": "shared-surname",
+      "type": "search",
+      "query": "Bell",
+      "must_include": [
+        "john-stewart-bell",
+        "jocelyn-bell-burnell"
+      ],
+      "expectation": "Shared surnames return independent people, with the selected portrait opening the correct full dossier."
+    },
+    {
+      "id": "cross-language-field-zh-in-en",
+      "type": "search",
+      "ui_language": "en",
+      "query": "气体放电",
+      "must_include": [
+        "francis-hauksbee"
+      ],
+      "expectation": "Index both localized research-field arrays."
+    },
+    {
+      "id": "cross-language-field-en-in-zh",
+      "type": "search",
+      "ui_language": "zh",
+      "query": "Quantum field theory",
+      "must_include": [
+        "nima-arkani-hamed"
+      ],
+      "expectation": "Research-field keyword search works in the other language."
+    },
+    {
+      "id": "no-search-results",
+      "type": "search",
+      "query": "zzzz-physics-no-match-9173",
+      "expected_count": 0,
+      "expectation": "Show a localized empty state and a working clear/reset action without leaving stale cards."
+    },
+    {
+      "id": "search-text-inert",
+      "type": "search",
+      "query": "<script>alert(1)</script>",
+      "expected_count": 0,
+      "expectation": "User search text is treated as text; no executable HTML insertion."
+    },
+    {
+      "id": "instrument-not-portrait",
+      "type": "image",
+      "person_id": "francis-hauksbee",
+      "expectation": "The air-pump image is labelled contextual material, not a verified portrait; full bilingual note remains visible.",
+      "source_expectations": {
+        "name": {
+          "zh": "弗朗西斯·豪克斯比",
+          "en": "Francis Hauksbee"
+        },
+        "birth": {
+          "date": "1660",
+          "precision": "approximate",
+          "display": {
+            "zh": "约1660年",
+            "en": "c. 1660"
+          }
+        },
+        "death_status": "deceased",
+        "portrait_kind": "context_image",
+        "rights_status": "source_license_recorded",
+        "contributions_count": 2,
+        "notes_count": 1,
+        "source_count": 3
+      }
+    },
+    {
+      "id": "disputed-sitter",
+      "type": "image",
+      "person_id": "thomas-harriot",
+      "expectation": "Keep the disputed sitter attribution and classification as a contextual illustration.",
+      "source_expectations": {
+        "name": {
+          "zh": "托马斯·哈里奥特",
+          "en": "Thomas Harriot"
+        },
+        "birth": {
+          "date": "1560",
+          "precision": "approximate",
+          "display": {
+            "zh": "约1560年",
+            "en": "c. 1560"
+          }
+        },
+        "death_status": "deceased",
+        "portrait_kind": "context_image",
+        "rights_status": "source_license_recorded",
+        "contributions_count": 2,
+        "notes_count": 1,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "stamp-not-lifetime-portrait",
+      "type": "image",
+      "person_id": "georgy-flerov",
+      "expectation": "Show posthumous/commemorative classification and the whole-stamp note; do not crop the portrait out of its stamp.",
+      "source_expectations": {
+        "name": {
+          "zh": "格奥尔基·弗廖罗夫",
+          "en": "Georgy Flerov"
+        },
+        "birth": {
+          "date": "1913-03-02",
+          "precision": "day",
+          "display": {
+            "zh": "1913年3月2日",
+            "en": "2 March 1913"
+          }
+        },
+        "death_status": "deceased",
+        "portrait_kind": "posthumous_depiction",
+        "rights_status": "source_license_recorded",
+        "contributions_count": 3,
+        "notes_count": 1,
+        "source_count": 4
+      }
+    },
+    {
+      "id": "group-photograph",
+      "type": "image",
+      "person_id": "clyde-cowan",
+      "expectation": "Preserve the note identifying Cowan left and Reines right; image should not be cropped so tightly it suggests the wrong person.",
+      "source_expectations": {
+        "name": {
+          "zh": "克莱德·科万",
+          "en": "Clyde Cowan"
+        },
+        "birth": {
+          "date": "1919-12-06",
+          "precision": "day",
+          "display": {
+            "zh": "1919年12月6日",
+            "en": "6 December 1919"
+          }
+        },
+        "death_status": "deceased",
+        "portrait_kind": "portrait",
+        "rights_status": "source_license_recorded",
+        "contributions_count": 3,
+        "notes_count": 0,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "permission-unverified",
+      "type": "image",
+      "person_id": "shirley-ann-jackson",
+      "expectation": "Full dossier shows the disputed Commons licence and unverified website-republication permission, not a blanket open-licence badge.",
+      "source_expectations": {
+        "name": {
+          "zh": "雪莉·安·杰克逊",
+          "en": "Shirley Ann Jackson"
+        },
+        "birth": {
+          "date": "1946-08-05",
+          "precision": "day",
+          "display": {
+            "zh": "1946年8月5日",
+            "en": "5 August 1946"
+          }
+        },
+        "death_status": "alive",
+        "portrait_kind": "portrait",
+        "rights_status": "permission_required",
+        "contributions_count": 3,
+        "notes_count": 0,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "full-dossier-content",
+      "type": "detail",
+      "person_id": "chen-ning-yang",
+      "expectation": "Full biography, every contribution, every source and the complete birth-date conflict note are present; no summary truncation.",
+      "source_expectations": {
+        "name": {
+          "zh": "杨振宁",
+          "en": "Chen Ning Yang"
+        },
+        "birth": {
+          "date": "1922-10-01",
+          "precision": "day",
+          "display": {
+            "zh": "1922年10月1日",
+            "en": "1 October 1922"
+          }
+        },
+        "death_status": "deceased",
+        "portrait_kind": "portrait",
+        "rights_status": null,
+        "contributions_count": 2,
+        "notes_count": 1,
+        "source_count": 5
+      }
+    },
+    {
+      "id": "switch-language-preserves-person",
+      "type": "interaction",
+      "person_id": "pierre-duhem",
+      "expectation": "Opening a person then toggling language keeps the same stable ID and replaces all visible labels and localized content, including date caveats.",
+      "source_expectations": {
+        "name": {
+          "zh": "皮埃尔·迪昂",
+          "en": "Pierre Duhem"
+        },
+        "birth": {
+          "date": "1861-06-10",
+          "precision": "approximate",
+          "display": {
+            "zh": "1861年6月10日（另有6月9日记载）",
+            "en": "10 June 1861 (date disputed)"
+          }
+        },
+        "death_status": "deceased",
+        "portrait_kind": "portrait",
+        "rights_status": "source_license_recorded",
+        "contributions_count": 3,
+        "notes_count": 1,
+        "source_count": 5
+      }
+    },
+    {
+      "id": "switch-language-preserves-filter",
+      "type": "interaction",
+      "query": "Quantum",
+      "expectation": "Toggling UI language should preserve query/filter meaning and current result set where the data model allows it."
+    },
+    {
+      "id": "keyboard-modal",
+      "type": "accessibility",
+      "person_id": "albert-einstein",
+      "expectation": "Portrait is a real keyboard-operable button or link. Detail close works with Escape; focus returns to the invoking control and tab focus stays in the modal while open.",
+      "source_expectations": {
+        "name": {
+          "zh": "阿尔伯特·爱因斯坦",
+          "en": "Albert Einstein"
+        },
+        "birth": {
+          "date": "1879-03-14",
+          "precision": "day",
+          "display": {
+            "zh": "1879年3月14日",
+            "en": "14 March 1879"
+          }
+        },
+        "death_status": "deceased",
+        "portrait_kind": "portrait",
+        "rights_status": null,
+        "contributions_count": 2,
+        "notes_count": 0,
+        "source_count": 3
+      }
+    },
+    {
+      "id": "small-screen",
+      "type": "responsive",
+      "viewport_width": 390,
+      "expectation": "No horizontal overflow; search controls, chronology and full dossier remain usable; the close button is visible."
+    }
+  ]
+}

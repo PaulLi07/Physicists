@@ -1,0 +1,254 @@
+{
+  "reviewer": "audit_early (independent of original author audit_modern)",
+  "reviewed_at": "2026-10-26",
+  "method": "Read all ten Chinese and English records in full, compare semantic scope and qualifiers, then validate matching identities, contribution/note counts, source URLs and absence of Chinese display text. Structural checks supplement rather than replace the semantic review.",
+  "chinese_file": "data/curated/additions-experimental.json",
+  "english_file": "data/translations/additions-experimental.en.json",
+  "records_reviewed": 10,
+  "records_corrected": 2,
+  "passed": true,
+  "unresolved_errors": 0,
+  "final_english_sha256": "c5a718fd8e9f56191ee85f5102f0cb9e8fb52ee29242106757479f5b3f77f606",
+  "records": [
+    {
+      "id": "frederick-soddy",
+      "checked": true,
+      "aspects": [
+        "identity and name",
+        "biography semantic coverage",
+        "all contribution claims and collaborators",
+        "date precision and chronology",
+        "all uncertainty notes",
+        "source URLs",
+        "English terminology and fluency"
+      ],
+      "semantic_assessment": "Rutherford collaboration, isotope concept, independently developed displacement law, Chemistry Nobel award and 22/26 September death-day conflict are faithfully preserved.",
+      "issues": [],
+      "corrections_applied": false,
+      "unresolved": [],
+      "evidence_urls": [
+        "https://worldchanging.glasgow.ac.uk/notable-people/?id=89",
+        "https://makingscience.royalsociety.org/people/na8018/frederick-soddy",
+        "https://www.nobelprize.org/prizes/chemistry/1921/soddy/facts/",
+        "https://en.wikipedia.org/wiki/Frederick_Soddy"
+      ]
+    },
+    {
+      "id": "hans-geiger",
+      "checked": true,
+      "aspects": [
+        "identity and name",
+        "biography semantic coverage",
+        "all contribution claims and collaborators",
+        "date precision and chronology",
+        "all uncertainty notes",
+        "source URLs",
+        "English terminology and fluency"
+      ],
+      "semantic_assessment": "Large-angle scattering with Marsden, Müller tube and range/half-life relation retain their distinct collaborators and claims; Nuttall co-credit made explicit.",
+      "issues": [
+        {
+          "field": "contributions[2]",
+          "before": "Established the Geiger–Nuttall relation connecting alpha-particle range with radioactive half-life.",
+          "after": "Established the Geiger–Nuttall relation with John Mitchell Nuttall, connecting alpha-particle range with radioactive half-life.",
+          "reason": "Preserve the Chinese text’s explicit co-credit to Nuttall."
+        }
+      ],
+      "corrections_applied": true,
+      "unresolved": [],
+      "evidence_urls": [
+        "https://www.deutsche-biographie.de/gnd118538144.html",
+        "https://en.wikipedia.org/wiki/Hans_Geiger"
+      ]
+    },
+    {
+      "id": "ernest-marsden",
+      "checked": true,
+      "aspects": [
+        "identity and name",
+        "biography semantic coverage",
+        "all contribution claims and collaborators",
+        "date precision and chronology",
+        "all uncertainty notes",
+        "source URLs",
+        "English terminology and fluency"
+      ],
+      "semantic_assessment": "English birth/New Zealand career, 1915 move, rare backscattering, research administration and wartime radar retain the Chinese scope.",
+      "issues": [],
+      "corrections_applied": false,
+      "unresolved": [],
+      "evidence_urls": [
+        "https://teara.govt.nz/en/biographies/4m41/marsden-ernest",
+        "https://collections.tepapa.govt.nz/Person/45905",
+        "https://en.wikipedia.org/wiki/Ernest_Marsden"
+      ]
+    },
+    {
+      "id": "walther-gerlach",
+      "checked": true,
+      "aspects": [
+        "identity and name",
+        "biography semantic coverage",
+        "all contribution claims and collaborators",
+        "date precision and chronology",
+        "all uncertainty notes",
+        "source URLs",
+        "English terminology and fluency"
+      ],
+      "semantic_assessment": "Silver-beam magnetic-moment quantization is not falsely described as discovery of electron spin; later interpretation caveat, Alice Golsen and emission spectroscopy are preserved.",
+      "issues": [],
+      "corrections_applied": false,
+      "unresolved": [],
+      "evidence_urls": [
+        "https://www.deutsche-biographie.de/dbo053274.html",
+        "https://en.wikipedia.org/wiki/Walther_Gerlach"
+      ]
+    },
+    {
+      "id": "lester-germer",
+      "checked": true,
+      "aspects": [
+        "identity and name",
+        "biography semantic coverage",
+        "all contribution claims and collaborators",
+        "date precision and chronology",
+        "all uncertainty notes",
+        "source URLs",
+        "English terminology and fluency"
+      ],
+      "semantic_assessment": "Lester rather than Louis identity, nickel electron diffraction in 1927, Cornell career and 3/4 October death discrepancy all match.",
+      "issues": [],
+      "corrections_applied": false,
+      "unresolved": [],
+      "evidence_urls": [
+        "https://www.aps.org/funding-recognition/historic-sites/bell-laboratories-building",
+        "https://history.aip.org/history/catalog/icos/1403.html",
+        "https://www-hep.colorado.edu/~jcumalat/phys2170_f13/lectures/Lec18.pdf",
+        "https://www.lindahall.org/about/news/scientist-of-the-day/lester-germer/",
+        "https://en.wikipedia.org/wiki/Lester_Germer"
+      ]
+    },
+    {
+      "id": "fritz-strassmann",
+      "checked": true,
+      "aspects": [
+        "identity and name",
+        "biography semantic coverage",
+        "all contribution claims and collaborators",
+        "date precision and chronology",
+        "all uncertainty notes",
+        "source URLs",
+        "English terminology and fluency"
+      ],
+      "semantic_assessment": "Chemical barium evidence is distinguished from the subsequent Meitner–Frisch physical interpretation, with postwar Mainz work retained.",
+      "issues": [],
+      "corrections_applied": false,
+      "unresolved": [],
+      "evidence_urls": [
+        "https://www.archiv-berlin.mpg.de/49031/hausreihe_22.pdf",
+        "https://www.mpic.de/3546641/1949-1953",
+        "https://presse.uni-mainz.de/ut-omnes-unum-sint-gruendungsprofessoren-der-chemie-und-pharmazie/",
+        "https://en.wikipedia.org/wiki/Fritz_Strassmann"
+      ]
+    },
+    {
+      "id": "otto-robert-frisch",
+      "checked": true,
+      "aspects": [
+        "identity and name",
+        "biography semantic coverage",
+        "all contribution claims and collaborators",
+        "date precision and chronology",
+        "all uncertainty notes",
+        "source URLs",
+        "English terminology and fluency"
+      ],
+      "semantic_assessment": "Joint interpretation, energy estimate, ionization-pulse experimental confirmation, fission terminology and 1940 Peierls memorandum all match; collaborator wording clarified.",
+      "issues": [
+        {
+          "field": "contributions[0]",
+          "before": "Interpreted Hahn and Strassmann's chemical results as the splitting of a heavy nucleus with Meitner and estimated the large energy release.",
+          "after": "With Meitner, interpreted Hahn and Strassmann's chemical results as the splitting of a heavy nucleus and estimated the large energy release.",
+          "reason": "Move the collaborator phrase to make joint interpretation unambiguous."
+        }
+      ],
+      "corrections_applied": true,
+      "unresolved": [],
+      "evidence_urls": [
+        "https://archives.trin.cam.ac.uk/index.php/papers-of-otto-robert-frisch",
+        "https://makingscience.royalsociety.org/people/na6099/otto-robert-frisch",
+        "https://en.wikipedia.org/wiki/Otto_Robert_Frisch"
+      ]
+    },
+    {
+      "id": "konstantin-petrzhak",
+      "checked": true,
+      "aspects": [
+        "identity and name",
+        "biography semantic coverage",
+        "all contribution claims and collaborators",
+        "date precision and chronology",
+        "all uncertainty notes",
+        "source URLs",
+        "English terminology and fluency"
+      ],
+      "semantic_assessment": "Polish origin, Soviet career, 1940 spontaneous fission with Flerov, underground cosmic-ray check, neutron work and unresolved October/November death conflict are retained at year precision.",
+      "issues": [],
+      "corrections_applied": false,
+      "unresolved": [],
+      "evidence_urls": [
+        "https://www.biblioatom.ru/persons/petrzhak_konstantin_antonovich/",
+        "https://spbti.ru/public/userfiles/files/75/technolog/Tehnolog_sentyabr_2017.pdf",
+        "https://uc.jinr.ru/images/pdf/ISP/PresentationsLecturers/2022Egypt/FLNR.pdf",
+        "https://doi.org/10.1103/PhysRev.58.89.2",
+        "https://en.wikipedia.org/wiki/Konstantin_Petrzhak"
+      ]
+    },
+    {
+      "id": "edward-teller",
+      "checked": true,
+      "aspects": [
+        "identity and name",
+        "biography semantic coverage",
+        "all contribution claims and collaborators",
+        "date precision and chronology",
+        "all uncertainty notes",
+        "source URLs",
+        "English terminology and fluency"
+      ],
+      "semantic_assessment": "Gamow–Teller and Jahn–Teller co-credit, Nazi-era migration, Manhattan/thermonuclear research and policy context match without adding technical weapon instructions.",
+      "issues": [],
+      "corrections_applied": false,
+      "unresolved": [],
+      "evidence_urls": [
+        "https://www.nasonline.org/directory-entry/edward-teller-lhwv5g/",
+        "https://www.nasonline.org/wp-content/uploads/2024/06/teller-edward.pdf",
+        "https://www.llnl.gov/article/29486/director-emeritus-edward-teller-distinguished-physicist-and-education-advocate-dies-95",
+        "https://en.wikipedia.org/wiki/Edward_Teller"
+      ]
+    },
+    {
+      "id": "georgy-flerov",
+      "checked": true,
+      "aspects": [
+        "identity and name",
+        "biography semantic coverage",
+        "all contribution claims and collaborators",
+        "date precision and chronology",
+        "all uncertainty notes",
+        "source URLs",
+        "English terminology and fluency"
+      ],
+      "semantic_assessment": "Petrzhak co-discovery, heavy-ion and Dubna research, Gregorian/Julian birthday mapping and Flerov/Flyorov spelling note match.",
+      "issues": [],
+      "corrections_applied": false,
+      "unresolved": [],
+      "evidence_urls": [
+        "https://www.jinr.ru/posts/vspominaya-osnovatelej-03_21/",
+        "https://new.ras.ru/academy-new/staff/akademiki/flerov-georgiy-nikolaevich/",
+        "https://doi.org/10.1103/PhysRev.58.89.2",
+        "https://en.wikipedia.org/wiki/Georgy_Flerov"
+      ]
+    }
+  ]
+}

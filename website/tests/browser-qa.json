@@ -1,0 +1,48 @@
+{
+  "checked_at": "2026-10-26T07:18:49.975768+00:00",
+  "method": "Native in-app browser through cua_repl; real DOM controls, screenshots, read-only rendered DOM assertions and captured browser error logs.",
+  "passed": true,
+  "profiles": 721,
+  "viewports_checked": [
+    {
+      "width": 1280,
+      "height": 850,
+      "purpose": "Desktop breakpoint; no horizontal overflow"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "purpose": "Mobile timeline and full dossier; no horizontal overflow"
+    },
+    {
+      "width": 304,
+      "height": 760,
+      "purpose": "Actual narrow in-app preview; no horizontal overflow"
+    }
+  ],
+  "checks": [
+    "Chinese-name search for Einstein returns one person",
+    "Accent-insensitive Schrodinger search returns Erwin Schrödinger",
+    "Quantum/atomic/molecular field filter returns161 matching records",
+    "Unmatched search shows zero results and reset restores721",
+    "Modern-era filter returns368; era control retains keyboard focus",
+    "Load more shows72 records and focuses first newly revealed person Emilio Segrè",
+    "Clicking portrait opens the complete biography, dates, contributions and source links",
+    "Chinese/English switch retains the active dossier and search filters",
+    "Escape closes dossier and keeps English plus current search",
+    "Majorana displays uncertain death/whereabouts with the disappearance caveat, not living",
+    "Hauksbee instrument image explicitly says not a portrait",
+    "Browser Back closes the dossier and restores the preceding search",
+    "No captured browser console errors during final checks"
+  ],
+  "visual_direction": "Apple-inspired restrained scientific archive: white, black and grey, system typography, fine rules, numbered references and limited blue interaction accents.",
+  "screenshot": "website/screenshots/mobile.png",
+  "verification_limit": "The embedded browser prohibits file:// navigation. Browser verification used localhost HTTP. Direct file opening is supported by the classic-script/no-fetch structure but was not browser-tested.",
+  "source_hashes": {
+    "index.html": "1b637597728304895d4c41685c5840bf5d6dcffc8d55f8b13a80ce5be6a2b061",
+    "styles.css": "7e68be17d4fed49721f9a4b0c32f8e0cec1f37fcaa68b668c54ff05879ba3d65",
+    "core.js": "ae72bd69bc4602b5c3e91b4ae542d2602d59a0deb9c0a10483bb524993483ef5",
+    "app.js": "26f51564db78e55489883d55d0e4121e61acf1ae8e738871f54e107451b66105",
+    "favicon.svg": "31ee008c3a82a4fc57c314ace511b8e3a29d478d519d7d97c46e579771de5574"
+  }
+}

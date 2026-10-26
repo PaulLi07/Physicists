@@ -1,0 +1,71 @@
+{
+  "Richard Feynman": {
+    "commons_file": "RichardFeynman-PaineMansionWoods1984 copyrightTamikoThiel bw.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:RichardFeynman-PaineMansionWoods1984_copyrightTamikoThiel_bw.jpg",
+    "artist": "Tamiko Thiel",
+    "license": "CC BY-SA 3.0",
+    "rights_status": "open_license",
+    "kind": "portrait"
+  },
+  "Nevill Francis Mott": {
+    "commons_file": "Mott,Nevill Francis 1952 London.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Mott,Nevill_Francis_1952_London.jpg",
+    "artist": "Friedrich Hund / Gerhard Hund (GFHund)",
+    "license": "CC BY 3.0",
+    "rights_status": "open_license",
+    "kind": "portrait"
+  },
+  "Ernst Ruska": {
+    "external_image_url": "https://upload.wikimedia.org/wikipedia/en/9/90/Ernst_Ruska.jpg",
+    "source_url": "https://en.wikipedia.org/wiki/File:Ernst_Ruska.jpg",
+    "credit": "作者未明确；英文维基百科非自由历史肖像",
+    "artist": "作者未明确；英文维基百科非自由历史肖像",
+    "license": "版权所有；网站再发布需另行确认授权",
+    "rights_status": "permission_required",
+    "kind": "portrait"
+  },
+  "Kenneth G. Wilson": {
+    "external_image_url": "https://upload.wikimedia.org/wikipedia/en/d/d1/Kenneth_G._Wilson.jpg",
+    "source_url": "https://en.wikipedia.org/wiki/File:Kenneth_G._Wilson.jpg",
+    "credit": "The Nobel Foundation；摄影者未明确",
+    "artist": "The Nobel Foundation；摄影者未明确",
+    "license": "版权所有；网站再发布需另行确认授权",
+    "rights_status": "permission_required",
+    "kind": "portrait"
+  },
+  "Wolfgang Paul": {
+    "external_image_url": "https://upload.wikimedia.org/wikipedia/en/c/c0/Wolfgang_Paul.jpg",
+    "source_url": "https://en.wikipedia.org/wiki/File:Wolfgang_Paul.jpg",
+    "credit": "摄影者未明确；英文维基百科非自由历史肖像",
+    "artist": "摄影者未明确；英文维基百科非自由历史肖像",
+    "license": "版权所有；网站再发布需另行确认授权",
+    "rights_status": "permission_required",
+    "kind": "portrait"
+  },
+  "Klaus Hasselmann": {
+    "external_image_url": "https://www.nobelprize.org/images/124561-portrait-medium.jpg",
+    "source_url": "https://www.nobelprize.org/prizes/physics/2021/hasselmann/facts/",
+    "credit": "© Nobel Prize Outreach. Photo: Bernhard Ludewig",
+    "artist": "Bernhard Ludewig / Nobel Prize Outreach",
+    "license": "版权所有；网站再发布需另行确认授权",
+    "rights_status": "permission_required",
+    "kind": "portrait"
+  },
+  "Robert Hooke": {
+    "commons_file": "15 Memorial Portrait at The Open University.JPG",
+    "source_url": "https://commons.wikimedia.org/wiki/File:15_Memorial_Portrait_at_The_Open_University.JPG",
+    "artist": "Rita Greer",
+    "license": "Free Art License",
+    "rights_status": "open_license",
+    "kind": "posthumous_depiction",
+    "depiction_note": "丽塔·格里尔于2009年绘制的胡克纪念性想象肖像；不是生前写实肖像，无公认可靠的胡克生前肖像存世。"
+  },
+  "Ibn Sahl (mathematician)": {
+    "commons_file": "Ibn Sahl manuscript.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ibn_Sahl_manuscript.jpg",
+    "license": "Public domain",
+    "rights_status": "public_domain",
+    "kind": "context_image",
+    "depiction_note": "伊本·萨赫勒光学论著手稿（德黑兰Milli MS 867，第7r叶），展示折射与透镜几何；此图为相关文献，不是人物肖像。"
+  }
+}

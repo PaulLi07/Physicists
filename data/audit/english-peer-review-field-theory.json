@@ -1,0 +1,373 @@
+{
+  "reviewer": "audit_early (independent of original author root)",
+  "reviewed_at": "2026-10-26",
+  "method": "Read all fourteen Chinese and English records in full; semantically compare biographies, every contribution, qualifiers, collaborators and caveats. Matching counts/URLs and absence of Chinese display text were also checked. Structural checks supplement rather than replace semantic review.",
+  "chinese_file": "data/curated/additions-field-theory.json",
+  "english_file": "data/translations/additions-field-theory.en.json",
+  "records_reviewed": 14,
+  "records_corrected": 4,
+  "passed": true,
+  "unresolved_errors": 0,
+  "final_english_sha256": "e21381282aa555aaa705d2fe0aefad7059f4e24679c4a52b820147ae4805a6fa",
+  "records": [
+    {
+      "id": "friedrich-hund",
+      "checked": true,
+      "aspects": [
+        "identity and name",
+        "biography semantic coverage",
+        "every contribution and technical qualifier",
+        "collaborator credit",
+        "date precision and chronology",
+        "uncertainty notes",
+        "source URLs",
+        "English terminology and fluency"
+      ],
+      "semantic_assessment": "Atomic level ordering, molecular-orbital and spectrum work with Mulliken, early molecular tunnelling, research/teaching/history career and both exact dates match.",
+      "issues": [],
+      "corrections_applied": false,
+      "unresolved": [],
+      "evidence_urls": [
+        "https://www.saw-leipzig.de/de/personen/hundf",
+        "https://www.physik.uni-jena.de/4030/hund-friedrich-hermann-1896-1997",
+        "https://www.teleschach.de/teleschach/f_hund.htm",
+        "https://en.wikipedia.org/wiki/Friedrich_Hund"
+      ]
+    },
+    {
+      "id": "robert-s-mulliken",
+      "checked": true,
+      "aspects": [
+        "identity and name",
+        "biography semantic coverage",
+        "every contribution and technical qualifier",
+        "collaborator credit",
+        "date precision and chronology",
+        "uncertainty notes",
+        "source URLs",
+        "English terminology and fluency"
+      ],
+      "semantic_assessment": "Chemical-physics identity, Chicago career, molecular orbitals, population analysis, nomenclature/classification and 1966 Chemistry Nobel all match; naming term made explicit.",
+      "issues": [
+        {
+          "field": "contributions[1]",
+          "before": "Investigated molecular electronic structure and spectra and developed associated classifications",
+          "after": "Investigated molecular electronic structure and spectra and developed associated nomenclature and classifications",
+          "reason": "Preserve the explicit Chinese reference to naming as well as classification."
+        }
+      ],
+      "corrections_applied": true,
+      "unresolved": [],
+      "evidence_urls": [
+        "https://www.nobelprize.org/prizes/chemistry/1966/mulliken/facts/",
+        "https://www.nationalacademies.org/read/9977/chapter/10",
+        "https://www.lib.uchicago.edu/ead/rlg/ICU.SPCL.MULLIKEN.pdf",
+        "https://en.wikipedia.org/wiki/Robert_S._Mulliken"
+      ]
+    },
+    {
+      "id": "john-c-slater",
+      "checked": true,
+      "aspects": [
+        "identity and name",
+        "biography semantic coverage",
+        "every contribution and technical qualifier",
+        "collaborator credit",
+        "date precision and chronology",
+        "uncertainty notes",
+        "source URLs",
+        "English terminology and fluency"
+      ],
+      "semantic_assessment": "Harvard/MIT/Florida chronology, antisymmetric many-electron determinant, Slater orbitals, screening and local exchange are faithfully preserved.",
+      "issues": [],
+      "corrections_applied": false,
+      "unresolved": [],
+      "evidence_urls": [
+        "https://www.nasonline.org/directory-entry/john-slater-up2tib/",
+        "https://www.nasonline.org/wp-content/uploads/2024/06/slater-john.pdf",
+        "https://en.wikipedia.org/wiki/John_C._Slater"
+      ]
+    },
+    {
+      "id": "ralph-kronig",
+      "checked": true,
+      "aspects": [
+        "identity and name",
+        "biography semantic coverage",
+        "every contribution and technical qualifier",
+        "collaborator credit",
+        "date precision and chronology",
+        "uncertainty notes",
+        "source URLs",
+        "English terminology and fluency"
+      ],
+      "semantic_assessment": "Dresden/Columbia/Groningen/Delft career, unpublished early spin idea, dispersive/absorptive response and periodic-potential co-credit to Penney match.",
+      "issues": [],
+      "corrections_applied": false,
+      "unresolved": [],
+      "evidence_urls": [
+        "https://www.math.rug.nl/bernoulli/Geschiedenis/Kronig",
+        "https://www.math.rug.nl/bernoulli/uploads/Geschiedenis/levensberichtkronig.pdf",
+        "https://en.wikipedia.org/wiki/Ralph_Kronig"
+      ]
+    },
+    {
+      "id": "seth-neddermeyer",
+      "checked": true,
+      "aspects": [
+        "identity and name",
+        "biography semantic coverage",
+        "every contribution and technical qualifier",
+        "collaborator credit",
+        "date precision and chronology",
+        "uncertainty notes",
+        "source URLs",
+        "English terminology and fluency"
+      ],
+      "semantic_assessment": "Caltech/Anderson cosmic-ray collaboration and muon co-discovery remain distinct from later wartime nuclear experiments and teaching.",
+      "issues": [],
+      "corrections_applied": false,
+      "unresolved": [],
+      "evidence_urls": [
+        "https://ahf.nuclearmuseum.org/ahf/profile/seth-neddermeyer/",
+        "https://en.wikipedia.org/wiki/Seth_Neddermeyer"
+      ]
+    },
+    {
+      "id": "hendrik-casimir",
+      "checked": true,
+      "aspects": [
+        "identity and name",
+        "biography semantic coverage",
+        "every contribution and technical qualifier",
+        "collaborator credit",
+        "date precision and chronology",
+        "uncertainty notes",
+        "source URLs",
+        "English terminology and fluency"
+      ],
+      "semantic_assessment": "Ideal-conductor scope, electromagnetic fluctuations, retarded dispersion with Polder and Gorter two-fluid work match; nuclear magnetic qualifier restored.",
+      "issues": [
+        {
+          "field": "biography",
+          "before": "Casimir was a Dutch theoretical physicist trained with Ehrenfest who worked in Leiden and later helped direct research at Philips. He investigated nuclear moments, superconductivity and electromagnetic fluctuations, connecting quantum theory with industrial research. He is particularly known for the predicted force associated with quantum vacuum fluctuations.",
+          "after": "Casimir was a Dutch theoretical physicist trained with Ehrenfest who worked in Leiden and later helped direct research at Philips. He investigated nuclear magnetic moments, superconductivity and electromagnetic fluctuations, connecting quantum theory with industrial research. He is particularly known for the predicted force associated with quantum vacuum fluctuations.",
+          "reason": "Preserve the magnetic qualifier in 核磁矩."
+        }
+      ],
+      "corrections_applied": true,
+      "unresolved": [],
+      "evidence_urls": [
+        "https://dwc.knaw.nl/DL/levensberichten/PE00004564.pdf",
+        "https://en.wikipedia.org/wiki/Hendrik_Casimir"
+      ]
+    },
+    {
+      "id": "carl-friedrich-von-weizsacker",
+      "checked": true,
+      "aspects": [
+        "identity and name",
+        "biography semantic coverage",
+        "every contribution and technical qualifier",
+        "collaborator credit",
+        "date precision and chronology",
+        "uncertainty notes",
+        "source URLs",
+        "English terminology and fluency"
+      ],
+      "semantic_assessment": "Nuclear mass formula, independent CNO contribution, planetary formation and later scientific-responsibility/peace work match, including both exact life dates.",
+      "issues": [],
+      "corrections_applied": false,
+      "unresolved": [],
+      "evidence_urls": [
+        "https://gepris-historisch.dfg.de/person/5113433",
+        "https://research.uni-leipzig.de/agintern/UNIGESCH/ug213.htm",
+        "https://www.chemie.uni-hamburg.de/forschung/publikationen/erweiterung/dozenten-uhh/weizsaecker.html",
+        "https://en.wikipedia.org/wiki/Carl_Friedrich_von_Weizs%C3%A4cker"
+      ]
+    },
+    {
+      "id": "erwin-hahn",
+      "checked": true,
+      "aspects": [
+        "identity and name",
+        "biography semantic coverage",
+        "every contribution and technical qualifier",
+        "collaborator credit",
+        "date precision and chronology",
+        "uncertainty notes",
+        "source URLs",
+        "English terminology and fluency"
+      ],
+      "semantic_assessment": "Illinois/Berkeley career, spin echoes recoverable from apparent dephasing, pulsed NMR/FID and subsequent MRI foundations match without implying reversal of every decoherence process.",
+      "issues": [],
+      "corrections_applied": false,
+      "unresolved": [],
+      "evidence_urls": [
+        "https://hwni.berkeley.edu/news/remembering-erwin-hahn-1921-2016",
+        "https://hahn-institute.de/de/ueber/erwin-l-hahn",
+        "https://en.wikipedia.org/wiki/Erwin_Hahn"
+      ]
+    },
+    {
+      "id": "walter-kohn",
+      "checked": true,
+      "aspects": [
+        "identity and name",
+        "biography semantic coverage",
+        "every contribution and technical qualifier",
+        "collaborator credit",
+        "date precision and chronology",
+        "uncertainty notes",
+        "source URLs",
+        "English terminology and fluency"
+      ],
+      "semantic_assessment": "Austrian-American identity, persecution/education/career, Hohenberg ground-state theorems, Sham self-consistent equations, wider condensed-matter work and 1998 Chemistry Nobel match; terms tightened.",
+      "issues": [
+        {
+          "field": "contributions[0]",
+          "before": "Established foundational ground-state density-functional results with Hohenberg",
+          "after": "Established foundational theorems of ground-state density-functional theory with Pierre Hohenberg",
+          "reason": "Preserve 定理 specifically as theorems and retain the ground-state scope."
+        },
+        {
+          "field": "contributions[1]",
+          "before": "Developed the self-consistent Kohn–Sham framework for electronic-structure calculations with Lu Jeu Sham",
+          "after": "Developed the self-consistent Kohn–Sham equations for electronic-structure calculations with Lu Jeu Sham",
+          "reason": "Preserve the Chinese explicit reference to equations within the self-consistent framework."
+        }
+      ],
+      "corrections_applied": true,
+      "unresolved": [],
+      "evidence_urls": [
+        "https://www.ucsb.edu/about/faculty-and-alumni/walter-kohn-1923-2016",
+        "https://www.nasonline.org/wp-content/uploads/2024/06/kohn-walter.pdf",
+        "https://archives.library.ucsb.edu/repositories/2/resources/4397",
+        "https://en.wikipedia.org/wiki/Walter_Kohn"
+      ]
+    },
+    {
+      "id": "robert-mills",
+      "checked": true,
+      "aspects": [
+        "identity and name",
+        "biography semantic coverage",
+        "every contribution and technical qualifier",
+        "collaborator credit",
+        "date precision and chronology",
+        "uncertainty notes",
+        "source URLs",
+        "English terminology and fluency"
+      ],
+      "semantic_assessment": "Yang collaboration at Brookhaven in 1954, Ohio State teaching, non-Abelian gauge theory, many-body propagators and alloy studies are preserved.",
+      "issues": [],
+      "corrections_applied": false,
+      "unresolved": [],
+      "evidence_urls": [
+        "https://physicstoday.aip.org/letters/remembering-robert-l-mills",
+        "https://physics.osu.edu/sites/default/files/2023-11/history_of_dept._of_physics.pdf",
+        "https://en.wikipedia.org/wiki/Robert_Mills_%28physicist%29"
+      ]
+    },
+    {
+      "id": "john-hubbard",
+      "checked": true,
+      "aspects": [
+        "identity and name",
+        "biography semantic coverage",
+        "every contribution and technical qualifier",
+        "collaborator credit",
+        "date precision and chronology",
+        "uncertainty notes",
+        "source URLs",
+        "English terminology and fluency"
+      ],
+      "semantic_assessment": "Imperial/Harwell/IBM career, hopping/local-interaction model, correlation operators, magnetism and metal–insulator behaviour match.",
+      "issues": [],
+      "corrections_applied": false,
+      "unresolved": [],
+      "evidence_urls": [
+        "https://theor.jinr.ru/~kuzemsky/hubbio2.html",
+        "https://theor.jinr.ru/~kuzemsky/Hubbard_John.pdf",
+        "https://en.wikipedia.org/wiki/John_Hubbard_%28physicist%29"
+      ]
+    },
+    {
+      "id": "peter-mansfield",
+      "checked": true,
+      "aspects": [
+        "identity and name",
+        "biography semantic coverage",
+        "every contribution and technical qualifier",
+        "collaborator credit",
+        "date precision and chronology",
+        "uncertainty notes",
+        "source URLs",
+        "English terminology and fluency"
+      ],
+      "semantic_assessment": "London/Nottingham career, gradient spatial encoding, echo-planar imaging, transition from solid-state NMR to medical imaging and shared 2003 Physiology or Medicine award match.",
+      "issues": [],
+      "corrections_applied": false,
+      "unresolved": [],
+      "evidence_urls": [
+        "https://www.nobelprize.org/prizes/medicine/2003/mansfield/biographical/",
+        "https://mss-cat.nottingham.ac.uk/calmview/Record.aspx?id=PPM&src=CalmView.Catalog",
+        "https://histmodbiomed.history.qmul.ac.uk/article/professor-sir-peter-mansfield.html",
+        "https://en.wikipedia.org/wiki/Peter_Mansfield"
+      ]
+    },
+    {
+      "id": "george-zweig",
+      "checked": true,
+      "aspects": [
+        "identity and name",
+        "biography semantic coverage",
+        "every contribution and technical qualifier",
+        "collaborator credit",
+        "date precision and chronology",
+        "uncertainty notes",
+        "source URLs",
+        "English terminology and fluency"
+      ],
+      "semantic_assessment": "Moscow birth/American identity, Caltech/Feynman training, independent ace/quark proposal, auditory/cochlear work and continuous wavelet work match; year-only 1937 and source caveat retained.",
+      "issues": [
+        {
+          "field": "biography",
+          "before": "Zweig was born in Moscow and moved to the United States as a young child. Trained with Feynman at Caltech, he independently proposed fundamental constituents of hadrons alongside Gell-Mann. He later investigated neurobiology, cochlear mechanics and signal analysis at institutions including Los Alamos and MIT, connecting particle physics with biophysics.",
+          "after": "Zweig was born in Moscow and moved to the United States as a young child. Trained with Feynman at Caltech, he proposed fundamental constituents of hadrons independently of Murray Gell-Mann. He later investigated neurobiology, cochlear mechanics and signal analysis at institutions including Los Alamos and MIT, connecting particle physics with biophysics.",
+          "reason": "Make independent rather than joint development explicit, as in the Chinese text."
+        }
+      ],
+      "corrections_applied": true,
+      "unresolved": [],
+      "evidence_urls": [
+        "https://ep-news-wp.web.cern.ch/interview-george-zweig/",
+        "https://www.macfound.org/fellows/class-of-december-1981/george-zweig",
+        "https://en.wikipedia.org/wiki/George_Zweig"
+      ]
+    },
+    {
+      "id": "lu-jeu-sham",
+      "checked": true,
+      "aspects": [
+        "identity and name",
+        "biography semantic coverage",
+        "every contribution and technical qualifier",
+        "collaborator credit",
+        "date precision and chronology",
+        "uncertainty notes",
+        "source URLs",
+        "English terminology and fluency"
+      ],
+      "semantic_assessment": "Hong Kong birth/British training/UCSD career, ground-state auxiliary one-electron formulation, semiconductor many-body/exciton/nonlinear-optical/spin-control work match; year-only 1938 and unverified day caveat retained.",
+      "issues": [],
+      "corrections_applied": false,
+      "unresolved": [],
+      "evidence_urls": [
+        "https://jacobsschool.ucsd.edu/people/profile/lu-sham",
+        "https://profiles.ucsd.edu/lu.sham",
+        "https://en.wikipedia.org/wiki/Lu_Jeu_Sham"
+      ]
+    }
+  ]
+}

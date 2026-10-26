@@ -1,0 +1,5433 @@
+{
+  "cohort": "early_history",
+  "as_of": "2026-10-26",
+  "existing_people_reviewed": 81,
+  "people_corrected_or_qualified": 14,
+  "source_fetches": 95,
+  "retrieved_sources": 81,
+  "access_limitations": "HTTP403、TLS或重定向访问失败不等于该来源不存在；必要条目另由网页检索及补充来源核查。古代生卒年及明确列出的历史争议不伪装成确切事实。",
+  "records": [
+    {
+      "id": "thales",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed_with_existing_caveats",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Thales",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Thales/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/6120c9895070499872ba.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "生平与具体发现多依后世传述；生卒年份均为推定值。",
+        "自然哲学先驱，不能将古代自然解释等同于现代实验理论。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "mozi",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed_with_existing_caveats",
+      "evidence": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy — Mohist Canons",
+          "url": "https://plato.stanford.edu/entries/mohist-canons/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/03b5deab62ceec6f1a7c.html",
+          "error": null
+        },
+        {
+          "title": "Internet Encyclopedia of Philosophy — Mozi",
+          "url": "https://iep.utm.edu/mozi/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/fd5a9eeea1975c47b963.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "《墨经》光学和力学论述属于后期墨家集体成果，不应全部归为墨子本人。",
+        "出生与卒年存在不同推定，此处采用约公元前470—391年。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "democritus",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed_with_existing_caveats",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Democritus",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Democritus/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/45e9fa83538c84ec41e6.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "生卒年为传统约数；古代原子论不同于现代原子物理学。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "aristotle",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Aristotle",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Aristotle/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/cd8d4a6bad917ace59b3.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "euclid",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed_with_existing_caveats",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Euclid",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Euclid/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/52c22892e1d2a181baad.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "生平资料极少，约数年代存在不同重建。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "aristarchus-of-samos",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Aristarchus of Samos",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Aristarchus/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/c224345175ebc2a07afa.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "archimedes",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Archimedes",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Archimedes/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/acd068f6c3bcabb8fb99.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "hipparchus",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Hipparchus",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hipparchus/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/80f937c4c2b787f5922e.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "hero-of-alexandria",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed_with_existing_caveats",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Hero of Alexandria",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Heron/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/af97bd9fbfc8c62b8399.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "活动年代及生卒年均有争议；本档采用MacTutor的约10—75年推定，不视作确切日期。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "zhang-heng",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed_with_existing_caveats",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Zhang Heng",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Zhang_Heng/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/c809516b76f626a70578.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "候风地动仪原器已失传，内部结构和现代复原方案存在争论。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "ptolemy",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed_with_existing_caveats",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Ptolemy",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Ptolemy/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/26fc6029a1244d4fe4bb.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "不同来源给出约85或100年出生、约165或170年去世，此处保留区间。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "al-kindi",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Al-Kindi",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Kindi/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/fb167888bf312e41cbcf.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "ibn-sahl",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "corrected_or_qualified",
+      "evidence": [
+        {
+          "title": "European Physical Society — Europhysics News 51/3 (2020), history of optics",
+          "url": "https://www.europhysicsnews.org/articles/epn/pdf/2020/03/epn2020-51-3.pdf",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/2677a384621d13a17a5c.html",
+          "error": null
+        }
+      ],
+      "changes": [
+        {
+          "field": "notes",
+          "reason": "明确配图为光学手稿而非含糊的可能纪念形象。"
+        }
+      ],
+      "unresolved": [
+        "确切生卒年、出生地与宗教身份无法确定；此处年代为常用约数。",
+        "无已知可靠本人生前肖像；本档配图为光学手稿图页，不是本人肖像。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "ibn-al-haytham",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed_with_existing_caveats",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Ibn al-Haytham",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Haytham/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/56aa8bb1594332625419.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "生卒年份为约数，部分文献将卒年记作约1039年或1040年以后。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "al-biruni",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "corrected_or_qualified",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Al-Biruni",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Biruni/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/5da6c196767f22838f26.html",
+          "error": null
+        }
+      ],
+      "changes": [
+        {
+          "field": "birth",
+          "before": {
+            "date": "0973-09-15",
+            "precision": "day",
+            "display": "973年9月15日"
+          },
+          "after": {
+            "date": "0973",
+            "precision": "approximate",
+            "display": "约973年"
+          },
+          "reason": "原确日缺少一致支持；专业研究通常记9月4日，MacTutor记9月15日，保留约年及差异。",
+          "evidence_urls": [
+            "https://www.cambridge.org/core/books/abs/religion-learning-and-science-in-the-abbasid-period/albiruni-and-the-sciences-of-his-time/311B9E191252A89AC266F6F1687FA0E9",
+            "https://www.iranicaonline.org/articles/biruni-abu-rayhan-index/biruni-abu-rayhan-i-life/",
+            "https://www.islamsci.mcgill.ca/RASI/BEA/Biruni_BEA.htm"
+          ]
+        },
+        {
+          "field": "death",
+          "before": {
+            "date": "1048-12-13",
+            "precision": "day",
+            "display": "1048年12月13日"
+          },
+          "after": {
+            "date": "1050",
+            "precision": "approximate",
+            "display": "约1048年或1050年以后"
+          },
+          "reason": "专业传记对卒年有1048与1050年以后等不同考证，不保留无争议确日假象。",
+          "evidence_urls": [
+            "https://www.cambridge.org/core/books/abs/religion-learning-and-science-in-the-abbasid-period/albiruni-and-the-sciences-of-his-time/311B9E191252A89AC266F6F1687FA0E9",
+            "https://www.iranicaonline.org/articles/biruni-abu-rayhan-index/biruni-abu-rayhan-i-life/",
+            "https://www.islamsci.mcgill.ca/RASI/BEA/Biruni_BEA.htm"
+          ]
+        }
+      ],
+      "unresolved": [
+        "出生日期常记973年9月4日，MacTutor记9月15日，专业研究指出证据有限；卒年有1048年、约1050年或1050年以后等不同考证，故不将某一天视为无争议确日。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "shen-kuo",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Shen Kuo",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Shen_Kua/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/f5e387a9cad0ed353b14.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "al-khazini",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed_with_existing_caveats",
+      "evidence": [
+        {
+          "title": "Al-Khazini’s Balance of Wisdom — Nuncius (2021)",
+          "url": "https://brill.com/abstract/journals/nun/36/1/article-p49_3.xml?language=en",
+          "retrieval_status": "failed",
+          "cache": null,
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "确切生卒年不详；约1077—1130年为常见推定，主要有据活动期约1115—1130年。",
+        "无已知可靠本人生前肖像。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "robert-grosseteste",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "corrected_or_qualified",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Robert Grosseteste",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Grosseteste/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/2b07ad84c1697452a60c.html",
+          "error": null
+        }
+      ],
+      "changes": [
+        {
+          "field": "biography",
+          "before": "英国中世纪学者，曾在牛津学术圈活动，后任林肯主教。他翻译并研究希腊和阿拉伯科学传统，主张几何对于认识自然的重要性，以光、颜色和虹等问题连接自然哲学与数学推理。",
+          "after": "英国中世纪学者，曾在牛津学术圈活动，后任林肯主教。他翻译希腊著作并研究自然哲学，主张几何对于认识自然的重要性，以光、颜色和虹等问题连接自然哲学与数学推理。",
+          "reason": "避免把研究阿拉伯科学传统误读成本人直接从阿拉伯语翻译。",
+          "evidence_urls": [
+            "https://mathshistory.st-andrews.ac.uk/Biographies/Grosseteste/"
+          ]
+        }
+      ],
+      "unresolved": [
+        "出生年来源有约1168、1170及1175等不同推定。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "roger-bacon",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed_with_existing_caveats",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Roger Bacon",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bacon/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/04bb15eef8399eeaa359.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "出生年不确切；此处采用MacTutor的约1214年。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "jean-buridan",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed_with_existing_caveats",
+      "evidence": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy — John Buridan",
+          "url": "https://plato.stanford.edu/entries/buridan/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/cd68af5a752dc4c71d0d.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "斯坦福百科记其1358年仍在世，1361年教产已转授他人；卒年用约数和区间表示。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "nicole-oresme",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed_with_existing_caveats",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Nicole Oresme",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Oresme/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/d1cb6747e0929d1ed12d.html",
+          "error": null
+        },
+        {
+          "title": "Bibliothèque nationale de France — Nicole Oresme authority record",
+          "url": "https://catalogue.bnf.fr/ark%3A/12148/cb119181813",
+          "retrieval_status": "failed",
+          "cache": null,
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "出生年有约1320、1322、1323等说法，采用约1320—1325年范围。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "nicolaus-copernicus",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Nicolaus Copernicus",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Copernicus/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/9c3c1f8e3b9e21aba793.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "niccolo-tartaglia",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed_with_existing_caveats",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Niccolò Tartaglia",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Tartaglia/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/14d4b9d4787a764cc072.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "出生年不同来源记1499或1500，无法确到日。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "giovanni-battista-benedetti",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Giovanni Battista Benedetti",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Benedetti/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/daa756924ca48b0ec7cb.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "william-gilbert",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "Museo Galileo — William Gilbert",
+          "url": "https://catalogue.museogalileo.it/biography/WilliamGilbert.html",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/ee53aa6d38045c353e5f.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "tycho-brahe",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Tycho Brahe",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Brahe/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/e602629a9e64b4048644.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "simon-stevin",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Simon Stevin",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Stevin/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/da24d5a247fa9f167632.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "galileo-galilei",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Galileo Galilei",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Galileo/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/4ffbd59f2d6081b90e62.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "johannes-kepler",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Johannes Kepler",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Kepler/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/024f317b03472b4fab91.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "willebrord-snellius",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Willebrord Snellius",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Snell/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/4f210ed5cd6088b0cf65.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "pierre-gassendi",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Pierre Gassendi",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Gassendi/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/a1ee19ab739bb1de6d05.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "rene-descartes",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — René Descartes",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Descartes/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/0d957c6e6e8f11e4910e.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "pierre-de-fermat",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "corrected_or_qualified",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Pierre de Fermat",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Fermat/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/be00b7131edc4526013a.html",
+          "error": null
+        },
+        {
+          "title": "Mathematical Association of America — When Was Pierre de Fermat Born?",
+          "url": "https://old.maa.org/press/periodicals/convergence/when-was-pierre-de-fermat-born?device=mobile",
+          "retrieval_status": "failed",
+          "cache": null,
+          "error": "HTTP Error 521: <none>"
+        }
+      ],
+      "changes": [
+        {
+          "field": "contributions",
+          "before": [
+            "提出费马最短时间原理，以光程的极值条件描述传播路径。",
+            "由时间原则解释反射和折射，为后来的变分光学奠定基础。"
+          ],
+          "after": [
+            "提出费马驻时原理（常称最短时间原理），以传播时间对邻近路径变化取驻值描述光路。",
+            "由时间原则解释反射和折射，为后来的变分光学奠定基础。"
+          ],
+          "reason": "澄清驻值不必在所有情形下均为全局最小值。",
+          "evidence_urls": [
+            "https://mathshistory.st-andrews.ac.uk/Biographies/Fermat/"
+          ]
+        }
+      ],
+      "unresolved": [
+        "出生年存在1601与1607等不同考证；此处不将17 August 1601当作确定日期。",
+        "现代形式要求光传播时间或光程取驻值；常见情形下为最小值，不能把“最短”无条件理解成所有光路的全局最小值。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "otto-von-guericke",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed_with_existing_caveats",
+      "evidence": [
+        {
+          "title": "Deutsche Biographie — Otto von Guericke",
+          "url": "https://www.deutsche-biographie.de/gnd11854330X.html",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/0d21246bdb94a2f6a939.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "早期文献日期常涉及儒略历与公历差异，此处仅保留已确认年份。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "evangelista-torricelli",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Evangelista Torricelli",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Torricelli/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/ac500eaba9667ecbac3b.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "blaise-pascal",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Blaise Pascal",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Pascal/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/f00c0ca0259c3d238b1a.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "robert-boyle",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "corrected_or_qualified",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Robert Boyle",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Boyle/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/062b9d53877d1351b79d.html",
+          "error": null
+        }
+      ],
+      "changes": [
+        {
+          "field": "death",
+          "before": {
+            "date": "1691-12-30",
+            "precision": "day",
+            "display": "1691年12月30日"
+          },
+          "after": {
+            "date": "1691-12",
+            "precision": "approximate",
+            "display": "1691年12月30日或31日"
+          },
+          "reason": "皇家学会、MacTutor和爱尔兰传记记30日；Birkbeck介绍、Rice及其他传记记31日，保留跨午夜附近的来源差异。",
+          "evidence_urls": [
+            "https://catalogues.royalsociety.org/CalmView/Record.aspx?id=NA8137&src=CalmView.Persons",
+            "https://boyle.bbk.ac.uk/learn--introduction.html",
+            "https://www.dib.ie/index.php/biography/boyle-robert-a0858",
+            "https://galileo.library.rice.edu/Catalog/NewFiles/boyle.html"
+          ]
+        },
+        {
+          "field": "contributions",
+          "before": [
+            "建立一定温度下气体压力与体积成反比的经验规律。",
+            "利用空气泵研究燃烧、呼吸和声传播等现象，推进气体与真空实验。"
+          ],
+          "after": [
+            "建立一定量气体在恒温及适用范围内压力与体积近似成反比的经验规律。",
+            "利用空气泵研究燃烧、呼吸和声传播等现象，推进气体与真空实验。"
+          ],
+          "reason": "补充固定气量和气体状态适用条件。",
+          "evidence_urls": [
+            "https://catalogues.royalsociety.org/CalmView/Record.aspx?id=NA8137&src=CalmView.Persons",
+            "https://boyle.bbk.ac.uk/learn--introduction.html",
+            "https://www.dib.ie/index.php/biography/boyle-robert-a0858",
+            "https://galileo.library.rice.edu/Catalog/NewFiles/boyle.html"
+          ]
+        }
+      ],
+      "unresolved": [
+        "卒日来源有1691年12月30日与31日两种记载；本档不将其中一天标作无争议确日。出生日期通常记1月25日，但Birkbeck与科学博物馆个别页面记27日，采用皇家学会等多数资料的25日并保留此差异。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "christiaan-huygens",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Christiaan Huygens",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Huygens/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/34bb443f374f1152ab16.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "robert-hooke",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "corrected_or_qualified",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Robert Hooke",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hooke/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/4825d731caa6e71740e5.html",
+          "error": null
+        }
+      ],
+      "changes": [
+        {
+          "field": "contributions",
+          "before": [
+            "提出弹性形变与回复力成正比的胡克定律。",
+            "改进空气泵、显微镜及计时装置，推动实验测量技术。",
+            "参与引力、轨道运动与光学问题的讨论。"
+          ],
+          "after": [
+            "提出在线性弹性范围内，弹性形变与回复力成正比的胡克定律。",
+            "改进空气泵、显微镜及计时装置，推动实验测量技术。",
+            "参与引力、轨道运动与光学问题的讨论。"
+          ],
+          "reason": "补充线性弹性适用条件。",
+          "evidence_urls": [
+            "https://mathshistory.st-andrews.ac.uk/Biographies/Hooke/"
+          ]
+        }
+      ],
+      "unresolved": [
+        "本档生卒日采用MacTutor所列儒略历日期；1635年7月18日相当于公历7月28日，1703年3月3日相当于公历3月14日。",
+        "不存在公认的、身份无争议的胡克生前肖像；后世画像或纪念雕像不等同于写实生前肖像。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "isaac-newton",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed_with_existing_caveats",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Isaac Newton",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Newton/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/6cbfc2393f37164ddfe9.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "生卒日采用公历：1643年1月4日、1727年3月31日；对应儒略历1642年12月25日、1727年3月20日。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "ole-romer",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "American Museum of Natural History — Ole Roemer and the Speed of Light",
+          "url": "https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/ole-roemer-speed-of-light",
+          "retrieval_status": "failed",
+          "cache": null,
+          "error": "HTTP Error 403: Forbidden"
+        },
+        {
+          "title": "Lex — Ole Rømer",
+          "url": "https://lex.dk/Ole_R%C3%B8mer",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/b6f59c88d673b4fe71aa.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "gottfried-wilhelm-leibniz",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Gottfried Wilhelm Leibniz",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Leibniz/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/691bba25c2c2c26cdacc.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "denis-papin",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "corrected_or_qualified",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Denis Papin",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Papin/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/b261cac9cfff490ad677.html",
+          "error": null
+        },
+        {
+          "title": "Royal Society — Denis Papin, baptism and burial records",
+          "url": "https://catalogues.royalsociety.org/calmview/Record.aspx?id=NA5721&src=CalmView.Persons",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/a13c59240bc372e1512e.html",
+          "error": null
+        }
+      ],
+      "changes": [
+        {
+          "field": "birth",
+          "before": {
+            "date": "1647",
+            "precision": "year",
+            "display": "1647年8月（8月22日为受洗日）"
+          },
+          "after": {
+            "date": "1647",
+            "precision": "year",
+            "display": "1647年（8月22日受洗，确切生日不详）"
+          },
+          "reason": "受洗月不能自动认作出生月。"
+        },
+        {
+          "field": "death",
+          "before": {
+            "date": "1713",
+            "precision": "year",
+            "display": "1713年8月（8月26日为安葬日）"
+          },
+          "after": {
+            "date": "1713",
+            "precision": "year",
+            "display": "1713年（8月26日安葬，确切卒日不详）"
+          },
+          "reason": "安葬月不能自动认作死亡月。"
+        }
+      ],
+      "unresolved": [
+        "皇家学会档案将1647年8月22日列为受洗日、1713年8月26日列为安葬日；不得把它们无条件当作出生和死亡当天。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "edmond-halley",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "corrected_or_qualified",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Edmond Halley",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Halley/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/e3961d763c7ca5d63a7d.html",
+          "error": null
+        }
+      ],
+      "changes": [
+        {
+          "field": "death",
+          "before": {
+            "date": "1742-01-14",
+            "precision": "day",
+            "display": "1742年1月14日"
+          },
+          "after": {
+            "date": "1742-01-25",
+            "precision": "day",
+            "display": "1742年1月25日（公历）"
+          },
+          "reason": "原1月14日是儒略历；公历为1月25日。",
+          "evidence_urls": [
+            "https://unvis.it/astro.uni-bonn.de/~pbrosche/persons/pers_halley.html",
+            "https://mathshistory.st-andrews.ac.uk/Strick/halley.pdf"
+          ]
+        }
+      ],
+      "unresolved": [
+        "出生日期采用公历1656年11月8日（儒略历10月29日）；死亡日期采用公历1742年1月25日（儒略历1月14日，英国当时法律年亦可能记1741年）。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "daniel-gabriel-fahrenheit",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed_with_existing_caveats",
+      "evidence": [
+        {
+          "title": "Royal Society — Daniel Gabriel Fahrenheit",
+          "url": "https://makingscience.royalsociety.org/people/na5700/daniel-gabriel-fahrenheit",
+          "retrieval_status": "failed",
+          "cache": null,
+          "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>"
+        },
+        {
+          "title": "Deutsche Biographie — Daniel Gabriel Fahrenheit",
+          "url": "https://www.deutsche-biographie.de/pnd118685783.html",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/6a75bf98cd70ae2f6c16.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "皇家学会档案列出生日期为1686年5月14日或24日；本档采用Deutsche Biographie的5月24日。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "james-bradley",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "corrected_or_qualified",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — James Bradley",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bradley/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/d2d4f0fe2b1081c9ff85.html",
+          "error": null
+        }
+      ],
+      "changes": [
+        {
+          "field": "birth",
+          "before": {
+            "date": "1693",
+            "precision": "year",
+            "display": "1693年3月"
+          },
+          "after": {
+            "date": "1693-03",
+            "precision": "month",
+            "display": "1693年3月"
+          },
+          "reason": "MacTutor正文和快速信息均明确March1693；结构化日期精度与显示一致。"
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "daniel-bernoulli",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "corrected_or_qualified",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Daniel Bernoulli",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bernoulli_Daniel/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/b7924e46357a6cc146ff.html",
+          "error": null
+        }
+      ],
+      "changes": [
+        {
+          "field": "contributions",
+          "before": [
+            "建立流速、压力和高度之间的伯努利关系。",
+            "从粒子运动解释气体压力，成为气体动理论的早期先驱。",
+            "研究弦的振动及机械系统的模态问题。"
+          ],
+          "after": [
+            "研究理想流动中流速、压力和高度之间的伯努利关系。",
+            "从粒子运动解释气体压力，成为气体动理论的早期先驱。",
+            "研究弦的振动及机械系统的模态问题。"
+          ],
+          "reason": "澄清并非任意黏性非定常流动均无条件适用。",
+          "evidence_urls": [
+            "https://mathshistory.st-andrews.ac.uk/Biographies/Bernoulli_Daniel/"
+          ]
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "anders-celsius",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed_with_existing_caveats",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Anders Celsius",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Celsius/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/3d64bfa0eeb23ba4f9ea.html",
+          "error": null
+        },
+        {
+          "title": "Uppsala University — Anders Celsius biography",
+          "url": "https://www.astro.uu.se/history/celsius.pdf",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/69803fa84a1b2718037d.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "出生日期采用乌普萨拉大学资料1701年11月27日；MacTutor快速信息中的11月11日与此不符。",
+        "1742年原始温标以沸点为0、冰点为100，后来才倒转成今天常用方向。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "benjamin-franklin",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "Royal Society — Benjamin Franklin",
+          "url": "https://catalogues.royalsociety.org/CalmView/Record.aspx/Record.aspx?id=NA7974&src=CalmView.Persons",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/928ee87dfeae749a6df1.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "emilie-du-chatelet",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Émilie du Châtelet",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Chatelet/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/ebdeae8b710178a71642.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "leonhard-euler",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Leonhard Euler",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Euler/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/099d077b13e319a63c1e.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "roger-joseph-boscovich",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Roger Joseph Boscovich",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Boscovich/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/c023b02186ed0ee96b33.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "mikhail-lomonosov",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "corrected_or_qualified",
+      "evidence": [
+        {
+          "title": "Moscow State University — Mikhail Lomonosov",
+          "url": "https://www.cem.chem.msu.ru/rus/history/Lomonosov/welcome.html",
+          "retrieval_status": "failed",
+          "cache": null,
+          "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cem.chem.msu.ru'. (_ssl.c:1081)>"
+        },
+        {
+          "title": "Bank of Russia — Lomonosov commemorative biography",
+          "url": "https://www.cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5110-0111",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/1c66804fdb3209945952.html",
+          "error": null
+        }
+      ],
+      "changes": [
+        {
+          "field": "death",
+          "before": {
+            "date": "1765",
+            "precision": "year",
+            "display": "1765年"
+          },
+          "after": {
+            "date": "1765-04-15",
+            "precision": "day",
+            "display": "1765年4月15日（公历）"
+          },
+          "reason": "补充原档仅保留年份的死亡日期，并明确新旧历。",
+          "evidence_urls": [
+            "https://letopis.msu.ru/node/5555",
+            "https://www.ras.ru/lomonosov/ac417f4c-0be6-4a10-ba8f-12ff1e81a535.aspx"
+          ]
+        }
+      ],
+      "unresolved": [
+        "生卒日采用公历1711年11月19日、1765年4月15日；相应儒略历为11月8日和4月4日。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "joseph-black",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "University of Edinburgh — Joseph Black",
+          "url": "https://chem.ed.ac.uk/about-us/history/professors/joseph-black",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/7ffad53d4f1f95a9b61b.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "henry-cavendish",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "corrected_or_qualified",
+      "evidence": [
+        {
+          "title": "Royal Society — Henry Cavendish",
+          "url": "https://makingscience.royalsociety.org/people/na8163/henry-cavendish",
+          "retrieval_status": "failed",
+          "cache": null,
+          "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>"
+        },
+        {
+          "title": "Royal College of Physicians of Edinburgh — Henry Cavendish",
+          "url": "https://www.rcpe.ac.uk/peoplesdispensary/browse/individualpractitioner/dr_henry_cavendish.html",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/9cbd9da160887044855e.html",
+          "error": null
+        }
+      ],
+      "changes": [
+        {
+          "field": "sources",
+          "reason": "旧RCPE页面直接检索返回目录页，补入现行皇家学会人物档案以改善可核查性。",
+          "evidence_urls": [
+            "https://catalogues.royalsociety.org/CalmView/Record.aspx?id=NA8163&src=CalmView.Persons"
+          ]
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "joseph-louis-lagrange",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Joseph-Louis Lagrange",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Lagrange/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/07f47a642744c589e6df.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "james-watt",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed_with_existing_caveats",
+      "evidence": [
+        {
+          "title": "Science Museum Group — James Watt",
+          "url": "https://collection.sciencemuseumgroup.org.uk/people/ap24508/watt-james",
+          "retrieval_status": "failed",
+          "cache": null,
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "出生日期采用公历1736年1月30日；科学博物馆所列1月19日为儒略历旧式日期。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "charles-augustin-de-coulomb",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Charles-Augustin de Coulomb",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Coulomb/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/53c3499853ab1b2283f0.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "luigi-galvani",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "University of Bologna — Luigi Galvani",
+          "url": "https://www.unibo.it/it/ateneo/chi-siamo/la-nostra-storia/alumni-e-personaggi-celebri/luigi-galvani",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/1329c0db5cfa3e7d00ff.html",
+          "error": null
+        },
+        {
+          "title": "Treccani — Luigi Galvani",
+          "url": "https://www.treccani.it/enciclopedia/luigi-galvani_%28Enciclopedia-Italiana%29/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/db5095f912785c0000eb.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "william-herschel",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — William Herschel",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Herschel_William/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/2f11de05b745cf1dbd39.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "antoine-lavoisier",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "American Philosophical Society — Antoine Lavoisier",
+          "url": "https://search.amphilsoc.org/memhist/search?creator=Antoine+lavoisier",
+          "retrieval_status": "failed",
+          "cache": null,
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "alessandro-volta",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "corrected_or_qualified",
+      "evidence": [
+        {
+          "title": "Museo Galileo — Alessandro Volta",
+          "url": "https://catalogue.museogalileo.it/biography/AlessandroVolta.html",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/cc3ce47400160413b8b6.html",
+          "error": null
+        }
+      ],
+      "changes": [
+        {
+          "field": "birth",
+          "before": {
+            "date": "1745",
+            "precision": "year",
+            "display": "1745年"
+          },
+          "after": {
+            "date": "1745-02-18",
+            "precision": "day",
+            "display": "1745年2月18日"
+          },
+          "reason": "补充原档遗漏的确切月日，依据意大利传记条目。",
+          "evidence_urls": [
+            "https://www.treccani.it/enciclopedia/alessandro-volta_(Enciclopedia-Italiana)/"
+          ]
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "pierre-simon-laplace",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Pierre-Simon Laplace",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Laplace/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/13fa340fa0dc65e8b100.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "benjamin-thompson",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "National Portrait Gallery — Count Rumford",
+          "url": "https://www.npg.org.uk/collections/search/person/mp03895/sir-benjamin-thompson-count-von-rumford",
+          "retrieval_status": "failed",
+          "cache": null,
+          "error": "HTTP Error 403: Forbidden"
+        },
+        {
+          "title": "Monticello — Count Rumford",
+          "url": "https://www.monticello.org/encyclopedia/sir-benjamin-thompson-count-von-rumford",
+          "retrieval_status": "failed",
+          "cache": null,
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "john-dalton",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "corrected_or_qualified",
+      "evidence": [
+        {
+          "title": "Royal Society — John Dalton",
+          "url": "https://royalsociety.org/about-us/who-we-are/diversity-inclusion/case-studies/scientists-with-disabilities/john-dalton/",
+          "retrieval_status": "failed",
+          "cache": null,
+          "error": "HTTP Error 403: Forbidden"
+        },
+        {
+          "title": "Science Museum — Celebrating John Dalton",
+          "url": "https://blog.sciencemuseum.org.uk/celebrating-john-dalton/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/4b61b76739efb33dedaa.html",
+          "error": null
+        }
+      ],
+      "changes": [
+        {
+          "field": "birth",
+          "before": {
+            "date": "1766",
+            "precision": "approximate",
+            "display": "1766年9月5日或6日"
+          },
+          "after": {
+            "date": "1766-09",
+            "precision": "approximate",
+            "display": "1766年9月5日或6日（来源有差异）"
+          },
+          "reason": "保留月份和争议日，不虚构其中一天为定日。"
+        }
+      ],
+      "unresolved": [
+        "出生日期在9月5日或6日之间存在来源差异，科学博物馆记为约9月6日。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "joseph-fourier",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Joseph Fourier",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Fourier/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/60579320f4b00addd565.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "thomas-johann-seebeck",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed_with_existing_caveats",
+      "evidence": [
+        {
+          "title": "E. Velmre — Thomas Johann Seebeck, Estonian Academy Publishers (2007)",
+          "url": "https://kirj.ee/wp-content/plugins/kirj/pub/eng-4-2007-276-282_20230511160746.pdf",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/508d4368c6070870cb7d.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "出生日期采用公历1770年4月9日；俄历旧式日期为3月29日。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "thomas-young",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Thomas Young",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Young_Thomas/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/8e511e54ddedf2bb2b70.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "jean-baptiste-biot",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Jean-Baptiste Biot",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Biot/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/3aa674b335b1c8a63197.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "andre-marie-ampere",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — André-Marie Ampère",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Ampere/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/808c098e797c8b2b8af0.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "etienne-louis-malus",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Étienne-Louis Malus",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Malus/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/6a4ebb9a348a4631c138.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "carl-friedrich-gauss",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Carl Friedrich Gauss",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Gauss/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/eedbcd8ce8afb5357355.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "hans-christian-orsted",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "Royal Society — Hans Christian Oersted",
+          "url": "https://catalogues.royalsociety.org/CalmView/Record.aspx?id=NA7482&src=CalmView.Persons",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/3c317e6061e58926c516.html",
+          "error": null
+        },
+        {
+          "title": "Niels Bohr Institute, University of Copenhagen — H.C. Oersted biography",
+          "url": "https://nbi.ku.dk/english/www/hco/oersted/opvaekst",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/445f3e63adcb83801bfa.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "humphry-davy",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "Royal Institution — Sir Humphry Davy",
+          "url": "https://www.rigb.org/explore-science/explore/person/sir-humphry-davy-1778-1829",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/1002eb58709cfc6cc19a.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "simeon-denis-poisson",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Siméon Denis Poisson",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Poisson/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/75543a6bad50f959bf19.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "francois-arago",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — François Arago",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Arago/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/84d4f967a4f8fcadd563.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "augustin-jean-fresnel",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Augustin-Jean Fresnel",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Fresnel/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/281bf5dcd718bcdb473d.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "georg-ohm",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Georg Ohm",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Ohm/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/db8f4f42fff7ecf13dfb.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "michael-faraday",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Michael Faraday",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Faraday/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/585fbc7b07e88cafce41.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "nicolas-leonard-sadi-carnot",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed_with_existing_caveats",
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Nicolas Léonard Sadi Carnot",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Carnot_Sadi/",
+          "retrieval_status": "retrieved",
+          "cache": "data/raw/audit-early/5ccafa2077483257be15.html",
+          "error": null
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "其1824年理论仍使用热质说语言，效率与可逆性思想后来由克拉佩龙、克劳修斯和开尔文等发展。"
+      ],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "joseph-henry",
+      "checked_at": "2026-10-26",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "biography",
+        "contributions",
+        "sources",
+        "date_precision",
+        "English translation",
+        "portrait classification"
+      ],
+      "status": "reviewed",
+      "evidence": [
+        {
+          "title": "Smithsonian Institution Archives — Joseph Henry’s Life",
+          "url": "https://siarchives.si.edu/history/featured-topics/henry/joseph-henrys-life",
+          "retrieval_status": "failed",
+          "cache": null,
+          "error": "HTTP Error 403: Forbidden"
+        },
+        {
+          "title": "Smithsonian — Joseph Henry Collection chronology",
+          "url": "https://www.si.edu/object/archives/sova-sia-faru7001?edan_fq%5B0%5D=-online_visual_material%3A%22false%22",
+          "retrieval_status": "failed",
+          "cache": null,
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ],
+      "changes": [],
+      "unresolved": [],
+      "English_self_check": {
+        "identity_matches": true,
+        "same_contribution_count": true,
+        "same_note_count": true,
+        "uncertainty_preserved": true
+      }
+    }
+  ],
+  "source_quality_findings": [
+    {
+      "id": "pierre-gassendi",
+      "issue": "MacTutor摘要误称金星凌日；其正文正确记1631年水星凌日。本档原本已写水星，保持正确表述。",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Gassendi/"
+    },
+    {
+      "id": "anders-celsius",
+      "issue": "Uppsala PDF第174页明确27November1701，确认现有档案对MacTutor11November差异的说明。",
+      "url": "https://www.astro.uu.se/history/celsius.pdf"
+    },
+    {
+      "id": "george-green",
+      "issue": "MacTutor summary labels 14 July 1793 as birth but biography body explicitly identifies it as baptism and says exact birth unknown. Corrected both languages to year precision, separately labeled baptism.",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Green/"
+    }
+  ],
+  "added_people": 57,
+  "added_records": [
+    {
+      "id": "hypatia",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Hypatia",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hypatia/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Hypatia",
+          "url": "https://en.wikipedia.org/wiki/Hypatia",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "出生年通常估为约355年或370年；卒于415年3月，未把某一日当作确证日期。",
+        "不能据学生书信把星盘或比重计的发明权归给希帕蒂娅。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "john-philoponus",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy — John Philoponus",
+          "url": "https://plato.stanford.edu/entries/philoponus/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — John Philoponus",
+          "url": "https://en.wikipedia.org/wiki/John_Philoponus",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "生卒年为约数；其获得的运动能力等概念并非现代动量或牛顿惯性定律。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "aryabhata",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Aryabhata",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Aryabhata_I/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Aryabhata",
+          "url": "https://en.wikipedia.org/wiki/Aryabhata",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "476年出生主要由其著作中的年龄说明推定；550年卒为传统约数，确切卒年不详。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "brahmagupta",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Brahmagupta",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Brahmagupta/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Brahmagupta",
+          "url": "https://en.wikipedia.org/wiki/Brahmagupta",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "出生年通常记598年；卒年有668或670等约数说法。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "thabit-ibn-qurra",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Thabit ibn Qurra",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Thabit/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Thabit ibn Qurra",
+          "url": "https://en.wikipedia.org/wiki/Th%C4%81bit_ibn_Qurra",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "出生年来源有约826与836年两说，无法确定确日；本档保留范围。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "avicenna",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Avicenna",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Avicenna/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Avicenna",
+          "url": "https://en.wikipedia.org/wiki/Avicenna",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "出生年和死亡月采用通行近似纪年，不把后世换算出的生日或卒日当作无争议确日。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "nasir-al-din-al-tusi",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Nasir al-Din al-Tusi",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Tusi_Nasir/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Nasir al-Din al-Tusi",
+          "url": "https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "kamal-al-din-al-farisi",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Kamal al-Din al-Farisi",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Farisi/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Kamal al-Din al-Farisi",
+          "url": "https://en.wikipedia.org/wiki/Kamal_al-Din_al-Farisi",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "生年有约1260、1265、1267等说法，卒年多记1319或约1320；保留约数及差异。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "theodoric-of-freiberg",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy — Dietrich of Freiberg",
+          "url": "https://plato.stanford.edu/entries/dietrich-freiberg/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Theodoric of Freiberg",
+          "url": "https://en.wikipedia.org/wiki/Theodoric_of_Freiberg",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "确切生卒年不详；出生约1250年，1310年后仍可能在世。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "witelo",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "Columbia University, Chaucer Name Dictionary — Vitulon (Witelo)",
+          "url": "http://www.columbia.edu/dlc/garland/deweever/UV/vitulon.htm",
+          "retrieval_status": "failed"
+        },
+        {
+          "title": "Wikipedia — Witelo",
+          "url": "https://en.wikipedia.org/wiki/Witelo",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "生卒年争议较大；出生约1230年，1280年以后去世，部分来源给出约1314年等推定。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "benedetto-castelli",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Benedetto Castelli",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Castelli/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Benedetto Castelli",
+          "url": "https://en.wikipedia.org/wiki/Benedetto_Castelli",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "marin-mersenne",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Marin Mersenne",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Mersenne/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Marin Mersenne",
+          "url": "https://en.wikipedia.org/wiki/Marin_Mersenne",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "francesco-maria-grimaldi",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Francesco Maria Grimaldi",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Grimaldi/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Francesco Maria Grimaldi",
+          "url": "https://en.wikipedia.org/wiki/Francesco_Maria_Grimaldi",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "卒日采用MacTutor及通行传记的1663年12月28日；部分网络信息框曾误记8月28日。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "edme-mariotte",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "Rice University Galileo Project — Edme Mariotte",
+          "url": "https://galileo.library.rice.edu/Catalog/NewFiles/mariotte.html",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Edme Mariotte",
+          "url": "https://en.wikipedia.org/wiki/Edme_Mariotte",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "出生约1620年；卒日来源有1684年5月12日与21日两说，不能无条件混用。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "jacob-bernoulli",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Jacob Bernoulli",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bernoulli_Jacob/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Jacob Bernoulli",
+          "url": "https://en.wikipedia.org/wiki/Jacob_Bernoulli",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "johann-bernoulli",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Johann Bernoulli",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bernoulli_Johann/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Johann Bernoulli",
+          "url": "https://en.wikipedia.org/wiki/Johann_Bernoulli",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "出生日期采用公历1667年8月6日，对应儒略历7月27日，MacTutor所列为后者。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "francis-hauksbee",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "Royal Society — Francis Hauksbee",
+          "url": "https://makingscience.royalsociety.org/people/na8345/francis-hauksbee",
+          "retrieval_status": "failed"
+        },
+        {
+          "title": "Museo Galileo — Francis Hauksbee Senior",
+          "url": "https://catalogue.museogalileo.it/biography/FrancisHauksbeeSenior.html",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Francis Hauksbee",
+          "url": "https://en.wikipedia.org/wiki/Francis_Hauksbee",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "1660年5月27日为受洗日，1713年4月29日为安葬日，不将二者当作确切生卒日；亦须区别同名侄子豪克斯比。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "stephen-gray",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "Royal Society — Stephen Gray",
+          "url": "https://makingscience.royalsociety.org/people/na7365/stephen-gray",
+          "retrieval_status": "failed"
+        },
+        {
+          "title": "Kent Archaeological Society — New light on Stephen Gray",
+          "url": "https://www.kentarchaeology.org.uk/journal/143/new-light-stephen-gray-frs-1666-1736-canterbury-freeman-dyer",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Stephen Gray",
+          "url": "https://en.wikipedia.org/wiki/Stephen_Gray_%28scientist%29",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "1666年12月26日为受洗日；卒日有2月7、15或25日等记载，故只保留死亡月份及争议。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "charles-francois-de-cisternay-du-fay",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "Larousse — Charles François de Cisternay Du Fay",
+          "url": "https://www.larousse.fr/encyclopedie/personnage/Charles_François_de_Cisternay_Du_Fay/117257",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "SPARK Museum — Two kinds of electrical fluid: Vitreous and Resinous",
+          "url": "http://www.sparkmuseum.com/BOOK_DUFAY.HTM",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Charles François de Cisternay du Fay",
+          "url": "https://en.wikipedia.org/wiki/Charles_Fran%C3%A7ois_de_Cisternay_du_Fay",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "pierre-louis-maupertuis",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Pierre Louis Maupertuis",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Maupertuis/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Pierre Louis Maupertuis",
+          "url": "https://en.wikipedia.org/wiki/Pierre_Louis_Maupertuis",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "alexis-clairaut",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Alexis Clairaut",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Clairaut/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "French Academy of Sciences — Clairaut tercentenary programme, 2013",
+          "url": "https://www.academie-sciences.fr/pdf/conf/colloque_130513.pdf",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Alexis Clairaut",
+          "url": "https://en.wikipedia.org/wiki/Alexis_Clairaut",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "出生日期采用法国科学院三百周年纪念资料的1713年5月13日；MacTutor及部分旧资料记5月7日。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "jean-le-rond-dalembert",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Jean le Rond d'Alembert",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/DAlembert/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Académie française — Jean Le Rond, dit d’Alembert",
+          "url": "https://www.academie-francaise.fr/les-immortels/jean-le-rond-dit-dalembert",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Jean le Rond d'Alembert",
+          "url": "https://en.wikipedia.org/wiki/Jean_le_Rond_d%27Alembert",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "出生日期采用法兰西学院资料的1717年11月16日；MacTutor列17日，保留此差异。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "laura-bassi",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Laura Bassi",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bassi/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "University of Bologna Historical Archive — Laura Bassi Veratti",
+          "url": "https://archiviostorico.unibo.it/it/patrimonio-documentario/ritratti-di-docenti?record=95198",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "University of Bologna Magazine — Laura Bassi compie trecento anni",
+          "url": "https://magazine.unibo.it/it/articoli/laura_bassi_compie_trecento_anni",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Laura Bassi",
+          "url": "https://en.wikipedia.org/wiki/Laura_Bassi",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "出生日期采用博洛尼亚大学档案及纪念资料的1711年10月29日；MacTutor及部分资料列31日。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "caroline-herschel",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Caroline Herschel",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Herschel_Caroline/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Caroline Herschel",
+          "url": "https://en.wikipedia.org/wiki/Caroline_Herschel",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "mary-somerville",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Mary Somerville",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Somerville/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Mary Somerville",
+          "url": "https://en.wikipedia.org/wiki/Mary_Somerville",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "其太阳光磁化实验的部分结论未能得到后来的可靠复现；贡献在于传播综合和研究实践，不能将该实验结论当作现代定论。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "franz-aepinus",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Franz Aepinus",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Aepinus/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Franz Aepinus",
+          "url": "https://en.wikipedia.org/wiki/Franz_Aepinus",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "其电流体理论是历史模型，不等同于现代电子或电磁场理论。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "giovanni-battista-venturi",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "Treccani, Dizionario Biografico — Giovanni Battista Venturi",
+          "url": "https://www.treccani.it/enciclopedia/giovanni-battista-venturi_(Dizionario-Biografico)",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Giovanni Battista Venturi",
+          "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Venturi",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "pierre-prevost",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "Royal Society — Pierre Prevost",
+          "url": "https://catalogues.royalsociety.org/CalmView/Record.aspx?AddBasket=NA3134&id=NA3134&src=CalmView.Persons",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "ETH Library — Recherches physico-mécaniques sur la chaleur, 1792",
+          "url": "https://www.e-rara.ch/zut/content/titleinfo/1431800",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Pierre Prévost",
+          "url": "https://en.wikipedia.org/wiki/Pierre_Prevost_%28physicist%29",
+          "retrieval_status": "read_via_web_search"
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "ernst-chladni",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "Deutsche Biographie — Ernst Florenz Friedrich Chladni",
+          "url": "https://www.deutsche-biographie.de/gnd118520490.html?language=en",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Ernst Chladni",
+          "url": "https://en.wikipedia.org/wiki/Ernst_Chladni",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "johann-wilhelm-ritter",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "Deutsche Biographie — Johann Wilhelm Ritter",
+          "url": "https://www.deutsche-biographie.de/gnd118745468.html",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Johann Wilhelm Ritter",
+          "url": "https://en.wikipedia.org/wiki/Johann_Wilhelm_Ritter",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "friedrich-bessel",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Friedrich Bessel",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bessel/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Friedrich Bessel",
+          "url": "https://en.wikipedia.org/wiki/Friedrich_Bessel",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "augustin-louis-cauchy",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Augustin-Louis Cauchy",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Cauchy/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Augustin-Louis Cauchy",
+          "url": "https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "felix-savart",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Félix Savart",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Savart/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Félix Savart",
+          "url": "https://en.wikipedia.org/wiki/F%C3%A9lix_Savart",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "george-green",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — George Green",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Green/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — George Green",
+          "url": "https://en.wikipedia.org/wiki/George_Green_%28mathematician%29",
+          "retrieval_status": "read_via_web_search"
+        },
+        {
+          "title": "Royal Meteorological Society — History of Meteorology, March 2008",
+          "url": "https://www.rmets.org/sites/default/files/2019-03/hisnews0803.pdf",
+          "retrieval_status": "retrieved_web_search"
+        }
+      ],
+      "unresolved": [
+        "Exact birth day and month unknown; baptism dated 14 July 1793."
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      },
+      "changes": [
+        {
+          "field": "birth",
+          "before": {
+            "date": "1793-07-14",
+            "precision": "day",
+            "display": "1793年7月14日"
+          },
+          "after": {
+            "date": "1793",
+            "precision": "year",
+            "display": "1793年（7月14日受洗，确切生日不详）"
+          },
+          "reason": "14 July 1793 is baptism, not known actual birth. MacTutor body distinguishes the ritual date despite misleading summary."
+        }
+      ]
+    },
+    {
+      "id": "gaspard-gustave-de-coriolis",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Gaspard-Gustave de Coriolis",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Coriolis/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Gaspard-Gustave de Coriolis",
+          "url": "https://en.wikipedia.org/wiki/Gaspard-Gustave_de_Coriolis",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "benoit-paul-emile-clapeyron",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Benoît Paul Émile Clapeyron",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Clapeyron/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Benoît Paul Émile Clapeyron",
+          "url": "https://en.wikipedia.org/wiki/Beno%C3%AEt_Paul_%C3%89mile_Clapeyron",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "pierre-louis-dulong",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "CTHS — Pierre Louis Dulong",
+          "url": "https://www.cths.fr/an/savant.php?id=101613",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Pierre Louis Dulong",
+          "url": "https://en.wikipedia.org/wiki/Pierre_Louis_Dulong",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "出生日期有1785年2月12日与13日两说；CTHS记13日，故保留月份及差异。",
+        "杜隆—珀蒂规律为适用温区内的近似规律，在低温等条件下会失效。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "alexis-therese-petit",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Alexis Thérèse Petit",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Petit/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Alexis Thérèse Petit",
+          "url": "https://en.wikipedia.org/wiki/Alexis_Th%C3%A9r%C3%A8se_Petit",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "杜隆—珀蒂规律不是所有固体在任意温度下都精确满足的普遍等式。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "franz-ernst-neumann",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "Deutsche Biographie — Franz Ernst Neumann",
+          "url": "https://www.deutsche-biographie.de/118786008.html?language=en",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Franz Ernst Neumann",
+          "url": "https://en.wikipedia.org/wiki/Franz_Ernst_Neumann",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "jean-charles-athanase-peltier",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "Florida State University MagLab Magnet Academy — Jean-Charles-Athanase Peltier",
+          "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/jean-charles-athanase-peltier/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Technical University of Munich — Jean Charles Athanase Peltier",
+          "url": "https://av.ph.nat.tum.de/Bios/Peltier.php",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Jean Charles Athanase Peltier",
+          "url": "https://en.wikipedia.org/wiki/Jean_Charles_Athanase_Peltier",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "joseph-louis-gay-lussac",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "BibNum — Sur la combinaison des substances gazeuses les unes avec les autres",
+          "url": "https://www.bibnum.education.fr/chimie/theorie-chimique/sur-la-combinaison-des-substances-gazeuses-les-unes-avec-les-autres",
+          "retrieval_status": "failed"
+        },
+        {
+          "title": "Wikipedia — Joseph Louis Gay-Lussac",
+          "url": "https://en.wikipedia.org/wiki/Joseph_Louis_Gay-Lussac",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "amedeo-avogadro",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "Science History Institute — Amedeo Avogadro",
+          "url": "https://www.sciencehistory.org/education/scientific-biographies/amedeo-avogadro/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "BibNum — Les deux hypothèses d’Avogadro en 1811",
+          "url": "https://www.bibnum.education.fr/chimie/theorie-chimique/les-deux-hypotheses-d-avogadro-en-1811",
+          "retrieval_status": "failed"
+        },
+        {
+          "title": "Wikipedia — Amedeo Avogadro",
+          "url": "https://en.wikipedia.org/wiki/Amedeo_Avogadro",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "jacques-charles",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "Musée des Arts et Métiers — Animorphose, Charles’s physics cabinet",
+          "url": "https://www.arts-et-metiers.net/musee/animorphose",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Le Moyne College — Gay-Lussac’s 1802 paper, including Charles’s earlier experiments",
+          "url": "https://web.lemoyne.edu/~giunta/gaygas.html",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Jacques Charles",
+          "url": "https://en.wikipedia.org/wiki/Jacques_Charles",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "死亡日期来源有1823年4月7日与8日两说，保留差异；其气体实验结果主要由后来的盖-吕萨克文献传播。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "george-atwood",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — George Atwood",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Atwood/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — George Atwood",
+          "url": "https://en.wikipedia.org/wiki/George_Atwood",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "1745年10月15日为受洗日，出生日期仅保留到月份。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "henry-kater",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "National Portrait Gallery — Henry Kater",
+          "url": "https://www.npg.org.uk/collections/search/person/mp02471/henry-kater?displayStyle=thumb",
+          "retrieval_status": "failed"
+        },
+        {
+          "title": "Darwin Correspondence Project — Henry Kater",
+          "url": "https://darwin-editorial.darwinproject.ac.uk/view/nameregs/nameregs_2643",
+          "retrieval_status": "failed"
+        },
+        {
+          "title": "Wikipedia — Henry Kater",
+          "url": "https://en.wikipedia.org/wiki/Henry_Kater",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "出生日期采用通行传记及历史肖像文献的1777年4月16日；个别机构简介漏作4月6日。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "thomas-newcomen",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "Science Museum — In pursuit of power",
+          "url": "https://blog.sciencemuseum.org.uk/a-new-age/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "BBC History — Thomas Newcomen",
+          "url": "https://www.bbc.co.uk/history/historic_figures/newcomen_thomas.shtml",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Thomas Newcomen",
+          "url": "https://en.wikipedia.org/wiki/Thomas_Newcomen",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "出生约1663—1664年；1664年2月24日为受洗日，不作确切生日。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "lazare-carnot",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Lazare Carnot",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Carnot/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Lazare Carnot",
+          "url": "https://en.wikipedia.org/wiki/Lazare_Carnot",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "johann-heinrich-lambert",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Johann Heinrich Lambert",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Lambert/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Johann Heinrich Lambert",
+          "url": "https://en.wikipedia.org/wiki/Johann_Heinrich_Lambert",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "john-michell",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "Royal Society — John Michell",
+          "url": "https://makingscience.royalsociety.org/people/na7798/john-michell",
+          "retrieval_status": "failed"
+        },
+        {
+          "title": "Queens’ College Cambridge History Archive — John Michell",
+          "url": "https://history.queens.cam.ac.uk/individuals-interest/john-michell",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — John Michell",
+          "url": "https://en.wikipedia.org/wiki/John_Michell",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "其“暗星”基于牛顿引力和微粒光观念，不等同于广义相对论黑洞。",
+        "尚未取得经确证的本人生前肖像；后世形象或相关资料图必须说明性质。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "benjamin-robins",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Benjamin Robins",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Robins/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Benjamin Robins",
+          "url": "https://en.wikipedia.org/wiki/Benjamin_Robins",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "出生年常记1707，MacTutor依据教友会记录记1706年4月16日；本档保留约1706—1707年。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "brook-taylor",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Brook Taylor",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Taylor/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Brook Taylor",
+          "url": "https://en.wikipedia.org/wiki/Brook_Taylor",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "colin-maclaurin",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Colin Maclaurin",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Maclaurin/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Colin Maclaurin",
+          "url": "https://en.wikipedia.org/wiki/Colin_Maclaurin",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "确切生日没有可靠共识，只记1698年2月。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "gaspard-monge",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Gaspard Monge",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Monge/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Gaspard Monge",
+          "url": "https://en.wikipedia.org/wiki/Gaspard_Monge",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "adrien-marie-legendre",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Adrien-Marie Legendre",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Legendre/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Inventaire Condorcet — Adrien Marie Le Gendre, archival death-record citation",
+          "url": "https://www.inventaire-condorcet.com/Inventario/Personas_e_instituciones?ID=987",
+          "retrieval_status": "failed"
+        },
+        {
+          "title": "French Academy of Sciences — La Science en caricatures, Lettre 28",
+          "url": "https://www.academie-sciences.fr/pdf/lettre/lettre28.pdf",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Adrien-Marie Legendre",
+          "url": "https://en.wikipedia.org/wiki/Adrien-Marie_Legendre",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "卒日采用引用巴黎死亡记录的Inventaire Condorcet之1833年1月9日；MacTutor记10日，后者亦为葬礼日期。",
+        "长期流传的端正头像实际多为政治人物路易·勒让德；本人物已鉴定的同时代形象是博伊1820年的漫画。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "joseph-von-fraunhofer",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "Fraunhofer-Gesellschaft — Joseph von Fraunhofer, biography and timeline",
+          "url": "https://www.fraunhofer.de/en/about-fraunhofer/profile-structure/chronicles/joseph-von-fraunhofer.html",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Joseph von Fraunhofer",
+          "url": "https://en.wikipedia.org/wiki/Joseph_von_Fraunhofer",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "rene-just-hauy",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "Royal Society — René Just Haüy",
+          "url": "https://catalogues.royalsociety.org/calmview/Record.aspx?id=NA3462&src=CalmView.Persons",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — René Just Haüy",
+          "url": "https://en.wikipedia.org/wiki/Ren%C3%A9_Just_Ha%C3%BCy",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "卒日有1822年6月1日与3日两说；后者亦被解释为安葬日，故保留月份与差异。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    },
+    {
+      "id": "thomas-harriot",
+      "selection_reason": "新增原库未收录、具有明确物理／数学物理／定量天文学或物理仪器贡献的人物。",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death",
+        "date_precision",
+        "biography",
+        "contributions",
+        "sources",
+        "English translation"
+      ],
+      "evidence": [
+        {
+          "title": "MacTutor History of Mathematics — Thomas Harriot",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Harriot/",
+          "retrieval_status": "retrieved"
+        },
+        {
+          "title": "Wikipedia — Thomas Harriot",
+          "url": "https://en.wikipedia.org/wiki/Thomas_Harriot",
+          "retrieval_status": "retrieved"
+        }
+      ],
+      "unresolved": [
+        "生年约1560由入学年龄等记录推定，确日不详；折射和天文成果多未在生前正式发表。"
+      ],
+      "English_self_check": {
+        "same_id": true,
+        "same_contribution_count": true,
+        "same_notes_count": true,
+        "dates_and_uncertainty_preserved": true
+      }
+    }
+  ],
+  "directories_compared": [
+    {
+      "title": "MacTutor History of Mathematics",
+      "url": "https://mathshistory.st-andrews.ac.uk/"
+    },
+    {
+      "title": "MIT Net Advance of Physics — History/Philosophy individual biographies",
+      "url": "https://web.mit.edu/redingtn/OldFiles/www/netadv/hist.html"
+    },
+    {
+      "title": "Rice University Galileo Project scientist catalogue",
+      "url": "https://galileo.library.rice.edu/Catalog/"
+    },
+    {
+      "title": "Florida State University MagLab Magnet Academy, pioneers",
+      "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/"
+    }
+  ],
+  "image_completion_review": {
+    "reviewed_at": "2026-10-26",
+    "missing_early_images_resolved": 17,
+    "additional_legacy_portrait_identity_safeguard": "Adrien-Marie Legendre / Boilly caricature, not politician Louis Legendre",
+    "override_file": "data/curated/portrait-overrides-audit-early.json",
+    "source_metadata_cache": "data/raw/audit-early/images/metadata.json",
+    "all_downloads_validated": true,
+    "all_images_visually_checked": true,
+    "records": [
+      {
+        "wikipedia_title": "Hypatia",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Hypatia_portrait.png",
+        "kind": "posthumous_depiction",
+        "license": "Public domain, as recorded by Wikimedia Commons",
+        "verified_local_path": "data/raw/sourced-portraits/audit-early-998b9928c094.png",
+        "download_test_passed": true,
+        "visually_reviewed": true,
+        "identity_and_caption_checked": true,
+        "notes_zh": "儒勒·莫里斯·加斯帕尔为1908年出版物绘制的希帕提娅想象像，距本人生活年代约1500年，不是古代真实相貌记录。",
+        "notes_en": "An imagined representation of Hypatia by Jules Maurice Gaspard for a 1908 publication, about 1,500 years after her lifetime; it is not an ancient record of her appearance."
+      },
+      {
+        "wikipedia_title": "John Philoponus",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Ioannes_Philoponus_%E2%80%93_Commentaria_De_generatione_et_corruptione%2C_1540_%E2%80%93_BEIC_IE9022374.jpg",
+        "kind": "context_image",
+        "license": "Public domain, as recorded by Wikimedia Commons",
+        "verified_local_path": "data/raw/sourced-portraits/audit-early-4458aa5d0808.jpg",
+        "download_test_passed": true,
+        "visually_reviewed": true,
+        "identity_and_caption_checked": true,
+        "notes_zh": "未取得可核实的人物肖像。此图为斐洛波努斯《论生成与消灭》评注1540年印本扉页（BEIC馆藏），属于著作图像，不是人物肖像。",
+        "notes_en": "No verified portrait was obtained. This is the title page of the 1540 printed edition of Philoponus’s commentary on On Generation and Corruption (BEIC collection), a work image rather than a portrait."
+      },
+      {
+        "wikipedia_title": "Brahmagupta",
+        "source_url": "https://commons.wikimedia.org/wiki/File:P%E1%B9%9Bth%C5%ABdhaka%E2%80%99s_10th_century_commentary_on_Brahmagupta%E2%80%99s_Br%C4%81hmasphu%E1%B9%ADasiddh%C4%81nta.jpg",
+        "kind": "context_image",
+        "license": "Public domain, as recorded by Wikimedia Commons",
+        "verified_local_path": "data/raw/sourced-portraits/audit-early-8bd0c6368779.jpg",
+        "download_test_passed": true,
+        "visually_reviewed": true,
+        "identity_and_caption_checked": true,
+        "notes_zh": "未取得可核实的同时代肖像。此图为与婆罗摩笈多《梵天明悉檀多》及普利图达卡评注有关的手稿图页，英国图书馆藏号IO San 1304；不是作者肖像或本人亲笔，图像记录对抄本年代的表述不一致，故不据此断定年代。",
+        "notes_en": "No verified contemporary likeness was obtained. This manuscript page relates to Brahmagupta’s Brāhmasphuṭasiddhānta and Pṛthūdhaka’s commentary (British Library, IO San 1304). It is neither a portrait nor a verified autograph. The image record gives inconsistent dating, so no date for this copy is asserted here."
+      },
+      {
+        "wikipedia_title": "Thābit ibn Qurra",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Conica_of_Apollonius_of_Perga_fol._162b_and_164a.jpg",
+        "kind": "context_image",
+        "license": "CC BY 4.0",
+        "verified_local_path": "data/raw/sourced-portraits/audit-early-23d942283953.jpg",
+        "download_test_passed": true,
+        "visually_reviewed": true,
+        "identity_and_caption_checked": true,
+        "notes_zh": "未取得可核实的人物肖像。此图为1070年阿拉伯文《圆锥曲线论》手稿图页（牛津大学博德利图书馆MS. Marsh 667，fol.162b及164a），关联萨比特参与的译校传统；不是本人亲笔或肖像。",
+        "notes_en": "No verified portrait was obtained. These pages are from a 1070 Arabic manuscript of Apollonius’s Conics (Bodleian Libraries, MS. Marsh 667, fols. 162b and 164a), associated with the translation and revision tradition in which Thābit participated. They are neither his autograph nor a portrait."
+      },
+      {
+        "wikipedia_title": "Witelo",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Witelo-Perspectiva.jpg",
+        "kind": "context_image",
+        "license": "Public domain, as recorded by Wikimedia Commons",
+        "verified_local_path": "data/raw/sourced-portraits/audit-early-812e0a5d0317.jpg",
+        "download_test_passed": true,
+        "visually_reviewed": true,
+        "identity_and_caption_checked": true,
+        "notes_zh": "《透视学》手稿中的作者形象小画及正文，图像来源记为十三世纪末。中世纪作者小画不能据此视为经核实的真实面貌记录；此处作为著作图像使用。",
+        "notes_en": "An author miniature and text from a manuscript of Perspectiva, dated in the image record to the late thirteenth century. The medieval author miniature is not a verified record of Witelo’s actual appearance; it is presented as a work image."
+      },
+      {
+        "wikipedia_title": "Theodoric of Freiberg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Fortunabrunnen_Freiberg_Dietrich_von_Freiberg.jpg",
+        "kind": "posthumous_depiction",
+        "license": "CC BY-SA 3.0",
+        "verified_local_path": "data/raw/sourced-portraits/audit-early-5beb376782d3.jpg",
+        "download_test_passed": true,
+        "visually_reviewed": true,
+        "identity_and_caption_checked": true,
+        "notes_zh": "德国弗赖贝格福尔图娜喷泉上表现狄奥多里克的后世雕塑细部，Unukorno摄于2012年。是纪念性人物塑像，不是经核实的中世纪面貌记录。",
+        "notes_en": "Detail of a later commemorative sculpture representing Theodoric on the Fortuna fountain in Freiberg, Germany, photographed by Unukorno in 2012. It is not a verified medieval likeness."
+      },
+      {
+        "wikipedia_title": "Kamal al-Din al-Farisi",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Kamal-1.jpg",
+        "kind": "context_image",
+        "license": "CC BY-SA 3.0; attribution: Adilnor Collection",
+        "verified_local_path": "data/raw/sourced-portraits/audit-early-b06dd7fa1c1d.jpg",
+        "download_test_passed": true,
+        "visually_reviewed": true,
+        "identity_and_caption_checked": true,
+        "notes_zh": "法里西《光学修订书》手稿图页，来源记录为1309年并归为作者手稿，藏于Adilnor Collection。此图展示光学著作与示意图，不是人物肖像。",
+        "notes_en": "A manuscript page of al-Fārisī’s Revision of Optics, described in the source record as an autograph dated 1309, in the Adilnor Collection. It shows optical text and diagrams, not a portrait."
+      },
+      {
+        "wikipedia_title": "Thomas Newcomen",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Dartmouth_Newcomen_engine.jpg",
+        "kind": "context_image",
+        "license": "CC BY-SA 2.0; attribution: Chris Allen",
+        "verified_local_path": "data/raw/sourced-portraits/audit-early-ace2083e3419.jpg",
+        "download_test_passed": true,
+        "visually_reviewed": true,
+        "identity_and_caption_checked": true,
+        "notes_zh": "未取得可核实的人物肖像。此图为达特茅斯展示的纽科门式蒸汽机，Chris Allen摄于2011年，属于仪器照片；不应标为纽科门本人或1712年原机。",
+        "notes_en": "No verified portrait was obtained. Chris Allen’s 2011 photograph shows the Newcomen-type engine displayed at Dartmouth. It is an instrument image, not a portrait or a claim to show the original 1712 engine."
+      },
+      {
+        "wikipedia_title": "Stephen Gray (scientist)",
+        "source_url": "https://commons.wikimedia.org/wiki/File:RGNb10360943.01_Nollet_The_Electric_Boy.tif",
+        "kind": "context_image",
+        "license": "Public domain, as recorded by Wikimedia Commons",
+        "verified_local_path": "data/raw/sourced-portraits/audit-early-c8f2bf9e829e.jpg",
+        "download_test_passed": true,
+        "visually_reviewed": true,
+        "identity_and_caption_checked": true,
+        "notes_zh": "未取得可核实的格雷肖像。此图为诺莱1746年《物体电学论》卷首插画，展示其重现与格雷导电研究相关的“悬空男孩”实验；图中人物不能标为格雷本人。",
+        "notes_en": "No verified portrait of Gray was obtained. This frontispiece from Nollet’s 1746 Essai sur l’électricité des corps shows Nollet’s version of the suspended electric-boy experiment associated with Gray’s conduction research. The figures must not be identified as Gray."
+      },
+      {
+        "wikipedia_title": "Charles François de Cisternay du Fay",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Charles_Fran%C3%A7ois_de_Cisternay_du_Fay.jpg",
+        "kind": "posthumous_depiction",
+        "license": "Public domain, as recorded by Wikimedia Commons",
+        "verified_local_path": "data/raw/sourced-portraits/audit-early-45ac56ea72af.jpg",
+        "download_test_passed": true,
+        "visually_reviewed": true,
+        "identity_and_caption_checked": true,
+        "notes_zh": "迪费的历史版画，Commons署名雕刻者为Émile Thomas。文件对制作世纪和作者信息的标注存在不一致，故不据此断言制作年代或同时代写生；作为后世人物图像呈现。",
+        "notes_en": "A historical engraving of du Fay, attributed in the Commons record to Émile Thomas. The record’s century and creator information are inconsistent, so neither a creation date nor a contemporary sitting is asserted. It is presented as a later representation."
+      },
+      {
+        "wikipedia_title": "Benjamin Robins",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Benjamin_Robins.png",
+        "kind": "context_image",
+        "license": "Public domain, as recorded by Wikimedia Commons",
+        "verified_local_path": "data/raw/sourced-portraits/audit-early-cec206f8b510.png",
+        "download_test_passed": true,
+        "visually_reviewed": true,
+        "identity_and_caption_checked": true,
+        "notes_zh": "未取得可核实且适用的人物肖像。此图为罗宾斯1742年《火炮原理新论》扉页，属于著作图像，不是人物肖像。",
+        "notes_en": "No verified suitable portrait was obtained. This is the title page of Robins’s New Principles of Gunnery (1742), a work image rather than a portrait."
+      },
+      {
+        "wikipedia_title": "Franz Aepinus",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Aepinus.png",
+        "kind": "context_image",
+        "license": "Public domain, as recorded by Wikimedia Commons",
+        "verified_local_path": "data/raw/sourced-portraits/audit-early-3facda4f6297.png",
+        "download_test_passed": true,
+        "visually_reviewed": true,
+        "identity_and_caption_checked": true,
+        "notes_zh": "未取得可核实且适用的人物肖像。此图为埃皮努斯1759年《电与磁理论的尝试》扉页，属于著作图像，不是人物肖像。",
+        "notes_en": "No verified suitable portrait was obtained. This is the title page of Aepinus’s Tentamen theoriae electricitatis et magnetismi (1759), a work image rather than a portrait."
+      },
+      {
+        "wikipedia_title": "John Michell",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Cavendish_Experiment.png",
+        "kind": "context_image",
+        "license": "Public domain, as recorded by Wikimedia Commons",
+        "verified_local_path": "data/raw/sourced-portraits/audit-early-e682c2c9183b.png",
+        "download_test_passed": true,
+        "visually_reviewed": true,
+        "identity_and_caption_checked": true,
+        "notes_zh": "未取得可核实的米歇尔肖像。此图为卡文迪许1798年测定地球密度论文中的扭秤装置示意图；其方法和原装置源于米歇尔，图示是卡文迪许使用的装置，不是米歇尔本人肖像。",
+        "notes_en": "No verified portrait of Michell was obtained. This diagram comes from Cavendish’s 1798 paper on the density of the Earth. Michell originated the torsion-balance method and apparatus, but the drawing shows Cavendish’s apparatus, not Michell’s appearance."
+      },
+      {
+        "wikipedia_title": "George Atwood",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Atwood%2C_George_%E2%80%93_Description_of_the_experiments%2C_intended_to_illustrate_a_course_of_lectures%2C_on_the_principles_of_natural_philosophy%2C_1781_%E2%80%93_BEIC_586027.jpg",
+        "kind": "context_image",
+        "license": "Public domain, as recorded by Wikimedia Commons",
+        "verified_local_path": "data/raw/sourced-portraits/audit-early-atwood.jpg",
+        "download_test_passed": true,
+        "visually_reviewed": true,
+        "identity_and_caption_checked": true,
+        "notes_zh": "未取得可核实且适用的人物肖像。此图为阿特伍德实验物理讲义说明的1781年意大利译本扉页（BEIC馆藏），属于著作图像，不是人物肖像。",
+        "notes_en": "No verified suitable portrait was obtained. This is the title page of a 1781 Italian translation of Atwood’s description of experiments for lectures in natural philosophy (BEIC collection), a work image rather than a portrait."
+      },
+      {
+        "wikipedia_title": "Pierre Prevost (physicist)",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Physicist_Pierre_Pr%C3%A9vost.jpg",
+        "kind": "posthumous_depiction",
+        "license": "Public domain, as recorded by Wikimedia Commons",
+        "verified_local_path": "data/raw/sourced-portraits/audit-early-f97aaaf90811.jpg",
+        "download_test_passed": true,
+        "visually_reviewed": true,
+        "identity_and_caption_checked": true,
+        "notes_zh": "物理学家皮埃尔·普雷沃的画像，刊于1896年日内瓦瑞士国家博览会画报。已与《瑞士历史辞典》所载、据菲尔曼·马索约1810年原作制作的普雷沃版画逐一目视比对，人物与构图相符，确认不是同名画家。1896年版本的具体版刻制作时间未确定；这不是摄影肖像。",
+        "notes_en": "An image of the physicist Pierre Prevost, published in the illustrated journal of the 1896 Swiss National Exhibition in Geneva. It was visually compared with the portrait in the Historical Dictionary of Switzerland, described there as a lithograph after Firmin Massot’s circa-1810 original: the sitter and composition match, confirming the physicist rather than the painter of the same name. The date when this particular engraved version was made remains unverified. It is not a photographic portrait.",
+        "additional_institutional_identity_check": "https://hls-dhs-dss.ch/fr/articles/026102/2012-04-12/"
+      },
+      {
+        "wikipedia_title": "George Green (mathematician)",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Green-3.jpg",
+        "kind": "context_image",
+        "license": "Public domain, as recorded by Wikimedia Commons",
+        "verified_local_path": "data/raw/sourced-portraits/audit-early-dbead3dd8005.jpg",
+        "download_test_passed": true,
+        "visually_reviewed": true,
+        "identity_and_caption_checked": true,
+        "notes_zh": "未取得可核实的人物肖像。此图为1871年《已故乔治·格林数学论文集》扉页，取自美国物理联合会尼尔斯·玻尔图书馆馆藏；属于著作图像，不是人物肖像。",
+        "notes_en": "No verified portrait was obtained. This is the title page of the 1871 Mathematical Papers of the Late George Green, from the Niels Bohr Library & Archives at the American Institute of Physics. It is a work image rather than a portrait."
+      },
+      {
+        "wikipedia_title": "Alexis Thérèse Petit",
+        "source_url": "https://perso.ens-lyon.fr/benjamin.monnet/LP/LP44%20Capacit%C3%A9s%20thermique.%20Description%2C%20interp%C3%A9tations%20miscroscopiques/Petit.pdf",
+        "kind": "context_image",
+        "license": "Public-domain original: Petit and Dulong, Annales de chimie et de physique 10 (1819), pp. 395–413; faithful scan, no separate scan license stated.",
+        "verified_local_path": "data/raw/sourced-portraits/audit-early-petit-table-000.png",
+        "download_test_passed": true,
+        "visually_reviewed": true,
+        "identity_and_caption_checked": true,
+        "notes_zh": "未取得可核实且适用的珀蒂肖像。此图从里昂高师网站所存PDF直接提取，为珀蒂与杜隆1819年热学论文的实验数据表，显示比热、原子相对质量及其乘积；属于论文图像，不是人物肖像。",
+        "notes_en": "No verified suitable portrait of Petit was obtained. Extracted directly from a PDF hosted by ENS de Lyon, this is the experimental table from Petit and Dulong’s 1819 heat paper, listing specific heats, relative atomic weights and their products. It is a paper image rather than a portrait."
+      },
+      {
+        "wikipedia_title": "Adrien-Marie Legendre",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Legendre.jpg",
+        "kind": "portrait",
+        "license": "Public domain",
+        "verified_local_path": "data/raw/sourced-portraits/audit-early-legendre.jpg",
+        "download_test_passed": true,
+        "visually_reviewed": true,
+        "identity_and_caption_checked": true,
+        "notes_zh": "朱利安-莱奥波德·布瓦伊约1820年所绘勒让德漫画像，为2009年重新辨认的同时代图像。常见的另一幅正面油画像实际是政治家路易·勒让德，不能用于此人。",
+        "notes_en": "A contemporary caricature of the mathematician by Julien-Léopold Boilly, circa 1820, reidentified in 2009. The frequently reproduced formal painted portrait depicts the politician Louis Legendre and must not be assigned to this mathematician."
+      }
+    ]
+  }
+}

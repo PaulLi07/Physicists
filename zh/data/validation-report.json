@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "records_per_language": 721,
+  "paired_records_checked": 721,
+  "errors": [],
+  "notes": [],
+  "method": "All record pairs and asset hashes checked. Original-script creator names and original legal metadata are intentionally preserved outside the translated prose fields. Semantic English peer review is recorded separately."
+}

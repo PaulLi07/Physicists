@@ -1,0 +1,1821 @@
+[
+  {
+    "id": "julius-plucker",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "george-biddell-airy",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "joseph-plateau",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "heinrich-gustav-magnus",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "heinrich-wilhelm-dove",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "christian-doppler",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "heinrich-lenz",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "wilhelm-eduard-weber",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "carl-gustav-jacob-jacobi",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "william-rowan-hamilton",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "joseph-petzval",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "contributions.1": "Investigated optical aberrations and the Petzval field-curvature condition"
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "joseph-liouville",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "biography": "Liouville was a French mathematician who taught at the École Polytechnique and Collège de France and founded an influential mathematical journal. His work spanned differential equations, number theory and mechanics; his phase-space conservation theorem later became fundamental to statistical physics."
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "hermann-grassmann",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "henri-victor-regnault",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "robert-bunsen",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "william-robert-grove",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "anders-jonas-angstrom",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "biography": "Ångström was a Swedish physicist and astronomer at Uppsala. He brought precise wavelength measurements to solar and laboratory spectroscopy and produced detailed spectral atlases, helping make spectral analysis a reliable means of investigating atomic radiation and stellar composition."
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "julius-robert-von-mayer",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "james-prescott-joule",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "george-gabriel-stokes",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "contributions.1": "Investigated fluorescence and the usual shift of its emitted light to wavelengths longer than those of the exciting light"
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "leon-foucault",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "hippolyte-fizeau",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "alexandre-edmond-becquerel",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "william-john-macquorn-rankine",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "biography": "Rankine was a Scottish engineer and physicist who worked in railway engineering before becoming professor of engineering at Glasgow. He systematically connected heat, mechanics and design and produced influential textbooks. His name is associated with a steam-power cycle and an absolute temperature scale."
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "john-tyndall",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "johann-josef-loschmidt",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "hermann-von-helmholtz",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "contributions.0": "Gave an influential systematic account of energy conservation and its mechanical basis"
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "rudolf-clausius",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "william-huggins",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "gustav-kirchhoff",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "william-thomson-1st-baron-kelvin",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "johann-jakob-balmer",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "bernhard-riemann",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "balfour-stewart",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "james-clerk-maxwell",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "contributions.0": "Established classical electromagnetic field theory, predicted electromagnetic waves and identified light as an electromagnetic phenomenon",
+      "contributions.2": "Studied trichromatic colour vision and the stability of Saturn's rings, and helped establish the Cavendish Laboratory"
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "william-crookes",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "jozef-stefan",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "norman-lockyer",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "ernst-mach",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "contributions.1": "Investigated compressible flow, characterized by the Mach number: flow speed divided by the local speed of sound"
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "josiah-willard-gibbs",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "contributions.0": "Systematized chemical potential, free energy and multiphase equilibrium, including the phase rule",
+      "contributions.1": "Established a systematic statistical-mechanical framework using ensembles, including the canonical and grand-canonical descriptions"
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "august-kundt",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "contributions.1": "Investigated anomalous optical dispersion and the connection between absorption and refraction",
+      "contributions.2": "Performed magneto-optical experiments and studied the optical properties of thin metal films"
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "ernst-abbe",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "biography": "Abbe was a German physicist and optical instrument designer who worked with Carl Zeiss and Otto Schott in Jena. He connected diffraction theory, optical glass and lens manufacture, putting microscope design on a quantitative physical foundation. He also participated in reforms of industrial and research organization.",
+      "contributions.1": "Developed aberration-control criteria, including the Abbe sine condition, to improve high-performance microscope objectives",
+      "contributions.2": "Designed precision optical instruments, including apparatus for measuring refractive index"
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "alfred-cornu",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "contributions.2": "Investigated spectroscopy, photoelasticity and precision optical measurements"
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "joseph-boussinesq",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "contributions.1": "Developed the Boussinesq equations for nonlinear shallow-water long waves",
+      "contributions.2": "Developed the eddy-viscosity concept for turbulence and the theory of elastic contact problems"
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "osborne-reynolds",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "contributions.0": "Identified the Reynolds number, a dimensionless ratio of inertial to viscous effects characterizing flow similarity",
+      "contributions.2": "Established the Reynolds equation for thin-film fluid lubrication"
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "james-dewar",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "contributions.1": "Liquefied and solidified hydrogen, advancing low-temperature experimental methods",
+      "contributions.2": "Investigated material properties and gas adsorption at low temperatures"
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "ludwig-boltzmann",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "contributions.0": "Formulated the Boltzmann transport equation and H-theorem to study the approach of gases to equilibrium",
+      "contributions.1": "Related entropy to the number of microscopic states and developed a statistical interpretation of the second law"
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "thomas-edison",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "contributions.0": "Systematically improved incandescent lighting and associated direct-current distribution systems with his laboratory teams",
+      "contributions.1": "Observed one-way conduction in an evacuated incandescent lamp, later called the Edison effect, an early thermionic-emission phenomenon",
+      "contributions.2": "Established an industrial research model organized around team experiments and iterative improvement of devices"
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "lorand-eotvos",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "margaret-lindsay-huggins",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "henry-augustus-rowland",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "sofya-kovalevskaya",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "oliver-heaviside",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "oliver-lodge",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "george-francis-fitzgerald",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "john-henry-poynting",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "henri-poincare",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "contributions.1": "Investigated the group properties of Lorentz transformations and the relativity principle, contributing to the prehistory of special relativity"
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "c-v-boys",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "james-alfred-ewing",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "nikola-tesla",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "aikitsu-tanakadate",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "heinrich-hertz",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "williamina-fleming",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "contributions.0": "Developed and applied an early Harvard stellar spectral classification and compiled extensive stellar catalogues"
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "joseph-larmor",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "jagadish-chandra-bose",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "pierre-duhem",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "agnes-pockels",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "paul-drude",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "annie-jump-cannon",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "walther-nernst",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "friedrich-pockels",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "hantaro-nagaoka",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "pyotr-lebedev",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "antonia-maury",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "charles-fabry",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "robert-w-wood",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "henrietta-swan-leavitt",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "arnold-sommerfeld",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "kotaro-honda",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "ernest-rutherford",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "paul-langevin",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "karl-schwarzschild",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "ludwig-prandtl",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "gilbert-n-lewis",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "fidelity": "Restored isotope work"
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "francis-william-aston",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "lise-meitner",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "torahiko-terada",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "otto-hahn",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "fidelity": "Restored 1944 Nobel Prize in Chemistry"
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "charles-wheatstone",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "contributions.2": "Developed practical telegraph systems with Cooke and investigated sound and electrical-signal propagation"
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "rudolf-kohlrausch",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "john-william-draper",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "heinrich-geissler",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "eunice-newton-foote",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "johann-wilhelm-hittorf",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "carl-anton-bjerknes",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "carl-gottfried-neumann",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "louis-paul-cailletet",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "friedrich-kohlrausch",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "emil-warburg",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "raoul-pictet",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "augusto-righi",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "woldemar-voigt",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "arthur-schuster",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "louis-georges-gouy",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "contributions.2": "Introduced the Gouy balance for magnetic-susceptibility measurements and investigated Brownian motion"
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "hendrik-willem-bakhuis-roozeboom",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "johannes-rydberg",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "contributions.2": "Provided empirical foundations for energy-level descriptions, the Ritz combination principle and later quantum atomic models"
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "julius-elster",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "hans-geitel",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "edwin-hall",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "carl-runge",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "knut-angstrom",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "contributions.1": "Measured the solar constant and solar radiation at high-altitude sites"
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "ferdinand-kurlbaum",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "svante-arrhenius",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "biography": "Arrhenius was a Swedish physical chemist and physicist who studied in Uppsala and elsewhere in Europe and later directed Stockholm's Nobel physical-chemistry institute. Awarded the 1903 Nobel Prize in Chemistry, he connected ionic theory, solutions and electricity and investigated atmospheric radiation."
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "vilhelm-bjerknes",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "friedrich-paschen",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "contributions.2": "Investigated strong-magnetic-field spectral behaviour with Back, now known as the Paschen–Back effect"
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "heinrich-rubens",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "kristian-birkeland",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "contributions.0": "Developed an influential model attributing aurorae to charged particles arriving from the Sun"
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "john-sealy-townsend",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "corrected",
+    "corrections": {
+      "contributions.0": "Developed quantitative descriptions of impact ionization and electron avalanches, including Townsend discharge coefficients"
+    },
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "gustav-mie",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "marian-smoluchowski",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "friedrich-hasenohrl",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "walter-ritz",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "historical caveats",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "john-ambrose-fleming",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "multiple-pioneer scope caveat",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "lee-de-forest",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "multiple-pioneer scope caveat",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  },
+  {
+    "id": "werner-von-siemens",
+    "reviewer": "independent-parent-review",
+    "checked": [
+      "biography meaning",
+      "contribution terminology and attribution",
+      "multiple-pioneer scope caveat",
+      "English readability"
+    ],
+    "status": "reviewed",
+    "corrections": {},
+    "passed": true,
+    "unresolved_errors": []
+  }
+]

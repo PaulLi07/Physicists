@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Hu Ning",
+    "source": "https://www.xsg.pku.edu.cn/heros/scholar/detail/553.html",
+    "image": "https://www.xsg.pku.edu.cn/Uploads/Bdxsg/Picture/2019/12/16/s5df7142b09581.JPG",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 18135,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/modern-extra-hu-ning.jpg"
+  },
+  {
+    "name": "Li Fanghua",
+    "source": "https://casad.cas.cn/zt2022/ysksgs/czy/202605/t20260513_5109507.html",
+    "image": "https://casad.cas.cn/zt2022/ysksgs/czy/202605/W020260513372383858777.png",
+    "status": 200,
+    "content_type": "image/png",
+    "bytes": 459249,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/modern-extra-li-fanghua.png"
+  },
+  {
+    "name": "Jeffrey Goldstone",
+    "source": "https://physics.mit.edu/faculty/jeffrey-goldstone/",
+    "image": "https://physics.mit.edu/wp-content/uploads/2020/12/goldstone_jeffrey-aspect-ratio-420-334-420x334-c-default.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 26636,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/modern-extra-jeffrey-goldstone.jpg"
+  },
+  {
+    "name": "Daniel Z. Freedman",
+    "source": "https://physics.mit.edu/faculty/daniel-freedman/",
+    "image": "https://physics.mit.edu/wp-content/uploads/2021/05/Freedman-square-aspect-ratio-420-334-420x334-c-default.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 30885,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/modern-extra-daniel-z--freedman.jpg"
+  },
+  {
+    "name": "Martin Schwarzschild",
+    "source": "https://phys-astro.sonoma.edu/brucemedalists/martin-schwarzschild",
+    "image": "https://phys-astro.sonoma.edu/sites/default/files/styles/square_800_x_800/public/schwarzschild.jpg?h=ba26cced&itok=y1Teuih5",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 59153,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/modern-extra-martin-schwarzschild.jpg"
+  },
+  {
+    "name": "Robert Herman",
+    "source": "https://www.informs.org/Explore/History-of-O.R.-Excellence/Miser-Harris-Presidential-Portrait-Gallery/Robert-Herman",
+    "image": "https://www.informs.org/var/ezflow_site/storage/images/media/iol/images/photos-informs-people/past-presidents-for-miser-harris-pres-portrait-gallery/herman2/1720965-1-eng-US/Herman_medium.jpg",
+    "status": 403,
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 6279
+  },
+  {
+    "name": "Bruno Zumino",
+    "source": "https://news.berkeley.edu/2014/06/24/bruno-zumino-an-architect-of-supersymmetry-dies-at-91/",
+    "image": "https://news.berkeley.edu/wp-content/uploads/2014/06/zumino300.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 23877,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/modern-extra-bruno-zumino.jpg"
+  },
+  {
+    "name": "Willie Hobbs Moore",
+    "source": "https://rackham.umich.edu/discover-rackham/american-physical-society-pays-tribute-to-rackham-alum-willie-hobbs-moore/",
+    "image": "https://rackham.umich.edu/wp-content/uploads/2025/02/walton-header-664x415.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 32366,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/modern-extra-willie-hobbs-moore.jpg"
+  },
+  {
+    "name": "Dai Yuanben",
+    "source": "https://mmcs.cast.org.cn/xwz/kxjrl/art/2026/art_be9e2f7c0176440e9252583417cc12f4.html",
+    "image": "https://mmcs.cast.org.cn/cms_files/filemanager/95318146/picture/20263/S15e1f814461f4ee5b0077ace346a0250-400.jpeg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 212181,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/modern-extra-dai-yuanben.jpeg"
+  }
+]

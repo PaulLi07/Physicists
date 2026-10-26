@@ -1,0 +1,62 @@
+{
+  "John Hubbard (physicist)": {
+    "external_image_url": "file:///Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/final-portrait-john-hubbard.jpg",
+    "source_url": "https://theor.jinr.ru/~kuzemsky/hubbio2.html",
+    "tested_download_url": "https://theor.jinr.ru/~kuzemsky/hubb1.jpg",
+    "verified_local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/final-portrait-john-hubbard.jpg",
+    "kind": "portrait",
+    "license": "Copyrighted institutional or historical photograph; no transferable open licence verified. Permission must be confirmed before website publication.",
+    "rights_status": "permission_required",
+    "credit": "A. L. Kuzemsky, Joint Institute for Nuclear Research; John Hubbard memorial photograph",
+    "verified_on": "2026-10-26",
+    "download_status": 200,
+    "verification_note": "Actual downloaded image visually inspected; identity verified against the named institutional biographical page and image caption/alt text.",
+    "sha256": "12cc2c2ce0e27f6458a3952366e82f0c3417e2c9e3930ad4a763b4ac6ab52009",
+    "depiction_note": "约翰·哈伯德的历史本人照片，原图带有纪念标题及“Susono, November, 1980”说明；来自JINR研究人员所编传记，非同名数学家。",
+    "depiction_note_en": "Historical photograph of the physicist John Hubbard, retaining the original memorial heading and the caption “Susono, November, 1980”; from the JINR-hosted scientific biography."
+  },
+  "Lu Jeu Sham": {
+    "external_image_url": "file:///Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/final-portrait-lu-jeu-sham.jpg",
+    "source_url": "https://cmrr.ucsd.edu/research/faculty-profiles/sham.html",
+    "tested_download_url": "https://cmrr.ucsd.edu/_images/profiles/sham.jpg",
+    "verified_local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/final-portrait-lu-jeu-sham.jpg",
+    "kind": "portrait",
+    "license": "Copyrighted institutional or historical photograph; no transferable open licence verified. Permission must be confirmed before website publication.",
+    "rights_status": "permission_required",
+    "credit": "UC San Diego, Center for Memory and Recording Research faculty profile",
+    "verified_on": "2026-10-26",
+    "download_status": 200,
+    "verification_note": "Actual downloaded image visually inspected; identity verified against the named institutional biographical page and image caption/alt text.",
+    "sha256": "9739b9814babd514a5b5fe0dbd49b5e6b2cd5d9cef720d70dc65e0c4de406d8d"
+  },
+  "Paul Corkum": {
+    "external_image_url": "file:///Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/final-portrait-paul-corkum-ottawa.jpg",
+    "source_url": "https://www.uottawa.ca/faculty-science/professors/paul-corkum",
+    "tested_download_url": "https://www.uottawa.ca/faculty-science/sites/g/files/bhrskd386/files/2023-01/Paul%20Corkum%20%28Janv.%202023%29%20web.jpg",
+    "verified_local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/final-portrait-paul-corkum-ottawa.jpg",
+    "kind": "portrait",
+    "license": "Copyrighted institutional or historical photograph; no transferable open licence verified. Permission must be confirmed before website publication.",
+    "rights_status": "permission_required",
+    "credit": "University of Ottawa, Faculty of Science professor profile",
+    "verified_on": "2026-10-26",
+    "download_status": 200,
+    "verification_note": "Actual downloaded image visually inspected; identity verified against the named institutional biographical page and image caption/alt text.",
+    "sha256": "3af8d469ade9b9d602e7a1d922bfebeb8791347199ebfacebba5643c95264d6a",
+    "depiction_note": "科克姆在实验室中的本人照片，来自渥太华大学教授介绍。",
+    "depiction_note_en": "Photograph of Corkum in a laboratory, from his University of Ottawa faculty profile."
+  },
+  "Immanuel Bloch": {
+    "external_image_url": "file:///Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/final-portrait-immanuel-bloch.jpg",
+    "source_url": "https://www.mpq.mpg.de/person/34641",
+    "tested_download_url": "https://www.mpq.mpg.de/employee_images/34641-1569830889?t=ZXlKM2FXUjBhQ0k2TWpFekxDSm9aV2xuYUhRaU9qSTNOQ3dpWm1sMElqb2lZM0p2Y0NJc0ltWnBiR1ZmWlhoMFpXNXphVzl1SWpvaWFuQm5JbjA9LS0wYjQ4MDgwM2M1YWQzNTE0YWFhOTcwOTk4MjM1YjZhOWY3YzUxZTY0",
+    "verified_local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/final-portrait-immanuel-bloch.jpg",
+    "kind": "portrait",
+    "license": "Copyrighted institutional or historical photograph; no transferable open licence verified. Permission must be confirmed before website publication.",
+    "rights_status": "permission_required",
+    "credit": "Max Planck Institute of Quantum Optics, staff profile; Max Planck Society",
+    "verified_on": "2026-10-26",
+    "download_status": 200,
+    "verification_note": "Actual downloaded image visually inspected; identity verified against the named institutional biographical page and image caption/alt text.",
+    "sha256": "55f19a0f1c74a80c3c93c5dfa14a1846ccd2c6c56e0fee85556a1de02f619da0"
+  }
+}

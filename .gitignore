@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local environments and credentials
+node_modules/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.pytest_cache/
+.coverage
+*.log
+
+# Public-source retrieval caches stay local. The official snapshot is needed
+# by the offline archive builders and is intentionally versioned.
+/data/raw/*
+!/data/raw/nobel-laureates.json
+!/data/raw/README.md
+!/data/raw/sourced-portraits/
+!/data/raw/final-image-qa-modern.json
+/data/raw/sourced-portraits/*.html

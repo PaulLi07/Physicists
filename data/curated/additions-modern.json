@@ -1,0 +1,2728 @@
+[
+  {
+    "id": "walther-meissner",
+    "name_zh": "瓦尔特·迈斯纳",
+    "name_en": "Walther Meissner",
+    "wikipedia_title": "Walther Meissner",
+    "birth": {
+      "date": "1882-12-16",
+      "precision": "day",
+      "display": "1882年12月16日"
+    },
+    "death": {
+      "date": "1974-11-16",
+      "precision": "day",
+      "display": "1974年11月16日"
+    },
+    "death_status": "deceased",
+    "biography": "德国实验物理学家，曾在国家物理技术研究机构及慕尼黑工作。他研究极低温下材料的性质，与奥克森费尔德发现超导体排斥磁通的现象，揭示超导性区别于单纯零电阻的重要特征。",
+    "contributions": [
+      "与奥克森费尔德发现超导迈斯纳效应",
+      "研究低温金属电输运及超导性质",
+      "发展低温实验装置和精密测量"
+    ],
+    "fields": [
+      "低温物理",
+      "超导"
+    ],
+    "sources": [
+      {
+        "title": "Walther Meissner — National MagLab",
+        "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/walther-meissner/"
+      },
+      {
+        "title": "Walther Meissner — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Walther_Meissner"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "walter-baade",
+    "name_zh": "瓦尔特·巴德",
+    "name_en": "Walter Baade",
+    "wikipedia_title": "Walter Baade",
+    "birth": {
+      "date": "1893-03-24",
+      "precision": "day",
+      "display": "1893年3月24日"
+    },
+    "death": {
+      "date": "1960-06-25",
+      "precision": "day",
+      "display": "1960年6月25日"
+    },
+    "death_status": "deceased",
+    "biography": "德国出生的观测天文学家，曾在汉堡工作，后在威尔逊山及帕洛马天文台研究。他通过分辨星系中的恒星，改进星族分类与宇宙距离尺度。",
+    "contributions": [
+      "区分星族I与星族II",
+      "修订造父变星距离标定及河外距离尺度",
+      "与茨威基提出超新星和中子星的联系"
+    ],
+    "fields": [
+      "恒星物理",
+      "观测宇宙学"
+    ],
+    "sources": [
+      {
+        "title": "Walter Baade — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Walter_Baade"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "pascual-jordan",
+    "name_zh": "帕斯夸尔·约尔当",
+    "name_en": "Pascual Jordan",
+    "wikipedia_title": "Pascual Jordan",
+    "birth": {
+      "date": "1902-10-18",
+      "precision": "day",
+      "display": "1902年10月18日"
+    },
+    "death": {
+      "date": "1980-07-31",
+      "precision": "day",
+      "display": "1980年7月31日"
+    },
+    "death_status": "deceased",
+    "biography": "德国理论物理学家，曾在哥廷根与玻恩、海森堡合作，后在罗斯托克、柏林和汉堡任教。他参与建立量子力学与场量子化，并研究代数和引力理论。",
+    "contributions": [
+      "参与建立矩阵力学及正则量子化方法",
+      "发展费米子的反对易关系与场量子化",
+      "提出约尔当代数，并研究标量张量引力理论"
+    ],
+    "fields": [
+      "量子力学",
+      "量子场论"
+    ],
+    "sources": [
+      {
+        "title": "Pascual Jordan — Deutsche Biographie",
+        "url": "https://www.deutsche-biographie.de/dbo075663.html?language=en"
+      },
+      {
+        "title": "Pascual Jordan — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies//Jordan_Pascual/"
+      },
+      {
+        "title": "Pascual Jordan — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Pascual_Jordan"
+      }
+    ],
+    "notes": [
+      "1933年加入纳粹党，战后亦参与政治活动；其科学贡献与这一历史背景均应如实呈现。"
+    ]
+  },
+  {
+    "id": "ernst-stueckelberg",
+    "name_zh": "恩斯特·施蒂克尔贝格",
+    "name_en": "Ernst Stueckelberg",
+    "wikipedia_title": "Ernst Stueckelberg",
+    "birth": {
+      "date": "1905-02-01",
+      "precision": "day",
+      "display": "1905年2月1日"
+    },
+    "death": {
+      "date": "1984-09-04",
+      "precision": "day",
+      "display": "1984年9月4日"
+    },
+    "death_status": "deceased",
+    "biography": "瑞士理论物理学家，曾在欧洲和美国研究，长期在日内瓦及洛桑任教。他的许多场论思想早于广泛接受的表述，但生前获得的关注有限。",
+    "contributions": [
+      "发展相对论协变微扰理论",
+      "提出把反粒子与时间反向传播联系起来的解释",
+      "与彼得曼发展重整化群思想"
+    ],
+    "fields": [
+      "量子场论",
+      "粒子物理"
+    ],
+    "sources": [
+      {
+        "title": "Interactions with André Petermann — CERN Courier",
+        "url": "https://cern-courier.web.cern.ch/a/interactions-with-andr-petermann/"
+      },
+      {
+        "title": "Ernst Stueckelberg — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Ernst_Stueckelberg"
+      },
+      {
+        "title": "Ernst Stueckelberg  (1905 - 1984) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Stueckelberg.html"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "karl-jansky",
+    "name_zh": "卡尔·央斯基",
+    "name_en": "Karl Jansky",
+    "wikipedia_title": "Karl Guthe Jansky",
+    "birth": {
+      "date": "1905-10-22",
+      "precision": "day",
+      "display": "1905年10月22日"
+    },
+    "death": {
+      "date": "1950-02-14",
+      "precision": "day",
+      "display": "1950年2月14日"
+    },
+    "death_status": "deceased",
+    "biography": "美国无线电工程师，在贝尔实验室研究短波通信噪声时，识别出来自银河系方向的无线电信号。他把原本视为干扰的信号转化为天文发现，开启射电天文学的重要阶段。",
+    "contributions": [
+      "发现来自银河系的宇宙无线电辐射",
+      "用方向性天线和恒星时周期区分天文信号",
+      "为射电天文观测奠定实验基础"
+    ],
+    "fields": [
+      "射电天文学",
+      "实验物理"
+    ],
+    "sources": [
+      {
+        "title": "Karl Jansky — National MagLab",
+        "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/karl-jansky/"
+      },
+      {
+        "title": "Karl Jansky — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Karl_Guthe_Jansky"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "giuseppe-occhialini",
+    "name_zh": "朱塞佩·奥基亚利尼",
+    "name_en": "Giuseppe Occhialini",
+    "wikipedia_title": "Giuseppe Occhialini",
+    "birth": {
+      "date": "1907-12-05",
+      "precision": "day",
+      "display": "1907年12月5日"
+    },
+    "death": {
+      "date": "1993-12-30",
+      "precision": "day",
+      "display": "1993年12月30日"
+    },
+    "death_status": "deceased",
+    "biography": "意大利实验物理学家，曾在英国与布莱克特、鲍威尔合作，后在米兰组织宇宙线和空间研究。他将粒子径迹探测与电子学结合，参与新粒子的实验发现。",
+    "contributions": [
+      "与布莱克特发展符合触发云室实验",
+      "参与利用核乳胶发现π介子",
+      "推动意大利空间物理与X射线天文学研究"
+    ],
+    "fields": [
+      "宇宙线",
+      "粒子物理"
+    ],
+    "sources": [
+      {
+        "title": "Giuseppe Occhialini — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Giuseppe_Occhialini"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "john-d-kraus",
+    "name_zh": "约翰·丹尼尔·克劳斯",
+    "name_en": "John D. Kraus",
+    "wikipedia_title": "John D. Kraus",
+    "birth": {
+      "date": "1910-06-28",
+      "precision": "day",
+      "display": "1910年6月28日"
+    },
+    "death": {
+      "date": "2004-07-18",
+      "precision": "day",
+      "display": "2004年7月18日"
+    },
+    "death_status": "deceased",
+    "biography": "美国物理学家和天线工程研究者，毕业于密歇根大学，后长期任教于俄亥俄州立大学。他研究无线电天线、射电望远镜和宇宙射电源，并编写影响广泛的电磁学与天线教材。",
+    "contributions": [
+      "发明并发展螺旋天线等无线电天线",
+      "设计建设大耳朵射电望远镜并开展巡天",
+      "推动射电天文观测与电磁学教育"
+    ],
+    "fields": [
+      "射电天文学",
+      "电磁学"
+    ],
+    "sources": [
+      {
+        "title": "John Daniel Kraus — National MagLab",
+        "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/john-daniel-kraus/"
+      },
+      {
+        "title": "John D. Kraus — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/John_D._Kraus"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "maurice-goldhaber",
+    "name_zh": "莫里斯·戈德哈伯",
+    "name_en": "Maurice Goldhaber",
+    "wikipedia_title": "Maurice Goldhaber",
+    "birth": {
+      "date": "1911-04-18",
+      "precision": "day",
+      "display": "1911年4月18日"
+    },
+    "death": {
+      "date": "2011-05-11",
+      "precision": "day",
+      "display": "2011年5月11日"
+    },
+    "death_status": "deceased",
+    "biography": "奥地利出生的美国实验物理学家，曾在剑桥与查德威克合作，后在伊利诺伊大学和布鲁克海文工作，并担任后者所长。他通过精巧核实验测量基本粒子的性质。",
+    "contributions": [
+      "与查德威克研究氘核的光致分解",
+      "与格罗津斯、孙亚尔测定中微子的螺旋度",
+      "研究原子核及基本粒子守恒性质"
+    ],
+    "fields": [
+      "核物理",
+      "中微子物理"
+    ],
+    "sources": [
+      {
+        "title": "Maurice Goldhaber — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Maurice_Goldhaber"
+      },
+      {
+        "title": "Brookhaven National Laboratory: Maurice Goldhaber obituary",
+        "url": "https://www.bnl.gov/newsroom/news.php?a=22383"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "gertrude-scharff-goldhaber",
+    "name_zh": "格特鲁德·沙尔夫-戈德哈伯",
+    "name_en": "Gertrude Scharff Goldhaber",
+    "wikipedia_title": "Gertrude Scharff Goldhaber",
+    "birth": {
+      "date": "1911-07-14",
+      "precision": "day",
+      "display": "1911年7月14日"
+    },
+    "death": {
+      "date": "1998-02-02",
+      "precision": "day",
+      "display": "1998年2月2日"
+    },
+    "death_status": "deceased",
+    "biography": "德国出生的美国核物理学家，因纳粹迫害移居国外，后长期在布鲁克海文国家实验室工作。她研究核能级、核异构态和集体运动，并推动女性科学家获得平等机会。",
+    "contributions": [
+      "研究原子核激发态和核异构态",
+      "发现核能级随中子数变化的重要系统规律",
+      "与合作者发展核集体运动模型"
+    ],
+    "fields": [
+      "核物理",
+      "实验物理"
+    ],
+    "sources": [
+      {
+        "title": "Gertrude Scharff Goldhaber — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Gertrude_Scharff_Goldhaber"
+      },
+      {
+        "title": "CWP at physics.UCLA.edu // Gertrude Scharff Goldhaber",
+        "url": "http://cwp.library.ucla.edu/Phase2/Goldhaber,_Gertrude_Scharff@812345678.html"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "martin-schwarzschild",
+    "name_zh": "马丁·施瓦西",
+    "name_en": "Martin Schwarzschild",
+    "wikipedia_title": "Martin Schwarzschild",
+    "birth": {
+      "date": "1912-05-31",
+      "precision": "day",
+      "display": "1912年5月31日"
+    },
+    "death": {
+      "date": "1997-04-10",
+      "precision": "day",
+      "display": "1997年4月10日"
+    },
+    "death_status": "deceased",
+    "biography": "德国出生的美国天体物理学家，长期任教于普林斯顿大学。他将早期电子计算机用于恒星内部结构和演化研究，也推动高空天文观测实验。",
+    "contributions": [
+      "发展恒星结构与演化的数值计算",
+      "研究恒星对流及后主序演化",
+      "推动Stratoscope高空气球望远镜观测"
+    ],
+    "fields": [
+      "恒星物理",
+      "计算物理"
+    ],
+    "sources": [
+      {
+        "title": "Martin Schwarzschild — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Martin_Schwarzschild"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "lyman-spitzer",
+    "name_zh": "莱曼·斯皮策",
+    "name_en": "Lyman Spitzer",
+    "wikipedia_title": "Lyman Spitzer",
+    "birth": {
+      "date": "1914-06-26",
+      "precision": "day",
+      "display": "1914年6月26日"
+    },
+    "death": {
+      "date": "1997-03-31",
+      "precision": "day",
+      "display": "1997年3月31日"
+    },
+    "death_status": "deceased",
+    "biography": "美国天体物理学家，长期在普林斯顿大学工作。他同时研究星际介质、恒星动力学和聚变等离子体，并较早提出把天文望远镜送入空间。",
+    "contributions": [
+      "提出仿星器磁约束聚变装置",
+      "研究星际介质与等离子体输运",
+      "倡导空间望远镜，推动后来哈勃望远镜项目"
+    ],
+    "fields": [
+      "等离子体物理",
+      "天体物理"
+    ],
+    "sources": [
+      {
+        "title": "Lyman Spitzer — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Lyman_Spitzer"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "robert-herman",
+    "name_zh": "罗伯特·赫尔曼",
+    "name_en": "Robert Herman",
+    "wikipedia_title": "Robert Herman",
+    "birth": {
+      "date": "1914-08-29",
+      "precision": "day",
+      "display": "1914年8月29日"
+    },
+    "death": {
+      "date": "1997-02-13",
+      "precision": "day",
+      "display": "1997年2月13日"
+    },
+    "death_status": "deceased",
+    "biography": "美国物理学家，早期研究分子光谱及战时技术，后从事宇宙学、工业研究和交通流理论。他与阿尔弗预言早期热宇宙留下的微波背景，连接了核物理与宇宙观测。",
+    "contributions": [
+      "与阿尔弗估算宇宙背景辐射温度",
+      "研究早期宇宙核合成与热演化",
+      "将统计物理方法用于交通流等复杂系统"
+    ],
+    "fields": [
+      "宇宙学",
+      "统计物理"
+    ],
+    "sources": [
+      {
+        "title": "Robert Herman — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Robert_Herman"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "fred-hoyle",
+    "name_zh": "弗雷德·霍伊尔",
+    "name_en": "Fred Hoyle",
+    "wikipedia_title": "Fred Hoyle",
+    "birth": {
+      "date": "1915-06-24",
+      "precision": "day",
+      "display": "1915年6月24日"
+    },
+    "death": {
+      "date": "2001-08-20",
+      "precision": "day",
+      "display": "2001年8月20日"
+    },
+    "death_status": "deceased",
+    "biography": "英国理论天体物理学家，长期在剑桥工作，并参与建立理论天文学研究机构。他以恒星元素合成研究著称，也提出后来受到观测否定的稳恒态宇宙模型。",
+    "contributions": [
+      "研究恒星中的核合成并参与B²FH元素起源论文",
+      "预言碳12中促进恒星合成碳的共振能级",
+      "与邦迪、戈尔德提出稳恒态宇宙模型"
+    ],
+    "fields": [
+      "核天体物理",
+      "宇宙学"
+    ],
+    "sources": [
+      {
+        "title": "Fred Hoyle — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Fred_Hoyle"
+      },
+      {
+        "title": "PHOTO ARCHIVE IN NUCLEAR ASTROPHYSICS",
+        "url": "https://astro.sites.clemson.edu/NucleoArchive/PhotoList/1970s/75letterHC.html"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "hu-ning",
+    "name_zh": "胡宁",
+    "name_en": "Hu Ning",
+    "wikipedia_title": "Hu Ning",
+    "birth": {
+      "date": "1916-02-11",
+      "precision": "day",
+      "display": "1916年2月11日"
+    },
+    "death": {
+      "date": "1997-12-26",
+      "precision": "day",
+      "display": "1997年12月26日"
+    },
+    "death_status": "deceased",
+    "biography": "出生于江苏宿迁的理论物理学家，曾在加州理工学院、普林斯顿、都柏林和哥本哈根研究，后长期任教于北京大学。他研究核力、散射矩阵及强子结构，并培养中国理论物理人才。",
+    "contributions": [
+      "研究介子核力与相对论量子场论",
+      "与朱洪元等发展强子层子模型",
+      "编写电动力学和场论教材并建设理论物理研究队伍"
+    ],
+    "fields": [
+      "量子场论",
+      "粒子物理"
+    ],
+    "sources": [
+      {
+        "title": "Hu Ning — Peking University History Museum",
+        "url": "https://www.xsg.pku.edu.cn/heros/scholar/detail/553.html"
+      },
+      {
+        "title": "Hu Ning — Peking University memorial biography",
+        "url": "https://news.pku.edu.cn/xwzh/129-119217.htm"
+      },
+      {
+        "title": "Hu Ning — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Hu_Ning"
+      }
+    ],
+    "notes": [
+      "部分外文网页将死亡日期误记为12月16日；本档案采用北京大学纪念传记中的1997年12月26日。"
+    ]
+  },
+  {
+    "id": "claude-shannon",
+    "name_zh": "克劳德·香农",
+    "name_en": "Claude Shannon",
+    "wikipedia_title": "Claude Shannon",
+    "birth": {
+      "date": "1916-04-30",
+      "precision": "day",
+      "display": "1916年4月30日"
+    },
+    "death": {
+      "date": "2001-02-24",
+      "precision": "day",
+      "display": "2001年2月24日"
+    },
+    "death_status": "deceased",
+    "biography": "美国数学家和电子工程师，曾在贝尔实验室及麻省理工学院工作。他以严格的概率语言研究通信，建立信息论，并把布尔代数用于开关电路。本档案因其信息物理相关基础贡献收录。",
+    "contributions": [
+      "建立以熵和信道容量为核心的信息论",
+      "将布尔代数用于逻辑开关电路分析",
+      "研究通信编码极限与密码系统"
+    ],
+    "fields": [
+      "信息论",
+      "统计物理"
+    ],
+    "sources": [
+      {
+        "title": "Claude Shannon — National MagLab",
+        "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/claude-shannon/"
+      },
+      {
+        "title": "Claude Shannon — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Claude_Shannon"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "margaret-burbidge",
+    "name_zh": "玛格丽特·伯比奇",
+    "name_en": "Margaret Burbidge",
+    "wikipedia_title": "Margaret Burbidge",
+    "birth": {
+      "date": "1919-08-12",
+      "precision": "day",
+      "display": "1919年8月12日"
+    },
+    "death": {
+      "date": "2020-04-05",
+      "precision": "day",
+      "display": "2020年4月5日"
+    },
+    "death_status": "deceased",
+    "biography": "英国出生的美国天体物理学家，长期任教于加州大学圣迭戈分校，并曾任格林尼治天文台台长。她以恒星和星系光谱研究元素起源，也推动女性平等参与天文学。",
+    "contributions": [
+      "参与B²FH恒星元素合成理论的综合建立",
+      "通过恒星光谱研究元素丰度",
+      "研究星系与类星体，并参与哈勃望远镜光谱仪研发"
+    ],
+    "fields": [
+      "天体光谱",
+      "核天体物理"
+    ],
+    "sources": [
+      {
+        "title": "Physics Pioneer Margaret Burbidge Dies at100 — UC San Diego",
+        "url": "https://today.ucsd.edu/story/physics-pioneer-margaret-burbidge-dies-at-100"
+      },
+      {
+        "title": "Margaret Burbidge — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Margaret_Burbidge"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "hermann-bondi",
+    "name_zh": "赫尔曼·邦迪",
+    "name_en": "Hermann Bondi",
+    "wikipedia_title": "Hermann Bondi",
+    "birth": {
+      "date": "1919-11-01",
+      "precision": "day",
+      "display": "1919年11月1日"
+    },
+    "death": {
+      "date": "2005-09-10",
+      "precision": "day",
+      "display": "2005年9月10日"
+    },
+    "death_status": "deceased",
+    "biography": "奥地利出生的英国数学家和宇宙学家，曾在剑桥及伦敦国王学院工作。他研究引力辐射与宇宙模型，也担任欧洲空间科学及英国科学机构领导职务。",
+    "contributions": [
+      "建立引力辐射和邦迪质量的研究框架",
+      "与戈尔德、霍伊尔提出稳恒态宇宙模型",
+      "研究引力吸积与相对论天体物理"
+    ],
+    "fields": [
+      "广义相对论",
+      "宇宙学"
+    ],
+    "sources": [
+      {
+        "title": "Hermann Bondi — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Hermann_Bondi"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "clyde-cowan",
+    "name_zh": "克莱德·科万",
+    "name_en": "Clyde Cowan",
+    "wikipedia_title": "Clyde Cowan",
+    "birth": {
+      "date": "1919-12-06",
+      "precision": "day",
+      "display": "1919年12月6日"
+    },
+    "death": {
+      "date": "1974-05-24",
+      "precision": "day",
+      "display": "1974年5月24日"
+    },
+    "death_status": "deceased",
+    "biography": "美国实验物理学家，曾在洛斯阿拉莫斯工作，后任教于美国天主教大学。他与莱因斯合作，把核反应堆的强反中微子通量用于寻找极弱的粒子相互作用。",
+    "contributions": [
+      "与莱因斯首次直接探测电子反中微子",
+      "发展符合信号识别的反应堆中微子实验",
+      "研究粒子探测和核实验技术"
+    ],
+    "fields": [
+      "中微子物理",
+      "核物理"
+    ],
+    "sources": [
+      {
+        "title": "Clyde Cowan — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Clyde_Cowan"
+      },
+      {
+        "title": "Cowan and Reines Neutrino Experiment",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/particles/cowan.html"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "thomas-gold",
+    "name_zh": "托马斯·戈尔德",
+    "name_en": "Thomas Gold",
+    "wikipedia_title": "Thomas Gold",
+    "birth": {
+      "date": "1920-05-22",
+      "precision": "day",
+      "display": "1920年5月22日"
+    },
+    "death": {
+      "date": "2004-06-22",
+      "precision": "day",
+      "display": "2004年6月22日"
+    },
+    "death_status": "deceased",
+    "biography": "奥地利出生的天体物理学家，曾在英国研究，后在康奈尔大学工作。他以跨领域且富争议的假说著称，对脉冲星解释、空间科学及宇宙学发展作出贡献。",
+    "contributions": [
+      "提出脉冲星可由旋转磁化中子星解释",
+      "与邦迪、霍伊尔提出稳恒态宇宙模型",
+      "研究行星表面及空间物理问题"
+    ],
+    "fields": [
+      "天体物理",
+      "宇宙学"
+    ],
+    "sources": [
+      {
+        "title": "Thomas Gold — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Gold"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "xie-jialin",
+    "name_zh": "谢家麟",
+    "name_en": "Xie Jialin",
+    "wikipedia_title": "Xie Jialin",
+    "birth": {
+      "date": "1920-08-08",
+      "precision": "day",
+      "display": "1920年8月8日"
+    },
+    "death": {
+      "date": "2016-02-20",
+      "precision": "day",
+      "display": "2016年2月20日"
+    },
+    "death_status": "deceased",
+    "biography": "出生于哈尔滨的加速器物理学家，在斯坦福大学取得博士学位，1955年回国。他组织中国高能电子直线加速器及北京正负电子对撞机建设，推动大型实验研究平台发展。",
+    "contributions": [
+      "研制早期高能电子束肿瘤治疗加速器",
+      "领导中国高能电子直线加速器与北京正负电子对撞机建设",
+      "发展自由电子激光及新型加速器技术"
+    ],
+    "fields": [
+      "加速器物理",
+      "实验物理"
+    ],
+    "sources": [
+      {
+        "title": "Xie Jialin — Institute of High Energy Physics",
+        "url": "https://ihep.cas.cn/kydw/yszj/ygys/202210/t20221010_6521758.html"
+      },
+      {
+        "title": "Xie Jialin — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Xie_Jialin"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "ralph-alpher",
+    "name_zh": "拉尔夫·阿尔弗",
+    "name_en": "Ralph Alpher",
+    "wikipedia_title": "Ralph Alpher",
+    "birth": {
+      "date": "1921-02-03",
+      "precision": "day",
+      "display": "1921年2月3日"
+    },
+    "death": {
+      "date": "2007-08-12",
+      "precision": "day",
+      "display": "2007年8月12日"
+    },
+    "death_status": "deceased",
+    "biography": "美国理论物理学家，博士期间与伽莫夫研究早期宇宙核反应，后在应用研究机构及大学工作。他与赫尔曼对热宇宙残余辐射的预言是现代宇宙学的重要先声。",
+    "contributions": [
+      "研究早期宇宙中的轻元素核合成",
+      "与赫尔曼预言热大爆炸遗留的背景辐射",
+      "研究宇宙热历史与元素丰度"
+    ],
+    "fields": [
+      "宇宙学",
+      "核天体物理"
+    ],
+    "sources": [
+      {
+        "title": "Ralph Alpher — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Ralph_Alpher"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "esther-conwell",
+    "name_zh": "埃丝特·康韦尔",
+    "name_en": "Esther Conwell",
+    "wikipedia_title": "Esther M. Conwell",
+    "birth": {
+      "date": "1922-05-23",
+      "precision": "day",
+      "display": "1922年5月23日"
+    },
+    "death": {
+      "date": "2014-11-16",
+      "precision": "day",
+      "display": "2014年11月16日"
+    },
+    "death_status": "deceased",
+    "biography": "美国物理学家，曾在罗切斯特和芝加哥学习，后在贝尔实验室、施乐及罗切斯特大学研究。她研究半导体和有机材料中的电荷输运，长期支持女性从事科学。",
+    "contributions": [
+      "与魏斯科普夫发展半导体杂质散射理论",
+      "研究半导体高场载流子输运",
+      "研究导电聚合物和有机半导体的电荷运动"
+    ],
+    "fields": [
+      "半导体物理",
+      "凝聚态物理"
+    ],
+    "sources": [
+      {
+        "title": "Esther Conwell — National MagLab",
+        "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/esther-conwell/"
+      },
+      {
+        "title": "Esther Conwell — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Esther_M._Conwell"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "bryce-dewitt",
+    "name_zh": "布赖斯·德威特",
+    "name_en": "Bryce DeWitt",
+    "wikipedia_title": "Bryce DeWitt",
+    "birth": {
+      "date": "1923-01-08",
+      "precision": "day",
+      "display": "1923年1月8日"
+    },
+    "death": {
+      "date": "2004-09-23",
+      "precision": "day",
+      "display": "2004年9月23日"
+    },
+    "death_status": "deceased",
+    "biography": "美国理论物理学家，师从施温格，曾在北卡罗来纳大学及得克萨斯大学工作。他将量子场论方法推广到引力和弯曲时空，并推动量子引力研究与教学。",
+    "contributions": [
+      "与惠勒发展正则量子引力方程",
+      "发展背景场方法和弯曲时空量子场论",
+      "推动对相对态量子理论的研究与传播"
+    ],
+    "fields": [
+      "量子引力",
+      "量子场论"
+    ],
+    "sources": [
+      {
+        "title": "Bryce DeWitt — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Bryce_DeWitt"
+      },
+      {
+        "title": "ICTP Dirac Medal — official laureate directory",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "bruno-zumino",
+    "name_zh": "布鲁诺·祖米诺",
+    "name_en": "Bruno Zumino",
+    "wikipedia_title": "Bruno Zumino",
+    "birth": {
+      "date": "1923-04-28",
+      "precision": "day",
+      "display": "1923年4月28日"
+    },
+    "death": {
+      "date": "2014-06-21",
+      "precision": "day",
+      "display": "2014年6月21日"
+    },
+    "death_status": "deceased",
+    "biography": "意大利出生的理论物理学家，曾在CERN及加州大学伯克利分校工作。他将超对称从抽象代数推进为四维场论，并研究超引力和量子反常。",
+    "contributions": [
+      "与韦斯建立四维超对称场论模型",
+      "与德泽尔独立构建超引力理论",
+      "发展规范反常的一致性条件研究"
+    ],
+    "fields": [
+      "超引力",
+      "量子场论"
+    ],
+    "sources": [
+      {
+        "title": "Bruno Zumino — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Bruno_Zumino"
+      },
+      {
+        "title": "ICTP Dirac Medal — official laureate directory",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "sulamith-goldhaber",
+    "name_zh": "苏拉米特·戈德哈伯",
+    "name_en": "Sulamith Goldhaber",
+    "wikipedia_title": "Sulamith Goldhaber",
+    "birth": {
+      "date": "1923-11-04",
+      "precision": "day",
+      "display": "1923年11月4日"
+    },
+    "death": {
+      "date": "1965-12-11",
+      "precision": "day",
+      "display": "1965年12月11日"
+    },
+    "death_status": "deceased",
+    "biography": "奥地利出生的实验物理学家，曾在以色列学习，后在加州大学伯克利分校工作。她改进核乳胶和气泡室实验，以高能介子及奇异粒子研究著称。",
+    "contributions": [
+      "发展高能粒子的核乳胶实验",
+      "研究K介子与核子相互作用",
+      "分析气泡室数据并研究强子共振态"
+    ],
+    "fields": [
+      "粒子物理",
+      "粒子探测"
+    ],
+    "sources": [
+      {
+        "title": "Sulamith Goldhaber — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Sulamith_Goldhaber"
+      },
+      {
+        "title": "CWP at physics.UCLA.edu // Sulamith Goldhaber",
+        "url": "http://cwp.library.ucla.edu/Phase2/Goldhaber,_Sulamith@812345678.html"
+      },
+      {
+        "title": "Sulamith Goldhaber (1923-1965)",
+        "url": "http://cwp.library.ucla.edu/articles/goldhaber/tribute.html"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "efim-fradkin",
+    "name_zh": "叶菲姆·弗拉德金",
+    "name_en": "Efim Fradkin",
+    "wikipedia_title": "Efim Fradkin",
+    "birth": {
+      "date": "1924-11-30",
+      "precision": "day",
+      "display": "1924年11月30日"
+    },
+    "death": {
+      "date": "1999-05-25",
+      "precision": "day",
+      "display": "1999年5月25日"
+    },
+    "death_status": "deceased",
+    "biography": "苏联及俄国理论物理学家，长期在列别捷夫物理研究所工作。他使用泛函方法研究相互作用场、量子统计和规范理论，并发展适用于复杂约束体系的量子化方法。",
+    "contributions": [
+      "发展量子场论和量子统计的泛函方法",
+      "与合作者发展约束体系BRST量子化的BFV哈密顿形式",
+      "研究高自旋场及共形场论"
+    ],
+    "fields": [
+      "量子场论",
+      "统计物理"
+    ],
+    "sources": [
+      {
+        "title": "Efim Fradkin — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Efim_Fradkin"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "geoffrey-burbidge",
+    "name_zh": "杰弗里·伯比奇",
+    "name_en": "Geoffrey Burbidge",
+    "wikipedia_title": "Geoffrey Burbidge",
+    "birth": {
+      "date": "1925-09-24",
+      "precision": "day",
+      "display": "1925年9月24日"
+    },
+    "death": {
+      "date": "2010-01-26",
+      "precision": "day",
+      "display": "2010年1月26日"
+    },
+    "death_status": "deceased",
+    "biography": "英国出生的理论天体物理学家，长期在加州大学圣迭戈分校工作，并曾领导基特峰天文台。他研究恒星元素合成、射电星系与宇宙学，也坚持探索非标准宇宙模型。",
+    "contributions": [
+      "参与B²FH恒星核合成理论",
+      "研究射电星系、类星体和高能天体的能量来源",
+      "提出并研究后来未成为主流的替代宇宙学模型"
+    ],
+    "fields": [
+      "核天体物理",
+      "宇宙学"
+    ],
+    "sources": [
+      {
+        "title": "Geoffrey Burbidge — UC San Diego personal research archive",
+        "url": "https://casswww.ucsd.edu/archive/personal/gburbidge.html"
+      },
+      {
+        "title": "Geoffrey Burbidge — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Geoffrey_Burbidge"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "rolf-landauer",
+    "name_zh": "罗尔夫·兰道尔",
+    "name_en": "Rolf Landauer",
+    "wikipedia_title": "Rolf Landauer",
+    "birth": {
+      "date": "1927-02-04",
+      "precision": "day",
+      "display": "1927年2月4日"
+    },
+    "death": {
+      "date": "1999-04-27",
+      "precision": "day",
+      "display": "1999年4月27日"
+    },
+    "death_status": "deceased",
+    "biography": "德国出生的美国物理学家，长期在IBM研究院工作。他研究电子输运和信息处理的物理成本，强调计算必须由真实物理系统实现。",
+    "contributions": [
+      "提出逻辑不可逆信息擦除的兰道尔原理",
+      "发展介观电子输运的兰道尔公式",
+      "研究计算的物理极限及可逆信息处理"
+    ],
+    "fields": [
+      "统计物理",
+      "凝聚态物理"
+    ],
+    "sources": [
+      {
+        "title": "Rolf Landauer — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Rolf_Landauer"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "theodore-maiman",
+    "name_zh": "西奥多·梅曼",
+    "name_en": "Theodore Maiman",
+    "wikipedia_title": "Theodore Maiman",
+    "birth": {
+      "date": "1927-07-11",
+      "precision": "day",
+      "display": "1927年7月11日"
+    },
+    "death": {
+      "date": "2007-05-05",
+      "precision": "day",
+      "display": "2007年5月5日"
+    },
+    "death_status": "deceased",
+    "biography": "美国实验物理学家，曾在斯坦福大学师从兰姆，后在休斯研究实验室工作。他使用红宝石介质研制出首台可工作的激光器，并推动激光技术走向实际应用。",
+    "contributions": [
+      "1960年实现首台可工作的红宝石激光器",
+      "研究固体激光介质及光泵浦方法",
+      "推动激光器的工程开发与应用"
+    ],
+    "fields": [
+      "激光物理",
+      "量子电子学"
+    ],
+    "sources": [
+      {
+        "title": "Theodore Maiman — National MagLab",
+        "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/theodore-maiman/"
+      },
+      {
+        "title": "Theodore Maiman — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Theodore_Maiman"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "dai-yuanben",
+    "name_zh": "戴元本",
+    "name_en": "Dai Yuanben",
+    "wikipedia_title": "Dai Yuanben",
+    "birth": {
+      "date": "1928-07-15",
+      "precision": "day",
+      "display": "1928年7月15日"
+    },
+    "death": {
+      "date": "2020-09-26",
+      "precision": "day",
+      "display": "2020年9月26日"
+    },
+    "death_status": "deceased",
+    "biography": "出生于南京的理论物理学家，长期在中国科学院从事粒子物理研究。他研究强相互作用、强子结构及量子场论，并参与中国理论物理研究机构建设。",
+    "contributions": [
+      "研究强子结构及强相互作用现象学",
+      "发展重夸克与量子色动力学计算",
+      "推动粒子理论和量子场论研究与人才培养"
+    ],
+    "fields": [
+      "粒子物理",
+      "量子场论"
+    ],
+    "sources": [
+      {
+        "title": "Dai Yuanben — China Scientists Museum,2026",
+        "url": "https://mmcs.cast.org.cn/xwz/kxjrl/art/2026/art_be9e2f7c0176440e9252583417cc12f4.html"
+      },
+      {
+        "title": "Dai Yuanben — Institute of Theoretical Physics, CAS",
+        "url": "https://www.itp.cas.cn/sourcedb_itp_cas/zw/zjrck/ys/202107/t20210723_6145287.html"
+      },
+      {
+        "title": "Dai Yuanben — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Dai_Yuanben"
+      }
+    ],
+    "notes": [
+      "出生日期存在7月15日与7月31日两种记载；本档案采用中国科学院理论物理研究所履历及中国科学家博物馆所记的1928年7月15日，并保留日期分歧。"
+    ]
+  },
+  {
+    "id": "stanley-mandelstam",
+    "name_zh": "斯坦利·曼德尔斯塔姆",
+    "name_en": "Stanley Mandelstam",
+    "wikipedia_title": "Stanley Mandelstam",
+    "birth": {
+      "date": "1928-12-12",
+      "precision": "day",
+      "display": "1928年12月12日"
+    },
+    "death": {
+      "date": "2016-06-11",
+      "precision": "day",
+      "display": "2016年6月11日"
+    },
+    "death_status": "deceased",
+    "biography": "南非出生的理论物理学家，曾在英国学习，后长期任教于加州大学伯克利分校。他以散射振幅的解析性质为出发点，研究强相互作用、规范理论和弦理论。",
+    "contributions": [
+      "提出散射过程的曼德尔斯塔姆变量及双重色散表示",
+      "发展规范场论及低维玻色化方法",
+      "研究超对称杨—米尔斯理论和弦振幅的紫外性质"
+    ],
+    "fields": [
+      "量子场论",
+      "弦理论"
+    ],
+    "sources": [
+      {
+        "title": "Stanley Mandelstam — Physics Today obituary",
+        "url": "https://physicstoday.aip.org/obituaries/stanley-mandelstam"
+      },
+      {
+        "title": "Stanley Mandelstam — University of California Academic Senate memorial",
+        "url": "https://senate.universityofcalifornia.edu/_files/inmemoriam/html/StanleyMandelstam.html"
+      },
+      {
+        "title": "Stanley Mandelstam — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Stanley_Mandelstam"
+      },
+      {
+        "title": "ICTP Dirac Medal — official laureate directory",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ],
+    "notes": [
+      "部分新闻或纪念材料另记6月23日或24日；本档案采用加州大学学术评议会纪念传记及《Physics Today》讣告一致记载的2016年6月11日。"
+    ]
+  },
+  {
+    "id": "paul-lauterbur",
+    "name_zh": "保罗·劳特伯",
+    "name_en": "Paul Lauterbur",
+    "wikipedia_title": "Paul Lauterbur",
+    "birth": {
+      "date": "1929-05-06",
+      "precision": "day",
+      "display": "1929年5月6日"
+    },
+    "death": {
+      "date": "2007-03-27",
+      "precision": "day",
+      "display": "2007年3月27日"
+    },
+    "death_status": "deceased",
+    "biography": "美国化学家和磁共振研究者，曾在石溪大学及伊利诺伊大学工作。他把核磁共振同空间磁场梯度结合，推动磁共振成像形成，因相关发现获2003年诺贝尔生理学或医学奖。",
+    "contributions": [
+      "利用磁场梯度编码核磁共振信号的空间位置",
+      "实现早期磁共振二维成像",
+      "发展核磁共振光谱与成像的物理方法"
+    ],
+    "fields": [
+      "磁共振成像",
+      "医学物理"
+    ],
+    "sources": [
+      {
+        "title": "Paul Lauterbur — Nobel Prize official facts",
+        "url": "https://www.nobelprize.org/laureate/764"
+      },
+      {
+        "title": "Paul Lauterbur — National MagLab",
+        "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/paul-lauterbur/"
+      },
+      {
+        "title": "Paul Lauterbur — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Paul_Lauterbur"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "joel-lebowitz",
+    "name_zh": "乔尔·莱博维茨",
+    "name_en": "Joel Lebowitz",
+    "wikipedia_title": "Joel Lebowitz",
+    "birth": {
+      "date": "1930-05-10",
+      "precision": "day",
+      "display": "1930年5月10日"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "出生于欧洲的美国数学物理学家，长期在罗格斯大学工作。他研究统计力学的严格基础、平衡与非平衡过程，并长期组织国际统计物理学术交流。",
+    "contributions": [
+      "发展平衡与非平衡统计力学的严格理论",
+      "研究热力学极限、相变和输运",
+      "探讨微观可逆动力学与宏观不可逆性的联系"
+    ],
+    "fields": [
+      "统计物理",
+      "非平衡热力学"
+    ],
+    "sources": [
+      {
+        "title": "Joel Lebowitz — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Joel_Lebowitz"
+      },
+      {
+        "title": "Joel L. Lebowitz Honored With 2021 Dannie Heineman Prize for Mathematical Physics - AIP.ORG",
+        "url": "https://ww2.aip.org/news/joel-l-lebowitz-honored-2021-dannie-heineman-prize-mathematical-physics"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "stanley-deser",
+    "name_zh": "斯坦利·德泽尔",
+    "name_en": "Stanley Deser",
+    "wikipedia_title": "Stanley Deser",
+    "birth": {
+      "date": "1931-03-19",
+      "precision": "day",
+      "display": "1931年3月19日"
+    },
+    "death": {
+      "date": "2023-04-21",
+      "precision": "day",
+      "display": "2023年4月21日"
+    },
+    "death_status": "deceased",
+    "biography": "波兰出生的美国理论物理学家，长期在布兰戴斯大学工作。他研究引力的正则形式、超引力及场论的一致性，对广义相对论与量子场论的联系作出重要贡献。",
+    "contributions": [
+      "与阿诺维特、米斯纳建立引力的ADM正则形式",
+      "与祖米诺独立构建超引力理论",
+      "研究引力及高自旋场理论的一致性"
+    ],
+    "fields": [
+      "广义相对论",
+      "超引力"
+    ],
+    "sources": [
+      {
+        "title": "Stanley Deser — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Stanley_Deser"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "li-fanghua",
+    "name_zh": "李方华",
+    "name_en": "Li Fanghua",
+    "wikipedia_title": "Li Fanghua",
+    "birth": {
+      "date": "1932-01-06",
+      "precision": "day",
+      "display": "1932年1月6日"
+    },
+    "death": {
+      "date": "2020-01-24",
+      "precision": "day",
+      "display": "2020年1月24日"
+    },
+    "death_status": "deceased",
+    "biography": "出生于香港的实验物理学家，留学苏联后长期在中国科学院物理研究所工作。她以高分辨电子显微学研究晶体结构，发展从电子像中获得可靠结构信息的方法。",
+    "contributions": [
+      "发展高分辨电子显微学及图像分析方法",
+      "研究晶体缺陷和复杂材料微观结构",
+      "改进从电子显微像获取结构信息的可靠性"
+    ],
+    "fields": [
+      "凝聚态物理",
+      "电子显微学"
+    ],
+    "sources": [
+      {
+        "title": "Li Fanghua — Chinese Academy of Sciences oral-history archive",
+        "url": "https://casad.cas.cn/zt2022/ysksgs/czy/202605/t20260513_5109507.html"
+      },
+      {
+        "title": "Li Fanghua — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Li_Fanghua"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "elliott-lieb",
+    "name_zh": "埃利奥特·利布",
+    "name_en": "Elliott H. Lieb",
+    "wikipedia_title": "Elliott H. Lieb",
+    "birth": {
+      "date": "1932-07-31",
+      "precision": "day",
+      "display": "1932年7月31日"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "美国数学物理学家，长期任教于普林斯顿大学。他以严格不等式和精确解研究物质稳定性、量子多体与统计力学，使基础物理问题获得严密数学表述。",
+    "contributions": [
+      "研究物质稳定性及量子多体能量界",
+      "与罗宾逊建立量子格点传播速度界",
+      "求解重要统计模型并发展相关数学不等式"
+    ],
+    "fields": [
+      "数学物理",
+      "量子多体"
+    ],
+    "sources": [
+      {
+        "title": "Elliott H. Lieb — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Elliott_H._Lieb"
+      },
+      {
+        "title": "Elliott  Lieb",
+        "url": "http://www.math.princeton.edu/~lieb/"
+      },
+      {
+        "title": "ICTP Dirac Medal — official laureate directory",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "jeffrey-goldstone",
+    "name_zh": "杰弗里·戈德斯通",
+    "name_en": "Jeffrey Goldstone",
+    "wikipedia_title": "Jeffrey Goldstone",
+    "birth": {
+      "date": "1933-09-03",
+      "precision": "day",
+      "display": "1933年9月3日"
+    },
+    "death": {
+      "date": "2026-10-12",
+      "precision": "day",
+      "display": "2026年10月12日"
+    },
+    "death_status": "deceased",
+    "biography": "英国理论物理学家，曾在剑桥工作，后长期任教于麻省理工学院。他研究多费米子体系、自发对称性破缺和量子计算，2026年10月逝世。",
+    "contributions": [
+      "建立连续对称性自发破缺产生无质量模的戈德斯通定理",
+      "发展多费米子体系的图形计算方法",
+      "研究量子计算和量子算法"
+    ],
+    "fields": [
+      "量子场论",
+      "量子多体"
+    ],
+    "sources": [
+      {
+        "title": "Jeffrey Goldstone — MIT Physics, in memoriam1933–2026",
+        "url": "https://physics.mit.edu/faculty/jeffrey-goldstone/"
+      },
+      {
+        "title": "Jeffrey Goldstone — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Jeffrey_Goldstone"
+      },
+      {
+        "title": "Dirac Medallists 1991 | ICTP",
+        "url": "https://www.ictp.it/home/dirac-medallists-1991"
+      },
+      {
+        "title": "ICTP Dirac Medal — official laureate directory",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "asher-peres",
+    "name_zh": "阿舍尔·佩雷斯",
+    "name_en": "Asher Peres",
+    "wikipedia_title": "Asher Peres",
+    "birth": {
+      "date": "1934-01-30",
+      "precision": "day",
+      "display": "1934年1月30日"
+    },
+    "death": {
+      "date": "2005-01-01",
+      "precision": "day",
+      "display": "2005年1月1日"
+    },
+    "death_status": "deceased",
+    "biography": "以色列理论物理学家，长期任教于以色列理工学院。他以清晰而严密的方法研究量子测量、纠缠和信息处理，是量子信息理论形成时期的重要研究者。",
+    "contributions": [
+      "提出判断纠缠的部分转置判据",
+      "与合作者提出量子隐形传态",
+      "研究量子语境性、测量与相对论量子信息"
+    ],
+    "fields": [
+      "量子信息",
+      "量子基础"
+    ],
+    "sources": [
+      {
+        "title": "Asher Peres — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Asher_Peres"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "ludvig-faddeev",
+    "name_zh": "路德维格·法捷耶夫",
+    "name_en": "Ludvig Faddeev",
+    "wikipedia_title": "Ludvig Faddeev",
+    "birth": {
+      "date": "1934-03-23",
+      "precision": "day",
+      "display": "1934年3月23日"
+    },
+    "death": {
+      "date": "2017-02-26",
+      "precision": "day",
+      "display": "2017年2月26日"
+    },
+    "death_status": "deceased",
+    "biography": "俄国数学物理学家，长期在列宁格勒及圣彼得堡工作。他以散射理论、规范场量子化和可积系统研究著称，推动严格数学方法进入现代场论。",
+    "contributions": [
+      "建立三体量子散射的法捷耶夫方程",
+      "与波波夫提出规范场路径积分的规范固定方法",
+      "发展量子逆散射和可积模型理论"
+    ],
+    "fields": [
+      "数学物理",
+      "量子场论"
+    ],
+    "sources": [
+      {
+        "title": "Ludvig Faddeev — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Ludvig_Faddeev"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "roy-kerr",
+    "name_zh": "罗伊·克尔",
+    "name_en": "Roy Kerr",
+    "wikipedia_title": "Roy Kerr",
+    "birth": {
+      "date": "1934-05-16",
+      "precision": "day",
+      "display": "1934年5月16日"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "新西兰数学家与相对论物理学家，曾在剑桥及得克萨斯研究，后任教于坎特伯雷大学。他找到描述旋转黑洞的精确解，成为现代黑洞天体物理的重要理论基础。",
+    "contributions": [
+      "发现旋转真空黑洞的克尔度规",
+      "研究爱因斯坦场方程的精确解",
+      "为旋转黑洞及其天体观测模型奠定基础"
+    ],
+    "fields": [
+      "广义相对论",
+      "黑洞物理"
+    ],
+    "sources": [
+      {
+        "title": "ICTP2025 Dirac Medallists: scientific contributions",
+        "url": "https://www.ictp.it/home/dirac-medallists-2025"
+      },
+      {
+        "title": "Roy Kerr — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Roy_Kerr"
+      },
+      {
+        "title": "2025 ICTP Dirac Medal Goes to Gravity Explorers | ICTP",
+        "url": "https://www.ictp.it/news/2025/8/2025-ictp-dirac-medal-goes-gravity-explorers"
+      },
+      {
+        "title": "Cracking the Einstein Code: Relativity and the Birth of Black Hole Physics, Melia, Kerr",
+        "url": "http://press.uchicago.edu/ucp/books/book/chicago/C/bo6817175.html"
+      },
+      {
+        "title": "ICTP Dirac Medal — official laureate directory",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "willie-hobbs-moore",
+    "name_zh": "威莉·霍布斯·穆尔",
+    "name_en": "Willie Hobbs Moore",
+    "wikipedia_title": "Willie Hobbs Moore",
+    "birth": {
+      "date": "1934-05-23",
+      "precision": "day",
+      "display": "1934年5月23日"
+    },
+    "death": {
+      "date": "1994-03-14",
+      "precision": "day",
+      "display": "1994年3月14日"
+    },
+    "death_status": "deceased",
+    "biography": "美国实验物理学家，1972年在密歇根大学取得博士学位，成为美国首位获得物理学博士的非裔女性。她研究分子光谱，后在工业界从事工程与质量系统工作。",
+    "contributions": [
+      "实验研究分子振动光谱",
+      "将光谱测量用于分子结构分析",
+      "把物理训练用于工业工程与技术管理"
+    ],
+    "fields": [
+      "分子光谱",
+      "实验物理"
+    ],
+    "sources": [
+      {
+        "title": "Willie Hobbs Moore — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Willie_Hobbs_Moore"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "donald-lynden-bell",
+    "name_zh": "唐纳德·林登-贝尔",
+    "name_en": "Donald Lynden-Bell",
+    "wikipedia_title": "Donald Lynden-Bell",
+    "birth": {
+      "date": "1935-04-05",
+      "precision": "day",
+      "display": "1935年4月5日"
+    },
+    "death": {
+      "date": "2018-02-06",
+      "precision": "day",
+      "display": "2018年2月6日"
+    },
+    "death_status": "deceased",
+    "biography": "英国理论天体物理学家，长期任教于剑桥大学。他以统计力学和动力学研究星系形成、吸积盘及星系核活动，推动黑洞成为解释高能天体现象的工具。",
+    "contributions": [
+      "提出星系无碰撞体系的剧烈弛豫理论",
+      "提出活动星系核由超大质量黑洞吸积驱动",
+      "研究吸积盘演化与银河系动力学"
+    ],
+    "fields": [
+      "星系动力学",
+      "天体物理"
+    ],
+    "sources": [
+      {
+        "title": "Donald Lynden-Bell — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Donald_Lynden-Bell"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "david-ruelle",
+    "name_zh": "戴维·吕埃尔",
+    "name_en": "David Ruelle",
+    "wikipedia_title": "David Ruelle",
+    "birth": {
+      "date": "1935-08-20",
+      "precision": "day",
+      "display": "1935年8月20日"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "比利时出生的数学物理学家，长期在法国高等科学研究所工作。他把动力系统和严格统计力学联系起来，研究湍流、混沌及非平衡体系。",
+    "contributions": [
+      "与塔肯斯提出通向湍流的奇异吸引子图景",
+      "发展统计力学的热力学形式主义",
+      "研究描述混沌耗散系统的SRB测度"
+    ],
+    "fields": [
+      "统计物理",
+      "复杂系统"
+    ],
+    "sources": [
+      {
+        "title": "David Ruelle — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/David_Ruelle"
+      },
+      {
+        "title": "CV David Ruelle",
+        "url": "http://www.ihes.fr/~ruelle/CVAnglais"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "fang-lizhi",
+    "name_zh": "方励之",
+    "name_en": "Fang Lizhi",
+    "wikipedia_title": "Fang Lizhi",
+    "birth": {
+      "date": "1936-02-12",
+      "precision": "day",
+      "display": "1936年2月12日"
+    },
+    "death": {
+      "date": "2012-04-06",
+      "precision": "day",
+      "display": "2012年4月6日"
+    },
+    "death_status": "deceased",
+    "biography": "出生于北京的天体物理学家，曾在中国科学技术大学任教并担任副校长，后在美国亚利桑那大学工作。他研究宇宙学、星系形成和早期宇宙，也参与科学教育与公共讨论。",
+    "contributions": [
+      "研究相对论宇宙学及早期宇宙",
+      "研究星系形成、类星体和大尺度结构",
+      "推动中国现代天体物理研究与教学"
+    ],
+    "fields": [
+      "天体物理",
+      "宇宙学"
+    ],
+    "sources": [
+      {
+        "title": "Fang Lizhi — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Fang_Lizhi"
+      },
+      {
+        "title": "June 4, 1989: A personal recollection | Brookings",
+        "url": "https://www.brookings.edu/blog/order-from-chaos/2019/05/29/june-4-1989-a-personal-recollection/"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "peter-van-nieuwenhuizen",
+    "name_zh": "彼得·范纽文赫伊曾",
+    "name_en": "Peter van Nieuwenhuizen",
+    "wikipedia_title": "Peter van Nieuwenhuizen",
+    "birth": {
+      "date": "1938-10-26",
+      "precision": "day",
+      "display": "1938年10月26日"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "荷兰出生的理论物理学家，长期在美国石溪大学任教。他与弗里德曼、费拉拉合作建立超引力，并研究量子引力、重整化和规范体系的量子化。",
+    "contributions": [
+      "与弗里德曼、费拉拉共同建立超引力",
+      "研究量子引力及超引力的紫外性质",
+      "发展BRST与规范场量子化研究"
+    ],
+    "fields": [
+      "超引力",
+      "量子场论"
+    ],
+    "sources": [
+      {
+        "title": "Peter van Nieuwenhuizen — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Peter_van_Nieuwenhuizen"
+      },
+      {
+        "title": "ICTP Dirac Medal — official laureate directory",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "daniel-freedman",
+    "name_zh": "丹尼尔·弗里德曼",
+    "name_en": "Daniel Z. Freedman",
+    "wikipedia_title": "Daniel Z. Freedman",
+    "birth": {
+      "date": "1939",
+      "precision": "year",
+      "display": "1939年"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "美国理论物理学家，曾在石溪大学研究，后长期任教于麻省理工学院。他与费拉拉、范纽文赫伊曾合作，把局域超对称同引力结合，开创超引力理论。",
+    "contributions": [
+      "与费拉拉、范纽文赫伊曾共同构建超引力",
+      "研究超对称场论和量子引力",
+      "发展与全息理论相关的场论及引力方法"
+    ],
+    "fields": [
+      "超引力",
+      "量子场论"
+    ],
+    "sources": [
+      {
+        "title": "Daniel Z. Freedman — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Daniel_Z._Freedman"
+      },
+      {
+        "title": "ICTP Dirac Medal — official laureate directory",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ],
+    "notes": [
+      "核读来源明确出生年份，未补充未经核对的月日。"
+    ]
+  },
+  {
+    "id": "john-henry-schwarz",
+    "name_zh": "约翰·施瓦茨",
+    "name_en": "John Henry Schwarz",
+    "wikipedia_title": "John Henry Schwarz",
+    "birth": {
+      "date": "1941-11-22",
+      "precision": "day",
+      "display": "1941年11月22日"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "美国理论物理学家，曾在普林斯顿研究，后长期任教于加州理工学院。他坚持研究超弦作为基本相互作用理论，与格林的合作推动了超弦理论的重要转折。",
+    "contributions": [
+      "与格林发现超弦规范及引力反常抵消机制",
+      "发展超弦理论和超对称方法",
+      "研究弦对偶及统一相互作用的理论框架"
+    ],
+    "fields": [
+      "弦理论",
+      "理论物理"
+    ],
+    "sources": [
+      {
+        "title": "John Henry Schwarz — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/John_Henry_Schwarz"
+      },
+      {
+        "title": "ICTP Dirac Medal — official laureate directory",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "gabriele-veneziano",
+    "name_zh": "加布里埃莱·韦内齐亚诺",
+    "name_en": "Gabriele Veneziano",
+    "wikipedia_title": "Gabriele Veneziano",
+    "birth": {
+      "date": "1942-09-07",
+      "precision": "day",
+      "display": "1942年9月7日"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "意大利理论物理学家，长期在CERN研究，并曾任教于法兰西公学院。他提出满足强子散射要求的振幅公式，成为弦理论形成的起点之一，后来研究强相互作用及宇宙学。",
+    "contributions": [
+      "提出韦内齐亚诺振幅",
+      "发展强相互作用的大N及非微扰研究",
+      "探索弦理论与早期宇宙的联系"
+    ],
+    "fields": [
+      "弦理论",
+      "粒子物理"
+    ],
+    "sources": [
+      {
+        "title": "Gabriele Veneziano — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Gabriele_Veneziano"
+      },
+      {
+        "title": "ICTP Dirac Medal — official laureate directory",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "charles-bennett",
+    "name_zh": "查尔斯·贝内特",
+    "name_en": "Charles H. Bennett",
+    "wikipedia_title": "Charles H. Bennett (physicist)",
+    "birth": {
+      "date": "1943",
+      "precision": "year",
+      "display": "1943年"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "美国物理学家，长期在IBM研究院工作。他研究信息处理的物理基础，把可逆计算、量子纠缠与通信联系起来，是现代量子信息科学的主要开拓者之一。",
+    "contributions": [
+      "发展可逆计算及信息热力学",
+      "与布拉萨尔提出BB84量子密钥分发协议",
+      "参与提出量子隐形传态、纠缠提纯及超密编码"
+    ],
+    "fields": [
+      "量子信息",
+      "统计物理"
+    ],
+    "sources": [
+      {
+        "title": "Charles H. Bennett — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Charles_H._Bennett_%28physicist%29"
+      },
+      {
+        "title": "Charles Bennett - IBM Research",
+        "url": "http://researcher.watson.ibm.com/researcher/view_person_pubs.php?person=us-bennetc&t=1"
+      },
+      {
+        "title": "ICTP Dirac Medal — official laureate directory",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ],
+    "notes": [
+      "核读来源明确出生年份，未补充未经核对的月日。"
+    ]
+  },
+  {
+    "id": "paul-corkum",
+    "name_zh": "保罗·科库姆",
+    "name_en": "Paul Corkum",
+    "wikipedia_title": "Paul Corkum",
+    "birth": {
+      "date": "1943-10-30",
+      "precision": "day",
+      "display": "1943年10月30日"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "加拿大实验与理论激光物理学家，长期在加拿大国家研究委员会及渥太华大学工作。他把强场电离与电子再碰撞联系起来，为高次谐波和阿秒光脉冲研究建立重要物理图像。",
+    "contributions": [
+      "提出强场高次谐波产生的三步再碰撞模型",
+      "发展阿秒光脉冲及分子成像方法",
+      "研究激光对电子运动的超快控制"
+    ],
+    "fields": [
+      "阿秒物理",
+      "激光物理"
+    ],
+    "sources": [
+      {
+        "title": "Paul Corkum — National Research Council Canada",
+        "url": "https://nrc.canada.ca/en/corporate/dr-paul-corkum"
+      },
+      {
+        "title": "Paul Corkum — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Paul_Corkum"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "sergio-ferrara",
+    "name_zh": "塞尔焦·费拉拉",
+    "name_en": "Sergio Ferrara",
+    "wikipedia_title": "Sergio Ferrara",
+    "birth": {
+      "date": "1945-05-02",
+      "precision": "day",
+      "display": "1945年5月2日"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "意大利理论物理学家，曾在弗拉斯卡蒂、CERN及加州大学洛杉矶分校工作。他研究超对称与引力的结合，并探索扩展超引力、黑洞和统一理论。",
+    "contributions": [
+      "与弗里德曼、范纽文赫伊曾共同建立超引力",
+      "发展超对称杨—米尔斯理论",
+      "研究扩展超引力及超对称黑洞"
+    ],
+    "fields": [
+      "超引力",
+      "量子场论"
+    ],
+    "sources": [
+      {
+        "title": "Sergio Ferrara — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Sergio_Ferrara"
+      },
+      {
+        "title": "ICTP Dirac Medal — official laureate directory",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "michael-green",
+    "name_zh": "迈克尔·格林",
+    "name_en": "Michael Green",
+    "wikipedia_title": "Michael Green (physicist)",
+    "birth": {
+      "date": "1946-05-22",
+      "precision": "day",
+      "display": "1946年5月22日"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "英国理论物理学家，曾在伦敦及剑桥任教，并担任卢卡斯数学教授。他与施瓦茨合作发展超弦理论，研究反常抵消、散射振幅及弦理论中的非微扰结构。",
+    "contributions": [
+      "与施瓦茨建立超弦反常抵消机制",
+      "发展超弦散射振幅和量子修正计算",
+      "研究弦对偶和非微扰效应"
+    ],
+    "fields": [
+      "弦理论",
+      "量子场论"
+    ],
+    "sources": [
+      {
+        "title": "Michael Green — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Michael_Green_%28physicist%29"
+      },
+      {
+        "title": "ICTP Dirac Medal — official laureate directory",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "gary-gibbons",
+    "name_zh": "加里·吉本斯",
+    "name_en": "Gary Gibbons",
+    "wikipedia_title": "Gary Gibbons",
+    "birth": {
+      "date": "1946-07-01",
+      "precision": "day",
+      "display": "1946年7月1日"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "英国理论物理学家，长期在剑桥大学研究。他与霍金等合作发展引力的欧几里得方法，把黑洞与宇宙视界的热力学同几何和量子理论联系起来。",
+    "contributions": [
+      "与霍金发展欧几里得量子引力方法",
+      "研究引力作用量的边界项及视界热力学",
+      "发展引力瞬子及高维黑洞解研究"
+    ],
+    "fields": [
+      "量子引力",
+      "数学物理"
+    ],
+    "sources": [
+      {
+        "title": "ICTP2025 Dirac Medallists: scientific contributions",
+        "url": "https://www.ictp.it/home/dirac-medallists-2025"
+      },
+      {
+        "title": "Gary Gibbons — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Gary_Gibbons"
+      },
+      {
+        "title": "2025 ICTP Dirac Medal Goes to Gravity Explorers | ICTP",
+        "url": "https://www.ictp.it/news/2025/8/2025-ictp-dirac-medal-goes-gravity-explorers"
+      },
+      {
+        "title": "Professor Gary Gibbons | Department of Applied Mathematics and Theoretical Physics",
+        "url": "http://damtp.cam.ac.uk/people/g.w.gibbons"
+      },
+      {
+        "title": "ICTP Dirac Medal — official laureate directory",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "shirley-ann-jackson",
+    "name_zh": "雪莉·安·杰克逊",
+    "name_en": "Shirley Ann Jackson",
+    "wikipedia_title": "Shirley Ann Jackson",
+    "birth": {
+      "date": "1946-08-05",
+      "precision": "day",
+      "display": "1946年8月5日"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "美国理论物理学家，是麻省理工学院首位获得博士学位的非裔女性。她曾在贝尔实验室研究凝聚态问题，后担任美国核管理委员会主席及伦斯勒理工学院校长。",
+    "contributions": [
+      "研究二维电子、半导体及电荷密度波",
+      "发展凝聚态体系的理论分析",
+      "推动核安全科学管理及科学教育"
+    ],
+    "fields": [
+      "凝聚态物理",
+      "理论物理"
+    ],
+    "sources": [
+      {
+        "title": "Shirley Ann Jackson — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Shirley_Ann_Jackson"
+      },
+      {
+        "title": "President Shirley Ann Jackson Named Recipient of National Medal of Science | News",
+        "url": "http://news.rpi.edu/content/2015/12/22/president-shirley-ann-jackson-named-recipient-national-medal-science"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "john-cardy",
+    "name_zh": "约翰·卡迪",
+    "name_en": "John Cardy",
+    "wikipedia_title": "John Cardy",
+    "birth": {
+      "date": "1947-03-19",
+      "precision": "day",
+      "display": "1947年3月19日"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "英国理论物理学家，曾在加州大学圣巴巴拉分校工作，后任教于牛津大学。他以共形场论和概率方法研究低维临界现象，并建立统计模型之间的普适联系。",
+    "contributions": [
+      "发展边界共形场论及临界标度方法",
+      "提出二维渗流的跨越概率公式",
+      "研究共形场论态密度与统计体系普适性"
+    ],
+    "fields": [
+      "统计物理",
+      "量子场论"
+    ],
+    "sources": [
+      {
+        "title": "John Cardy — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/John_Cardy"
+      },
+      {
+        "title": "John Cardy's homepage",
+        "url": "http://www-thphys.physics.ox.ac.uk/people/JohnCardy/"
+      },
+      {
+        "title": "ICTP Dirac Medal — official laureate directory",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "robert-wald",
+    "name_zh": "罗伯特·瓦尔德",
+    "name_en": "Robert Wald",
+    "wikipedia_title": "Robert Wald",
+    "birth": {
+      "date": "1947-06-29",
+      "precision": "day",
+      "display": "1947年6月29日"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "美国理论物理学家，长期任教于芝加哥大学。他研究黑洞热力学、弯曲时空量子场论及引力理论的数学基础，所著广义相对论教材影响广泛。",
+    "contributions": [
+      "将黑洞熵与诺特荷联系起来",
+      "建立弯曲时空量子场论的严密表述",
+      "研究黑洞热力学及引力稳定性"
+    ],
+    "fields": [
+      "广义相对论",
+      "量子场论"
+    ],
+    "sources": [
+      {
+        "title": "ICTP2025 Dirac Medallists: scientific contributions",
+        "url": "https://www.ictp.it/home/dirac-medallists-2025"
+      },
+      {
+        "title": "Robert Wald — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Robert_Wald"
+      },
+      {
+        "title": "Silver screen",
+        "url": "https://mag.uchicago.edu/science-medicine/silver-screen"
+      },
+      {
+        "title": "Robert Wald awarded 2025 Albert Einstein Medal | News | Physical Sciences Division | The University of Chicago",
+        "url": "https://physicalsciences.uchicago.edu/news/article/robert-wald-awarded-2025-albert-einstein-medal/"
+      },
+      {
+        "title": "ICTP Dirac Medal — official laureate directory",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "saul-teukolsky",
+    "name_zh": "索尔·托伊科尔斯基",
+    "name_en": "Saul Teukolsky",
+    "wikipedia_title": "Saul Teukolsky",
+    "birth": {
+      "date": "1947-08-02",
+      "precision": "day",
+      "display": "1947年8月2日"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "南非出生的美国理论物理学家，长期在康奈尔大学工作，并参与加州理工学院研究。他把黑洞微扰理论与数值相对论结合，为引力波模型和观测解释提供工具。",
+    "contributions": [
+      "提出描述旋转黑洞微扰的托伊科尔斯基方程",
+      "发展数值相对论及双黑洞模拟方法",
+      "建立与引力波观测相联系的计算模型"
+    ],
+    "fields": [
+      "广义相对论",
+      "引力波"
+    ],
+    "sources": [
+      {
+        "title": "Saul Teukolsky — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Saul_Teukolsky"
+      },
+      {
+        "title": "Dirac Medallists 2021 | ICTP",
+        "url": "https://www.ictp.it/home/dirac-medallists-2021"
+      },
+      {
+        "title": "Saul Teukolsky | Department of Astronomy",
+        "url": "https://astro.cornell.edu/saul-teukolsky"
+      },
+      {
+        "title": "ICTP Dirac Medal — official laureate directory",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "alexei-starobinsky",
+    "name_zh": "阿列克谢·斯塔罗宾斯基",
+    "name_en": "Alexei Starobinsky",
+    "wikipedia_title": "Alexei Starobinsky",
+    "birth": {
+      "date": "1948-04-19",
+      "precision": "day",
+      "display": "1948年4月19日"
+    },
+    "death": {
+      "date": "2023-12-21",
+      "precision": "day",
+      "display": "2023年12月21日"
+    },
+    "death_status": "deceased",
+    "biography": "俄国理论物理学家，长期在朗道理论物理研究所工作。他从量子场与引力的相互作用研究出发，提出早期暴胀模型，并研究宇宙涨落和黑洞量子过程。",
+    "contributions": [
+      "建立含曲率平方项的斯塔罗宾斯基暴胀模型",
+      "研究暴胀量子涨落及宇宙结构种子",
+      "研究弯曲时空量子场及黑洞辐射过程"
+    ],
+    "fields": [
+      "宇宙学",
+      "量子引力"
+    ],
+    "sources": [
+      {
+        "title": "Alexei Starobinsky — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Alexei_Starobinsky"
+      },
+      {
+        "title": "2013 Gruber Cosmology Prize Press Release | Gruber Foundation",
+        "url": "https://gruber.yale.edu/press/2013-gruber-cosmology-prize-press-release"
+      },
+      {
+        "title": "ICTP Dirac Medal — official laureate directory",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "abhay-ashtekar",
+    "name_zh": "阿拜·阿什特卡",
+    "name_en": "Abhay Ashtekar",
+    "wikipedia_title": "Abhay Ashtekar",
+    "birth": {
+      "date": "1949-07-05",
+      "precision": "day",
+      "display": "1949年7月5日"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "印度出生的理论物理学家，长期在美国宾夕法尼亚州立大学工作。他将广义相对论改写成类似规范理论的形式，推动圈量子引力及量子宇宙学研究。",
+    "contributions": [
+      "提出广义相对论的阿什特卡变量",
+      "推动圈量子引力的数学框架",
+      "研究孤立视界、量子黑洞及圈量子宇宙学"
+    ],
+    "fields": [
+      "量子引力",
+      "广义相对论"
+    ],
+    "sources": [
+      {
+        "title": "Abhay Ashtekar — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Abhay_Ashtekar"
+      },
+      {
+        "title": "Abhay Ashtekar | Eberly College of Science",
+        "url": "https://science.psu.edu/physics/people/ava1"
+      },
+      {
+        "title": "Evan Pugh Professor Abhay Ashtekar honored with Einstein Prize | Penn State University",
+        "url": "https://www.psu.edu/news/academics/story/evan-pugh-professor-abhay-ashtekar-honored-einstein-prize"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "wojciech-zurek",
+    "name_zh": "沃伊切赫·祖雷克",
+    "name_en": "Wojciech H. Zurek",
+    "wikipedia_title": "Wojciech H. Zurek",
+    "birth": {
+      "date": "1951",
+      "precision": "year",
+      "display": "1951年"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "波兰出生的美国理论物理学家，长期在洛斯阿拉莫斯国家实验室工作。他研究环境如何选择稳定的量子态，并将退相干、信息和非平衡相变联系起来。",
+    "contributions": [
+      "发展环境诱导退相干及指针态选择理论",
+      "提出量子达尔文主义框架",
+      "发展基布尔—祖雷克相变标度机制"
+    ],
+    "fields": [
+      "量子基础",
+      "量子信息"
+    ],
+    "sources": [
+      {
+        "title": "Wojciech H. Zurek — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Wojciech_H._Zurek"
+      }
+    ],
+    "notes": [
+      "核读来源明确出生年份，未补充未经核对的月日。"
+    ]
+  },
+  {
+    "id": "thibault-damour",
+    "name_zh": "蒂博·达穆尔",
+    "name_en": "Thibault Damour",
+    "wikipedia_title": "Thibault Damour",
+    "birth": {
+      "date": "1951-02-07",
+      "precision": "day",
+      "display": "1951年2月7日"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "法国理论物理学家，长期在法国高等科学研究所工作。他通过精密相对论计算连接致密双星、引力波与引力理论检验，并研究宇宙学和弦理论。",
+    "contributions": [
+      "发展致密双星的高阶后牛顿动力学",
+      "与布奥南诺提出有效单体引力波模型",
+      "研究双脉冲星及广义相对论的精密检验"
+    ],
+    "fields": [
+      "广义相对论",
+      "引力波"
+    ],
+    "sources": [
+      {
+        "title": "Thibault Damour — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Thibault_Damour"
+      },
+      {
+        "title": "Dirac Medallists 2021 | ICTP",
+        "url": "https://www.ictp.it/about-ictp/prizes-awards/the-dirac-medal/the-medallists/dirac-medallists-2021.aspx"
+      },
+      {
+        "title": "ICTP Dirac Medal — official laureate directory",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "david-deutsch",
+    "name_zh": "戴维·多伊奇",
+    "name_en": "David Deutsch",
+    "wikipedia_title": "David Deutsch",
+    "birth": {
+      "date": "1953-05-18",
+      "precision": "day",
+      "display": "1953年5月18日"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "以色列出生的英国理论物理学家，长期与牛津大学联系。他把量子理论同计算普适性结合，研究量子计算机、量子算法及量子理论的解释。",
+    "contributions": [
+      "提出普适量子计算机模型",
+      "与约萨发展展示量子计算优势的算法",
+      "研究量子理论的多世界表述及构造理论"
+    ],
+    "fields": [
+      "量子信息",
+      "量子基础"
+    ],
+    "sources": [
+      {
+        "title": "David Deutsch — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/David_Deutsch"
+      },
+      {
+        "title": "Dirac Medallists 2017 | ICTP",
+        "url": "https://www.ictp.it/about-ictp/prizes-awards/the-dirac-medal/the-medallists/dirac-medallists-2017.aspx"
+      },
+      {
+        "title": "ICTP Dirac Medal — official laureate directory",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "gary-horowitz",
+    "name_zh": "加里·霍罗威茨",
+    "name_en": "Gary Horowitz",
+    "wikipedia_title": "Gary Horowitz",
+    "birth": {
+      "date": "1955-04-14",
+      "precision": "day",
+      "display": "1955年4月14日"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "美国理论物理学家，长期在加州大学圣巴巴拉分校工作。他研究引力奇点、弦理论中的黑洞和全息对应，连接经典引力、量子微观态及强耦合物质。",
+    "contributions": [
+      "研究弦理论中的黑洞、黑膜与微观结构",
+      "参与建立卡拉比—丘紧致化的超弦框架",
+      "发展全息超导体模型"
+    ],
+    "fields": [
+      "弦理论",
+      "量子引力"
+    ],
+    "sources": [
+      {
+        "title": "ICTP2025 Dirac Medallists: scientific contributions",
+        "url": "https://www.ictp.it/home/dirac-medallists-2025"
+      },
+      {
+        "title": "Gary Horowitz — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Gary_Horowitz"
+      },
+      {
+        "title": "2025 ICTP Dirac Medal Goes to Gravity Explorers | ICTP",
+        "url": "https://www.ictp.it/news/2025/8/2025-ictp-dirac-medal-goes-gravity-explorers"
+      },
+      {
+        "title": "mainpage",
+        "url": "http://www.physics.ucsb.edu/~gary/"
+      },
+      {
+        "title": "ICTP Dirac Medal — official laureate directory",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "ashoke-sen",
+    "name_zh": "阿肖克·森",
+    "name_en": "Ashoke Sen",
+    "wikipedia_title": "Ashoke Sen",
+    "birth": {
+      "date": "1956-07-15",
+      "precision": "day",
+      "display": "1956年7月15日"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "印度理论物理学家，曾在美国研究，长期任职印度哈里什-钱德拉研究所，后加入国际理论科学中心。他在弦对偶、黑洞微观态及弦场论方面作出基础贡献。",
+    "contributions": [
+      "为弦理论中的强弱耦合对偶提供关键证据",
+      "研究极值黑洞熵及微观态计数",
+      "发展快子凝聚和弦场论"
+    ],
+    "fields": [
+      "弦理论",
+      "量子引力"
+    ],
+    "sources": [
+      {
+        "title": "Ashoke Sen — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Ashoke_Sen"
+      },
+      {
+        "title": "Dirac Medallists 2014 | ICTP",
+        "url": "https://www.ictp.it/about-ictp/prizes-awards/the-dirac-medal/the-medallists/dirac-medallists-2014.aspx"
+      },
+      {
+        "title": "ICTP Prize Winner 1989 | ICTP",
+        "url": "https://www.ictp.it/about-ictp/prizes-awards/the-ictp-prize/the-prize-winners/ictp-prize-winner-1989.aspx"
+      },
+      {
+        "title": "ICTP Dirac Medal — official laureate directory",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "nathan-seiberg",
+    "name_zh": "内森·塞伯格",
+    "name_en": "Nathan Seiberg",
+    "wikipedia_title": "Nathan Seiberg",
+    "birth": {
+      "date": "1956-09-22",
+      "precision": "day",
+      "display": "1956年9月22日"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "以色列出生的美国理论物理学家，曾在魏茨曼研究所及罗格斯大学工作，后任职普林斯顿高等研究院。他用对偶、对称性和精确结果揭示强耦合量子场论的结构。",
+    "contributions": [
+      "与维滕求解重要的超对称规范理论低能动力学",
+      "提出塞伯格对偶",
+      "发展量子场论的广义对称性及非微扰研究"
+    ],
+    "fields": [
+      "量子场论",
+      "弦理论"
+    ],
+    "sources": [
+      {
+        "title": "Nathan Seiberg — Institute for Advanced Study",
+        "url": "https://www.ias.edu/sns/seiberg"
+      },
+      {
+        "title": "Nathan Seiberg — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Nathan_Seiberg"
+      },
+      {
+        "title": "ICTP Dirac Medal — official laureate directory",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "peter-shor",
+    "name_zh": "彼得·肖尔",
+    "name_en": "Peter Shor",
+    "wikipedia_title": "Peter Shor",
+    "birth": {
+      "date": "1959-08-14",
+      "precision": "day",
+      "display": "1959年8月14日"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "美国数学家与量子计算研究者，曾在贝尔实验室工作，后任教于麻省理工学院。他的量子算法揭示了量子计算对经典密码问题的潜在影响，并推动量子纠错理论。",
+    "contributions": [
+      "提出多项式时间整数分解与离散对数量子算法",
+      "建立早期量子纠错码",
+      "发展容错量子计算的理论基础"
+    ],
+    "fields": [
+      "量子信息",
+      "数学物理"
+    ],
+    "sources": [
+      {
+        "title": "Peter Shor — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Peter_Shor"
+      },
+      {
+        "title": "Department of Mathematics | MIT Course Catalog",
+        "url": "https://catalog.mit.edu/schools/science/mathematics/#facultystafftext"
+      },
+      {
+        "title": "Peter Shor wins Breakthrough Prize in Fundamental Physics | MIT News | Massachusetts Institute of Technology",
+        "url": "https://news.mit.edu/2022/shor-spielman-breakthrough-prize-0922"
+      },
+      {
+        "title": "SCS News Releases",
+        "url": "https://www.cs.cmu.edu/afs/cs/usr/copetas/www/public/pr/nov5-99.html"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "artur-ekert",
+    "name_zh": "阿图尔·埃克特",
+    "name_en": "Artur Ekert",
+    "wikipedia_title": "Artur Ekert",
+    "birth": {
+      "date": "1961-09-19",
+      "precision": "day",
+      "display": "1961年9月19日"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "波兰出生的理论物理学家，曾在牛津大学研究，后领导新加坡量子技术中心。他把量子纠缠和贝尔不等式同密码安全联系起来，推动量子通信与量子技术研究。",
+    "contributions": [
+      "提出基于纠缠及贝尔检验的量子密钥分发方案",
+      "研究量子计算与信息处理",
+      "建设量子技术研究和人才培养平台"
+    ],
+    "fields": [
+      "量子信息",
+      "量子基础"
+    ],
+    "sources": [
+      {
+        "title": "Artur Ekert — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Artur_Ekert"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "subir-sachdev",
+    "name_zh": "苏比尔·萨奇德夫",
+    "name_en": "Subir Sachdev",
+    "wikipedia_title": "Subir Sachdev",
+    "birth": {
+      "date": "1961-12-02",
+      "precision": "day",
+      "display": "1961年12月2日"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "印度出生的理论物理学家，曾在耶鲁大学研究，后任教于哈佛大学。他研究量子临界现象、强关联电子和奇异金属，并把凝聚态问题与全息理论联系起来。",
+    "contributions": [
+      "发展量子相变与量子临界理论",
+      "与叶锦武提出后来SYK研究的重要多体模型",
+      "研究强关联电子、奇异金属及全息联系"
+    ],
+    "fields": [
+      "凝聚态物理",
+      "量子多体"
+    ],
+    "sources": [
+      {
+        "title": "Subir Sachdev — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Subir_Sachdev"
+      },
+      {
+        "title": "ICTP Dirac Medal — official laureate directory",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "jun-ye",
+    "name_zh": "叶军",
+    "name_en": "Jun Ye",
+    "wikipedia_title": "Jun Ye",
+    "birth": {
+      "date": "1967",
+      "precision": "year",
+      "display": "1967年"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "出生于上海的美国实验物理学家，在科罗拉多大学师从霍尔，后长期在JILA及美国国家标准与技术研究院工作。他以超稳激光、光晶格原子钟和超冷分子研究连接计量学与量子物理。",
+    "contributions": [
+      "发展锶光晶格原子钟及高精度光频测量",
+      "研究光频梳和超稳激光",
+      "制备与操控超冷分子和量子气体"
+    ],
+    "fields": [
+      "原子物理",
+      "精密测量"
+    ],
+    "sources": [
+      {
+        "title": "Jun Ye — NIST",
+        "url": "https://www.nist.gov/people/jun-ye"
+      },
+      {
+        "title": "Jun Ye: A Timely Profile — NIST",
+        "url": "https://www.nist.gov/news-events/news/2023/06/jun-ye-timely-profile"
+      },
+      {
+        "title": "Jun Ye — JILA, University of Colorado",
+        "url": "https://www.colorado.edu/jila/jun-ye"
+      },
+      {
+        "title": "Jun Ye — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Jun_Ye"
+      }
+    ],
+    "notes": [
+      "核读NIST及JILA资料确认出生年份1967年，未将其他网页未经一致核对的月日加入本档案。"
+    ]
+  },
+  {
+    "id": "alessandra-buonanno",
+    "name_zh": "阿莱桑德拉·布奥南诺",
+    "name_en": "Alessandra Buonanno",
+    "wikipedia_title": "Alessandra Buonanno",
+    "birth": {
+      "date": "1968",
+      "precision": "year",
+      "display": "1968年"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "意大利出生的理论物理学家，曾在法国和美国研究，后任马普引力物理研究所所长。她把解析相对论、数值模拟和数据分析连接起来，参与LIGO引力波研究。",
+    "contributions": [
+      "与达穆尔提出有效单体方法",
+      "发展致密双星合并的引力波波形模型",
+      "将高精度理论波形用于引力波信号识别及参数推断"
+    ],
+    "fields": [
+      "引力波",
+      "广义相对论"
+    ],
+    "sources": [
+      {
+        "title": "Alessandra Buonanno — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Alessandra_Buonanno"
+      },
+      {
+        "title": "Dirac Medallists 2021 | ICTP",
+        "url": "https://www.ictp.it/about-ictp/prizes-awards/the-dirac-medal/the-medallists/dirac-medallists-2021.aspx"
+      },
+      {
+        "title": "Alessandra Buonanno receives the 2022 Tomalla Prize | Max Planck Institute for Gravitational Physics (Albert Einstein Institute)",
+        "url": "https://www.aei.mpg.de/790105/alessandra-buonanno-receives-the-2022-tomalla-prize"
+      },
+      {
+        "title": "ICTP Dirac Medal — official laureate directory",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ],
+    "notes": [
+      "核读来源明确出生年份，未补充未经核对的月日。"
+    ]
+  },
+  {
+    "id": "immanuel-bloch",
+    "name_zh": "伊曼纽尔·布洛赫",
+    "name_en": "Immanuel Bloch",
+    "wikipedia_title": "Immanuel Bloch",
+    "birth": {
+      "date": "1972-11-16",
+      "precision": "day",
+      "display": "1972年11月16日"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "德国实验物理学家，曾在亨施研究组学习，后在美因茨、慕尼黑大学及马普量子光学研究所工作。他用光晶格中的超冷原子构造可控多体体系，推动量子模拟研究。",
+    "contributions": [
+      "参与实现超流体到莫特绝缘体的量子相变",
+      "发展光晶格量子气体的操控和成像",
+      "利用超冷原子模拟强关联多体模型"
+    ],
+    "fields": [
+      "超冷原子",
+      "量子多体"
+    ],
+    "sources": [
+      {
+        "title": "Immanuel Bloch — Max Planck Institute of Quantum Optics",
+        "url": "https://www.mpq.mpg.de/person/34641/4571983"
+      },
+      {
+        "title": "Immanuel Bloch — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Immanuel_Bloch"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "frans-pretorius",
+    "name_zh": "弗兰斯·普雷托里乌斯",
+    "name_en": "Frans Pretorius",
+    "wikipedia_title": "Frans Pretorius",
+    "birth": {
+      "date": "1973-07-31",
+      "precision": "day",
+      "display": "1973年7月31日"
+    },
+    "death": null,
+    "death_status": "alive",
+    "biography": "南非出生的理论物理学家，曾在加拿大及美国研究，后任教于普林斯顿大学。他以数值计算研究爱因斯坦方程，解决双黑洞合并模拟的关键困难。",
+    "contributions": [
+      "完成早期稳定的双黑洞螺旋并合数值模拟",
+      "发展广义调和形式及数值相对论方法",
+      "研究强引力动力学和引力波产生"
+    ],
+    "fields": [
+      "广义相对论",
+      "计算物理"
+    ],
+    "sources": [
+      {
+        "title": "Frans Pretorius — Wikipedia reference biography",
+        "url": "https://en.wikipedia.org/wiki/Frans_Pretorius"
+      },
+      {
+        "title": "Dirac Medallists 2021 | ICTP",
+        "url": "https://www.ictp.it/about-ictp/prizes-awards/the-dirac-medal/the-medallists/dirac-medallists-2021.aspx"
+      },
+      {
+        "title": "ICTP Dirac Medal — official laureate directory",
+        "url": "https://www.ictp.it/prize/dirac-medal"
+      }
+    ],
+    "notes": []
+  }
+]

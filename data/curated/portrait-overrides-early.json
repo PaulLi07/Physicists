@@ -1,0 +1,38 @@
+{
+  "Aristarchus of Samos": {
+    "commons_file": "Aristarchus Diebolt Merley cour Carree Louvre.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Aristarchus_Diebolt_Merley_cour_Carree_Louvre.jpg",
+    "kind": "posthumous_depiction",
+    "depiction_note": "卢浮宫方庭西立面的阿里斯塔克斯雕像，乔治·迪博尔于1859年开始，路易·梅尔莱于1866年完成。为十九世纪后世想象雕塑，不能当作古代真实相貌记录；照片由Marie-Lan Nguyen（Jastrow）摄于2007年。",
+    "verified_license": "CC BY 2.5 (photo by Marie-Lan Nguyen/Jastrow)",
+    "verified_license_url": "https://creativecommons.org/licenses/by/2.5/",
+    "tested_download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Aristarchus_Diebolt_Merley_cour_Carree_Louvre.jpg/500px-Aristarchus_Diebolt_Merley_cour_Carree_Louvre.jpg"
+  },
+  "Ibn Sahl (mathematician)": {
+    "commons_file": "Ibn Sahl manuscript.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ibn_Sahl_manuscript.jpg",
+    "kind": "context_image",
+    "depiction_note": "无经核实的人物肖像。此图为伊本·萨赫勒光学论著的手稿抄本图页，藏于德黑兰Milli Library，编号MS867，fol.7r，显示折射与透镜几何；手稿抄写年代不确定，不能称为作者亲笔或肖像。",
+    "verified_license": "Public domain (PD-old)",
+    "verified_license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "tested_download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Ibn_Sahl_manuscript.jpg/500px-Ibn_Sahl_manuscript.jpg"
+  },
+  "Giovanni Battista Benedetti": {
+    "commons_file": "Benedetti - Resolutio omnium Euclidis problematum, 1553 - 11183.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Benedetti_-_Resolutio_omnium_Euclidis_problematum,_1553_-_11183.jpg",
+    "kind": "context_image",
+    "depiction_note": "未找到可核实且可用的人物肖像；《Dictionary of Scientific Biography》记载其当时唯一已知肖像在1904年都灵火灾中毁失。此图为贝内戴蒂1553年著作《Resolutio omnium Euclidis problematum》的扉页（BEIC数字馆藏），属于著作图像，不能标为肖像。",
+    "portrait_status_source_url": "https://www.encyclopedia.com/people/science-and-technology/mathematics-biographies/giovanni-battista-benedetti",
+    "verified_license": "Public domain (PD-old-100-expired)",
+    "verified_license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "tested_download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Benedetti_-_Resolutio_omnium_Euclidis_problematum%2C_1553_-_11183.jpg/500px-Benedetti_-_Resolutio_omnium_Euclidis_problematum%2C_1553_-_11183.jpg"
+  },
+  "Al-Khazini": {
+    "commons_file": "University of Pennsylvania MS Lawrence J. Schoenberg Collection 386 fol. 80v al-Khazini's Balance.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:University_of_Pennsylvania_MS_Lawrence_J._Schoenberg_Collection_386_fol._80v_al-Khazini%27s_Balance.jpg",
+    "kind": "context_image",
+    "depiction_note": "此图已经目视核对，内容为天平装置示意，不含人物。它来自约1270年抄写的哈齐尼《智慧天平书》阿拉伯文手稿，宾夕法尼亚大学LJS386，fol.80v，属于著作与仪器图像，不能标为肖像。",
+    "verified_license": "Public domain (PD-US-expired; PD-old)",
+    "verified_license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  }
+}

@@ -1,0 +1,2701 @@
+{
+  "reviewed_at": "2026-10-26",
+  "independent_second_pass": true,
+  "people_reviewed": 138,
+  "cohorts": {
+    "early_history": 81,
+    "additions-early": 57
+  },
+  "people_with_corrections": 9,
+  "scope": "Semantic translation review against already audited Chinese source records, not a second independent resolution of every historical dispute. Calendar choices and approximate ranges remain explicit.",
+  "people": [
+    {
+      "id": "thales",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "mozi",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "democritus",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "aristotle",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "euclid",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "aristarchus-of-samos",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "archimedes",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "hipparchus",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "hero-of-alexandria",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "zhang-heng",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "ptolemy",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "al-kindi",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "ibn-sahl",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "ibn-al-haytham",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "al-biruni",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "shen-kuo",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "al-khazini",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "robert-grosseteste",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "roger-bacon",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "jean-buridan",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "nicole-oresme",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "nicolaus-copernicus",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "niccolo-tartaglia",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [
+        {
+          "field": "birth_display",
+          "correction": "c. 1499–1500",
+          "reason": "Restored the 1499–1500 approximate birth interval in the Chinese display, rather than narrowing it to 1500."
+        }
+      ],
+      "result": "pass_after_correction",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "giovanni-battista-benedetti",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "william-gilbert",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "tycho-brahe",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "simon-stevin",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "galileo-galilei",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "johannes-kepler",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "willebrord-snellius",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "pierre-gassendi",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "rene-descartes",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "pierre-de-fermat",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [
+        {
+          "field": "birth_display",
+          "correction": "c. 1601 or 1607 (disputed)",
+          "reason": "Preserved the approximate as well as disputed nature of the birth years."
+        }
+      ],
+      "result": "pass_after_correction",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "otto-von-guericke",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "evangelista-torricelli",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "blaise-pascal",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [
+        {
+          "field": "contributions[1]",
+          "reason": "Restored the explicit contrast with nature abhorring a vacuum present in Chinese."
+        }
+      ],
+      "result": "pass_after_correction",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "robert-boyle",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "christiaan-huygens",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "robert-hooke",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "isaac-newton",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "ole-romer",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "gottfried-wilhelm-leibniz",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "denis-papin",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [
+        {
+          "field": "birth_display",
+          "correction": "1647 (baptized 22 August; exact birth date unknown)",
+          "reason": "Preserved the year-only birth/death precision and displayed the separately documented baptism/burial date without inferring the birth/death month."
+        },
+        {
+          "field": "death_display",
+          "correction": "1713 (buried 26 August; exact death date unknown)",
+          "reason": "Preserved the year-only birth/death precision and displayed the separately documented baptism/burial date without inferring the birth/death month."
+        }
+      ],
+      "result": "pass_after_correction",
+      "unresolved_translation_errors": [],
+      "post_review_reattestation": "After the author corrected the Chinese date display to year-only plus separately identified baptism/burial dates, the English displays were checked again and match; no unsupported birth/death month is inferred."
+    },
+    {
+      "id": "edmond-halley",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "daniel-gabriel-fahrenheit",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "james-bradley",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [
+        {
+          "field": "birth_display",
+          "correction": "March 1693",
+          "reason": "Restored the month present in the Chinese display without inventing a day."
+        }
+      ],
+      "result": "pass_after_correction",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "daniel-bernoulli",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "anders-celsius",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "benjamin-franklin",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "emilie-du-chatelet",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "leonhard-euler",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "roger-joseph-boscovich",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "mikhail-lomonosov",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "joseph-black",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "henry-cavendish",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "joseph-louis-lagrange",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "james-watt",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "charles-augustin-de-coulomb",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "luigi-galvani",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "william-herschel",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "antoine-lavoisier",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [
+        {
+          "field": "contributions[0]",
+          "reason": "Made the Chinese conservation-of-mass claim explicit; the earlier wording only said quantitative mass accounting."
+        }
+      ],
+      "result": "pass_after_correction",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "alessandro-volta",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "pierre-simon-laplace",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "benjamin-thompson",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "john-dalton",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [
+        {
+          "field": "birth_display",
+          "correction": "5 or 6 September 1766 (sources differ)",
+          "reason": "Restored the two possible September dates given by the Chinese display and uncertainty note."
+        }
+      ],
+      "result": "pass_after_correction",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "joseph-fourier",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "thomas-johann-seebeck",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "thomas-young",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "jean-baptiste-biot",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "andre-marie-ampere",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "etienne-louis-malus",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "carl-friedrich-gauss",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "hans-christian-orsted",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "humphry-davy",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "simeon-denis-poisson",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "francois-arago",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "augustin-jean-fresnel",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "georg-ohm",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "michael-faraday",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "nicolas-leonard-sadi-carnot",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "joseph-henry",
+      "cohort": "early_history",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "hypatia",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "aryabhata",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "john-philoponus",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "brahmagupta",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "thabit-ibn-qurra",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "avicenna",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "nasir-al-din-al-tusi",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "witelo",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "theodoric-of-freiberg",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "kamal-al-din-al-farisi",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "thomas-harriot",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "benedetto-castelli",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "marin-mersenne",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "francesco-maria-grimaldi",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "edme-mariotte",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "jacob-bernoulli",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [
+        {
+          "field": "biography",
+          "reason": "Restored probability alongside curves and mechanics from the Chinese biography."
+        }
+      ],
+      "result": "pass_after_correction",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "francis-hauksbee",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "thomas-newcomen",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [
+        {
+          "field": "biography",
+          "reason": "Clarified that around1712 describes the engine entering service, matching Chinese, rather than its inventor’s general activity."
+        }
+      ],
+      "result": "pass_after_correction",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "stephen-gray",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "johann-bernoulli",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "brook-taylor",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "colin-maclaurin",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "charles-francois-de-cisternay-du-fay",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "pierre-louis-maupertuis",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "benjamin-robins",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "laura-bassi",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "alexis-clairaut",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "jean-le-rond-dalembert",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "franz-aepinus",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "john-michell",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "johann-heinrich-lambert",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "rene-just-hauy",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "george-atwood",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "gaspard-monge",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "giovanni-battista-venturi",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "jacques-charles",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "caroline-herschel",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "pierre-prevost",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "adrien-marie-legendre",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "lazare-carnot",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "ernst-chladni",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "amedeo-avogadro",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "johann-wilhelm-ritter",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "henry-kater",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "joseph-louis-gay-lussac",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "mary-somerville",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "friedrich-bessel",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "pierre-louis-dulong",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "jean-charles-athanase-peltier",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "joseph-von-fraunhofer",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "augustin-louis-cauchy",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "felix-savart",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "alexis-therese-petit",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "gaspard-gustave-de-coriolis",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "george-green",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": [],
+      "post_review_reattestation": {
+        "status": "pass",
+        "checked": "Re-read final Chinese and English entries after author revision. Both retain 1793 year-only birth precision and identify 14 July as baptism, preserving unknown exact birth and the MacTutor summary/body conflict."
+      }
+    },
+    {
+      "id": "franz-ernst-neumann",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    },
+    {
+      "id": "benoit-paul-emile-clapeyron",
+      "cohort": "additions-early",
+      "reviewer": "Independent modern-cohort editor; not the author of these English texts",
+      "fields_reviewed": [
+        "identity",
+        "biography meaning",
+        "each contribution and attribution",
+        "physical terminology",
+        "birth/death display and precision",
+        "historical/calendar uncertainty notes",
+        "image-type caveats",
+        "English readability"
+      ],
+      "comparison_basis": "All Chinese and English biographies, contribution lists, date displays and notes read side by side; not a sample or format-only review. Existing historical date choices retained unless translation lost their stated precision.",
+      "corrections": [],
+      "result": "pass",
+      "unresolved_translation_errors": []
+    }
+  ],
+  "post_review_precision_reattestation": [
+    "Papin: year-only life dates with separately identified baptism/burial dates.",
+    "Bradley: canonical birth precision now explicitly month 1693-03, matching March 1693 in English.",
+    "Dalton: canonical birth date now 1766-09 with disputed 5/6 day display, matching English.",
+    "George Green: year-only 1793 birth with separately labeled 14 July baptism; the exact birth date remains unknown in both languages."
+  ]
+}

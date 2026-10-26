@@ -1,0 +1,459 @@
+[
+  {
+    "id": "frederick-soddy",
+    "name_zh": "弗雷德里克·索迪",
+    "name_en": "Frederick Soddy",
+    "wikipedia_title": "Frederick Soddy",
+    "birth": {
+      "date": "1877-09-02",
+      "precision": "day",
+      "display": "1877年9月2日"
+    },
+    "death": {
+      "date": "1956-09",
+      "precision": "month",
+      "display": "1956年9月"
+    },
+    "death_status": "deceased",
+    "biography": "英国放射化学家，曾与卢瑟福在麦吉尔大学研究放射性，后在格拉斯哥、阿伯丁和牛津任教。他以放射性元素转变和同位素研究连接了化学与核物理，获1921年诺贝尔化学奖。",
+    "contributions": [
+      "与卢瑟福发展放射性蜕变理论，说明放射性涉及元素的转变",
+      "提出同位素概念，说明化学性质相同的原子可以具有不同质量",
+      "与法扬斯等人分别建立放射性位移定律，联系衰变过程与元素周期表"
+    ],
+    "fields": [
+      "核物理",
+      "放射化学"
+    ],
+    "sources": [
+      {
+        "title": "University of Glasgow — Frederick Soddy",
+        "url": "https://worldchanging.glasgow.ac.uk/notable-people/?id=89"
+      },
+      {
+        "title": "Royal Society — Frederick Soddy",
+        "url": "https://makingscience.royalsociety.org/people/na8018/frederick-soddy"
+      },
+      {
+        "title": "Nobel Prize — Frederick Soddy",
+        "url": "https://www.nobelprize.org/prizes/chemistry/1921/soddy/facts/"
+      },
+      {
+        "title": "Frederick Soddy — reference biography",
+        "url": "https://en.wikipedia.org/wiki/Frederick_Soddy"
+      }
+    ],
+    "notes": [
+      "逝世日期存在来源分歧：格拉斯哥大学与诺贝尔奖资料记为1956年9月22日，英国皇家学会目录记为9月26日。本档案保留到月份，待原始记录进一步确认。"
+    ]
+  },
+  {
+    "id": "hans-geiger",
+    "name_zh": "汉斯·盖革",
+    "name_en": "Hans Geiger",
+    "wikipedia_title": "Hans Geiger",
+    "birth": {
+      "date": "1882-09-30",
+      "precision": "day",
+      "display": "1882年9月30日"
+    },
+    "death": {
+      "date": "1945-09-24",
+      "precision": "day",
+      "display": "1945年9月24日"
+    },
+    "death_status": "deceased",
+    "biography": "德国实验物理学家，曾在曼彻斯特与卢瑟福合作，后在德国从事放射性和粒子探测研究。他把单个电离粒子的计数发展成精密的实验工具，并参与揭示原子核结构的关键实验。",
+    "contributions": [
+      "与马斯登开展α粒子大角度散射实验，为卢瑟福的原子核模型提供证据",
+      "发展早期粒子计数器，并与瓦尔特·米勒制成盖革–米勒计数管",
+      "与纳托尔建立联系α粒子射程与放射性半衰期的盖革–纳托尔关系"
+    ],
+    "fields": [
+      "核物理",
+      "实验物理"
+    ],
+    "sources": [
+      {
+        "title": "Deutsche Biographie — Hans Geiger",
+        "url": "https://www.deutsche-biographie.de/gnd118538144.html"
+      },
+      {
+        "title": "Hans Geiger — reference biography",
+        "url": "https://en.wikipedia.org/wiki/Hans_Geiger"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "ernest-marsden",
+    "name_zh": "欧内斯特·马斯登",
+    "name_en": "Ernest Marsden",
+    "wikipedia_title": "Ernest Marsden",
+    "birth": {
+      "date": "1889-02-19",
+      "precision": "day",
+      "display": "1889年2月19日"
+    },
+    "death": {
+      "date": "1970-12-15",
+      "precision": "day",
+      "display": "1970年12月15日"
+    },
+    "death_status": "deceased",
+    "biography": "英国出生的新西兰实验物理学家，在曼彻斯特求学时参与卢瑟福团队的放射性研究。1915年赴惠灵顿任教，后来领导新西兰科学与工业研究部，推动实验物理、雷达与国家科研机构的发展。",
+    "contributions": [
+      "与盖革发现α粒子穿过薄金属箔时的罕见大角度反散射，促成原子核模型",
+      "参与早期放射性、α粒子与原子结构实验",
+      "组织新西兰科研体系，并推动第二次世界大战期间的本土雷达研究"
+    ],
+    "fields": [
+      "核物理",
+      "实验物理"
+    ],
+    "sources": [
+      {
+        "title": "Te Ara — Ernest Marsden",
+        "url": "https://teara.govt.nz/en/biographies/4m41/marsden-ernest"
+      },
+      {
+        "title": "Museum of New Zealand Te Papa — Sir Ernest Marsden",
+        "url": "https://collections.tepapa.govt.nz/Person/45905"
+      },
+      {
+        "title": "Ernest Marsden — reference biography",
+        "url": "https://en.wikipedia.org/wiki/Ernest_Marsden"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "walther-gerlach",
+    "name_zh": "瓦尔特·盖拉赫",
+    "name_en": "Walther Gerlach",
+    "wikipedia_title": "Walther Gerlach",
+    "birth": {
+      "date": "1889-08-01",
+      "precision": "day",
+      "display": "1889年8月1日"
+    },
+    "death": {
+      "date": "1979-08-10",
+      "precision": "day",
+      "display": "1979年8月10日"
+    },
+    "death_status": "deceased",
+    "biography": "德国实验物理学家，先后在法兰克福、蒂宾根和慕尼黑工作。他与奥托·施特恩合作的原子束实验提供了空间量子化的直接证据，此外还研究辐射压、磁性和光谱分析。",
+    "contributions": [
+      "与施特恩完成银原子束分裂实验，直接显示磁矩取向的量子化",
+      "与爱丽丝·戈尔森开展辐射压精密测量",
+      "研究铁磁性并发展化学发射光谱分析方法"
+    ],
+    "fields": [
+      "原子物理",
+      "实验物理"
+    ],
+    "sources": [
+      {
+        "title": "Deutsche Biographie — Walther Gerlach",
+        "url": "https://www.deutsche-biographie.de/dbo053274.html"
+      },
+      {
+        "title": "Walther Gerlach — reference biography",
+        "url": "https://en.wikipedia.org/wiki/Walther_Gerlach"
+      }
+    ],
+    "notes": [
+      "1922年的施特恩–盖拉赫实验最初用于检验空间量子化；用电子自旋作出完整解释是随后几年的发展。"
+    ]
+  },
+  {
+    "id": "lester-germer",
+    "name_zh": "莱斯特·格默",
+    "name_en": "Lester Germer",
+    "wikipedia_title": "Lester Germer",
+    "birth": {
+      "date": "1896-10-10",
+      "precision": "day",
+      "display": "1896年10月10日"
+    },
+    "death": {
+      "date": "1971-10",
+      "precision": "month",
+      "display": "1971年10月"
+    },
+    "death_status": "deceased",
+    "biography": "美国实验物理学家，长期在贝尔实验室工作，退休后在康奈尔大学继续研究。他与克林顿·戴维森合作发现晶体对电子的衍射，为德布罗意物质波假说提供了决定性的实验支持。",
+    "contributions": [
+      "与戴维森于1927年发现镍晶体对电子的衍射，验证电子的波动性",
+      "发展电子衍射方法，用于研究晶体和表面结构",
+      "研究热电子发射、金属表面及电接触现象"
+    ],
+    "fields": [
+      "量子物理",
+      "表面物理"
+    ],
+    "sources": [
+      {
+        "title": "American Physical Society — Bell Laboratories historic site",
+        "url": "https://www.aps.org/funding-recognition/historic-sites/bell-laboratories-building"
+      },
+      {
+        "title": "AIP — Lester Germer papers",
+        "url": "https://history.aip.org/history/catalog/icos/1403.html"
+      },
+      {
+        "title": "University of Colorado — Davisson–Germer experiment",
+        "url": "https://www-hep.colorado.edu/~jcumalat/phys2170_f13/lectures/Lec18.pdf"
+      },
+      {
+        "title": "Linda Hall Library — Lester Germer",
+        "url": "https://www.lindahall.org/about/news/scientist-of-the-day/lester-germer/"
+      },
+      {
+        "title": "Lester Germer — reference biography",
+        "url": "https://en.wikipedia.org/wiki/Lester_Germer"
+      }
+    ],
+    "notes": [
+      "姓名为Lester Halbert Germer，不是Louis Germer。",
+      "逝世日期通常记为1971年10月3日，但琳达·霍尔图书馆的传记记为10月4日；本档案保留月份并列明分歧，待同时代原始记录进一步核实。"
+    ]
+  },
+  {
+    "id": "fritz-strassmann",
+    "name_zh": "弗里茨·施特拉斯曼",
+    "name_en": "Fritz Strassmann",
+    "wikipedia_title": "Fritz Strassmann",
+    "birth": {
+      "date": "1902-02-22",
+      "precision": "day",
+      "display": "1902年2月22日"
+    },
+    "death": {
+      "date": "1980-04-22",
+      "precision": "day",
+      "display": "1980年4月22日"
+    },
+    "death_status": "deceased",
+    "biography": "德国核化学家，在柏林威廉皇帝化学研究所与奥托·哈恩和莉泽·迈特纳合作。1938年底，他与哈恩得到铀受中子照射后产生钡的化学证据；战后在美因茨大学建设化学与核化学研究。",
+    "contributions": [
+      "与哈恩以放射化学分析确认中子照射铀产生钡，为核裂变的发现提供关键实验依据",
+      "发展分离、鉴定放射性核素及研究裂变产物的化学方法",
+      "参与建立美因茨大学的化学和核化学研究机构"
+    ],
+    "fields": [
+      "核物理",
+      "核化学"
+    ],
+    "sources": [
+      {
+        "title": "Max Planck Society archive — Fritz Strassmann biography",
+        "url": "https://www.archiv-berlin.mpg.de/49031/hausreihe_22.pdf"
+      },
+      {
+        "title": "Max Planck Institute for Chemistry — Fritz Strassmann",
+        "url": "https://www.mpic.de/3546641/1949-1953"
+      },
+      {
+        "title": "Mainz University — founding chemistry professors",
+        "url": "https://presse.uni-mainz.de/ut-omnes-unum-sint-gruendungsprofessoren-der-chemie-und-pharmazie/"
+      },
+      {
+        "title": "Fritz Strassmann — reference biography",
+        "url": "https://en.wikipedia.org/wiki/Fritz_Strassmann"
+      }
+    ],
+    "notes": [
+      "哈恩与施特拉斯曼给出化学实验证据，迈特纳与奥托·罗伯特·弗里施随后给出核裂变的物理解释。"
+    ]
+  },
+  {
+    "id": "otto-robert-frisch",
+    "name_zh": "奥托·罗伯特·弗里施",
+    "name_en": "Otto Robert Frisch",
+    "wikipedia_title": "Otto Robert Frisch",
+    "birth": {
+      "date": "1904-10-01",
+      "precision": "day",
+      "display": "1904年10月1日"
+    },
+    "death": {
+      "date": "1979-09-22",
+      "precision": "day",
+      "display": "1979年9月22日"
+    },
+    "death_status": "deceased",
+    "biography": "奥地利出生的英国物理学家，曾在德国、哥本哈根和英国工作，因纳粹迫害而流亡。他与姨母莉泽·迈特纳解释核裂变，后来参与战时核研究，并在剑桥大学从事核物理和实验仪器研究。",
+    "contributions": [
+      "与迈特纳将哈恩和施特拉斯曼的化学结果解释为重原子核裂变，并估算其巨大能量释放",
+      "通过电离脉冲实验验证裂变碎片的高能量，并引入“裂变”这一名称",
+      "与鲁道夫·佩尔斯撰写1940年备忘录，指出以可裂变同位素实现核爆炸的可能性"
+    ],
+    "fields": [
+      "核物理",
+      "实验物理"
+    ],
+    "sources": [
+      {
+        "title": "Trinity College Cambridge — Papers of Otto Frisch",
+        "url": "https://archives.trin.cam.ac.uk/index.php/papers-of-otto-robert-frisch"
+      },
+      {
+        "title": "Royal Society — Otto Robert Frisch",
+        "url": "https://makingscience.royalsociety.org/people/na6099/otto-robert-frisch"
+      },
+      {
+        "title": "Otto Robert Frisch — reference biography",
+        "url": "https://en.wikipedia.org/wiki/Otto_Robert_Frisch"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "konstantin-petrzhak",
+    "name_zh": "康斯坦丁·彼得扎克",
+    "name_en": "Konstantin Petrzhak",
+    "wikipedia_title": "Konstantin Petrzhak",
+    "birth": {
+      "date": "1907-09-04",
+      "precision": "day",
+      "display": "1907年9月4日"
+    },
+    "death": {
+      "date": "1998",
+      "precision": "year",
+      "display": "1998年"
+    },
+    "death_status": "deceased",
+    "biography": "波兰裔苏联实验核物理学家，毕业于列宁格勒大学，长期在镭研究所工作。他与格奥尔基·弗廖罗夫共同发现铀的自发裂变，后来研究中子物理、裂变与放射性测量，并培养核科学人才。",
+    "contributions": [
+      "与弗廖罗夫于1940年发现铀核的自发裂变，并通过地下实验排查宇宙线影响",
+      "开展中子引起的裂变截面与重核裂变性质的精密测量",
+      "发展放射性及中子测量方法，建立裂变和中子物理研究团队"
+    ],
+    "fields": [
+      "核物理",
+      "实验物理"
+    ],
+    "sources": [
+      {
+        "title": "Rosatom history portal — Konstantin Petrzhak",
+        "url": "https://www.biblioatom.ru/persons/petrzhak_konstantin_antonovich/"
+      },
+      {
+        "title": "Saint Petersburg State Institute of Technology — 110th anniversary",
+        "url": "https://spbti.ru/public/userfiles/files/75/technolog/Tehnolog_sentyabr_2017.pdf"
+      },
+      {
+        "title": "JINR — history of spontaneous fission",
+        "url": "https://uc.jinr.ru/images/pdf/ISP/PresentationsLecturers/2022Egypt/FLNR.pdf"
+      },
+      {
+        "title": "Physical Review — Spontaneous Fission of Uranium (1940)",
+        "url": "https://doi.org/10.1103/PhysRev.58.89.2"
+      },
+      {
+        "title": "Konstantin Petrzhak — reference biography",
+        "url": "https://en.wikipedia.org/wiki/Konstantin_Petrzhak"
+      }
+    ],
+    "notes": [
+      "逝世日期存在分歧：通常记为1998年10月10日，俄罗斯原子能历史门户则记为1998年11月19日。尚未取得足以消除分歧的同时代原始记录，本档案保留到年份。"
+    ]
+  },
+  {
+    "id": "edward-teller",
+    "name_zh": "爱德华·泰勒",
+    "name_en": "Edward Teller",
+    "wikipedia_title": "Edward Teller",
+    "birth": {
+      "date": "1908-01-15",
+      "precision": "day",
+      "display": "1908年1月15日"
+    },
+    "death": {
+      "date": "2003-09-09",
+      "precision": "day",
+      "display": "2003年9月9日"
+    },
+    "death_status": "deceased",
+    "biography": "匈牙利出生的美国理论物理学家，在德国学习后因纳粹统治离开欧洲，1935年赴美国。他研究分子量子理论和核物理，参与曼哈顿计划、热核武器研究及利弗莫尔实验室的建立，也深度介入核政策争论。",
+    "contributions": [
+      "与伽莫夫发展β衰变理论中的伽莫夫–泰勒跃迁",
+      "与赫尔曼·雅恩提出雅恩–泰勒效应，解释某些简并电子态引发的结构畸变",
+      "参与核与热核研究，并推动建立劳伦斯利弗莫尔实验室"
+    ],
+    "fields": [
+      "核物理",
+      "分子物理"
+    ],
+    "sources": [
+      {
+        "title": "National Academy of Sciences — Edward Teller",
+        "url": "https://www.nasonline.org/directory-entry/edward-teller-lhwv5g/"
+      },
+      {
+        "title": "Freeman Dyson — Edward Teller, NAS Biographical Memoir",
+        "url": "https://www.nasonline.org/wp-content/uploads/2024/06/teller-edward.pdf"
+      },
+      {
+        "title": "Lawrence Livermore National Laboratory — Edward Teller obituary",
+        "url": "https://www.llnl.gov/article/29486/director-emeritus-edward-teller-distinguished-physicist-and-education-advocate-dies-95"
+      },
+      {
+        "title": "Edward Teller — reference biography",
+        "url": "https://en.wikipedia.org/wiki/Edward_Teller"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "georgy-flerov",
+    "name_zh": "格奥尔基·弗廖罗夫",
+    "name_en": "Georgy Flerov",
+    "wikipedia_title": "Georgy Flerov",
+    "birth": {
+      "date": "1913-03-02",
+      "precision": "day",
+      "display": "1913年3月2日"
+    },
+    "death": {
+      "date": "1990-11-19",
+      "precision": "day",
+      "display": "1990年11月19日"
+    },
+    "death_status": "deceased",
+    "biography": "苏联实验核物理学家，早年在列宁格勒研究核反应，后参与苏联核计划。他是杜布纳联合核研究所的创始科学家之一，长期领导核反应实验室，推动重离子与超重元素研究。",
+    "contributions": [
+      "与彼得扎克于1940年发现铀核的自发裂变",
+      "发展重离子核反应实验，研究重元素及原子核稳定性",
+      "创建并领导杜布纳核反应实验室，组织超重元素研究"
+    ],
+    "fields": [
+      "核物理",
+      "实验物理"
+    ],
+    "sources": [
+      {
+        "title": "JINR — Remembering the founders",
+        "url": "https://www.jinr.ru/posts/vspominaya-osnovatelej-03_21/"
+      },
+      {
+        "title": "Russian Academy of Sciences — Georgy Flerov",
+        "url": "https://new.ras.ru/academy-new/staff/akademiki/flerov-georgiy-nikolaevich/"
+      },
+      {
+        "title": "Physical Review — Spontaneous Fission of Uranium (1940)",
+        "url": "https://doi.org/10.1103/PhysRev.58.89.2"
+      },
+      {
+        "title": "Georgy Flerov — reference biography",
+        "url": "https://en.wikipedia.org/wiki/Georgy_Flerov"
+      }
+    ],
+    "notes": [
+      "生日采用公历1913年3月2日，对应当时俄历（儒略历）2月17日；英文也常将其姓拼作Flyorov。"
+    ]
+  }
+]

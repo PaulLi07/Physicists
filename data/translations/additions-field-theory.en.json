@@ -1,0 +1,493 @@
+[
+  {
+    "id": "friedrich-hund",
+    "name_en": "Friedrich Hund",
+    "biography": "Hund was a German theoretical physicist who taught in Leipzig, Jena, Frankfurt and Göttingen. He connected atomic and molecular spectra with quantum electronic states and shaped quantum physics through research, textbooks and teaching. He also studied the history of physics later in his career.",
+    "contributions": [
+      "Formulated Hund's rules for the ordering of atomic electronic energy levels",
+      "Developed quantum descriptions of molecular orbitals and spectra with Mulliken and others",
+      "Made early investigations of quantum tunnelling in molecules"
+    ],
+    "fields": [
+      "Atomic physics",
+      "Molecular physics",
+      "Quantum mechanics"
+    ],
+    "birth_display": "4 February 1896",
+    "death_display": "31 March 1997",
+    "notes": [],
+    "portrait_alt": "Portrait of Friedrich Hund",
+    "portrait_note": "Consult the original image record for the creator, date and form of the image.",
+    "sources": [
+      {
+        "title": "Saxon Academy of Sciences: Friedrich Hund",
+        "url": "https://www.saw-leipzig.de/de/personen/hundf"
+      },
+      {
+        "title": "Jena University: Friedrich Hermann Hund",
+        "url": "https://www.physik.uni-jena.de/4030/hund-friedrich-hermann-1896-1997"
+      },
+      {
+        "title": "Friedrich Hund family memorial and scientific biography",
+        "url": "https://www.teleschach.de/teleschach/f_hund.htm"
+      },
+      {
+        "title": "Wikipedia: Friedrich Hund",
+        "url": "https://en.wikipedia.org/wiki/Friedrich_Hund"
+      }
+    ]
+  },
+  {
+    "id": "robert-s-mulliken",
+    "name_en": "Robert Sanderson Mulliken",
+    "biography": "Mulliken was an American chemical physicist based for much of his career at the University of Chicago. He applied quantum mechanics to molecular electrons, developed the molecular-orbital method and built an influential research school. His work on bonding and molecular electronic structure earned the 1966 Nobel Prize in Chemistry.",
+    "contributions": [
+      "Developed molecular-orbital methods for understanding chemical bonding through quantum electronic states",
+      "Investigated molecular electronic structure and spectra and developed associated nomenclature and classifications",
+      "Introduced interpretive tools for electronic structure, including Mulliken population analysis"
+    ],
+    "fields": [
+      "Chemical physics",
+      "Molecular orbitals",
+      "Spectroscopy"
+    ],
+    "birth_display": "7 June 1896",
+    "death_display": "31 October 1986",
+    "notes": [],
+    "portrait_alt": "Portrait of Robert Sanderson Mulliken",
+    "portrait_note": "Consult the original image record for the creator, date and form of the image.",
+    "sources": [
+      {
+        "title": "Nobel Foundation: Robert S. Mulliken facts",
+        "url": "https://www.nobelprize.org/prizes/chemistry/1966/mulliken/facts/"
+      },
+      {
+        "title": "R. Stephen Berry: Robert Sanderson Mulliken, NAS memoir",
+        "url": "https://www.nationalacademies.org/read/9977/chapter/10"
+      },
+      {
+        "title": "University of Chicago Library: Robert S. Mulliken papers",
+        "url": "https://www.lib.uchicago.edu/ead/rlg/ICU.SPCL.MULLIKEN.pdf"
+      },
+      {
+        "title": "Wikipedia: Robert S. Mulliken",
+        "url": "https://en.wikipedia.org/wiki/Robert_S._Mulliken"
+      }
+    ]
+  },
+  {
+    "id": "john-c-slater",
+    "name_en": "John Clarke Slater",
+    "biography": "Slater was an American theoretical physicist trained at Harvard who led physics research at MIT and later worked at the University of Florida. He applied quantum mechanics to the electronic structure of atoms, molecules and solids, emphasizing practical calculations while developing influential research groups and textbooks.",
+    "contributions": [
+      "Developed and popularized Slater-determinant representations of antisymmetric many-electron wavefunctions",
+      "Introduced Slater-type orbitals and screening rules for atomic electronic calculations",
+      "Developed practical local-exchange approximations and other methods for molecular and solid-state calculations"
+    ],
+    "fields": [
+      "Atomic physics",
+      "Electronic structure",
+      "Condensed-matter theory"
+    ],
+    "birth_display": "22 December 1900",
+    "death_display": "25 July 1976",
+    "notes": [],
+    "portrait_alt": "Portrait of John Clarke Slater",
+    "portrait_note": "Consult the original image record for the creator, date and form of the image.",
+    "sources": [
+      {
+        "title": "National Academy of Sciences: John Slater",
+        "url": "https://www.nasonline.org/directory-entry/john-slater-up2tib/"
+      },
+      {
+        "title": "Philip M. Morse: John Clarke Slater, NAS Biographical Memoir",
+        "url": "https://www.nasonline.org/wp-content/uploads/2024/06/slater-john.pdf"
+      },
+      {
+        "title": "Wikipedia: John C. Slater",
+        "url": "https://en.wikipedia.org/wiki/John_C._Slater"
+      }
+    ]
+  },
+  {
+    "id": "ralph-kronig",
+    "name_en": "Ralph Kronig",
+    "biography": "Kronig was a Dresden-born theoretical physicist trained at Columbia who later worked in Groningen and Delft. He investigated atomic spectra, crystal electrons and linear response. He considered electron spin early but did not establish publication priority; his published work supplied lasting tools for quantum materials and optics.",
+    "contributions": [
+      "Developed the Kramers–Kronig dispersion relations connecting dispersive and absorptive response",
+      "Developed the Kronig–Penney model of electrons in a periodic potential with William Penney",
+      "Investigated molecular spectra and electron spin during the development of early quantum theory"
+    ],
+    "fields": [
+      "Quantum theory",
+      "Condensed-matter physics",
+      "Optics"
+    ],
+    "birth_display": "10 March 1904",
+    "death_display": "16 November 1995",
+    "notes": [],
+    "portrait_alt": "Portrait of Ralph Kronig",
+    "portrait_note": "Consult the original image record for the creator, date and form of the image.",
+    "sources": [
+      {
+        "title": "University of Groningen: Ralph Kronig",
+        "url": "https://www.math.rug.nl/bernoulli/Geschiedenis/Kronig"
+      },
+      {
+        "title": "H. B. G. Casimir: KNAW memorial for Ralph Kronig",
+        "url": "https://www.math.rug.nl/bernoulli/uploads/Geschiedenis/levensberichtkronig.pdf"
+      },
+      {
+        "title": "Wikipedia: Ralph Kronig",
+        "url": "https://en.wikipedia.org/wiki/Ralph_Kronig"
+      }
+    ]
+  },
+  {
+    "id": "seth-neddermeyer",
+    "name_en": "Seth Neddermeyer",
+    "biography": "Neddermeyer was an American experimental physicist trained at Caltech. His cosmic-ray research with Carl Anderson contributed to the discovery of the particle later identified as the muon. He subsequently worked on wartime nuclear experiments and continued research and university teaching, linking early particle discoveries with experimental nuclear physics.",
+    "contributions": [
+      "Co-discovered the muon with Carl Anderson, extending knowledge of the particle content of cosmic rays",
+      "Contributed to experimental nuclear research, associated experimental methods and physics teaching"
+    ],
+    "fields": [
+      "Cosmic rays",
+      "Particle physics",
+      "Experimental nuclear physics"
+    ],
+    "birth_display": "16 September 1907",
+    "death_display": "29 January 1988",
+    "notes": [],
+    "portrait_alt": "Portrait of Seth Neddermeyer",
+    "portrait_note": "Consult the original image record for the creator, date and form of the image.",
+    "sources": [
+      {
+        "title": "Atomic Heritage Foundation / Nuclear Museum: Seth Neddermeyer",
+        "url": "https://ahf.nuclearmuseum.org/ahf/profile/seth-neddermeyer/"
+      },
+      {
+        "title": "Wikipedia: Seth Neddermeyer",
+        "url": "https://en.wikipedia.org/wiki/Seth_Neddermeyer"
+      }
+    ]
+  },
+  {
+    "id": "hendrik-casimir",
+    "name_en": "Hendrik Casimir",
+    "biography": "Casimir was a Dutch theoretical physicist trained with Ehrenfest who worked in Leiden and later helped direct research at Philips. He investigated nuclear magnetic moments, superconductivity and electromagnetic fluctuations, connecting quantum theory with industrial research. He is particularly known for the predicted force associated with quantum vacuum fluctuations.",
+    "contributions": [
+      "Predicted the Casimir force between ideal conducting boundaries arising from electromagnetic quantum fluctuations",
+      "Investigated retarded dispersion interactions with Polder, now called Casimir–Polder interactions",
+      "Studied superconducting thermodynamics and two-fluid descriptions with Gorter and others"
+    ],
+    "fields": [
+      "Quantum electrodynamics",
+      "Condensed-matter physics",
+      "Superconductivity"
+    ],
+    "birth_display": "15 July 1909",
+    "death_display": "4 May 2000",
+    "notes": [],
+    "portrait_alt": "Portrait of Hendrik Casimir",
+    "portrait_note": "Consult the original image record for the creator, date and form of the image.",
+    "sources": [
+      {
+        "title": "D. Polder: KNAW memorial for Hendrik Brugt Gerhard Casimir",
+        "url": "https://dwc.knaw.nl/DL/levensberichten/PE00004564.pdf"
+      },
+      {
+        "title": "Wikipedia: Hendrik Casimir",
+        "url": "https://en.wikipedia.org/wiki/Hendrik_Casimir"
+      }
+    ]
+  },
+  {
+    "id": "carl-friedrich-von-weizsacker",
+    "name_en": "Carl Friedrich von Weizsäcker",
+    "biography": "Weizsäcker was a German physicist and philosopher influenced by Heisenberg. His research addressed atomic nuclei, stellar energy and planetary formation. He later worked in Hamburg and within the Max Planck Society and pursued questions of scientific responsibility and peace, while his physical work influenced nuclear structure and astrophysics.",
+    "contributions": [
+      "Developed a semi-empirical mass formula describing nuclear binding energies",
+      "Investigated stellar nuclear reactions and independently contributed to the theory of the carbon–nitrogen–oxygen cycle",
+      "Studied planetary-system formation and foundational questions in theoretical physics"
+    ],
+    "fields": [
+      "Nuclear physics",
+      "Nuclear astrophysics",
+      "Theoretical physics"
+    ],
+    "birth_display": "28 June 1912",
+    "death_display": "28 April 2007",
+    "notes": [],
+    "portrait_alt": "Portrait of Carl Friedrich von Weizsäcker",
+    "portrait_note": "Consult the original image record for the creator, date and form of the image.",
+    "sources": [
+      {
+        "title": "German Research Foundation: Carl Friedrich von Weizsäcker",
+        "url": "https://gepris-historisch.dfg.de/person/5113433"
+      },
+      {
+        "title": "University of Leipzig: Carl Friedrich von Weizsäcker",
+        "url": "https://research.uni-leipzig.de/agintern/UNIGESCH/ug213.htm"
+      },
+      {
+        "title": "University of Hamburg: biography and publications",
+        "url": "https://www.chemie.uni-hamburg.de/forschung/publikationen/erweiterung/dozenten-uhh/weizsaecker.html"
+      },
+      {
+        "title": "Wikipedia: Carl Friedrich von Weizsäcker",
+        "url": "https://en.wikipedia.org/wiki/Carl_Friedrich_von_Weizs%C3%A4cker"
+      }
+    ]
+  },
+  {
+    "id": "erwin-hahn",
+    "name_en": "Erwin Hahn",
+    "biography": "Hahn was an American experimental physicist who investigated nuclear magnetic resonance at Illinois and later taught for decades at Berkeley. His discovery of spin echoes and development of pulsed resonance methods made coherence and relaxation in spin systems accessible to precise experiments and provided important foundations for MRI.",
+    "contributions": [
+      "Discovered spin echoes, revealing coherent information recoverable from some apparent dephasing processes",
+      "Developed pulsed nuclear magnetic resonance and free-induction-decay measurements",
+      "Established experimental methods important to magnetic-resonance spectroscopy and later MRI"
+    ],
+    "fields": [
+      "Nuclear magnetic resonance",
+      "Quantum coherence",
+      "Experimental physics"
+    ],
+    "birth_display": "9 June 1921",
+    "death_display": "20 September 2016",
+    "notes": [],
+    "portrait_alt": "Portrait of Erwin Hahn",
+    "portrait_note": "Consult the original image record for the creator, date and form of the image.",
+    "sources": [
+      {
+        "title": "University of California, Berkeley: Remembering Erwin Hahn",
+        "url": "https://hwni.berkeley.edu/news/remembering-erwin-hahn-1921-2016"
+      },
+      {
+        "title": "Erwin L. Hahn Institute for MRI: Erwin Hahn",
+        "url": "https://hahn-institute.de/de/ueber/erwin-l-hahn"
+      },
+      {
+        "title": "Wikipedia: Erwin Hahn",
+        "url": "https://en.wikipedia.org/wiki/Erwin_Hahn"
+      }
+    ]
+  },
+  {
+    "id": "walter-kohn",
+    "name_en": "Walter Kohn",
+    "biography": "Kohn was an Austrian-born American theoretical physicist who escaped Nazi persecution as a teenager and studied in Canada and the United States. He later worked at UC San Diego and UC Santa Barbara, where he became the founding director of the Institute for Theoretical Physics. His development of density-functional theory earned the 1998 Nobel Prize in Chemistry.",
+    "contributions": [
+      "Established foundational theorems of ground-state density-functional theory with Pierre Hohenberg",
+      "Developed the self-consistent Kohn–Sham equations for electronic-structure calculations with Lu Jeu Sham",
+      "Made major contributions to semiconductor physics, metallic electronic structure and surface physics"
+    ],
+    "fields": [
+      "Condensed-matter theory",
+      "Density-functional theory",
+      "Electronic structure"
+    ],
+    "birth_display": "9 March 1923",
+    "death_display": "19 April 2016",
+    "notes": [],
+    "portrait_alt": "Portrait of Walter Kohn",
+    "portrait_note": "Consult the original image record for the creator, date and form of the image.",
+    "sources": [
+      {
+        "title": "UC Santa Barbara: Walter Kohn",
+        "url": "https://www.ucsb.edu/about/faculty-and-alumni/walter-kohn-1923-2016"
+      },
+      {
+        "title": "National Academy of Sciences: Walter Kohn memorial",
+        "url": "https://www.nasonline.org/wp-content/uploads/2024/06/kohn-walter.pdf"
+      },
+      {
+        "title": "UC Santa Barbara: Walter Kohn papers",
+        "url": "https://archives.library.ucsb.edu/repositories/2/resources/4397"
+      },
+      {
+        "title": "Wikipedia: Walter Kohn",
+        "url": "https://en.wikipedia.org/wiki/Walter_Kohn"
+      }
+    ]
+  },
+  {
+    "id": "robert-mills",
+    "name_en": "Robert Laurence Mills",
+    "biography": "Mills was an American theoretical physicist educated at Columbia and Cambridge. He collaborated with Chen Ning Yang at Brookhaven and later taught for many years at Ohio State. His research concerned quantum field theory, alloys and many-body systems; the non-Abelian gauge theory published with Yang in 1954 became foundational to modern particle physics.",
+    "contributions": [
+      "Established non-Abelian gauge-field theory with Chen Ning Yang, now called Yang–Mills theory",
+      "Investigated propagators and quantum methods for many-body systems",
+      "Studied alloy theory and advanced modern physical methods through books and teaching"
+    ],
+    "fields": [
+      "Quantum field theory",
+      "Gauge theory",
+      "Many-body theory"
+    ],
+    "birth_display": "15 April 1927",
+    "death_display": "27 October 1999",
+    "notes": [],
+    "portrait_alt": "Portrait of Robert Laurence Mills",
+    "portrait_note": "Consult the original image record for the creator, date and form of the image.",
+    "sources": [
+      {
+        "title": "Samuel L. Marateck: Remembering Robert L. Mills, Physics Today",
+        "url": "https://physicstoday.aip.org/letters/remembering-robert-l-mills"
+      },
+      {
+        "title": "Ohio State University: Department of Physics history",
+        "url": "https://physics.osu.edu/sites/default/files/2023-11/history_of_dept._of_physics.pdf"
+      },
+      {
+        "title": "Wikipedia: Robert Mills (physicist)",
+        "url": "https://en.wikipedia.org/wiki/Robert_Mills_%28physicist%29"
+      }
+    ]
+  },
+  {
+    "id": "john-hubbard",
+    "name_en": "John Hubbard",
+    "biography": "Hubbard was a British theoretical physicist trained at Imperial College who worked at Harwell and later IBM in the United States. He studied solids through simplified models retaining essential electronic interactions. His work shaped strongly correlated electron physics and many-body theory before his early death.",
+    "contributions": [
+      "Introduced the Hubbard model combining electron hopping with local interactions",
+      "Developed theoretical methods and operator descriptions for electronic correlations",
+      "Investigated electron gases, magnetism and metal–insulator behaviour"
+    ],
+    "fields": [
+      "Condensed-matter theory",
+      "Strongly correlated electrons",
+      "Statistical physics"
+    ],
+    "birth_display": "27 October 1931",
+    "death_display": "27 November 1980",
+    "notes": [],
+    "portrait_alt": "Portrait of John Hubbard",
+    "portrait_note": "Consult the original image record for the creator, date and form of the image.",
+    "sources": [
+      {
+        "title": "JINR: Biography of John Hubbard",
+        "url": "https://theor.jinr.ru/~kuzemsky/hubbio2.html"
+      },
+      {
+        "title": "Hubbard biography PDF hosted by JINR",
+        "url": "https://theor.jinr.ru/~kuzemsky/Hubbard_John.pdf"
+      },
+      {
+        "title": "Wikipedia: John Hubbard (physicist)",
+        "url": "https://en.wikipedia.org/wiki/John_Hubbard_%28physicist%29"
+      }
+    ]
+  },
+  {
+    "id": "peter-mansfield",
+    "name_en": "Peter Mansfield",
+    "biography": "Mansfield was a British physicist educated in London who spent most of his academic career at Nottingham. Moving from solid-state NMR to spatial imaging, he developed methods for analysing gradient-encoded signals and acquiring images rapidly. He shared the 2003 Nobel Prize in Physiology or Medicine with Paul Lauterbur.",
+    "contributions": [
+      "Developed spatial encoding and mathematical analysis of NMR signals in magnetic-field gradients",
+      "Proposed and developed rapid MRI methods including echo-planar imaging",
+      "Helped turn the physical principles of NMR into spatial imaging for medicine"
+    ],
+    "fields": [
+      "Nuclear magnetic resonance",
+      "Magnetic resonance imaging",
+      "Experimental physics"
+    ],
+    "birth_display": "9 October 1933",
+    "death_display": "8 February 2017",
+    "notes": [],
+    "portrait_alt": "Portrait of Peter Mansfield",
+    "portrait_note": "Consult the original image record for the creator, date and form of the image.",
+    "sources": [
+      {
+        "title": "Nobel Foundation: Peter Mansfield autobiography",
+        "url": "https://www.nobelprize.org/prizes/medicine/2003/mansfield/biographical/"
+      },
+      {
+        "title": "University of Nottingham: Peter Mansfield papers",
+        "url": "https://mss-cat.nottingham.ac.uk/calmview/Record.aspx?id=PPM&src=CalmView.Catalog"
+      },
+      {
+        "title": "Queen Mary University: History of Modern Biomedicine, Peter Mansfield",
+        "url": "https://histmodbiomed.history.qmul.ac.uk/article/professor-sir-peter-mansfield.html"
+      },
+      {
+        "title": "Wikipedia: Peter Mansfield",
+        "url": "https://en.wikipedia.org/wiki/Peter_Mansfield"
+      }
+    ]
+  },
+  {
+    "id": "george-zweig",
+    "name_en": "George Zweig",
+    "biography": "Zweig was born in Moscow and moved to the United States as a young child. Trained with Feynman at Caltech, he proposed fundamental constituents of hadrons independently of Murray Gell-Mann. He later investigated neurobiology, cochlear mechanics and signal analysis at institutions including Los Alamos and MIT, connecting particle physics with biophysics.",
+    "contributions": [
+      "Independently proposed hadronic constituents later known as quarks, calling them aces",
+      "Applied physical and mathematical methods to cochlear mechanics and auditory signals",
+      "Developed signal-processing methods associated with the continuous wavelet transform"
+    ],
+    "fields": [
+      "Particle physics",
+      "Biophysics",
+      "Signal analysis"
+    ],
+    "birth_display": "1937",
+    "death_display": null,
+    "notes": [
+      "The birth year follows Zweig's own account in the CERN interview, 1937. An exact month and day have not been entered without independent primary evidence."
+    ],
+    "portrait_alt": "Portrait of George Zweig",
+    "portrait_note": "Consult the original image record for the creator, date and form of the image.",
+    "sources": [
+      {
+        "title": "CERN EP Department: Interview with George Zweig",
+        "url": "https://ep-news-wp.web.cern.ch/interview-george-zweig/"
+      },
+      {
+        "title": "MacArthur Foundation: George Zweig",
+        "url": "https://www.macfound.org/fellows/class-of-december-1981/george-zweig"
+      },
+      {
+        "title": "Wikipedia: George Zweig",
+        "url": "https://en.wikipedia.org/wiki/George_Zweig"
+      }
+    ]
+  },
+  {
+    "id": "lu-jeu-sham",
+    "name_en": "Lu Jeu Sham",
+    "biography": "Sham is a Hong Kong-born American theoretical physicist educated in Britain who worked for many years at UC San Diego. With Kohn he developed a practical density-functional framework. His later research on many-body effects, optical properties and electron-spin control in semiconductors connects electronic-structure theory with quantum-information research.",
+    "contributions": [
+      "Developed self-consistent auxiliary one-electron equations for ground-state density-functional calculations with Kohn",
+      "Investigated many-body effects, excitons and nonlinear optical processes in semiconductors",
+      "Studied electron spins and their optical control in semiconductor nanostructures"
+    ],
+    "fields": [
+      "Condensed-matter theory",
+      "Density-functional theory",
+      "Semiconductor optics"
+    ],
+    "birth_display": "1938",
+    "death_display": null,
+    "notes": [
+      "Institutional profiles were used to check identity and research history. Birth is retained at year precision, 1938; specific month-and-day claims in online listings were not independently verified."
+    ],
+    "portrait_alt": "Portrait of Lu Jeu Sham",
+    "portrait_note": "Consult the original image record for the creator, date and form of the image.",
+    "sources": [
+      {
+        "title": "UC San Diego Jacobs School: Lu J. Sham",
+        "url": "https://jacobsschool.ucsd.edu/people/profile/lu-sham"
+      },
+      {
+        "title": "UC San Diego Profiles: Lu Sham",
+        "url": "https://profiles.ucsd.edu/lu.sham"
+      },
+      {
+        "title": "Wikipedia: Lu Jeu Sham",
+        "url": "https://en.wikipedia.org/wiki/Lu_Jeu_Sham"
+      }
+    ]
+  }
+]

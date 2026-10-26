@@ -1,0 +1,1193 @@
+[
+  {
+    "id": "charles-wheatstone",
+    "name_en": "Charles Wheatstone",
+    "biography": "Wheatstone was an English physicist and inventor at King's College London. Beginning with acoustics and musical instruments, he turned to vision, electrical measurement and telegraphy. His collaboration with Cooke connected precision experiments with practical communications.",
+    "contributions": [
+      "Invented the reflecting stereoscope and investigated binocular depth perception",
+      "Popularized and improved bridge methods for measuring electrical resistance",
+      "Developed practical telegraph systems with Cooke and investigated sound and electrical-signal propagation"
+    ],
+    "fields": [
+      "Electromagnetism",
+      "Acoustics",
+      "Visual optics"
+    ],
+    "birth_display": "6 February 1802",
+    "death_display": "19 October 1875",
+    "notes": [
+      "Samuel Hunter Christie originally introduced the bridge arrangement; Wheatstone is not described here as its sole inventor."
+    ],
+    "portrait_alt": "Portrait of Charles Wheatstone",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Wheatstone Collection — King’s College London",
+        "url": "https://www.kcl.ac.uk/wheatstone-collection"
+      },
+      {
+        "title": "Charles Wheatstone — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Charles_Wheatstone"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "rudolf-kohlrausch",
+    "name_en": "Rudolf Kohlrausch",
+    "biography": "Rudolf Kohlrausch was a German physicist who taught in schools and universities and specialized in electrical measurement. His comparison of electrical unit systems with Wilhelm Weber became important to electromagnetic theory. His son Friedrich also became a leading experimental physicist.",
+    "contributions": [
+      "Measured the relation between electrostatic and electromagnetic units with Weber",
+      "Investigated dielectric relaxation and introduced a stretched-exponential decay form",
+      "Advanced electrostatic measurement and electrical metrology"
+    ],
+    "fields": [
+      "Electromagnetism",
+      "Dielectric physics",
+      "Metrology"
+    ],
+    "birth_display": "6 November 1809",
+    "death_display": "March 1858 (sources differ between 8 and 9 March)",
+    "notes": [
+      "Sources disagree between 8 and 9 March 1858, so the date is recorded only to the month. The Erlangen professors catalogue gives 8 March; the Marburg catalogue and Allgemeine Deutsche Biographie text give 9 March. Deutsche Biographie’s catalogue year 1859 conflicts with its own article text and is not adopted."
+    ],
+    "portrait_alt": "Portrait of Rudolf Kohlrausch",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Rudolf Kohlrausch — Deutsche Biographie",
+        "url": "https://www.deutsche-biographie.de/sfz44125.html"
+      },
+      {
+        "title": "Rudolf Kohlrausch — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Rudolf_Kohlrausch"
+      },
+      {
+        "title": "Erlangen professors catalogue — Rudolf Kohlrausch, p.114",
+        "url": "https://d-nb.info/1056019476/34"
+      },
+      {
+        "title": "Rudolf Kohlrausch — Marburg Professors Catalogue",
+        "url": "https://professorenkatalog.online.uni-marburg.de/de/pkat/gndrec?id=118864580"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "john-william-draper",
+    "name_en": "John William Draper",
+    "biography": "Draper was a British-born American chemist, physicist and photographic pioneer at New York University. He connected chemical action, spectra and photography, produced early photographs of the Moon and investigated thermal emission and photochemical processes.",
+    "contributions": [
+      "Helped establish the principle that photochemical action requires absorbed light",
+      "Investigated the onset of visible incandescence associated with the Draper point",
+      "Conducted early astronomical photography and solar-spectrum experiments"
+    ],
+    "fields": [
+      "Photochemistry",
+      "Thermal radiation",
+      "Scientific photography"
+    ],
+    "birth_display": "5 May 1811",
+    "death_display": "4 January 1882",
+    "notes": [],
+    "portrait_alt": "Portrait of John William Draper",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Draper Family Papers — New York University Special Collections",
+        "url": "https://findingaids.library.nyu.edu/archives/mc_11/all/"
+      },
+      {
+        "title": "John William Draper — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/John_William_Draper"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "heinrich-geissler",
+    "name_en": "Heinrich Geissler",
+    "biography": "Geissler was a German glass instrument maker and experimental pioneer based in Bonn, where he collaborated with Plücker and others. His glasswork and vacuum techniques made low-pressure electrical discharges accessible to reproducible laboratory investigation.",
+    "contributions": [
+      "Improved mercury vacuum pumps for low-pressure experiments",
+      "Developed Geissler discharge tubes used in gas-discharge and cathode-ray research",
+      "Advanced experimental physics through precision glass apparatus"
+    ],
+    "fields": [
+      "Experimental techniques",
+      "Gas discharges",
+      "Vacuum physics"
+    ],
+    "birth_display": "26 May 1814",
+    "death_display": "24 January 1879",
+    "notes": [],
+    "portrait_alt": "Portrait of Heinrich Geissler",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Heinrich Geissler — Neue Deutsche Biographie",
+        "url": "https://www.deutsche-biographie.de/pnd116541954.html?language=de"
+      },
+      {
+        "title": "Heinrich Geissler — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Heinrich_Geissler"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "eunice-newton-foote",
+    "name_en": "Eunice Newton Foote",
+    "biography": "Foote was an American experimental researcher, inventor and women's-rights advocate with training in science. Her home experiments compared the solar heating of gases. In 1856 she proposed that a more carbon-dioxide-rich atmosphere could warm Earth, work long overlooked in accounts of climate science.",
+    "contributions": [
+      "Compared solar heating and cooling in different gas samples",
+      "Proposed an early connection between atmospheric carbon dioxide abundance and Earth's temperature",
+      "Investigated electrical properties of air and published pioneering work by an American woman in physics"
+    ],
+    "fields": [
+      "Atmospheric physics",
+      "Thermal physics",
+      "Experimental physics"
+    ],
+    "birth_display": "17 July 1819",
+    "death_display": "30 September 1888",
+    "notes": [
+      "Her apparatus compared solar heating and cooling of gases; it was not a direct measurement of the complete atmospheric greenhouse process or an infrared absorption spectrum.",
+      "No verified portrait has been obtained; the passport page describing her appearance is a contextual document, not a portrait."
+    ],
+    "portrait_alt": "Passport description of Eunice Newton Foote",
+    "portrait_note": "This is a passport page describing Foote’s appearance, not a portrait. No verified likeness has been obtained.",
+    "sources": [
+      {
+        "title": "Eunice Foote’s 1856 experiments — Ortiz and Jackson, Notes and Records",
+        "url": "https://doi.org/10.1098/rsnr.2020.0031"
+      },
+      {
+        "title": "Eunice Newton Foote — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Eunice_Newton_Foote"
+      },
+      {
+        "title": "August 1856: Eunice Foote and atmospheric warming — American Physical Society",
+        "url": "https://www.aps.org/apsnews/2023/07/carbon-dioxide-atmosphere-eunice-foote"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "johann-wilhelm-hittorf",
+    "name_en": "Johann Wilhelm Hittorf",
+    "biography": "Hittorf was a German physicist and chemist who spent his career in Münster after training with Plücker. He made quantitative investigations of ionic transport and low-pressure discharges and helped build experimental physics teaching at his institution.",
+    "contributions": [
+      "Developed methods for measuring ionic transport numbers in electrolytes",
+      "Investigated straight-line cathode-ray propagation and the shadows cast by objects",
+      "Studied gas spectra with Plücker and advanced discharge physics"
+    ],
+    "fields": [
+      "Electrochemistry",
+      "Gas discharges",
+      "Spectroscopy"
+    ],
+    "birth_display": "27 March 1824",
+    "death_display": "28 November 1914",
+    "notes": [],
+    "portrait_alt": "Portrait of Johann Wilhelm Hittorf",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Wilhelm Hittorf — University of Münster, Department of Physics history",
+        "url": "https://www.uni-muenster.de/Physik/en/der_fachbereich/geschichte.html"
+      },
+      {
+        "title": "Johann Wilhelm Hittorf — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Johann_Wilhelm_Hittorf"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "carl-anton-bjerknes",
+    "name_en": "Carl Anton Bjerknes",
+    "biography": "Carl Anton Bjerknes was a Norwegian mathematician and physicist who moved from mining into university teaching in Christiania. Inspired by Dirichlet's hydrodynamics, he studied pulsating bodies in fluids and collaborated with his son Vilhelm on experimental tests.",
+    "contributions": [
+      "Investigated forces between pulsating or oscillating bodies in ideal fluids",
+      "Developed hydrodynamic analogies for electromagnetic phenomena",
+      "Connected mathematical fluid theory with experiments underlying later Bjerknes-force studies"
+    ],
+    "fields": [
+      "Fluid mechanics",
+      "Mathematical physics",
+      "Electromagnetic analogies"
+    ],
+    "birth_display": "24 October 1825",
+    "death_display": "20 March 1903",
+    "notes": [
+      "The hydrodynamic electromagnetic analogy is a historical model, not a modern microscopic explanation of electromagnetism."
+    ],
+    "portrait_alt": "Portrait of Carl Anton Bjerknes",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Carl Anton Bjerknes — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bjerknes_Carl/"
+      },
+      {
+        "title": "Carl Anton Bjerknes — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Carl_Anton_Bjerknes"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "carl-gottfried-neumann",
+    "name_en": "Carl Gottfried Neumann",
+    "biography": "Carl Gottfried Neumann was a German mathematician, son of Franz Neumann, who taught for many years in Leipzig. His work on potential theory, integral equations, mechanics and optics developed systematic tools for mathematical physics; he also helped found Mathematische Annalen.",
+    "contributions": [
+      "Advanced potential theory and boundary-value methods prescribing normal derivatives",
+      "Developed integral-equation methods and Neumann series",
+      "Applied analysis to mechanics, electrostatics and optics"
+    ],
+    "fields": [
+      "Potential theory",
+      "Mathematical physics",
+      "Boundary-value problems"
+    ],
+    "birth_display": "7 May 1832",
+    "death_display": "27 March 1925",
+    "notes": [],
+    "portrait_alt": "Portrait of Carl Gottfried Neumann",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Carl Gottfried Neumann — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Neumann_Carl/"
+      },
+      {
+        "title": "Carl Gottfried Neumann — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Carl_Gottfried_Neumann"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "louis-paul-cailletet",
+    "name_en": "Louis Paul Cailletet",
+    "biography": "Cailletet was a French experimental physicist and industrial researcher whose interest in gases grew from iron production. In 1877 his compression, cooling and rapid-expansion experiments produced evidence of oxygen liquefaction, helping overturn the idea of permanently gaseous substances.",
+    "contributions": [
+      "Performed early oxygen-liquefaction experiments using compression and expansion",
+      "Developed apparatus for studying gases at high pressure",
+      "Advanced low-temperature and gas-liquefaction techniques"
+    ],
+    "fields": [
+      "Low-temperature physics",
+      "High-pressure physics",
+      "Experimental techniques"
+    ],
+    "birth_display": "21 September 1832",
+    "death_display": "5 January 1913",
+    "notes": [],
+    "portrait_alt": "Portrait of Louis Paul Cailletet",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Louis Paul Cailletet — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Louis_Paul_Cailletet"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "friedrich-kohlrausch",
+    "name_en": "Friedrich Kohlrausch",
+    "biography": "Friedrich Kohlrausch was a German experimental physicist who taught in Würzburg and Strasbourg and later headed the Physikalisch-Technische Reichsanstalt. He combined precision measurement with electrolyte research and laboratory teaching, producing an influential practical physics textbook.",
+    "contributions": [
+      "Established independent ionic migration at infinite dilution",
+      "Developed precision conductivity measurements, including alternating-current bridge methods",
+      "Advanced electrical standards, metrology and systematic laboratory teaching"
+    ],
+    "fields": [
+      "Electrochemistry",
+      "Precision measurement",
+      "Metrology"
+    ],
+    "birth_display": "14 October 1840",
+    "death_display": "17 January 1910",
+    "notes": [],
+    "portrait_alt": "Portrait of Friedrich Kohlrausch",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Friedrich Kohlrausch — University of Würzburg Archives",
+        "url": "https://www.uni-wuerzburg.de/en/uniarchiv/personalities/plaques-in-honour-of-eminent-scholars/friedrich-kohlrausch/"
+      },
+      {
+        "title": "Friedrich Kohlrausch — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Friedrich_Kohlrausch_%28physicist%29"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "emil-warburg",
+    "name_en": "Emil Warburg",
+    "biography": "Warburg was a German physicist who worked in Strasbourg, Freiburg and Berlin and headed the Physikalisch-Technische Reichsanstalt. His research ranged across kinetic theory, electromagnetic phenomena and photochemistry, connecting experiment, theory and physical standards.",
+    "contributions": [
+      "Related the area of a magnetic hysteresis loop to energy dissipation",
+      "Investigated rarefied gases and mercury-vapour thermal properties with Kundt",
+      "Advanced electrochemical diffusion, photochemistry and physical metrology"
+    ],
+    "fields": [
+      "Magnetism",
+      "Physical chemistry",
+      "Metrology"
+    ],
+    "birth_display": "9 March 1846",
+    "death_display": "28 July 1931",
+    "notes": [],
+    "portrait_alt": "Portrait of Emil Warburg",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Emil Warburg — Neue Deutsche Biographie",
+        "url": "https://www.deutsche-biographie.de/sfz18948.html"
+      },
+      {
+        "title": "Emil Warburg — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Emil_Warburg"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "raoul-pictet",
+    "name_en": "Raoul Pictet",
+    "biography": "Pictet was a Swiss physicist who taught in Cairo and Geneva before pursuing cryogenic research and industry in Berlin and Paris. His cascade-refrigeration and high-pressure experiments contributed to oxygen liquefaction independently of Cailletet's work in the same period.",
+    "contributions": [
+      "Investigated oxygen liquefaction using cascade cooling and high pressure",
+      "Developed refrigeration machinery and cryogenic methods",
+      "Applied thermodynamics to industrial refrigeration and liquefaction equipment"
+    ],
+    "fields": [
+      "Low-temperature physics",
+      "Thermodynamics",
+      "Applied physics"
+    ],
+    "birth_display": "4 April 1846",
+    "death_display": "24 July 1929",
+    "notes": [
+      "The death date follows the Historical Dictionary of Switzerland: 24 July 1929. Some English references give 27 July.",
+      "Early oxygen liquefaction involved independent work by Cailletet and Pictet; no sole-discoverer claim is made."
+    ],
+    "portrait_alt": "Portrait of Raoul Pictet",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Raoul Pictet — Historical Dictionary of Switzerland",
+        "url": "https://hls-dhs-dss.ch/fr/articles/028910/2024-10-01/"
+      },
+      {
+        "title": "Raoul Pictet — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Raoul_Pictet"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "augusto-righi",
+    "name_en": "Augusto Righi",
+    "biography": "Righi was an Italian experimental physicist trained in engineering and based for much of his career in Bologna. His improved spark oscillators and short-wavelength electromagnetic experiments influenced early radio work, while his magneto-optical research and institution building strengthened Italian physics.",
+    "contributions": [
+      "Generated short-wavelength electromagnetic waves and studied their reflection, interference and polarization",
+      "Investigated magnetic effects on light and thermoelectric transport",
+      "Developed precision apparatus and helped build Italian electromagnetic research"
+    ],
+    "fields": [
+      "Electromagnetic waves",
+      "Magneto-optics",
+      "Experimental physics"
+    ],
+    "birth_display": "27 August 1850",
+    "death_display": "8 June 1920",
+    "notes": [],
+    "portrait_alt": "Portrait of Augusto Righi",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Augusto Righi — University of Bologna Historical Archives",
+        "url": "https://archiviostorico.unibo.it/it/patrimonio-documentario/ritratti-di-docenti?record=27562"
+      },
+      {
+        "title": "Augusto Righi — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Augusto_Righi"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "woldemar-voigt",
+    "name_en": "Woldemar Voigt",
+    "biography": "Voigt was a German physicist who trained with Franz Neumann and worked in Königsberg and Göttingen. He related crystal symmetry to elastic, electrical and optical behaviour and taught researchers including Drude, Pockels and Ritz, helping establish crystal physics.",
+    "contributions": [
+      "Developed tensor and symmetry descriptions of anisotropic crystal properties",
+      "Investigated elasticity, piezoelectricity and magneto-optical phenomena",
+      "Provided theoretical tools including the Voigt spectral-line profile"
+    ],
+    "fields": [
+      "Crystal physics",
+      "Elasticity",
+      "Spectroscopy"
+    ],
+    "birth_display": "2 September 1850",
+    "death_display": "13 December 1919",
+    "notes": [],
+    "portrait_alt": "Portrait of Woldemar Voigt",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Woldemar Voigt — Neue Deutsche Biographie",
+        "url": "https://www.deutsche-biographie.de/117478008.html"
+      },
+      {
+        "title": "Woldemar Voigt — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Woldemar_Voigt"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "arthur-schuster",
+    "name_en": "Arthur Schuster",
+    "biography": "Schuster was a German-born British physicist based in Manchester. He investigated discharges, spectra, solar phenomena and geomagnetism, while building laboratories and research training. His scientific and organizational work helped professionalize British physics.",
+    "contributions": [
+      "Investigated gas discharges and atomic spectra",
+      "Developed approximate treatments of radiative transfer in spectroscopy",
+      "Studied geomagnetism and solar phenomena and built experimental research facilities in Manchester"
+    ],
+    "fields": [
+      "Spectroscopy",
+      "Gas discharges",
+      "Geophysics"
+    ],
+    "birth_display": "12 September 1851",
+    "death_display": "14 October 1934",
+    "notes": [],
+    "portrait_alt": "Portrait of Arthur Schuster",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Arthur Schuster — University of Manchester",
+        "url": "https://www.ww1.manchester.ac.uk/arthur-schuster/"
+      },
+      {
+        "title": "Arthur Schuster — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Arthur_Schuster"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "louis-georges-gouy",
+    "name_en": "Louis Georges Gouy",
+    "biography": "Gouy was a French physicist at Lyon whose work spanned optics, electromagnetism and thermodynamics. He investigated phase changes in focused light, ionic distributions near interfaces, magnetism and microscopic motion, combining theory with precision instruments.",
+    "contributions": [
+      "Identified the additional phase shift near an optical focus",
+      "Developed diffuse electrical-double-layer theory",
+      "Introduced the Gouy balance for magnetic-susceptibility measurements and investigated Brownian motion"
+    ],
+    "fields": [
+      "Optics",
+      "Interface physics",
+      "Magnetism"
+    ],
+    "birth_display": "19 February 1854",
+    "death_display": "27 January 1926",
+    "notes": [],
+    "portrait_alt": "Portrait of Louis Georges Gouy",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Louis Georges Gouy — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Louis_Georges_Gouy"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "hendrik-willem-bakhuis-roozeboom",
+    "name_en": "Hendrik Willem Bakhuis Roozeboom",
+    "biography": "Bakhuis Roozeboom was a Dutch physical chemist who worked in Leiden and became a professor in Amsterdam. He systematically applied Gibbs's phase rule to real multicomponent systems, connecting thermodynamic theory with experimentally useful phase diagrams.",
+    "contributions": [
+      "Systematically applied Gibbs's phase rule to multiphase equilibrium",
+      "Investigated solid–liquid equilibria, solid solutions and multicomponent diagrams",
+      "Advanced applications of phase thermodynamics to chemical and materials research"
+    ],
+    "fields": [
+      "Thermodynamics",
+      "Phase equilibrium",
+      "Physical chemistry"
+    ],
+    "birth_display": "24 October 1854",
+    "death_display": "8 February 1907",
+    "notes": [],
+    "portrait_alt": "Portrait of Hendrik Willem Bakhuis Roozeboom",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Bakhuis Roozeboom Medal: phase theory legacy — Royal Netherlands Academy",
+        "url": "https://storage.knaw.nl/2023-03/Bakuis-Roozeboom-Medal-regulations.pdf"
+      },
+      {
+        "title": "Hendrik Willem Bakhuis Roozeboom — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Hendrik_Willem_Bakhuis_Roozeboom"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "johannes-rydberg",
+    "name_en": "Johannes Rydberg",
+    "biography": "Rydberg was a Swedish physicist at Lund whose early training was in mathematics. By comparing spectra of different elements and expressing their patterns in wavenumbers, he organized complicated observations into regularities that became crucial to quantum atomic theory.",
+    "contributions": [
+      "Formulated spectral-series relations in wavenumber form",
+      "Established systematic comparisons of spectral lines and the Rydberg constant",
+      "Provided empirical foundations for energy-level descriptions, the Ritz combination principle and later quantum atomic models"
+    ],
+    "fields": [
+      "Atomic spectroscopy",
+      "Atomic structure",
+      "Mathematical physics"
+    ],
+    "birth_display": "8 November 1854",
+    "death_display": "28 December 1919",
+    "notes": [],
+    "portrait_alt": "Portrait of Johannes Rydberg",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Johannes Rydberg — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Rydberg/"
+      },
+      {
+        "title": "Johannes Rydberg — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Johannes_Rydberg"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "julius-elster",
+    "name_en": "Julius Elster",
+    "biography": "Elster was a German physicist and schoolteacher who collaborated with his childhood friend Hans Geitel in Wolfenbüttel. Their research outside normal teaching duties addressed photoelectricity, atmospheric electricity and radioactivity, demonstrating the scientific reach of carefully organized independent experiments.",
+    "contributions": [
+      "Developed sensitive photoelectric cells and measurements with Geitel",
+      "Studied atmospheric ionization, electrical phenomena and precipitation charge",
+      "Investigated radioactivity and its connection with energy within atoms"
+    ],
+    "fields": [
+      "Photoelectric effects",
+      "Atmospheric electricity",
+      "Radioactivity"
+    ],
+    "birth_display": "24 December 1854",
+    "death_display": "8 April 1920",
+    "notes": [
+      "The death date follows Neue Deutsche Biographie: 8 April 1920. English Wikipedia and some derivative references give 6 April."
+    ],
+    "portrait_alt": "Julius Elster and Hans Geitel conducting an experiment",
+    "portrait_note": "A historical photograph of Julius Elster and Hans Geitel conducting an experiment, extracted unchanged from Figure 1 of Fricke and Schlegel (2017), credited to Archiv Fricke. This is a two-person photograph rather than a solo headshot.",
+    "sources": [
+      {
+        "title": "Julius Elster — Neue Deutsche Biographie",
+        "url": "https://www.deutsche-biographie.de/sfz13120.html"
+      },
+      {
+        "title": "Julius Elster — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Julius_Elster"
+      },
+      {
+        "title": "Julius Elster and Hans Geitel — History of Geo- and Space Sciences (2017)",
+        "url": "https://hgss.copernicus.org/articles/8/1/2017/"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "hans-geitel",
+    "name_en": "Hans Geitel",
+    "biography": "Geitel was a German physicist and teacher who worked closely with Elster in Wolfenbüttel. Combining physical interpretation with careful experiments on photocurrents, air ionization and radioactivity, their collaboration linked nineteenth-century electricity with emerging atomic physics.",
+    "contributions": [
+      "Developed photoelectric cells and low-light electrical detection with Elster",
+      "Investigated atmospheric electricity and spontaneous air ionization",
+      "Contributed to early investigations of radioactivity and atomic-energy concepts"
+    ],
+    "fields": [
+      "Photoelectric effects",
+      "Atmospheric electricity",
+      "Atomic physics"
+    ],
+    "birth_display": "16 July 1855",
+    "death_display": "15 August 1923",
+    "notes": [
+      "The death date follows Neue Deutsche Biographie: 15 August 1923. A 2017 historical article gives 23 August; this source discrepancy is retained."
+    ],
+    "portrait_alt": "Julius Elster and Hans Geitel conducting an experiment",
+    "portrait_note": "A historical photograph of Julius Elster and Hans Geitel conducting an experiment, extracted unchanged from Figure 1 of Fricke and Schlegel (2017), credited to Archiv Fricke. This is a two-person photograph rather than a solo headshot.",
+    "sources": [
+      {
+        "title": "Hans Geitel — Neue Deutsche Biographie",
+        "url": "https://www.deutsche-biographie.de/sfz20248.html"
+      },
+      {
+        "title": "Hans Geitel — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Hans_Geitel"
+      },
+      {
+        "title": "Julius Elster and Hans Geitel — History of Geo- and Space Sciences (2017)",
+        "url": "https://hgss.copernicus.org/articles/8/1/2017/"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "edwin-hall",
+    "name_en": "Edwin Hall",
+    "biography": "Hall was an American experimental physicist who discovered the Hall effect as a graduate student at Johns Hopkins and later taught at Harvard. His investigations of metallic transport under electrical, magnetic and thermal influences linked precision experiments with developing electron theory.",
+    "contributions": [
+      "Discovered the transverse voltage produced in a current-carrying conductor by a magnetic field",
+      "Investigated electrical, thermoelectric and thermomagnetic transport in metals",
+      "Provided an experimental effect later central to carrier measurements and quantum transport"
+    ],
+    "fields": [
+      "Electronic transport",
+      "Electromagnetism",
+      "Condensed-matter physics"
+    ],
+    "birth_display": "7 November 1855",
+    "death_display": "20 November 1938",
+    "notes": [],
+    "portrait_alt": "Portrait of Edwin Hall",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Elucidating the Hall Effect — American Physical Society",
+        "url": "https://www.aps.org/apsnews/1998/12/elucidating-the-hall-effect"
+      },
+      {
+        "title": "Edwin Hall — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Edwin_Hall"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "carl-runge",
+    "name_en": "Carl Runge",
+    "biography": "Runge was a German mathematician and physicist who worked in Hanover and Göttingen. He developed numerical techniques for differential equations while studying atomic spectra with experimental collaborators including Paschen, connecting practical computation with precision spectroscopy.",
+    "contributions": [
+      "Developed numerical integration methods associated with Runge and Kutta",
+      "Investigated spectral series and precision atomic spectra",
+      "Advanced interpolation, approximation and applied mathematical methods for physics"
+    ],
+    "fields": [
+      "Numerical methods",
+      "Spectroscopy",
+      "Mathematical physics"
+    ],
+    "birth_display": "30 August 1856",
+    "death_display": "3 January 1927",
+    "notes": [],
+    "portrait_alt": "Portrait of Carl Runge",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Carl Runge — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Runge/"
+      },
+      {
+        "title": "Carl Runge — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Carl_Runge"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "knut-angstrom",
+    "name_en": "Knut Ångström",
+    "biography": "Knut Ångström was a Swedish experimental physicist and son of Anders Jonas Ångström. Working in Stockholm and Uppsala, he investigated solar radiation and atmospheric absorption and designed influential radiometric instruments while developing new physics facilities.",
+    "contributions": [
+      "Developed an electrical-compensation pyrheliometer for direct solar radiation",
+      "Measured the solar constant and solar radiation at high-altitude sites",
+      "Investigated infrared absorption by atmospheric gases"
+    ],
+    "fields": [
+      "Solar physics",
+      "Atmospheric physics",
+      "Radiometry"
+    ],
+    "birth_display": "12 January 1857",
+    "death_display": "4 March 1910",
+    "notes": [],
+    "portrait_alt": "Portrait of Knut Ångström",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Anders and Knut Ångström — Uppsala University",
+        "url": "https://www.uu.se/campus/angstromlaboratoriet/om-oss/historik/anders-och-knut-angstrom"
+      },
+      {
+        "title": "Knut Ångström — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Knut_%C3%85ngstr%C3%B6m"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "ferdinand-kurlbaum",
+    "name_en": "Ferdinand Kurlbaum",
+    "biography": "Kurlbaum was a German experimental physicist at the Physikalisch-Technische Reichsanstalt and technical institutions in Berlin. He improved thermal-radiation detectors and absolute measurements, collaborating with Rubens on data crucial to testing radiation theories around 1900.",
+    "contributions": [
+      "Improved bolometers and absolute radiation measurements",
+      "Investigated long-wavelength black-body radiation with Rubens",
+      "Studied radiated power and high-temperature measurement standards"
+    ],
+    "fields": [
+      "Thermal radiation",
+      "Radiometry",
+      "Experimental techniques"
+    ],
+    "birth_display": "4 October 1857",
+    "death_display": "29 July 1927",
+    "notes": [],
+    "portrait_alt": "Portrait of Ferdinand Kurlbaum",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Ferdinand Kurlbaum — Neue Deutsche Biographie",
+        "url": "https://www.deutsche-biographie.de/sfz47150.html"
+      },
+      {
+        "title": "Ferdinand Kurlbaum — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Ferdinand_Kurlbaum"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "svante-arrhenius",
+    "name_en": "Svante Arrhenius",
+    "biography": "Arrhenius was a Swedish physical chemist and physicist who studied in Uppsala and elsewhere in Europe and later directed Stockholm's Nobel physical-chemistry institute. Awarded the 1903 Nobel Prize in Chemistry, he connected ionic theory, solutions and electricity and investigated atmospheric radiation.",
+    "contributions": [
+      "Developed the electrolytic dissociation theory of charged ions in solution",
+      "Formulated the temperature dependence of reaction rates associated with his name",
+      "Made early quantitative calculations of the climatic effects of changing carbon dioxide"
+    ],
+    "fields": [
+      "Physical chemistry",
+      "Electrochemistry",
+      "Climate physics"
+    ],
+    "birth_display": "19 February 1859",
+    "death_display": "2 October 1927",
+    "notes": [],
+    "portrait_alt": "Portrait of Svante Arrhenius",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Svante Arrhenius — Nobel Prize official facts",
+        "url": "https://www.nobelprize.org/prizes/chemistry/1903/arrhenius/facts/"
+      },
+      {
+        "title": "Svante Arrhenius — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Svante_Arrhenius"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "vilhelm-bjerknes",
+    "name_en": "Vilhelm Bjerknes",
+    "biography": "Vilhelm Bjerknes was a Norwegian physicist and meteorologist who began by assisting his father's hydrodynamic research. Working in Stockholm, Leipzig and Bergen, he applied thermodynamics and fluid dynamics to the atmosphere and founded the Bergen school of meteorology.",
+    "contributions": [
+      "Formulated weather prediction as an initial-value problem for physical equations",
+      "Developed physical foundations for atmospheric circulation, air-mass and frontal studies",
+      "Established the Bergen school and helped found dynamical meteorology"
+    ],
+    "fields": [
+      "Atmospheric physics",
+      "Fluid mechanics",
+      "Dynamical meteorology"
+    ],
+    "birth_display": "14 March 1862",
+    "death_display": "9 April 1951",
+    "notes": [],
+    "portrait_alt": "Portrait of Vilhelm Bjerknes",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Vilhelm Bjerknes — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bjerknes_Vilhelm/"
+      },
+      {
+        "title": "Vilhelm Bjerknes — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Vilhelm_Bjerknes"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "friedrich-paschen",
+    "name_en": "Friedrich Paschen",
+    "biography": "Paschen was a German experimental physicist specializing in precision spectroscopy and gas discharges. He taught in Tübingen and headed the Physikalisch-Technische Reichsanstalt. His spectral and external-field experiments provided important evidence for atomic physics and early quantum theory.",
+    "contributions": [
+      "Established the pressure–distance dependence of gas breakdown associated with Paschen's law",
+      "Discovered the infrared Paschen series of hydrogen",
+      "Investigated strong-magnetic-field spectral behaviour with Back, now known as the Paschen–Back effect"
+    ],
+    "fields": [
+      "Atomic spectroscopy",
+      "Gas discharges",
+      "Precision measurement"
+    ],
+    "birth_display": "22 January 1865",
+    "death_display": "25 February 1947",
+    "notes": [],
+    "portrait_alt": "Portrait of Friedrich Paschen",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Friedrich Paschen — Neue Deutsche Biographie",
+        "url": "https://www.deutsche-biographie.de/gnd11889210X.html"
+      },
+      {
+        "title": "Friedrich Paschen — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Friedrich_Paschen"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "heinrich-rubens",
+    "name_en": "Heinrich Rubens",
+    "biography": "Rubens was a German experimental physicist trained under Kundt and active in Berlin. He extended precision infrared measurements to longer wavelengths. Data obtained with Kurlbaum helped guide Planck toward his radiation law, making Rubens an important experimental contributor to early quantum theory.",
+    "contributions": [
+      "Developed far-infrared spectroscopy and selective-reflection techniques",
+      "Measured long-wavelength black-body radiation with Kurlbaum",
+      "Investigated metallic optics and relations between radiation and electrical conductivity"
+    ],
+    "fields": [
+      "Infrared physics",
+      "Thermal radiation",
+      "Precision measurement"
+    ],
+    "birth_display": "30 March 1865",
+    "death_display": "17 July 1922",
+    "notes": [],
+    "portrait_alt": "Portrait of Heinrich Rubens",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Heinrich Rubens — Neue Deutsche Biographie",
+        "url": "https://www.deutsche-biographie.de/info_116669187.html"
+      },
+      {
+        "title": "Heinrich Rubens — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Heinrich_Rubens"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "kristian-birkeland",
+    "name_en": "Kristian Birkeland",
+    "biography": "Birkeland was a Norwegian physicist at the University of Christiania. He combined Arctic observations with magnetized-sphere and electron-beam experiments to investigate aurorae, while also developing an industrial electric-arc process for nitrogen fixation.",
+    "contributions": [
+      "Developed an influential model attributing aurorae to charged particles arriving from the Sun",
+      "Investigated auroral and space-current processes through magnetic observations and terrella experiments",
+      "Developed electric-arc nitrogen fixation with Eyde"
+    ],
+    "fields": [
+      "Space physics",
+      "Plasma physics",
+      "Applied physics"
+    ],
+    "birth_display": "13 December 1867",
+    "death_display": "15 June 1917",
+    "notes": [],
+    "portrait_alt": "Portrait of Kristian Birkeland",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Kristian Birkeland — Norwegian Biographical Lexicon",
+        "url": "https://nbl.snl.no/Kristian_Birkeland"
+      },
+      {
+        "title": "Kristian Birkeland — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Kristian_Birkeland"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "john-sealy-townsend",
+    "name_en": "John Sealy Townsend",
+    "biography": "Townsend was an Irish-born experimental physicist who investigated gas ionization at Cambridge before becoming a professor at Oxford. His quantitative work on electrons and ions established important foundations for gas-discharge and plasma physics.",
+    "contributions": [
+      "Developed quantitative descriptions of impact ionization and electron avalanches, including Townsend discharge coefficients",
+      "Measured transport properties of ions and electrons in gases",
+      "Investigated low-energy electron scattering associated with the Ramsauer–Townsend effect"
+    ],
+    "fields": [
+      "Gas discharges",
+      "Plasma physics",
+      "Electronic transport"
+    ],
+    "birth_display": "7 June 1868",
+    "death_display": "16 February 1957",
+    "notes": [],
+    "portrait_alt": "Portrait of John Sealy Townsend",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "John Sealy Townsend — Royal Society archive",
+        "url": "https://catalogues.royalsociety.org/CalmView/Record.aspx?src=CalmView.Persons&id=NA2902&pos=3"
+      },
+      {
+        "title": "John Sealy Townsend — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/John_Sealy_Townsend"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "gustav-mie",
+    "name_en": "Gustav Mie",
+    "biography": "Mie was a German theoretical physicist who taught in Greifswald, Halle and Freiburg. His work on electromagnetic fields and matter included a rigorous calculation of scattering by spheres, influential in optics and particle characterization, as well as attempts at field-based models of matter.",
+    "contributions": [
+      "Developed a complete electromagnetic scattering solution for homogeneous spheres",
+      "Explained scattering and colour effects in colloidal particle systems",
+      "Investigated electromagnetic field theory and field models of matter"
+    ],
+    "fields": [
+      "Electromagnetism",
+      "Light scattering",
+      "Theoretical physics"
+    ],
+    "birth_display": "29 September 1868",
+    "death_display": "13 February 1957",
+    "notes": [],
+    "portrait_alt": "Portrait of Gustav Mie",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Gustav Mie — Neue Deutsche Biographie",
+        "url": "https://www.deutsche-biographie.de/pnd118733826.html"
+      },
+      {
+        "title": "Gustav Mie — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Gustav_Mie"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "marian-smoluchowski",
+    "name_en": "Marian Smoluchowski",
+    "biography": "Smoluchowski was a Polish physicist educated in Vienna who taught in Lviv and Kraków. He used molecular and probabilistic reasoning to explain Brownian motion, fluctuations and colloids, independently contributing alongside Einstein to tests of atomism and the foundations of statistical physics.",
+    "contributions": [
+      "Independently developed a theory of Brownian motion",
+      "Advanced statistical descriptions of diffusion, fluctuations and non-equilibrium random processes",
+      "Formulated a kinetic equation for colloidal coagulation"
+    ],
+    "fields": [
+      "Statistical physics",
+      "Brownian motion",
+      "Non-equilibrium physics"
+    ],
+    "birth_display": "28 May 1872",
+    "death_display": "5 September 1917",
+    "notes": [],
+    "portrait_alt": "Portrait of Marian Smoluchowski",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Marian Smoluchowski — MacTutor, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Smoluchowski/"
+      },
+      {
+        "title": "Marian Smoluchowski — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Marian_Smoluchowski"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "friedrich-hasenohrl",
+    "name_en": "Friedrich Hasenöhrl",
+    "biography": "Hasenöhrl was an Austrian theoretical physicist trained in Vienna under figures including Boltzmann. He later held a Vienna professorship and investigated kinetic theory, radiation and electromagnetic inertia. He was killed during the First World War.",
+    "contributions": [
+      "Investigated the contribution of cavity radiation to inertia",
+      "Studied kinetic theory and the thermodynamics of radiation",
+      "Contributed to theoretical physics research and education during the transition to relativity and quantum theory"
+    ],
+    "fields": [
+      "Thermal radiation",
+      "Kinetic theory of gases",
+      "Theoretical physics"
+    ],
+    "birth_display": "30 November 1874",
+    "death_display": "7 October 1915",
+    "notes": [
+      "His calculation of cavity-radiation inertia differs from the universal mass–energy relation of special relativity; it is not presented as establishing E=mc² before Einstein."
+    ],
+    "portrait_alt": "Portrait of Friedrich Hasenöhrl",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Friedrich Hasenöhrl — University of Vienna Library",
+        "url": "https://bibliothek.univie.ac.at/zb-physik-fb-chemie/friedrich_hasenohrl.html"
+      },
+      {
+        "title": "Friedrich Hasenöhrl — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Friedrich_Hasen%C3%B6hrl"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "walter-ritz",
+    "name_en": "Walter Ritz",
+    "biography": "Ritz was a Swiss theoretical physicist who studied and worked in Zürich and Göttingen before dying young from illness. His mathematical approximation methods and empirical organization of spectra both became enduring tools, despite the brevity of his career.",
+    "contributions": [
+      "Formulated the combination principle expressing spectral wavenumbers as differences of terms",
+      "Developed variational approximation methods for vibration and boundary-value problems",
+      "Investigated theoretical questions in spectroscopy and electrodynamics"
+    ],
+    "fields": [
+      "Spectroscopy",
+      "Variational methods",
+      "Mathematical physics"
+    ],
+    "birth_display": "22 February 1878",
+    "death_display": "7 July 1909",
+    "notes": [],
+    "portrait_alt": "Portrait of Walter Ritz",
+    "portrait_note": "For the image’s date, creator, form and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Gander and Wanner: From Euler, Ritz, and Galerkin to Modern Computing — SIAM Review",
+        "url": "https://epubs.siam.org/doi/10.1137/100804036"
+      },
+      {
+        "title": "Walter Ritz — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Walter_Ritz"
+      }
+    ],
+    "editorial_basis": "Original English summary based on the cited sources and the audited Chinese record."
+  },
+  {
+    "id": "werner-von-siemens",
+    "name_en": "Werner von Siemens",
+    "biography": "Siemens was a German electrical engineer, inventor and industrial research organizer trained in the Prussian army. He founded a company with Halske and translated electromagnetic experiments into generators, telegraphy and electrical measurement, contributing to nineteenth-century power systems.",
+    "contributions": [
+      "Independently contributed to the discovery and development of self-excited dynamo generation",
+      "Improved telegraphs, insulated cables and electrical equipment",
+      "Developed electrical measuring instruments, including electrodynamometers for direct and alternating currents"
+    ],
+    "fields": [
+      "Electromagnetism",
+      "Electrical measurement",
+      "Applied physics"
+    ],
+    "birth_display": "13 December 1816",
+    "death_display": "6 December 1892",
+    "notes": [
+      "Included as an engineer and inventor for important electromagnetic or electronic experimental contributions; these technologies developed through the work of multiple pioneers."
+    ],
+    "portrait_alt": "Portrait of Werner von Siemens",
+    "portrait_note": "For the image’s date, creator and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Werner von Siemens — Magnet Academy, National High Magnetic Field Laboratory",
+        "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/werner-von-siemens/"
+      },
+      {
+        "title": "Werner von Siemens — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Werner_von_Siemens"
+      },
+      {
+        "title": "Siemens electrodynamometer — Smithsonian National Museum of American History",
+        "url": "https://americanhistory.si.edu/collections/object/nmah_1183906"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the institutional biographies and the Chinese record."
+  },
+  {
+    "id": "john-ambrose-fleming",
+    "name_en": "John Ambrose Fleming",
+    "biography": "Fleming was a British electrical engineer and physicist who studied with Maxwell and became a professor at University College London. As an adviser to Edison and Marconi enterprises, he applied thermionic emission to radio detection and helped establish vacuum-tube electronics.",
+    "contributions": [
+      "Developed the Fleming thermionic valve for rectification and detection",
+      "Investigated high-frequency signal reception and radio instruments",
+      "Advanced university electrical-engineering education and teaching rules for electromagnetic directions"
+    ],
+    "fields": [
+      "Thermionic emission",
+      "Radio physics",
+      "Electrical technology"
+    ],
+    "birth_display": "29 November 1849",
+    "death_display": "18 April 1945",
+    "notes": [
+      "Included as an engineer and inventor for important electromagnetic or electronic experimental contributions; these technologies developed through the work of multiple pioneers."
+    ],
+    "portrait_alt": "Portrait of John Ambrose Fleming",
+    "portrait_note": "For the image’s date, creator and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "John Ambrose Fleming — Magnet Academy, National High Magnetic Field Laboratory",
+        "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/john-ambrose-fleming/"
+      },
+      {
+        "title": "John Ambrose Fleming — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/John_Ambrose_Fleming"
+      },
+      {
+        "title": "The birth of electronics — University College London",
+        "url": "https://www.ucl.ac.uk/made-at-ucl/stories/birth-electronics-we-know-it"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the institutional biographies and the Chinese record."
+  },
+  {
+    "id": "lee-de-forest",
+    "name_en": "Lee de Forest",
+    "biography": "De Forest was an American inventor and electronics pioneer trained in physics and electricity at Yale. His work on radio devices introduced the control-grid Audion tube, an important step toward electronic amplification and oscillation; he also investigated sound-on-film systems.",
+    "contributions": [
+      "Developed the control-grid Audion triode",
+      "Advanced the use of vacuum tubes in amplification, modulation and oscillation",
+      "Investigated radio broadcasting and electronic sound-on-film recording"
+    ],
+    "fields": [
+      "Electronic devices",
+      "Radio physics",
+      "Applied physics"
+    ],
+    "birth_display": "26 August 1873",
+    "death_display": "30 June 1961",
+    "notes": [
+      "Included as an engineer and inventor for important electromagnetic or electronic experimental contributions; these technologies developed through the work of multiple pioneers."
+    ],
+    "portrait_alt": "Portrait of Lee de Forest",
+    "portrait_note": "For the image’s date, creator and attribution, see its source record.",
+    "sources": [
+      {
+        "title": "Lee de Forest — Magnet Academy, National High Magnetic Field Laboratory",
+        "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/lee-de-forest/"
+      },
+      {
+        "title": "Lee de Forest — Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Lee_de_Forest"
+      }
+    ],
+    "editorial_basis": "Original English summary checked against the institutional biographies and the Chinese record."
+  }
+]

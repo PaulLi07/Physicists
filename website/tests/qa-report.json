@@ -1,0 +1,63 @@
+{
+  "checked_at": "2026-10-26T15:12:09.701513+08:00",
+  "reviewer": "website_qa (independent UI/data review)",
+  "passed": true,
+  "command": "node --test website/tests/search.test.cjs",
+  "node_counts": {
+    "tests": 15,
+    "pass": 15,
+    "fail": 0
+  },
+  "failed_tests": [],
+  "scope": [
+    "All 721 Chinese/English biography, contribution, field, note, date-display and source-URL payloads compared with archive files",
+    "Name, field, diacritic, multiword, combined-domain and inclusive-era filtering on real people",
+    "Lightweight DOM model for URL state, language switching, exact-person restoration, unknown life status, modal cancellation/closure and no-result reset",
+    "Keyboard focus regressions for era re-render and incremental pagination"
+  ],
+  "limitations": [
+    "No real browser was used by this agent to avoid conflict with the parent browser session.",
+    "The lightweight DOM model does not certify native dialog focus trapping, actual browser Back/Forward behavior, visual layout or mobile overflow; parent browser QA covers those."
+  ],
+  "findings": [
+    {
+      "id": "era-control-focus",
+      "status": "resolved",
+      "description": "The activated era button is replaced by renderFacets; preserve focus on its regenerated equivalent."
+    },
+    {
+      "id": "load-more-focus",
+      "status": "resolved",
+      "description": "Move focus to the first newly revealed card; final-page hiding must not leave focus on a hidden button."
+    }
+  ],
+  "source_sha256": {
+    "website/src/core.js": "ae72bd69bc4602b5c3e91b4ae542d2602d59a0deb9c0a10483bb524993483ef5",
+    "website/src/app.js": "26f51564db78e55489883d55d0e4121e61acf1ae8e738871f54e107451b66105",
+    "website/src/index.html": "1b637597728304895d4c41685c5840bf5d6dcffc8d55f8b13a80ce5be6a2b061",
+    "website/src/styles.css": "7e68be17d4fed49721f9a4b0c32f8e0cec1f37fcaa68b668c54ff05879ba3d65",
+    "website/dist/data/archive.js": "fe3aea53678aab1acd54c1153d4446c6a1605d6523ef5b23b344d987a97468e0"
+  },
+  "previous_result": {
+    "tests": 15,
+    "pass": 13,
+    "fail": 2,
+    "findings": [
+      "Era control focus lost after renderFacets replaced its button",
+      "Load-more focus remained on old control rather than first newly revealed card"
+    ]
+  },
+  "final_review": "Final simplified research-style source reviewed after rebuild. All 15 regression groups pass against the actual current HTML node inventory. Era and pagination focus fixes remain effective. Removed hero/gallery nodes have no live initialization references. No new major logic defect identified.",
+  "source_and_dist_match": {
+    "core.js": true,
+    "app.js": true,
+    "index.html": true,
+    "styles.css": true
+  },
+  "final_read_only_content_review": {
+    "profile_layout": "Heading, visual and main content sections retain life dates, bilingual names, fields, Nobel years, full biography, all contributions and historical notes.",
+    "image_details": "Native details wraps the complete creator, optional nonempty credit, licence/rights statement with available link, and original source link. Image classification/caption and permission-required notice remain outside the collapsed details.",
+    "numbered_sources": "sourceList still maps every person.sources[lang] entry in original order into an li with title and URL. Only the container changed to ol; no filtering, slicing or truncation was added.",
+    "scope": "Source inspection and 721-record payload comparison; real-browser visual/layout/native-dialog tests remain under parent verification."
+  }
+}

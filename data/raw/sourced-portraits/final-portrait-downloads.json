@@ -1,0 +1,26 @@
+[
+  {
+    "name": "lu-jeu-sham",
+    "url": "https://cmrr.ucsd.edu/_images/profiles/sham.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 17443,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/final-portrait-lu-jeu-sham.jpg"
+  },
+  {
+    "name": "immanuel-bloch",
+    "url": "https://www.mpq.mpg.de/employee_images/34641-1569830889?t=ZXlKM2FXUjBhQ0k2TWpFekxDSm9aV2xuYUhRaU9qSTNOQ3dpWm1sMElqb2lZM0p2Y0NJc0ltWnBiR1ZmWlhoMFpXNXphVzl1SWpvaWFuQm5JbjA9LS0wYjQ4MDgwM2M1YWQzNTE0YWFhOTcwOTk4MjM1YjZhOWY3YzUxZTY0",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 8934,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/final-portrait-immanuel-bloch.jpg"
+  },
+  {
+    "name": "paul-corkum",
+    "url": "https://nrc.canada.ca/sites/default/files/2023-02/sdt-carousel-paul-corkum-bva-award-1170x347.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 89334,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/final-portrait-paul-corkum.jpg"
+  }
+]

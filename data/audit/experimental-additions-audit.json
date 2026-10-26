@@ -1,0 +1,464 @@
+{
+  "as_of": "2026-10-26",
+  "cohort": "experimental additions",
+  "people_added": 10,
+  "sources_requested": 35,
+  "sources_retrieved": 27,
+  "review_method": "Fresh institutional and scholarly biography review, plus original discovery-paper attribution where available. Historical conflicts remain visible in both languages. English self-review precedes a separate independent peer review.",
+  "people": [
+    {
+      "id": "frederick-soddy",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death/status",
+        "career",
+        "contributions",
+        "attribution",
+        "date precision",
+        "Chinese–English equivalence"
+      ],
+      "source_evidence": [
+        {
+          "title": "University of Glasgow — Frederick Soddy",
+          "url": "https://worldchanging.glasgow.ac.uk/notable-people/?id=89",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        },
+        {
+          "title": "Royal Society — Frederick Soddy",
+          "url": "https://makingscience.royalsociety.org/people/na8018/frederick-soddy",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        },
+        {
+          "title": "Nobel Prize — Frederick Soddy",
+          "url": "https://www.nobelprize.org/prizes/chemistry/1921/soddy/facts/",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        },
+        {
+          "title": "Frederick Soddy — reference biography",
+          "url": "https://en.wikipedia.org/wiki/Frederick_Soddy",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        }
+      ],
+      "issues": [
+        "Death-day conflict (22/26 September 1956) explicitly retained rather than silently selecting one institutional catalogue."
+      ],
+      "resolutions": [
+        "Added after comparison with the existing archive; checked career and contribution attribution against institutional or scholarly sources.",
+        "Self-reviewed every English sentence against the Chinese profile, including terminology and uncertainty notes."
+      ],
+      "unresolved": [
+        "Sources disagree on the day of death: Glasgow and Nobel records give 22 September 1956, while the Royal Society catalogue gives 26 September. The canonical date retains month precision pending confirmation from an original record."
+      ]
+    },
+    {
+      "id": "hans-geiger",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death/status",
+        "career",
+        "contributions",
+        "attribution",
+        "date precision",
+        "Chinese–English equivalence"
+      ],
+      "source_evidence": [
+        {
+          "title": "Deutsche Biographie — Hans Geiger",
+          "url": "https://www.deutsche-biographie.de/gnd118538144.html",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        },
+        {
+          "title": "Hans Geiger — reference biography",
+          "url": "https://en.wikipedia.org/wiki/Hans_Geiger",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        }
+      ],
+      "issues": [],
+      "resolutions": [
+        "Added after comparison with the existing archive; checked career and contribution attribution against institutional or scholarly sources.",
+        "Self-reviewed every English sentence against the Chinese profile, including terminology and uncertainty notes."
+      ],
+      "unresolved": []
+    },
+    {
+      "id": "ernest-marsden",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death/status",
+        "career",
+        "contributions",
+        "attribution",
+        "date precision",
+        "Chinese–English equivalence"
+      ],
+      "source_evidence": [
+        {
+          "title": "Te Ara — Ernest Marsden",
+          "url": "https://teara.govt.nz/en/biographies/4m41/marsden-ernest",
+          "retrieval_status": null,
+          "retrieval_error": "HTTP Error 403: Forbidden",
+          "also_read_via_web_tool": true
+        },
+        {
+          "title": "Museum of New Zealand Te Papa — Sir Ernest Marsden",
+          "url": "https://collections.tepapa.govt.nz/Person/45905",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        },
+        {
+          "title": "Ernest Marsden — reference biography",
+          "url": "https://en.wikipedia.org/wiki/Ernest_Marsden",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        }
+      ],
+      "issues": [],
+      "resolutions": [
+        "Added after comparison with the existing archive; checked career and contribution attribution against institutional or scholarly sources.",
+        "Self-reviewed every English sentence against the Chinese profile, including terminology and uncertainty notes."
+      ],
+      "unresolved": []
+    },
+    {
+      "id": "walther-gerlach",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death/status",
+        "career",
+        "contributions",
+        "attribution",
+        "date precision",
+        "Chinese–English equivalence"
+      ],
+      "source_evidence": [
+        {
+          "title": "Deutsche Biographie — Walther Gerlach",
+          "url": "https://www.deutsche-biographie.de/dbo053274.html",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        },
+        {
+          "title": "Walther Gerlach — reference biography",
+          "url": "https://en.wikipedia.org/wiki/Walther_Gerlach",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        }
+      ],
+      "issues": [
+        "Avoided anachronistically describing the original experiment as an intentional measurement of electron spin."
+      ],
+      "resolutions": [
+        "Added after comparison with the existing archive; checked career and contribution attribution against institutional or scholarly sources.",
+        "Self-reviewed every English sentence against the Chinese profile, including terminology and uncertainty notes."
+      ],
+      "unresolved": []
+    },
+    {
+      "id": "lester-germer",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death/status",
+        "career",
+        "contributions",
+        "attribution",
+        "date precision",
+        "Chinese–English equivalence"
+      ],
+      "source_evidence": [
+        {
+          "title": "American Physical Society — Bell Laboratories historic site",
+          "url": "https://www.aps.org/funding-recognition/historic-sites/bell-laboratories-building",
+          "retrieval_status": null,
+          "retrieval_error": "HTTP Error 403: Forbidden",
+          "also_read_via_web_tool": true
+        },
+        {
+          "title": "AIP — Lester Germer papers",
+          "url": "https://history.aip.org/history/catalog/icos/1403.html",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        },
+        {
+          "title": "University of Colorado — Davisson–Germer experiment",
+          "url": "https://www-hep.colorado.edu/~jcumalat/phys2170_f13/lectures/Lec18.pdf",
+          "retrieval_status": null,
+          "retrieval_error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>"
+        },
+        {
+          "title": "Linda Hall Library — Lester Germer",
+          "url": "https://www.lindahall.org/about/news/scientist-of-the-day/lester-germer/",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        },
+        {
+          "title": "Lester Germer — reference biography",
+          "url": "https://en.wikipedia.org/wiki/Lester_Germer",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        }
+      ],
+      "issues": [
+        "Corrected the proposed name Louis Germer to Lester Halbert Germer.",
+        "Death-day discrepancy (3/4 October 1971) retained."
+      ],
+      "resolutions": [
+        "Added after comparison with the existing archive; checked career and contribution attribution against institutional or scholarly sources.",
+        "Self-reviewed every English sentence against the Chinese profile, including terminology and uncertainty notes."
+      ],
+      "unresolved": [
+        "His full name was Lester Halbert Germer; Louis Germer is a mistaken identification.",
+        "The death date is commonly given as 3 October 1971, whereas the Linda Hall Library biography gives 4 October. The canonical date retains month precision and records the discrepancy pending confirmation from a contemporary original record."
+      ]
+    },
+    {
+      "id": "fritz-strassmann",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death/status",
+        "career",
+        "contributions",
+        "attribution",
+        "date precision",
+        "Chinese–English equivalence"
+      ],
+      "source_evidence": [
+        {
+          "title": "Max Planck Society archive — Fritz Strassmann biography",
+          "url": "https://www.archiv-berlin.mpg.de/49031/hausreihe_22.pdf",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        },
+        {
+          "title": "Max Planck Institute for Chemistry — Fritz Strassmann",
+          "url": "https://www.mpic.de/3546641/1949-1953",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        },
+        {
+          "title": "Mainz University — founding chemistry professors",
+          "url": "https://presse.uni-mainz.de/ut-omnes-unum-sint-gruendungsprofessoren-der-chemie-und-pharmazie/",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        },
+        {
+          "title": "Fritz Strassmann — reference biography",
+          "url": "https://en.wikipedia.org/wiki/Fritz_Strassmann",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        }
+      ],
+      "issues": [],
+      "resolutions": [
+        "Added after comparison with the existing archive; checked career and contribution attribution against institutional or scholarly sources.",
+        "Self-reviewed every English sentence against the Chinese profile, including terminology and uncertainty notes."
+      ],
+      "unresolved": []
+    },
+    {
+      "id": "otto-robert-frisch",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death/status",
+        "career",
+        "contributions",
+        "attribution",
+        "date precision",
+        "Chinese–English equivalence"
+      ],
+      "source_evidence": [
+        {
+          "title": "Trinity College Cambridge — Papers of Otto Frisch",
+          "url": "https://archives.trin.cam.ac.uk/index.php/papers-of-otto-robert-frisch",
+          "retrieval_status": null,
+          "retrieval_error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>",
+          "also_read_via_web_tool": true
+        },
+        {
+          "title": "Royal Society — Otto Robert Frisch",
+          "url": "https://makingscience.royalsociety.org/people/na6099/otto-robert-frisch",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        },
+        {
+          "title": "Otto Robert Frisch — reference biography",
+          "url": "https://en.wikipedia.org/wiki/Otto_Robert_Frisch",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        }
+      ],
+      "issues": [],
+      "resolutions": [
+        "Added after comparison with the existing archive; checked career and contribution attribution against institutional or scholarly sources.",
+        "Self-reviewed every English sentence against the Chinese profile, including terminology and uncertainty notes.",
+        "Freshly retrieved Royal Society catalogue confirms 1 October 1904 and 22 September 1979."
+      ],
+      "unresolved": []
+    },
+    {
+      "id": "konstantin-petrzhak",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death/status",
+        "career",
+        "contributions",
+        "attribution",
+        "date precision",
+        "Chinese–English equivalence"
+      ],
+      "source_evidence": [
+        {
+          "title": "Rosatom history portal — Konstantin Petrzhak",
+          "url": "https://www.biblioatom.ru/persons/petrzhak_konstantin_antonovich/",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        },
+        {
+          "title": "Saint Petersburg State Institute of Technology — 110th anniversary",
+          "url": "https://spbti.ru/public/userfiles/files/75/technolog/Tehnolog_sentyabr_2017.pdf",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        },
+        {
+          "title": "JINR — history of spontaneous fission",
+          "url": "https://uc.jinr.ru/images/pdf/ISP/PresentationsLecturers/2022Egypt/FLNR.pdf",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        },
+        {
+          "title": "Physical Review — Spontaneous Fission of Uranium (1940)",
+          "url": "https://doi.org/10.1103/PhysRev.58.89.2",
+          "retrieval_status": null,
+          "retrieval_error": "HTTP Error 403: Forbidden"
+        },
+        {
+          "title": "Konstantin Petrzhak — reference biography",
+          "url": "https://en.wikipedia.org/wiki/Konstantin_Petrzhak",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        }
+      ],
+      "issues": [
+        "Fresh institutional comparison revealed a death-date conflict (10 October versus19 November 1998); reduced precision to the uncontested year."
+      ],
+      "resolutions": [
+        "Added after comparison with the existing archive; checked career and contribution attribution against institutional or scholarly sources.",
+        "Self-reviewed every English sentence against the Chinese profile, including terminology and uncertainty notes."
+      ],
+      "unresolved": [
+        "The day of death is disputed: it is commonly given as 10 October 1998, whereas the Rosatom history portal gives 19 November 1998. No contemporary original record resolving this discrepancy was obtained, so the canonical date retains year precision."
+      ]
+    },
+    {
+      "id": "edward-teller",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death/status",
+        "career",
+        "contributions",
+        "attribution",
+        "date precision",
+        "Chinese–English equivalence"
+      ],
+      "source_evidence": [
+        {
+          "title": "National Academy of Sciences — Edward Teller",
+          "url": "https://www.nasonline.org/directory-entry/edward-teller-lhwv5g/",
+          "retrieval_status": null,
+          "retrieval_error": "HTTP Error 403: Forbidden",
+          "also_read_via_web_tool": true
+        },
+        {
+          "title": "Freeman Dyson — Edward Teller, NAS Biographical Memoir",
+          "url": "https://www.nasonline.org/wp-content/uploads/2024/06/teller-edward.pdf",
+          "retrieval_status": null,
+          "retrieval_error": "HTTP Error 403: Forbidden",
+          "also_read_via_web_tool": true
+        },
+        {
+          "title": "Lawrence Livermore National Laboratory — Edward Teller obituary",
+          "url": "https://www.llnl.gov/article/29486/director-emeritus-edward-teller-distinguished-physicist-and-education-advocate-dies-95",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        },
+        {
+          "title": "Edward Teller — reference biography",
+          "url": "https://en.wikipedia.org/wiki/Edward_Teller",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        }
+      ],
+      "issues": [],
+      "resolutions": [
+        "Added after comparison with the existing archive; checked career and contribution attribution against institutional or scholarly sources.",
+        "Self-reviewed every English sentence against the Chinese profile, including terminology and uncertainty notes."
+      ],
+      "unresolved": []
+    },
+    {
+      "id": "georgy-flerov",
+      "checked_fields": [
+        "identity",
+        "birth",
+        "death/status",
+        "career",
+        "contributions",
+        "attribution",
+        "date precision",
+        "Chinese–English equivalence"
+      ],
+      "source_evidence": [
+        {
+          "title": "JINR — Remembering the founders",
+          "url": "https://www.jinr.ru/posts/vspominaya-osnovatelej-03_21/",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        },
+        {
+          "title": "Russian Academy of Sciences — Georgy Flerov",
+          "url": "https://new.ras.ru/academy-new/staff/akademiki/flerov-georgiy-nikolaevich/",
+          "retrieval_status": null,
+          "retrieval_error": "HTTP Error 403: Forbidden",
+          "also_read_via_web_tool": true
+        },
+        {
+          "title": "Physical Review — Spontaneous Fission of Uranium (1940)",
+          "url": "https://doi.org/10.1103/PhysRev.58.89.2",
+          "retrieval_status": null,
+          "retrieval_error": "HTTP Error 403: Forbidden"
+        },
+        {
+          "title": "Georgy Flerov — reference biography",
+          "url": "https://en.wikipedia.org/wiki/Georgy_Flerov",
+          "retrieval_status": 200,
+          "retrieval_error": null
+        }
+      ],
+      "issues": [],
+      "resolutions": [
+        "Added after comparison with the existing archive; checked career and contribution attribution against institutional or scholarly sources.",
+        "Self-reviewed every English sentence against the Chinese profile, including terminology and uncertainty notes."
+      ],
+      "unresolved": []
+    }
+  ],
+  "people_with_unresolved_historical_date_conflicts": [
+    "frederick-soddy",
+    "konstantin-petrzhak",
+    "lester-germer"
+  ]
+}

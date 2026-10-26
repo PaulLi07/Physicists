@@ -1,0 +1,271 @@
+[
+  {
+    "id": "friedrich-hund",
+    "checked_fields": [
+      "identity",
+      "birth",
+      "death",
+      "career",
+      "contribution attribution",
+      "Chinese/English factual alignment"
+    ],
+    "sources": [
+      "https://www.saw-leipzig.de/de/personen/hundf",
+      "https://www.physik.uni-jena.de/4030/hund-friedrich-hermann-1896-1997",
+      "https://www.teleschach.de/teleschach/f_hund.htm",
+      "https://en.wikipedia.org/wiki/Friedrich_Hund"
+    ],
+    "method": "Institutional biographies, memoirs or first-person accounts read in the web research pass; source-specific uncertainties are retained in notes.",
+    "as_of": "2026-10-26",
+    "status": "source-checked-new-record"
+  },
+  {
+    "id": "robert-s-mulliken",
+    "checked_fields": [
+      "identity",
+      "birth",
+      "death",
+      "career",
+      "contribution attribution",
+      "Chinese/English factual alignment"
+    ],
+    "sources": [
+      "https://www.nobelprize.org/prizes/chemistry/1966/mulliken/facts/",
+      "https://www.nationalacademies.org/read/9977/chapter/10",
+      "https://www.lib.uchicago.edu/ead/rlg/ICU.SPCL.MULLIKEN.pdf",
+      "https://en.wikipedia.org/wiki/Robert_S._Mulliken"
+    ],
+    "method": "Institutional biographies, memoirs or first-person accounts read in the web research pass; source-specific uncertainties are retained in notes.",
+    "as_of": "2026-10-26",
+    "status": "source-checked-new-record"
+  },
+  {
+    "id": "john-c-slater",
+    "checked_fields": [
+      "identity",
+      "birth",
+      "death",
+      "career",
+      "contribution attribution",
+      "Chinese/English factual alignment"
+    ],
+    "sources": [
+      "https://www.nasonline.org/directory-entry/john-slater-up2tib/",
+      "https://www.nasonline.org/wp-content/uploads/2024/06/slater-john.pdf",
+      "https://en.wikipedia.org/wiki/John_C._Slater"
+    ],
+    "method": "Institutional biographies, memoirs or first-person accounts read in the web research pass; source-specific uncertainties are retained in notes.",
+    "as_of": "2026-10-26",
+    "status": "source-checked-new-record"
+  },
+  {
+    "id": "ralph-kronig",
+    "checked_fields": [
+      "identity",
+      "birth",
+      "death",
+      "career",
+      "contribution attribution",
+      "Chinese/English factual alignment"
+    ],
+    "sources": [
+      "https://www.math.rug.nl/bernoulli/Geschiedenis/Kronig",
+      "https://www.math.rug.nl/bernoulli/uploads/Geschiedenis/levensberichtkronig.pdf",
+      "https://en.wikipedia.org/wiki/Ralph_Kronig"
+    ],
+    "method": "Institutional biographies, memoirs or first-person accounts read in the web research pass; source-specific uncertainties are retained in notes.",
+    "as_of": "2026-10-26",
+    "status": "source-checked-new-record"
+  },
+  {
+    "id": "seth-neddermeyer",
+    "checked_fields": [
+      "identity",
+      "birth",
+      "death",
+      "career",
+      "contribution attribution",
+      "Chinese/English factual alignment"
+    ],
+    "sources": [
+      "https://ahf.nuclearmuseum.org/ahf/profile/seth-neddermeyer/",
+      "https://en.wikipedia.org/wiki/Seth_Neddermeyer"
+    ],
+    "method": "Institutional biographies, memoirs or first-person accounts read in the web research pass; source-specific uncertainties are retained in notes.",
+    "as_of": "2026-10-26",
+    "status": "source-checked-new-record"
+  },
+  {
+    "id": "hendrik-casimir",
+    "checked_fields": [
+      "identity",
+      "birth",
+      "death",
+      "career",
+      "contribution attribution",
+      "Chinese/English factual alignment"
+    ],
+    "sources": [
+      "https://dwc.knaw.nl/DL/levensberichten/PE00004564.pdf",
+      "https://en.wikipedia.org/wiki/Hendrik_Casimir"
+    ],
+    "method": "Institutional biographies, memoirs or first-person accounts read in the web research pass; source-specific uncertainties are retained in notes.",
+    "as_of": "2026-10-26",
+    "status": "source-checked-new-record"
+  },
+  {
+    "id": "carl-friedrich-von-weizsacker",
+    "checked_fields": [
+      "identity",
+      "birth",
+      "death",
+      "career",
+      "contribution attribution",
+      "Chinese/English factual alignment"
+    ],
+    "sources": [
+      "https://gepris-historisch.dfg.de/person/5113433",
+      "https://research.uni-leipzig.de/agintern/UNIGESCH/ug213.htm",
+      "https://www.chemie.uni-hamburg.de/forschung/publikationen/erweiterung/dozenten-uhh/weizsaecker.html",
+      "https://en.wikipedia.org/wiki/Carl_Friedrich_von_Weizs%C3%A4cker"
+    ],
+    "method": "Institutional biographies, memoirs or first-person accounts read in the web research pass; source-specific uncertainties are retained in notes.",
+    "as_of": "2026-10-26",
+    "status": "source-checked-new-record"
+  },
+  {
+    "id": "erwin-hahn",
+    "checked_fields": [
+      "identity",
+      "birth",
+      "death",
+      "career",
+      "contribution attribution",
+      "Chinese/English factual alignment"
+    ],
+    "sources": [
+      "https://hwni.berkeley.edu/news/remembering-erwin-hahn-1921-2016",
+      "https://hahn-institute.de/de/ueber/erwin-l-hahn",
+      "https://en.wikipedia.org/wiki/Erwin_Hahn"
+    ],
+    "method": "Institutional biographies, memoirs or first-person accounts read in the web research pass; source-specific uncertainties are retained in notes.",
+    "as_of": "2026-10-26",
+    "status": "source-checked-new-record"
+  },
+  {
+    "id": "walter-kohn",
+    "checked_fields": [
+      "identity",
+      "birth",
+      "death",
+      "career",
+      "contribution attribution",
+      "Chinese/English factual alignment"
+    ],
+    "sources": [
+      "https://www.ucsb.edu/about/faculty-and-alumni/walter-kohn-1923-2016",
+      "https://www.nasonline.org/wp-content/uploads/2024/06/kohn-walter.pdf",
+      "https://archives.library.ucsb.edu/repositories/2/resources/4397",
+      "https://en.wikipedia.org/wiki/Walter_Kohn"
+    ],
+    "method": "Institutional biographies, memoirs or first-person accounts read in the web research pass; source-specific uncertainties are retained in notes.",
+    "as_of": "2026-10-26",
+    "status": "source-checked-new-record"
+  },
+  {
+    "id": "robert-mills",
+    "checked_fields": [
+      "identity",
+      "birth",
+      "death",
+      "career",
+      "contribution attribution",
+      "Chinese/English factual alignment"
+    ],
+    "sources": [
+      "https://physicstoday.aip.org/letters/remembering-robert-l-mills",
+      "https://physics.osu.edu/sites/default/files/2023-11/history_of_dept._of_physics.pdf",
+      "https://en.wikipedia.org/wiki/Robert_Mills_%28physicist%29"
+    ],
+    "method": "Institutional biographies, memoirs or first-person accounts read in the web research pass; source-specific uncertainties are retained in notes.",
+    "as_of": "2026-10-26",
+    "status": "source-checked-new-record"
+  },
+  {
+    "id": "john-hubbard",
+    "checked_fields": [
+      "identity",
+      "birth",
+      "death",
+      "career",
+      "contribution attribution",
+      "Chinese/English factual alignment"
+    ],
+    "sources": [
+      "https://theor.jinr.ru/~kuzemsky/hubbio2.html",
+      "https://theor.jinr.ru/~kuzemsky/Hubbard_John.pdf",
+      "https://en.wikipedia.org/wiki/John_Hubbard_%28physicist%29"
+    ],
+    "method": "Institutional biographies, memoirs or first-person accounts read in the web research pass; source-specific uncertainties are retained in notes.",
+    "as_of": "2026-10-26",
+    "status": "source-checked-new-record"
+  },
+  {
+    "id": "peter-mansfield",
+    "checked_fields": [
+      "identity",
+      "birth",
+      "death",
+      "career",
+      "contribution attribution",
+      "Chinese/English factual alignment"
+    ],
+    "sources": [
+      "https://www.nobelprize.org/prizes/medicine/2003/mansfield/biographical/",
+      "https://mss-cat.nottingham.ac.uk/calmview/Record.aspx?id=PPM&src=CalmView.Catalog",
+      "https://histmodbiomed.history.qmul.ac.uk/article/professor-sir-peter-mansfield.html",
+      "https://en.wikipedia.org/wiki/Peter_Mansfield"
+    ],
+    "method": "Institutional biographies, memoirs or first-person accounts read in the web research pass; source-specific uncertainties are retained in notes.",
+    "as_of": "2026-10-26",
+    "status": "source-checked-new-record"
+  },
+  {
+    "id": "george-zweig",
+    "checked_fields": [
+      "identity",
+      "birth",
+      "death",
+      "career",
+      "contribution attribution",
+      "Chinese/English factual alignment"
+    ],
+    "sources": [
+      "https://ep-news-wp.web.cern.ch/interview-george-zweig/",
+      "https://www.macfound.org/fellows/class-of-december-1981/george-zweig",
+      "https://en.wikipedia.org/wiki/George_Zweig"
+    ],
+    "method": "Institutional biographies, memoirs or first-person accounts read in the web research pass; source-specific uncertainties are retained in notes.",
+    "as_of": "2026-10-26",
+    "status": "source-checked-new-record"
+  },
+  {
+    "id": "lu-jeu-sham",
+    "checked_fields": [
+      "identity",
+      "birth",
+      "death",
+      "career",
+      "contribution attribution",
+      "Chinese/English factual alignment"
+    ],
+    "sources": [
+      "https://jacobsschool.ucsd.edu/people/profile/lu-sham",
+      "https://profiles.ucsd.edu/lu.sham",
+      "https://en.wikipedia.org/wiki/Lu_Jeu_Sham"
+    ],
+    "method": "Institutional biographies, memoirs or first-person accounts read in the web research pass; source-specific uncertainties are retained in notes.",
+    "as_of": "2026-10-26",
+    "status": "source-checked-new-record"
+  }
+]

@@ -1,0 +1,357 @@
+[
+  {
+    "name": "Ernst Stueckelberg",
+    "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Stueckelberg.html",
+    "status": 200,
+    "images": [
+      {
+        "src": "https://mathshistory.st-andrews.ac.uk/Biographies/Stueckelberg/thumbnail.jpg",
+        "type": "og"
+      },
+      {
+        "height": "48",
+        "src": "https://mathshistory.st-andrews.ac.uk/static/img/logo.png",
+        "alt": "MacTutor logo"
+      },
+      {
+        "class": "biography-thumbnail",
+        "src": "https://mathshistory.st-andrews.ac.uk/Biographies/thumbnail.jpg",
+        "alt": "Thumbnail of Ernst Stueckelberg"
+      },
+      {
+        "src": "https://mathshistory.st-andrews.ac.uk/static/img/st-andrews-logo.png?h=e46f195e",
+        "alt": "University of St. Andrews logo"
+      }
+    ]
+  },
+  {
+    "name": "Martin Schwarzschild",
+    "url": "https://phys-astro.sonoma.edu/brucemedalists/martin-schwarzschild",
+    "status": 403,
+    "images": []
+  },
+  {
+    "name": "Robert Herman",
+    "url": "https://www.informs.org/Explore/History-of-O.R.-Excellence/Miser-Harris-Presidential-Portrait-Gallery/Robert-Herman",
+    "status": 403,
+    "images": []
+  },
+  {
+    "name": "Hu Ning",
+    "url": "https://www.xsg.pku.edu.cn/heros/scholar/detail/553.html",
+    "status": 200,
+    "images": [
+      {
+        "src": "https://www.xsg.pku.edu.cn/Public/static/themes/bdxsg/image/png10_03.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xsg.pku.edu.cn/Public/static/themes/bdxsg/image/png11_03.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xsg.pku.edu.cn/Public/static/themes/bdxsg/image/png12_03.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xsg.pku.edu.cn/Public/static/themes/bdxsg/image/png13_03.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xsg.pku.edu.cn/Public/static/themes/bdxsg/image/png14_03.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xsg.pku.edu.cn/Uploads/Bdxsg/Picture/2020/12/02/s5fc775642a146.png",
+        "title": "",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xsg.pku.edu.cn/Uploads/Bdxsg/Picture/2020/12/02/s5fc775642a146.png",
+        "title": "",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xsg.pku.edu.cn/Uploads/Bdxsg/Picture/2020/12/21/s5fe05f6ee5225.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.xsg.pku.edu.cn/Uploads/Bdxsg/Picture/2019/12/16/s5df7142b09581.JPG",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://www.xsg.pku.edu.cn/Uploads/Bdxsg/Picture/2019/12/13/s5df373d89067f.png"
+      },
+      {
+        "src": "https://www.xsg.pku.edu.cn/Uploads/Bdxsg/Picture/2019/12/11/s5df0b635417d9.png"
+      },
+      {
+        "src": "https://www.xsg.pku.edu.cn/Uploads/Bdxsg/Picture/2019/12/16/s5df73323d5707.png"
+      },
+      {
+        "src": "https://www.xsg.pku.edu.cn/Uploads/Bdxsg/Picture/2019/12/11/s5df0b678eac38.png"
+      },
+      {
+        "src": "https://www.xsg.pku.edu.cn/heros/scholar/detail/553.html",
+        "alt": "",
+        "title": ""
+      }
+    ]
+  },
+  {
+    "name": "Bruno Zumino",
+    "url": "https://news.berkeley.edu/2014/06/24/bruno-zumino-an-architect-of-supersymmetry-dies-at-91/",
+    "status": 403,
+    "images": []
+  },
+  {
+    "name": "Dai Yuanben",
+    "url": "https://www.itp.cas.cn/sourcedb_itp_cas/zw/zjrck/ys/202107/t20210723_6145287.html",
+    "error": "HTTPSConnectionPool(host='www.itp.cas.cn', port=443): Max retries exceeded with url: /sourcedb_itp_cas/zw/zjrck/ys/202107/t20210723_6145287.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1081)')))"
+  },
+  {
+    "name": "Stanley Mandelstam",
+    "url": "https://senate.universityofcalifornia.edu/_files/inmemoriam/html/StanleyMandelstam.html",
+    "status": 200,
+    "images": [
+      {
+        "src": "https://senate.universityofcalifornia.edu/_files/inmemoriam/html/images/seal.jpg",
+        "alt": "University of California Seal",
+        "width": "176",
+        "height": "160"
+      },
+      {
+        "src": "https://senate.universityofcalifornia.edu/_files/inmemoriam/html/images/Mandlestam.jpg",
+        "width": "184",
+        "height": "250"
+      }
+    ]
+  },
+  {
+    "name": "Li Fanghua",
+    "url": "https://casad.cas.cn/zt2022/ysksgs/czy/202605/t20260513_5109507.html",
+    "status": 200,
+    "images": [
+      {
+        "src": "https://casad.cas.cn/images/banner20180508.jpg",
+        "width": "1000",
+        "height": "238"
+      },
+      {
+        "src": "https://casad.cas.cn/zt2022/ysksgs/czy/202605/W020260513372383627739.png",
+        "width": "640",
+        "data-uploadpic": "U020260513363945260760.png",
+        "needdownload": "true",
+        "data-needdownload": "true",
+        "style": "font-family: 微软雅黑, \"Microsoft YaHei\"; font-size: 16px; line-height: 2em; width: 640px; height: auto;",
+        "data-index": "9",
+        "picname": null,
+        "alt": "",
+        "oldsrc": "W020260513372383627739.png"
+      },
+      {
+        "src": "https://casad.cas.cn/zt2022/ysksgs/czy/202605/W020260513372383858777.png",
+        "width": "640",
+        "data-uploadpic": "U020260513364032589666.png",
+        "needdownload": "true",
+        "data-needdownload": "true",
+        "style": "font-family: 微软雅黑, \"Microsoft YaHei\"; font-size: 16px; line-height: 2em; width: 640px; height: auto;",
+        "data-index": "9",
+        "picname": null,
+        "alt": "",
+        "oldsrc": "W020260513372383858777.png"
+      }
+    ]
+  },
+  {
+    "name": "Jeffrey Goldstone",
+    "url": "https://physics.mit.edu/faculty/jeffrey-goldstone/",
+    "status": 403,
+    "images": []
+  },
+  {
+    "name": "Willie Hobbs Moore",
+    "url": "https://ece.engin.umich.edu/stories/willie-hobbs-moore",
+    "status": 403,
+    "images": []
+  },
+  {
+    "name": "Peter van Nieuwenhuizen",
+    "url": "https://www.stonybrook.edu/physics/about/awards-and-prizes/profiles/vannieuwenhuizenaward.html",
+    "status": 200,
+    "images": [
+      {
+        "class": "uni-logo",
+        "src": "https://stonybrook.edu/_resources/images/sb-logo-shield-12.10.25.svg",
+        "alt": "",
+        "aria-hidden": "true"
+      },
+      {
+        "src": "https://stonybrook.edu/_resources/images/sb-home-symbol-11.22.25.svg",
+        "alt": "",
+        "aria-hidden": "true",
+        "width": "22",
+        "height": "22"
+      },
+      {
+        "class": "sticky-logo",
+        "src": "https://stonybrook.edu/_resources/images/sb-logo-shield-white-12.10.25.svg",
+        "alt": "",
+        "aria-hidden": "true"
+      },
+      {
+        "src": "https://stonybrook.edu/_resources/images/sb-logo-mobile-new.svg",
+        "alt": "",
+        "aria-hidden": "true"
+      },
+      {
+        "src": "https://www.stonybrook.edu/physics/_images/prizes/pvnbb.jpg",
+        "alt": "Peter Van Nieuwenhuizen",
+        "width": "1000",
+        "height": "667"
+      },
+      {
+        "src": "https://stonybrook.edu/_resources/images/sb-logo-footer-dept-sm-rev-new.svg",
+        "alt": "Stony Brook University"
+      }
+    ]
+  },
+  {
+    "name": "Daniel Z. Freedman",
+    "url": "https://physics.mit.edu/faculty/daniel-freedman/",
+    "status": 403,
+    "images": []
+  },
+  {
+    "name": "John Henry Schwarz",
+    "url": "https://directory.caltech.edu/personnel/schwarz",
+    "status": 200,
+    "images": [
+      {
+        "src": "https://directory.caltech.edu/static/template/images/caltech-new-logo.png",
+        "alt": "Caltech"
+      },
+      {
+        "src": "https://directory.caltech.edu/static/template/images/caltech-new-logo.png",
+        "alt": "Caltech"
+      }
+    ]
+  },
+  {
+    "name": "Sergio Ferrara",
+    "url": "https://th-dep.web.cern.ch/roster/ferrara-sergio",
+    "status": 200,
+    "images": [
+      {
+        "loading": "lazy",
+        "src": "https://th-dep.web.cern.ch/sites/default/files/styles/cern_image_gallery_small/public/pictures/profile/SergioHome_1.png?itok=WQ3B89oI",
+        "width": "180",
+        "height": "131",
+        "alt": "",
+        "typeof": "foaf:Image",
+        "class": "img-responsive"
+      },
+      {
+        "src": "https://th-dep.web.cern.ch/sites/default/themes/cernoverride/logo.svg",
+        "alt": "CERN"
+      }
+    ]
+  },
+  {
+    "name": "Michael Green (physicist)",
+    "url": "https://www.damtp.cam.ac.uk/person/mbg15",
+    "status": 200,
+    "images": [
+      {
+        "alt": "University of Cambridge",
+        "src": "https://www.damtp.cam.ac.uk/sites/all/themes/cambridge_theme/images/interface/main-logo-small.png"
+      },
+      {
+        "typeof": "foaf:Image",
+        "class": "campl-scale-with-grid",
+        "src": "https://www.damtp.cam.ac.uk/files/styles/portrait/public/portraits/mbg15.jpg?itok=Rar1yOos",
+        "width": "150",
+        "height": "200"
+      },
+      {
+        "alt": "University of Cambridge",
+        "src": "https://www.damtp.cam.ac.uk/sites/all/themes/cambridge_theme/images/interface/main-logo-small.png",
+        "class": "campl-scale-with-grid"
+      }
+    ]
+  },
+  {
+    "name": "John Cardy",
+    "url": "https://www.physics.ox.ac.uk/our-people/cardy",
+    "status": 200,
+    "images": [
+      {
+        "src": "https://www.physics.ox.ac.uk/themes/custom/physics/logo.svg",
+        "alt": "Home"
+      },
+      {
+        "alt": "Department Of Physics text logo",
+        "src": "https://www.physics.ox.ac.uk/themes/custom/physics/img/logos/dept-of-physics_logo.svg"
+      },
+      {
+        "width": "1920",
+        "height": "909",
+        "src": "https://www.physics.ox.ac.uk/sites/default/files/styles/scale_crop_1920x909/public/header_images_subdept/tp-sub-dept-2.jpg?itok=cfmZ07vS",
+        "alt": "Theoretical physicists working at a blackboard collaboration pod in the Beecroft building.",
+        "loading": "lazy"
+      },
+      {
+        "width": "732",
+        "height": "732",
+        "src": "https://www.physics.ox.ac.uk/sites/default/files/styles/scale_crop_732/public/user_photos/John%20Cardy.jpg?itok=xuPp9YHe",
+        "alt": "",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://www.physics.ox.ac.uk/themes/custom/physics/logo.svg",
+        "alt": "University of Oxfrod logo"
+      },
+      {
+        "alt": "Department Of Physics text logo",
+        "src": "https://www.physics.ox.ac.uk/themes/custom/physics/img/logos/dept-of-physics_logo-footer.svg"
+      },
+      {
+        "alt": "IOP Juno Champion logo",
+        "src": "https://www.physics.ox.ac.uk/themes/custom/physics/img/awards/iop-juno-champion.png"
+      },
+      {
+        "alt": "Athena Swan Silver Award logo",
+        "src": "https://www.physics.ox.ac.uk/themes/custom/physics/img/awards/Advance-HE-Membership-Standalone-Gold_Colour.png"
+      }
+    ]
+  },
+  {
+    "name": "Gary Horowitz",
+    "url": "https://www.physics.ucsb.edu/people/gary-horowitz",
+    "status": 200,
+    "images": [
+      {
+        "alt": "Website Logo",
+        "class": "navbar-brand",
+        "src": "https://www.physics.ucsb.edu/themes/logos/website-logo-navbar.svg"
+      },
+      {
+        "alt": "Photo of Gary Horowitz",
+        "class": "media__image media__element b-lazy img-responsive",
+        "decoding": "async",
+        "loading": "lazy",
+        "src": "https://www.physics.ucsb.edu/sites/default/files/styles/medium_square/public/2025-10/Gary%20Horowitz.jpeg?itok=sTMn0jJ1",
+        "width": "640",
+        "height": "640",
+        "typeof": "foaf:Image"
+      },
+      {
+        "alt": "UCSB Logo",
+        "class": "footer-logo",
+        "src": "https://www.physics.ucsb.edu/themes/logos/ucsb-logo-white.svg"
+      }
+    ]
+  }
+]

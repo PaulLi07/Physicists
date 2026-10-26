@@ -1,0 +1,369 @@
+[
+  {
+    "id": "frederick-soddy",
+    "name_en": "Frederick Soddy",
+    "biography": "A British radiochemist, Soddy studied radioactivity with Rutherford at McGill and later taught at Glasgow, Aberdeen and Oxford. His research on radioactive transformations and isotopes connected chemistry with nuclear physics and earned the 1921 Nobel Prize in Chemistry.",
+    "contributions": [
+      "Developed the radioactive-disintegration theory with Rutherford, identifying radioactivity with transformations of elements.",
+      "Formulated the isotope concept: atoms with the same chemical properties can have different masses.",
+      "Independently of Fajans and others, developed the radioactive-displacement law linking decay to positions in the periodic table."
+    ],
+    "fields": [
+      "Nuclear physics",
+      "Radiochemistry"
+    ],
+    "birth_display": "2 September 1877",
+    "death_display": "September 1956",
+    "notes": [
+      "Sources disagree on the day of death: Glasgow and Nobel records give 22 September 1956, while the Royal Society catalogue gives 26 September. The canonical date retains month precision pending confirmation from an original record."
+    ],
+    "portrait_alt": "Portrait of Frederick Soddy",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "University of Glasgow — Frederick Soddy",
+        "url": "https://worldchanging.glasgow.ac.uk/notable-people/?id=89"
+      },
+      {
+        "title": "Royal Society — Frederick Soddy",
+        "url": "https://makingscience.royalsociety.org/people/na8018/frederick-soddy"
+      },
+      {
+        "title": "Nobel Prize — Frederick Soddy",
+        "url": "https://www.nobelprize.org/prizes/chemistry/1921/soddy/facts/"
+      },
+      {
+        "title": "Frederick Soddy — reference biography",
+        "url": "https://en.wikipedia.org/wiki/Frederick_Soddy"
+      }
+    ]
+  },
+  {
+    "id": "hans-geiger",
+    "name_en": "Hans Geiger",
+    "biography": "A German experimental physicist, Geiger worked with Rutherford in Manchester before pursuing radioactivity and particle detection in Germany. He developed the counting of individual ionizing particles into a precise experimental tool and helped perform experiments central to the nuclear model of the atom.",
+    "contributions": [
+      "Performed large-angle alpha-particle scattering experiments with Marsden, providing evidence for Rutherford's nuclear atom.",
+      "Developed early particle counters and, with Walther Müller, the Geiger–Müller tube.",
+      "Established the Geiger–Nuttall relation with John Mitchell Nuttall, connecting alpha-particle range with radioactive half-life."
+    ],
+    "fields": [
+      "Nuclear physics",
+      "Experimental physics"
+    ],
+    "birth_display": "30 September 1882",
+    "death_display": "24 September 1945",
+    "notes": [],
+    "portrait_alt": "Portrait of Hans Geiger",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Deutsche Biographie — Hans Geiger",
+        "url": "https://www.deutsche-biographie.de/gnd118538144.html"
+      },
+      {
+        "title": "Hans Geiger — reference biography",
+        "url": "https://en.wikipedia.org/wiki/Hans_Geiger"
+      }
+    ]
+  },
+  {
+    "id": "ernest-marsden",
+    "name_en": "Ernest Marsden",
+    "biography": "Born in England, Marsden became a New Zealand experimental physicist after training with Rutherford's group in Manchester. He moved to Wellington to teach in 1915 and later led New Zealand's Department of Scientific and Industrial Research, developing experimental physics, radar and national research institutions.",
+    "contributions": [
+      "Discovered rare large-angle backscattering of alpha particles from thin metal foils with Geiger, helping establish the nuclear atom.",
+      "Contributed to early experiments on radioactivity, alpha particles and atomic structure.",
+      "Organized New Zealand's research system and promoted domestic radar research during the Second World War."
+    ],
+    "fields": [
+      "Nuclear physics",
+      "Experimental physics"
+    ],
+    "birth_display": "19 February 1889",
+    "death_display": "15 December 1970",
+    "notes": [],
+    "portrait_alt": "Portrait of Ernest Marsden",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Te Ara — Ernest Marsden",
+        "url": "https://teara.govt.nz/en/biographies/4m41/marsden-ernest"
+      },
+      {
+        "title": "Museum of New Zealand Te Papa — Sir Ernest Marsden",
+        "url": "https://collections.tepapa.govt.nz/Person/45905"
+      },
+      {
+        "title": "Ernest Marsden — reference biography",
+        "url": "https://en.wikipedia.org/wiki/Ernest_Marsden"
+      }
+    ]
+  },
+  {
+    "id": "walther-gerlach",
+    "name_en": "Walther Gerlach",
+    "biography": "A German experimental physicist, Gerlach worked in Frankfurt, Tübingen and Munich. His atomic-beam experiment with Otto Stern provided direct evidence of space quantization. He also investigated radiation pressure, magnetism and spectroscopic analysis.",
+    "contributions": [
+      "Performed the split silver-atom-beam experiment with Stern, directly demonstrating quantized orientations of magnetic moments.",
+      "Made precision measurements of radiation pressure with Alice Golsen.",
+      "Studied ferromagnetism and developed chemical emission-spectroscopy methods."
+    ],
+    "fields": [
+      "Atomic physics",
+      "Experimental physics"
+    ],
+    "birth_display": "1 August 1889",
+    "death_display": "10 August 1979",
+    "notes": [
+      "The 1922 Stern–Gerlach experiment originally tested space quantization; a full interpretation involving electron spin followed in subsequent years."
+    ],
+    "portrait_alt": "Portrait of Walther Gerlach",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Deutsche Biographie — Walther Gerlach",
+        "url": "https://www.deutsche-biographie.de/dbo053274.html"
+      },
+      {
+        "title": "Walther Gerlach — reference biography",
+        "url": "https://en.wikipedia.org/wiki/Walther_Gerlach"
+      }
+    ]
+  },
+  {
+    "id": "lester-germer",
+    "name_en": "Lester Germer",
+    "biography": "An American experimental physicist, Germer spent much of his career at Bell Laboratories and continued research at Cornell after retirement. His electron-diffraction work with Clinton Davisson provided decisive experimental support for de Broglie's matter-wave hypothesis.",
+    "contributions": [
+      "Discovered electron diffraction from a nickel crystal with Davisson in 1927, confirming the wave nature of electrons.",
+      "Developed electron-diffraction methods for studying crystals and surface structure.",
+      "Investigated thermionic emission, metal surfaces and electrical-contact phenomena."
+    ],
+    "fields": [
+      "Quantum physics",
+      "Surface physics"
+    ],
+    "birth_display": "10 October 1896",
+    "death_display": "October 1971",
+    "notes": [
+      "His full name was Lester Halbert Germer; Louis Germer is a mistaken identification.",
+      "The death date is commonly given as 3 October 1971, whereas the Linda Hall Library biography gives 4 October. The canonical date retains month precision and records the discrepancy pending confirmation from a contemporary original record."
+    ],
+    "portrait_alt": "Portrait of Lester Germer",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "American Physical Society — Bell Laboratories historic site",
+        "url": "https://www.aps.org/funding-recognition/historic-sites/bell-laboratories-building"
+      },
+      {
+        "title": "AIP — Lester Germer papers",
+        "url": "https://history.aip.org/history/catalog/icos/1403.html"
+      },
+      {
+        "title": "University of Colorado — Davisson–Germer experiment",
+        "url": "https://www-hep.colorado.edu/~jcumalat/phys2170_f13/lectures/Lec18.pdf"
+      },
+      {
+        "title": "Linda Hall Library — Lester Germer",
+        "url": "https://www.lindahall.org/about/news/scientist-of-the-day/lester-germer/"
+      },
+      {
+        "title": "Lester Germer — reference biography",
+        "url": "https://en.wikipedia.org/wiki/Lester_Germer"
+      }
+    ]
+  },
+  {
+    "id": "fritz-strassmann",
+    "name_en": "Fritz Strassmann",
+    "biography": "A German nuclear chemist, Strassmann worked with Otto Hahn and Lise Meitner at the Kaiser Wilhelm Institute for Chemistry in Berlin. In late 1938 he and Hahn obtained chemical evidence of barium in neutron-irradiated uranium. After the war he developed chemistry and nuclear chemistry at Mainz.",
+    "contributions": [
+      "Identified barium in neutron-irradiated uranium with Hahn through radiochemical analysis, supplying crucial experimental evidence for nuclear fission.",
+      "Developed chemical methods for separating and identifying radionuclides and investigating fission products.",
+      "Helped establish chemistry and nuclear-chemistry research institutions at Mainz."
+    ],
+    "fields": [
+      "Nuclear physics",
+      "Nuclear chemistry"
+    ],
+    "birth_display": "22 February 1902",
+    "death_display": "22 April 1980",
+    "notes": [
+      "Hahn and Strassmann supplied the chemical experimental evidence; Meitner and Otto Robert Frisch subsequently provided the physical interpretation as nuclear fission."
+    ],
+    "portrait_alt": "Portrait of Fritz Strassmann",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Max Planck Society archive — Fritz Strassmann biography",
+        "url": "https://www.archiv-berlin.mpg.de/49031/hausreihe_22.pdf"
+      },
+      {
+        "title": "Max Planck Institute for Chemistry — Fritz Strassmann",
+        "url": "https://www.mpic.de/3546641/1949-1953"
+      },
+      {
+        "title": "Mainz University — founding chemistry professors",
+        "url": "https://presse.uni-mainz.de/ut-omnes-unum-sint-gruendungsprofessoren-der-chemie-und-pharmazie/"
+      },
+      {
+        "title": "Fritz Strassmann — reference biography",
+        "url": "https://en.wikipedia.org/wiki/Fritz_Strassmann"
+      }
+    ]
+  },
+  {
+    "id": "otto-robert-frisch",
+    "name_en": "Otto Robert Frisch",
+    "biography": "An Austrian-born British physicist, Frisch worked in Germany, Copenhagen and Britain, leaving Germany under Nazi persecution. He explained nuclear fission with his aunt Lise Meitner, later participated in wartime nuclear research, and pursued nuclear physics and instrumentation at Cambridge.",
+    "contributions": [
+      "With Meitner, interpreted Hahn and Strassmann's chemical results as the splitting of a heavy nucleus and estimated the large energy release.",
+      "Confirmed the high energy of fission fragments through ionization-pulse experiments and introduced the term fission.",
+      "Wrote the 1940 Frisch–Peierls memorandum with Rudolf Peierls, identifying the feasibility of a nuclear explosion using a fissile isotope."
+    ],
+    "fields": [
+      "Nuclear physics",
+      "Experimental physics"
+    ],
+    "birth_display": "1 October 1904",
+    "death_display": "22 September 1979",
+    "notes": [],
+    "portrait_alt": "Portrait of Otto Robert Frisch",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Trinity College Cambridge — Papers of Otto Frisch",
+        "url": "https://archives.trin.cam.ac.uk/index.php/papers-of-otto-robert-frisch"
+      },
+      {
+        "title": "Royal Society — Otto Robert Frisch",
+        "url": "https://makingscience.royalsociety.org/people/na6099/otto-robert-frisch"
+      },
+      {
+        "title": "Otto Robert Frisch — reference biography",
+        "url": "https://en.wikipedia.org/wiki/Otto_Robert_Frisch"
+      }
+    ]
+  },
+  {
+    "id": "konstantin-petrzhak",
+    "name_en": "Konstantin Petrzhak",
+    "biography": "A Soviet experimental nuclear physicist of Polish origin, Petrzhak graduated from Leningrad University and worked for many years at the Radium Institute. He discovered spontaneous fission of uranium with Georgy Flerov, later studying neutron physics, fission and radioactivity measurements while training nuclear scientists.",
+    "contributions": [
+      "Discovered spontaneous fission of uranium with Flerov in 1940 and used underground measurements to test for cosmic-ray effects.",
+      "Made precision measurements of neutron-induced fission cross sections and properties of heavy-nucleus fission.",
+      "Developed radioactivity and neutron-measurement methods and built research groups in fission and neutron physics."
+    ],
+    "fields": [
+      "Nuclear physics",
+      "Experimental physics"
+    ],
+    "birth_display": "4 September 1907",
+    "death_display": "1998",
+    "notes": [
+      "The day of death is disputed: it is commonly given as 10 October 1998, whereas the Rosatom history portal gives 19 November 1998. No contemporary original record resolving this discrepancy was obtained, so the canonical date retains year precision."
+    ],
+    "portrait_alt": "Portrait of Konstantin Petrzhak",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "Rosatom history portal — Konstantin Petrzhak",
+        "url": "https://www.biblioatom.ru/persons/petrzhak_konstantin_antonovich/"
+      },
+      {
+        "title": "Saint Petersburg State Institute of Technology — 110th anniversary",
+        "url": "https://spbti.ru/public/userfiles/files/75/technolog/Tehnolog_sentyabr_2017.pdf"
+      },
+      {
+        "title": "JINR — history of spontaneous fission",
+        "url": "https://uc.jinr.ru/images/pdf/ISP/PresentationsLecturers/2022Egypt/FLNR.pdf"
+      },
+      {
+        "title": "Physical Review — Spontaneous Fission of Uranium (1940)",
+        "url": "https://doi.org/10.1103/PhysRev.58.89.2"
+      },
+      {
+        "title": "Konstantin Petrzhak — reference biography",
+        "url": "https://en.wikipedia.org/wiki/Konstantin_Petrzhak"
+      }
+    ]
+  },
+  {
+    "id": "edward-teller",
+    "name_en": "Edward Teller",
+    "biography": "A Hungarian-born American theorist, Teller trained in Germany and left Europe after the rise of Nazism, moving to the United States in 1935. He studied molecular quantum theory and nuclear physics, participated in the Manhattan Project and thermonuclear-weapons research, helped establish the Livermore laboratory, and became deeply involved in nuclear-policy debates.",
+    "contributions": [
+      "Developed the Gamow–Teller transitions in beta-decay theory with George Gamow.",
+      "Formulated the Jahn–Teller effect with Hermann Jahn, explaining structural distortions associated with certain degenerate electronic states.",
+      "Contributed to nuclear and thermonuclear research and helped establish Lawrence Livermore Laboratory."
+    ],
+    "fields": [
+      "Nuclear physics",
+      "Molecular physics"
+    ],
+    "birth_display": "15 January 1908",
+    "death_display": "9 September 2003",
+    "notes": [],
+    "portrait_alt": "Portrait of Edward Teller",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "National Academy of Sciences — Edward Teller",
+        "url": "https://www.nasonline.org/directory-entry/edward-teller-lhwv5g/"
+      },
+      {
+        "title": "Freeman Dyson — Edward Teller, NAS Biographical Memoir",
+        "url": "https://www.nasonline.org/wp-content/uploads/2024/06/teller-edward.pdf"
+      },
+      {
+        "title": "Lawrence Livermore National Laboratory — Edward Teller obituary",
+        "url": "https://www.llnl.gov/article/29486/director-emeritus-edward-teller-distinguished-physicist-and-education-advocate-dies-95"
+      },
+      {
+        "title": "Edward Teller — reference biography",
+        "url": "https://en.wikipedia.org/wiki/Edward_Teller"
+      }
+    ]
+  },
+  {
+    "id": "georgy-flerov",
+    "name_en": "Georgy Flerov",
+    "biography": "A Soviet experimental nuclear physicist, Flerov began nuclear-reaction research in Leningrad and later participated in the Soviet nuclear programme. A founding scientist of the Joint Institute for Nuclear Research in Dubna, he led its Laboratory of Nuclear Reactions and advanced heavy-ion and superheavy-element research.",
+    "contributions": [
+      "Discovered spontaneous fission of uranium with Petrzhak in 1940.",
+      "Developed heavy-ion nuclear-reaction experiments to investigate heavy elements and nuclear stability.",
+      "Founded and directed the Dubna Laboratory of Nuclear Reactions, organizing superheavy-element research."
+    ],
+    "fields": [
+      "Nuclear physics",
+      "Experimental physics"
+    ],
+    "birth_display": "2 March 1913",
+    "death_display": "19 November 1990",
+    "notes": [
+      "The birth date is 2 March 1913 in the Gregorian calendar, corresponding to 17 February in the Julian calendar then used in Russia. His surname is also transliterated as Flyorov."
+    ],
+    "portrait_alt": "Portrait of Georgy Flerov",
+    "portrait_note": "Sourced portrait or photograph; see the image record for provenance and reuse conditions.",
+    "sources": [
+      {
+        "title": "JINR — Remembering the founders",
+        "url": "https://www.jinr.ru/posts/vspominaya-osnovatelej-03_21/"
+      },
+      {
+        "title": "Russian Academy of Sciences — Georgy Flerov",
+        "url": "https://new.ras.ru/academy-new/staff/akademiki/flerov-georgiy-nikolaevich/"
+      },
+      {
+        "title": "Physical Review — Spontaneous Fission of Uranium (1940)",
+        "url": "https://doi.org/10.1103/PhysRev.58.89.2"
+      },
+      {
+        "title": "Georgy Flerov — reference biography",
+        "url": "https://en.wikipedia.org/wiki/Georgy_Flerov"
+      }
+    ]
+  }
+]

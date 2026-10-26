@@ -1,0 +1,213 @@
+{
+  "max-von-laue": {
+    "death": {
+      "date": "1960-04-24",
+      "precision": "day",
+      "display": "1960年4月24日"
+    },
+    "notes": [
+      "逝世日期采用柏林洪堡大学档案的1960年4月24日。诺贝尔结构化资料所列4月23日与该机构档案不一致，本次复核已记录并更正。"
+    ],
+    "notes_en": [
+      "The date of death follows Humboldt University's archival biography: 24 April 1960. The Nobel structured data gives 23 April; this discrepancy was checked and the archival date adopted."
+    ],
+    "sources": [
+      {
+        "title": "Humboldt University archival biography of Max von Laue",
+        "url": "https://www.lautarchiv.hu-berlin.de/en/objekte/-/9603/"
+      }
+    ]
+  },
+  "manne-siegbahn": {
+    "death": {
+      "date": "1978-09-24",
+      "precision": "day",
+      "display": "1978年9月24日"
+    },
+    "notes": [
+      "瑞典国家档案馆《瑞典人物传记辞典》记载1978年9月24日逝世；诺贝尔及英国皇家学会部分旧资料作9月26日。本库采用瑞典本国档案传记的24日，并保留来源分歧。"
+    ],
+    "notes_en": [
+      "The Swedish National Archives' Svenskt biografiskt lexikon records his death on 24 September 1978. Some Nobel and Royal Society records give 26 September. This archive adopts 24 September while preserving the discrepancy."
+    ],
+    "sources": [
+      {
+        "title": "Swedish National Archives: K Manne G Siegbahn",
+        "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=5900"
+      },
+      {
+        "title": "Royal Society catalogue: Karl Manne Georg Siegbahn",
+        "url": "https://catalogues.royalsociety.org/CalmView/Record.aspx?id=NA2041&pos=1&src=CalmView.Persons"
+      }
+    ]
+  },
+  "dennis-gabor": {
+    "death": {
+      "date": "1979-02-09",
+      "precision": "day",
+      "display": "1979年2月9日"
+    },
+    "notes": [
+      "逝世日期采用帝国理工学院档案、英国皇家学会人物目录和匈牙利科学院纪念资料共同记载的1979年2月9日；诺贝尔结构化资料及部分机构页面作2月8日，已保留此分歧。"
+    ],
+    "notes_en": [
+      "The date of death follows Imperial College's archives, the Royal Society catalogue and the Hungarian Academy's memorial: 9 February 1979. Nobel structured data and some institutional pages give 8 February; that discrepancy is retained here."
+    ],
+    "sources": [
+      {
+        "title": "Royal Society catalogue: Dennis Gabor",
+        "url": "https://catalogues.royalsociety.org/CalmView/Record.aspx?id=NA6123&src=CalmView.Persons"
+      },
+      {
+        "title": "Imperial College Archives: Dennis Gabor supplementary papers",
+        "url": "https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/records-and-archives/public/Gabor%2C-supplementary-papers-1924---1980.pdf"
+      },
+      {
+        "title": "Hungarian Academy of Sciences: In Memoriam Dennis Gabor",
+        "url": "https://konyvtar.mta.hu/gabordenes/en_eletrajz.html"
+      }
+    ]
+  },
+  "chen-ning-yang": {
+    "birth": {
+      "date": "1922-10-01",
+      "precision": "day",
+      "display": "1922年10月1日"
+    },
+    "notes": [
+      "出生日期存在两种正式记载：清华大学2025年生平公告作1922年10月1日，诺贝尔资料及其1963年入籍申请书作9月22日。本库采用清华大学最新生平公告的10月1日，并明确保留9月22日这一历史记录；未擅自将差异解释为历法换算。"
+    ],
+    "notes_en": [
+      "Two dates occur in formal records: Tsinghua University's 2025 biographical announcement gives 1 October 1922, while Nobel records and his 1963 naturalization application give 22 September. This archive follows Tsinghua's later announcement and explicitly retains the alternative; it does not assume an unverified calendar conversion."
+    ],
+    "sources": [
+      {
+        "title": "Tsinghua University: Biographical account of Chen Ning Yang (2025)",
+        "url": "https://www.tsinghua.edu.cn/info/1173/121842.htm"
+      },
+      {
+        "title": "Tsinghua University History Museum: Yang's first US journey and nationality records",
+        "url": "https://xsg.tsinghua.edu.cn/info/1004/3407.htm"
+      }
+    ]
+  },
+  "riccardo-giacconi": {
+    "death": {
+      "date": "2018-12-09",
+      "precision": "day",
+      "display": "2018年12月9日"
+    },
+    "notes": [
+      "逝世日期依据欧洲南方天文台、欧洲空间局及美国国家科学院的纪念资料更正为2018年12月9日；原诺贝尔结构化资料所列12月16日不予沿用。"
+    ],
+    "notes_en": [
+      "The date of death is corrected to 9 December 2018, as recorded by ESO, ESA and the US National Academy of Sciences. The 16 December date in the original Nobel structured data is not used."
+    ],
+    "sources": [
+      {
+        "title": "ESO: Riccardo Giacconi (1931–2018)",
+        "url": "https://www.eso.org/public/announcements/ann18090/"
+      },
+      {
+        "title": "ESA: Riccardo Giacconi (1931–2018)",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Riccardo_Giacconi_1931_2018"
+      },
+      {
+        "title": "National Academy of Sciences: Riccardo Giacconi",
+        "url": "https://www.nasonline.org/directory-entry/riccardo-giacconi-vm0py0/"
+      }
+    ]
+  },
+  "peter-grunberg": {
+    "death": {
+      "date": "2018-04-07",
+      "precision": "day",
+      "display": "2018年4月7日"
+    },
+    "notes": [
+      "于2018年4月7日逝世，依据于利希研究中心生平资料。4月9日是研究中心发布讣告的日期，不应作为逝世日。"
+    ],
+    "notes_en": [
+      "He died on 7 April 2018, according to Forschungszentrum Jülich's biographical record. The centre announced the death on 9 April; the announcement date should not be substituted for the date of death."
+    ],
+    "sources": [
+      {
+        "title": "Forschungszentrum Jülich: Peter A. Grünberg curriculum vitae",
+        "url": "https://www.fz-juelich.de/de/forschung/gmr/lebenslauf-peter-a-gruenberg"
+      },
+      {
+        "title": "Forschungszentrum Jülich: Nobelpreisträger Peter Grünberg gestorben",
+        "url": "https://www.fz-juelich.de/de/pgi/pgi-9/aktuelles/nobelpreistraeger-peter-gruenberg-gestorben"
+      }
+    ]
+  },
+  "gabriel-lippmann": {
+    "notes": [
+      "保留1921年7月13日逝世的记载，已用1923年斯特拉斯堡地球物理研究所的同期追悼文章复核；个别网络信息框所列7月12日未予采纳。"
+    ],
+    "notes_en": [
+      "The date of death, 13 July 1921, was checked against the Strasbourg Institute of Earth Physics' 1923 memorial. The 12 July date found in some online infoboxes is not adopted."
+    ],
+    "sources": [
+      {
+        "title": "Edmond Rothé: Gabriel Lippmann memorial, Institut de physique du Globe de Strasbourg (1923)",
+        "url": "https://www.persee.fr/doc/aipgs_1245-687x_1923_num_4_1_1915"
+      }
+    ]
+  },
+  "john-clarke-physicist": {
+    "notes": [
+      "官方诺贝尔结构化资料的出生日期只精确到1942年；本库未把未独立核实的网络月日补成确日。"
+    ],
+    "notes_en": [
+      "The official Nobel structured source provides only the birth year, 1942. An exact month and day from online listings have not been added without independent verification."
+    ]
+  },
+  "michel-devoret": {
+    "notes": [
+      "官方诺贝尔结构化资料的出生日期只精确到1953年；本库保留这一精度。"
+    ],
+    "notes_en": [
+      "The official Nobel structured source provides only the birth year, 1953; that precision is retained."
+    ]
+  },
+  "john-m-martinis": {
+    "notes": [
+      "官方诺贝尔结构化资料的出生日期只精确到1958年；本库保留这一精度。"
+    ],
+    "notes_en": [
+      "The official Nobel structured source provides only the birth year, 1958; that precision is retained."
+    ]
+  },
+  "saul-perlmutter": {
+    "notes": [
+      "官方诺贝尔结构化资料的出生日期只精确到1959年；未在缺少独立出生日期证据时扩充精度。"
+    ],
+    "notes_en": [
+      "The official Nobel structured source provides only the birth year, 1959. The date has not been given greater precision without independent evidence."
+    ]
+  },
+  "claude-cohen-tannoudji": {
+    "death": {
+      "date": "2026-10-22",
+      "precision": "day",
+      "display": "2026年10月22日"
+    },
+    "notes": [
+      "截至2026年10月26日，诺贝尔结构化资料尚未列出逝世日期。已据卡斯特勒-布罗塞尔实验室及法国国家图书馆2026年10月23日的公告核实：于10月22日逝世，不能将公告发布日期当作逝世日。"
+    ],
+    "notes_en": [
+      "As of 26 October 2026, the Nobel structured record had not yet included his death. Announcements issued by Laboratoire Kastler Brossel and the Bibliothèque nationale de France on 23 October confirm that he died on 22 October 2026. The announcement date is not the date of death."
+    ],
+    "sources": [
+      {
+        "title": "Laboratoire Kastler Brossel: Claude Cohen-Tannoudji has passed away (23 October 2026)",
+        "url": "https://www.lkb.fr/en/death-of-claude-cohen-tannoudji/"
+      },
+      {
+        "title": "Bibliothèque nationale de France: Death of physicist Claude Cohen-Tannoudji",
+        "url": "https://www.bnf.fr/fr/actualites/deces-du-physicien-claude-cohen-tannoudji"
+      }
+    ]
+  }
+}

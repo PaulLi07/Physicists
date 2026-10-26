@@ -1,0 +1,83 @@
+[
+  {
+    "source": "https://mathshistory.st-andrews.ac.uk/Biographies/Stueckelberg.html",
+    "image": "https://mathshistory.st-andrews.ac.uk/Biographies/Stueckelberg/thumbnail.jpg",
+    "name": "Ernst Stueckelberg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 2986,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/modern-extra-ernst-stueckelberg.jpg"
+  },
+  {
+    "source": "https://www.xsg.pku.edu.cn/heros/scholar/detail/553.html",
+    "image": "https://www.xsg.pku.edu.cn/Uploads/Bdxsg/Picture/2020/12/02/s5fc775642a146.png",
+    "name": "Hu Ning",
+    "status": 200,
+    "content_type": "image/png",
+    "bytes": 72711,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/modern-extra-hu-ning.png"
+  },
+  {
+    "source": "https://senate.universityofcalifornia.edu/_files/inmemoriam/html/StanleyMandelstam.html",
+    "image": "https://senate.universityofcalifornia.edu/_files/inmemoriam/html/images/Mandlestam.jpg",
+    "name": "Stanley Mandelstam",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 58597,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/modern-extra-stanley-mandelstam.jpg"
+  },
+  {
+    "source": "https://casad.cas.cn/zt2022/ysksgs/czy/202605/t20260513_5109507.html",
+    "image": "https://casad.cas.cn/zt2022/ysksgs/czy/202605/W020260513372383627739.png",
+    "name": "Li Fanghua",
+    "status": 200,
+    "content_type": "image/png",
+    "bytes": 188709,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/modern-extra-li-fanghua.png"
+  },
+  {
+    "source": "https://www.stonybrook.edu/physics/about/awards-and-prizes/profiles/vannieuwenhuizenaward.html",
+    "image": "https://www.stonybrook.edu/physics/_images/prizes/pvnbb.jpg",
+    "name": "Peter van Nieuwenhuizen",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 130631,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/modern-extra-peter-van-nieuwenhuizen.jpg"
+  },
+  {
+    "source": "https://th-dep.web.cern.ch/roster/ferrara-sergio",
+    "image": "https://th-dep.web.cern.ch/sites/default/files/styles/cern_image_gallery_small/public/pictures/profile/SergioHome_1.png?itok=WQ3B89oI",
+    "name": "Sergio Ferrara",
+    "status": 200,
+    "content_type": "image/png",
+    "bytes": 43376,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/modern-extra-sergio-ferrara.png"
+  },
+  {
+    "source": "https://www.damtp.cam.ac.uk/person/mbg15",
+    "image": "https://www.damtp.cam.ac.uk/files/styles/portrait/public/portraits/mbg15.jpg?itok=Rar1yOos",
+    "name": "Michael Green (physicist)",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 6493,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/modern-extra-michael-green--physicist-.jpg"
+  },
+  {
+    "source": "https://www.physics.ox.ac.uk/our-people/cardy",
+    "image": "https://www.physics.ox.ac.uk/sites/default/files/styles/scale_crop_732/public/user_photos/John%20Cardy.jpg?itok=xuPp9YHe",
+    "name": "John Cardy",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 63637,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/modern-extra-john-cardy.jpg"
+  },
+  {
+    "source": "https://www.physics.ucsb.edu/people/gary-horowitz",
+    "image": "https://www.physics.ucsb.edu/sites/default/files/styles/medium_square/public/2025-10/Gary%20Horowitz.jpeg?itok=sTMn0jJ1",
+    "name": "Gary Horowitz",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 39996,
+    "local_path": "/Users/paulli/coding/HEP/Web/Physics_Pioneers/data/raw/sourced-portraits/modern-extra-gary-horowitz.jpeg"
+  }
+]

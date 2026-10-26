@@ -1,0 +1,2262 @@
+[
+  {
+    "id": "hypatia",
+    "name_zh": "希帕蒂娅",
+    "name_en": "Hypatia",
+    "wikipedia_title": "Hypatia",
+    "birth": {
+      "date": "0355",
+      "precision": "approximate",
+      "display": "约355—370年"
+    },
+    "death": {
+      "date": "0415-03",
+      "precision": "month",
+      "display": "415年3月"
+    },
+    "death_status": "deceased",
+    "biography": "古代亚历山大里亚的数学家、天文学教师和新柏拉图主义哲学家，父亲为学者泰翁。她讲授数学与哲学，参与天文学知识的传承；其作品归属及生平细节多依后世记录重建，415年被暴民杀害。",
+    "contributions": [
+      "教授并传播与天文学计算有关的数学知识。",
+      "其学术圈的书信留下星盘及比重计等仪器知识的记录，但不能将这些仪器的发明归于她。"
+    ],
+    "fields": [
+      "天文学",
+      "数学物理史"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Hypatia",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hypatia/"
+      },
+      {
+        "title": "Wikipedia — Hypatia",
+        "url": "https://en.wikipedia.org/wiki/Hypatia"
+      }
+    ],
+    "notes": [
+      "出生年通常估为约355年或370年；卒于415年3月，未把某一日当作确证日期。",
+      "不能据学生书信把星盘或比重计的发明权归给希帕蒂娅。"
+    ]
+  },
+  {
+    "id": "aryabhata",
+    "name_zh": "阿耶波多",
+    "name_en": "Aryabhata",
+    "wikipedia_title": "Aryabhata",
+    "birth": {
+      "date": "0476",
+      "precision": "year",
+      "display": "476年"
+    },
+    "death": {
+      "date": "0550",
+      "precision": "approximate",
+      "display": "约550年"
+    },
+    "death_status": "deceased",
+    "biography": "印度数学家和天文学家，以499年的《阿耶波多历数书》闻名，其出生地仍有争议。他把计算方法用于天体周期、日月食和地球运动的解释，是印度数学天文学传统的重要代表；确切卒年不明。",
+    "contributions": [
+      "以地球自转解释恒星的视周日运动。",
+      "用地球和月球的阴影解释日月食，并发展天体位置的计算方法。"
+    ],
+    "fields": [
+      "数学天文学",
+      "地球运动"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Aryabhata",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Aryabhata_I/"
+      },
+      {
+        "title": "Wikipedia — Aryabhata",
+        "url": "https://en.wikipedia.org/wiki/Aryabhata"
+      }
+    ],
+    "notes": [
+      "476年出生主要由其著作中的年龄说明推定；550年卒为传统约数，确切卒年不详。"
+    ]
+  },
+  {
+    "id": "john-philoponus",
+    "name_zh": "约翰·斐洛波努斯",
+    "name_en": "John Philoponus",
+    "wikipedia_title": "John Philoponus",
+    "birth": {
+      "date": "0490",
+      "precision": "approximate",
+      "display": "约490年"
+    },
+    "death": {
+      "date": "0570",
+      "precision": "approximate",
+      "display": "约570年"
+    },
+    "death_status": "deceased",
+    "biography": "晚期古代亚历山大里亚的哲学家和亚里士多德注释者，曾受教于阿摩尼奥斯。他批评传统运动和宇宙理论，以论证和经验观察质疑权威，其作品经叙利亚语、阿拉伯语及拉丁语传统影响后世自然哲学。",
+    "contributions": [
+      "批评抛体运动必须靠周围介质持续推动的解释，提出获得的运动能力。",
+      "质疑落体速度严格正比于重量，并讨论真空中运动的可能性。"
+    ],
+    "fields": [
+      "运动理论史",
+      "自然哲学"
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — John Philoponus",
+        "url": "https://plato.stanford.edu/entries/philoponus/"
+      },
+      {
+        "title": "Wikipedia — John Philoponus",
+        "url": "https://en.wikipedia.org/wiki/John_Philoponus"
+      }
+    ],
+    "notes": [
+      "生卒年为约数；其获得的运动能力等概念并非现代动量或牛顿惯性定律。"
+    ]
+  },
+  {
+    "id": "brahmagupta",
+    "name_zh": "婆罗摩笈多",
+    "name_en": "Brahmagupta",
+    "wikipedia_title": "Brahmagupta",
+    "birth": {
+      "date": "0598",
+      "precision": "year",
+      "display": "598年"
+    },
+    "death": {
+      "date": "0670",
+      "precision": "approximate",
+      "display": "约668—670年"
+    },
+    "death_status": "deceased",
+    "biography": "印度数学家和天文学家，曾在乌贾因学术传统中工作，628年撰写《婆罗摩修正体系》。除数论和算法外，他系统讨论天体计算、日月食与观测仪器，把数学方法用于实际天文问题；卒年仅有约数。",
+    "contributions": [
+      "发展天体经度、日月食和会合等现象的计算方法。",
+      "研究球面天文及仪器观测问题，扩充印度定量天文学传统。"
+    ],
+    "fields": [
+      "数学天文学",
+      "天文测量"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Brahmagupta",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Brahmagupta/"
+      },
+      {
+        "title": "Wikipedia — Brahmagupta",
+        "url": "https://en.wikipedia.org/wiki/Brahmagupta"
+      }
+    ],
+    "notes": [
+      "出生年通常记598年；卒年有668或670等约数说法。"
+    ]
+  },
+  {
+    "id": "thabit-ibn-qurra",
+    "name_zh": "萨比特·伊本·库拉",
+    "name_en": "Thabit ibn Qurra",
+    "wikipedia_title": "Thābit ibn Qurra",
+    "birth": {
+      "date": "0826",
+      "precision": "approximate",
+      "display": "约826—836年"
+    },
+    "death": {
+      "date": "0901-02-18",
+      "precision": "day",
+      "display": "901年2月18日"
+    },
+    "death_status": "deceased",
+    "biography": "出身哈兰的萨比教数学家、天文学家和翻译者，后在巴格达活动。他翻译并改造希腊数学与科学著作，在天文、几何和静力学间建立联系；其出生年有826与836等不同记载。",
+    "contributions": [
+      "研究杠杆、平衡和重心，发展阿拉伯语数学传统中的静力学。",
+      "研究天体运动、太阳年长度及几何方法，促进数学天文学。"
+    ],
+    "fields": [
+      "静力学",
+      "数学天文学"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Thabit ibn Qurra",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Thabit/"
+      },
+      {
+        "title": "Wikipedia — Thabit ibn Qurra",
+        "url": "https://en.wikipedia.org/wiki/Th%C4%81bit_ibn_Qurra"
+      }
+    ],
+    "notes": [
+      "出生年来源有约826与836年两说，无法确定确日；本档保留范围。"
+    ]
+  },
+  {
+    "id": "avicenna",
+    "name_zh": "伊本·西那（阿维森纳）",
+    "name_en": "Avicenna",
+    "wikipedia_title": "Avicenna",
+    "birth": {
+      "date": "0980",
+      "precision": "approximate",
+      "display": "约980年"
+    },
+    "death": {
+      "date": "1037-06",
+      "precision": "month",
+      "display": "1037年6月"
+    },
+    "death_status": "deceased",
+    "biography": "伊本·西那是中世纪伊斯兰世界的哲学家、医生与自然研究者，主要在中亚和伊朗活动。他在《治疗论》等百科著作中讨论运动、时间、介质和天体，形成对后世阿拉伯语及拉丁语经院哲学影响深远的体系。",
+    "contributions": [
+      "用“倾向”概念讨论受迫运动与抛体运动，发展亚里士多德力学内部的运动解释。",
+      "系统讨论自然物体、时间、空间及天体运动，推动中世纪自然哲学的传播和争论。"
+    ],
+    "fields": [
+      "运动理论史",
+      "自然哲学"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Avicenna",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Avicenna/"
+      },
+      {
+        "title": "Wikipedia — Avicenna",
+        "url": "https://en.wikipedia.org/wiki/Avicenna"
+      }
+    ],
+    "notes": [
+      "出生年和死亡月采用通行近似纪年，不把后世换算出的生日或卒日当作无争议确日。"
+    ]
+  },
+  {
+    "id": "nasir-al-din-al-tusi",
+    "name_zh": "纳西尔丁·图西",
+    "name_en": "Nasir al-Din al-Tusi",
+    "wikipedia_title": "Nasir al-Din al-Tusi",
+    "birth": {
+      "date": "1201-02-18",
+      "precision": "day",
+      "display": "1201年2月18日"
+    },
+    "death": {
+      "date": "1274-06-26",
+      "precision": "day",
+      "display": "1274年6月26日"
+    },
+    "death_status": "deceased",
+    "biography": "十三世纪伊朗数学家和天文学家，先后在不同统治者支持下工作，组织建立马拉盖天文台。他参与天文观测和历表编制，并以几何模型改进托勒密天文学，是中世纪天体运动模型发展的重要人物。",
+    "contributions": [
+      "提出由两个匀速圆周运动合成直线往复运动的图西双圆构造。",
+      "组织马拉盖天文台观测和历表工作，并改进球面三角学在天文学中的应用。"
+    ],
+    "fields": [
+      "数学天文学",
+      "天体运动模型"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Nasir al-Din al-Tusi",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Tusi_Nasir/"
+      },
+      {
+        "title": "Wikipedia — Nasir al-Din al-Tusi",
+        "url": "https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "witelo",
+    "name_zh": "维特罗",
+    "name_en": "Witelo",
+    "wikipedia_title": "Witelo",
+    "birth": {
+      "date": "1230",
+      "precision": "approximate",
+      "display": "约1230年"
+    },
+    "death": {
+      "date": "1280",
+      "precision": "approximate",
+      "display": "1280年以后，确年不详"
+    },
+    "death_status": "deceased",
+    "biography": "维特罗是十三世纪在西里西亚、意大利等地活动的学者，其确切生卒日期和部分生平有争议。他的十卷本《透视学》整理视觉、反射及折射知识，继承并传播伊本·海赛姆的研究，后来影响开普勒等人的光学。",
+    "contributions": [
+      "系统整理几何光学、反射、折射和视觉问题。",
+      "通过《透视学》把阿拉伯语光学研究纳入拉丁语学术传统，为近代视觉与成像研究提供重要文献。"
+    ],
+    "fields": [
+      "几何光学",
+      "视觉科学史"
+    ],
+    "sources": [
+      {
+        "title": "Columbia University, Chaucer Name Dictionary — Vitulon (Witelo)",
+        "url": "http://www.columbia.edu/dlc/garland/deweever/UV/vitulon.htm"
+      },
+      {
+        "title": "Wikipedia — Witelo",
+        "url": "https://en.wikipedia.org/wiki/Witelo"
+      }
+    ],
+    "notes": [
+      "生卒年争议较大；出生约1230年，1280年以后去世，部分来源给出约1314年等推定。"
+    ]
+  },
+  {
+    "id": "theodoric-of-freiberg",
+    "name_zh": "弗赖贝格的狄奥多里克",
+    "name_en": "Theodoric of Freiberg",
+    "wikipedia_title": "Theodoric of Freiberg",
+    "birth": {
+      "date": "1250",
+      "precision": "approximate",
+      "display": "约1250年"
+    },
+    "death": {
+      "date": "1310",
+      "precision": "approximate",
+      "display": "1310年以后，确年不详"
+    },
+    "death_status": "deceased",
+    "biography": "狄奥多里克又称迪特里希，是德意志道明会学者，曾在巴黎求学并承担修会职务。他研究认识论、自然哲学和光学，以实验与几何讨论虹，其确切出生和死亡年份均未确证。",
+    "contributions": [
+      "利用盛水玻璃球等模型分析光线，解释主虹和副虹中的折射与内部反射。",
+      "把单个水滴中的光路与观察者看到的整体虹联系起来，推进虹的定量解释。"
+    ],
+    "fields": [
+      "几何光学",
+      "虹的物理"
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Dietrich of Freiberg",
+        "url": "https://plato.stanford.edu/entries/dietrich-freiberg/"
+      },
+      {
+        "title": "Wikipedia — Theodoric of Freiberg",
+        "url": "https://en.wikipedia.org/wiki/Theodoric_of_Freiberg"
+      }
+    ],
+    "notes": [
+      "确切生卒年不详；出生约1250年，1310年后仍可能在世。"
+    ]
+  },
+  {
+    "id": "kamal-al-din-al-farisi",
+    "name_zh": "卡迈勒丁·法里西",
+    "name_en": "Kamal al-Din al-Farisi",
+    "wikipedia_title": "Kamal al-Din al-Farisi",
+    "birth": {
+      "date": "1260",
+      "precision": "approximate",
+      "display": "约1260—1267年"
+    },
+    "death": {
+      "date": "1319",
+      "precision": "approximate",
+      "display": "约1319—1320年"
+    },
+    "death_status": "deceased",
+    "biography": "法里西是中世纪伊朗数学家与光学学者，师从设拉子学者库特布丁。他通过评论伊本·海赛姆《光学书》发展实验和几何分析，以透明球体模拟雨滴研究虹，生卒年代在不同传记中存在差异。",
+    "contributions": [
+      "用光在球形水滴中的折射和内部反射解释主虹与副虹。",
+      "以实验模型和几何推理修订并扩展伊本·海赛姆的光学传统。"
+    ],
+    "fields": [
+      "几何光学",
+      "虹的物理"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Kamal al-Din al-Farisi",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Farisi/"
+      },
+      {
+        "title": "Wikipedia — Kamal al-Din al-Farisi",
+        "url": "https://en.wikipedia.org/wiki/Kamal_al-Din_al-Farisi"
+      }
+    ],
+    "notes": [
+      "生年有约1260、1265、1267等说法，卒年多记1319或约1320；保留约数及差异。"
+    ]
+  },
+  {
+    "id": "thomas-harriot",
+    "name_zh": "托马斯·哈里奥特",
+    "name_en": "Thomas Harriot",
+    "wikipedia_title": "Thomas Harriot",
+    "birth": {
+      "date": "1560",
+      "precision": "approximate",
+      "display": "约1560年"
+    },
+    "death": {
+      "date": "1621-07-02",
+      "precision": "day",
+      "display": "1621年7月2日"
+    },
+    "death_status": "deceased",
+    "biography": "英国数学家、天文学家和航海研究者，曾服务罗利及诺森伯兰伯爵，并参加北美殖民考察。他研究折射、弹道和天体，留下大量未发表手稿；望远镜观测月球的记录早于伽利略公开发表的相关成果。",
+    "contributions": [
+      "独立得到折射的正弦关系，但相关成果生前未发表。",
+      "开展早期望远镜月面与太阳黑子观测，并用数学研究弹道和航海问题。"
+    ],
+    "fields": [
+      "几何光学",
+      "观测天文学",
+      "弹道学"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Thomas Harriot",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Harriot/"
+      },
+      {
+        "title": "Wikipedia — Thomas Harriot",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Harriot"
+      }
+    ],
+    "notes": [
+      "生年约1560由入学年龄等记录推定，确日不详；折射和天文成果多未在生前正式发表。"
+    ]
+  },
+  {
+    "id": "benedetto-castelli",
+    "name_zh": "贝内代托·卡斯泰利",
+    "name_en": "Benedetto Castelli",
+    "wikipedia_title": "Benedetto Castelli",
+    "birth": {
+      "date": "1578",
+      "precision": "year",
+      "display": "1578年"
+    },
+    "death": {
+      "date": "1643-04-09",
+      "precision": "day",
+      "display": "1643年4月9日"
+    },
+    "death_status": "deceased",
+    "biography": "意大利本笃会修士、数学家和伽利略的学生，曾在比萨和罗马任教。他把数学与水利工程结合，研究河流及渠道中的水流，著作《流水的测量》是近代定量水力学的重要早期文献。",
+    "contributions": [
+      "以流速与过水截面积的关系讨论水流连续性。",
+      "将数学测量用于河流、渠道及水利工程问题，推进实验与定量水力学。"
+    ],
+    "fields": [
+      "流体力学",
+      "水力学"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Benedetto Castelli",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Castelli/"
+      },
+      {
+        "title": "Wikipedia — Benedetto Castelli",
+        "url": "https://en.wikipedia.org/wiki/Benedetto_Castelli"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "marin-mersenne",
+    "name_zh": "马兰·梅森",
+    "name_en": "Marin Mersenne",
+    "wikipedia_title": "Marin Mersenne",
+    "birth": {
+      "date": "1588-09-08",
+      "precision": "day",
+      "display": "1588年9月8日"
+    },
+    "death": {
+      "date": "1648-09-01",
+      "precision": "day",
+      "display": "1648年9月1日"
+    },
+    "death_status": "deceased",
+    "biography": "法国修士、数学家与自然研究者，长期在巴黎建立学术通信网络，联系伽利略、笛卡尔等欧洲学者。他研究声音、振动和乐器，并通过实验和著作把音乐问题转化为可测量的物理问题。",
+    "contributions": [
+      "研究张紧弦的频率与长度、张力及线密度之间的规律。",
+      "开展声速及振动实验，以《普遍和声》等著作推动定量声学。"
+    ],
+    "fields": [
+      "声学",
+      "振动"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Marin Mersenne",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Mersenne/"
+      },
+      {
+        "title": "Wikipedia — Marin Mersenne",
+        "url": "https://en.wikipedia.org/wiki/Marin_Mersenne"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "francesco-maria-grimaldi",
+    "name_zh": "弗朗切斯科·玛丽亚·格里马尔迪",
+    "name_en": "Francesco Maria Grimaldi",
+    "wikipedia_title": "Francesco Maria Grimaldi",
+    "birth": {
+      "date": "1618-04-02",
+      "precision": "day",
+      "display": "1618年4月2日"
+    },
+    "death": {
+      "date": "1663-12-28",
+      "precision": "day",
+      "display": "1663年12月28日"
+    },
+    "death_status": "deceased",
+    "biography": "意大利耶稣会学者，在博洛尼亚从事天文、力学和光学研究，并与里乔利合作观测月球和落体。他的光学著作在去世后出版，其中记录光绕过障碍物边缘后的复杂分布，成为衍射研究的开端。",
+    "contributions": [
+      "发现并命名光的衍射，观察小孔和障碍物附近的光暗条纹。",
+      "与里乔利合作开展落体计时和月面观测，推动精密天文及力学实验。"
+    ],
+    "fields": [
+      "波动光学",
+      "实验力学"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Francesco Maria Grimaldi",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Grimaldi/"
+      },
+      {
+        "title": "Wikipedia — Francesco Maria Grimaldi",
+        "url": "https://en.wikipedia.org/wiki/Francesco_Maria_Grimaldi"
+      }
+    ],
+    "notes": [
+      "卒日采用MacTutor及通行传记的1663年12月28日；部分网络信息框曾误记8月28日。"
+    ]
+  },
+  {
+    "id": "edme-mariotte",
+    "name_zh": "埃德姆·马略特",
+    "name_en": "Edme Mariotte",
+    "wikipedia_title": "Edme Mariotte",
+    "birth": {
+      "date": "1620",
+      "precision": "approximate",
+      "display": "约1620年"
+    },
+    "death": {
+      "date": "1684-05",
+      "precision": "month",
+      "display": "1684年5月12日或21日"
+    },
+    "death_status": "deceased",
+    "biography": "法国实验科学家和教士，1666年成为巴黎皇家科学院早期成员。他研究空气、液体、碰撞与视觉，以控制实验和定量关系解释自然现象；其出生年份只能约定，气体研究独立于玻意耳工作发展。",
+    "contributions": [
+      "独立研究恒温条件下气体压力与体积的近似反比关系。",
+      "研究流体运动与碰撞，并发现视觉中的盲点。"
+    ],
+    "fields": [
+      "气体物理",
+      "流体力学",
+      "视觉科学"
+    ],
+    "sources": [
+      {
+        "title": "Rice University Galileo Project — Edme Mariotte",
+        "url": "https://galileo.library.rice.edu/Catalog/NewFiles/mariotte.html"
+      },
+      {
+        "title": "Wikipedia — Edme Mariotte",
+        "url": "https://en.wikipedia.org/wiki/Edme_Mariotte"
+      }
+    ],
+    "notes": [
+      "出生约1620年；卒日来源有1684年5月12日与21日两说，不能无条件混用。"
+    ]
+  },
+  {
+    "id": "jacob-bernoulli",
+    "name_zh": "雅各布·伯努利",
+    "name_en": "Jacob Bernoulli",
+    "wikipedia_title": "Jacob Bernoulli",
+    "birth": {
+      "date": "1655-01-06",
+      "precision": "day",
+      "display": "1655年1月6日"
+    },
+    "death": {
+      "date": "1705-08-16",
+      "precision": "day",
+      "display": "1705年8月16日"
+    },
+    "death_status": "deceased",
+    "biography": "瑞士数学家，约翰·伯努利的兄长，长期在巴塞尔任教。他是微积分和变分问题的早期研究者，把曲线、概率与机械问题联系起来，其弹性曲线和悬链线研究影响后来的分析力学。",
+    "contributions": [
+      "研究悬链线、等时曲线和最速降线等数学物理问题。",
+      "研究弯曲弹性杆的平衡形状，推进弹性曲线的数学理论。"
+    ],
+    "fields": [
+      "变分法",
+      "弹性力学"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Jacob Bernoulli",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bernoulli_Jacob/"
+      },
+      {
+        "title": "Wikipedia — Jacob Bernoulli",
+        "url": "https://en.wikipedia.org/wiki/Jacob_Bernoulli"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "francis-hauksbee",
+    "name_zh": "弗朗西斯·豪克斯比",
+    "name_en": "Francis Hauksbee",
+    "wikipedia_title": "Francis Hauksbee",
+    "birth": {
+      "date": "1660",
+      "precision": "approximate",
+      "display": "约1660年"
+    },
+    "death": {
+      "date": "1713-04",
+      "precision": "month",
+      "display": "1713年4月"
+    },
+    "death_status": "deceased",
+    "biography": "英国仪器制造者与实验研究者，出身科尔切斯特，曾在皇家学会进行大量演示。他改进空气泵与摩擦起电装置，系统研究低压气体中的发光和静电现象，1709年出版相关实验著作。",
+    "contributions": [
+      "改进双筒空气泵及旋转玻璃起电装置。",
+      "研究电致发光、静电与毛细现象，为十八世纪电学实验传统提供重要基础。"
+    ],
+    "fields": [
+      "静电学",
+      "气体放电",
+      "实验仪器"
+    ],
+    "sources": [
+      {
+        "title": "Royal Society — Francis Hauksbee",
+        "url": "https://makingscience.royalsociety.org/people/na8345/francis-hauksbee"
+      },
+      {
+        "title": "Museo Galileo — Francis Hauksbee Senior",
+        "url": "https://catalogue.museogalileo.it/biography/FrancisHauksbeeSenior.html"
+      },
+      {
+        "title": "Wikipedia — Francis Hauksbee",
+        "url": "https://en.wikipedia.org/wiki/Francis_Hauksbee"
+      }
+    ],
+    "notes": [
+      "1660年5月27日为受洗日，1713年4月29日为安葬日，不将二者当作确切生卒日；亦须区别同名侄子豪克斯比。"
+    ]
+  },
+  {
+    "id": "thomas-newcomen",
+    "name_zh": "托马斯·纽科门",
+    "name_en": "Thomas Newcomen",
+    "wikipedia_title": "Thomas Newcomen",
+    "birth": {
+      "date": "1663",
+      "precision": "approximate",
+      "display": "约1663—1664年"
+    },
+    "death": {
+      "date": "1729-08-05",
+      "precision": "day",
+      "display": "1729年8月5日"
+    },
+    "death_status": "deceased",
+    "biography": "英国达特茅斯的铁器商与发明家，和约翰·卡利等合作者发展矿井排水机械。1712年前后投入工作的纽科门大气机，利用蒸汽冷凝产生的压差推动活塞，是早期实用蒸汽动力的重要里程碑。",
+    "contributions": [
+      "发展以大气压力驱动活塞的实用蒸汽机，用于矿井排水。",
+      "将冷凝、气压和机械传动结合，为后续蒸汽机改进提供工程基础。"
+    ],
+    "fields": [
+      "热机工程",
+      "压力技术"
+    ],
+    "sources": [
+      {
+        "title": "Science Museum — In pursuit of power",
+        "url": "https://blog.sciencemuseum.org.uk/a-new-age/"
+      },
+      {
+        "title": "BBC History — Thomas Newcomen",
+        "url": "https://www.bbc.co.uk/history/historic_figures/newcomen_thomas.shtml"
+      },
+      {
+        "title": "Wikipedia — Thomas Newcomen",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Newcomen"
+      }
+    ],
+    "notes": [
+      "出生约1663—1664年；1664年2月24日为受洗日，不作确切生日。"
+    ]
+  },
+  {
+    "id": "stephen-gray",
+    "name_zh": "斯蒂芬·格雷",
+    "name_en": "Stephen Gray",
+    "wikipedia_title": "Stephen Gray (scientist)",
+    "birth": {
+      "date": "1666",
+      "precision": "approximate",
+      "display": "约1666年"
+    },
+    "death": {
+      "date": "1736-02",
+      "precision": "month",
+      "display": "1736年2月，确日有争议"
+    },
+    "death_status": "deceased",
+    "biography": "英国染工与业余自然研究者，来自坎特伯雷，兼做天文观测和显微实验。他在晚年系统研究电的传导与绝缘，成为首位科普利奖章获得者，其身世和确切死亡日期在史料中仍有若干疑问。",
+    "contributions": [
+      "用长线、悬挂物体等实验显示电作用可以从一处传到另一处。",
+      "区分材料和支撑方式对导电及电荷保持的影响，推进导体与绝缘体概念的发展。"
+    ],
+    "fields": [
+      "静电学",
+      "电传导"
+    ],
+    "sources": [
+      {
+        "title": "Royal Society — Stephen Gray",
+        "url": "https://makingscience.royalsociety.org/people/na7365/stephen-gray"
+      },
+      {
+        "title": "Kent Archaeological Society — New light on Stephen Gray",
+        "url": "https://www.kentarchaeology.org.uk/journal/143/new-light-stephen-gray-frs-1666-1736-canterbury-freeman-dyer"
+      },
+      {
+        "title": "Wikipedia — Stephen Gray",
+        "url": "https://en.wikipedia.org/wiki/Stephen_Gray_%28scientist%29"
+      }
+    ],
+    "notes": [
+      "1666年12月26日为受洗日；卒日有2月7、15或25日等记载，故只保留死亡月份及争议。"
+    ]
+  },
+  {
+    "id": "johann-bernoulli",
+    "name_zh": "约翰·伯努利",
+    "name_en": "Johann Bernoulli",
+    "wikipedia_title": "Johann Bernoulli",
+    "birth": {
+      "date": "1667-08-06",
+      "precision": "day",
+      "display": "1667年8月6日"
+    },
+    "death": {
+      "date": "1748-01-01",
+      "precision": "day",
+      "display": "1748年1月1日"
+    },
+    "death_status": "deceased",
+    "biography": "瑞士数学家，雅各布·伯努利之弟，曾在格罗宁根任教，后接掌巴塞尔数学教席。他发展并传播莱布尼茨微积分，把变分思想用于光学和机械问题，也参与十八世纪活力及流体运动的争论。",
+    "contributions": [
+      "以最速降线问题推动变分方法的发展。",
+      "研究光的反射折射、弦振动和流体运动，扩展微积分在物理中的应用。"
+    ],
+    "fields": [
+      "变分法",
+      "分析力学",
+      "流体力学"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Johann Bernoulli",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bernoulli_Johann/"
+      },
+      {
+        "title": "Wikipedia — Johann Bernoulli",
+        "url": "https://en.wikipedia.org/wiki/Johann_Bernoulli"
+      }
+    ],
+    "notes": [
+      "出生日期采用公历1667年8月6日，对应儒略历7月27日，MacTutor所列为后者。"
+    ]
+  },
+  {
+    "id": "brook-taylor",
+    "name_zh": "布鲁克·泰勒",
+    "name_en": "Brook Taylor",
+    "wikipedia_title": "Brook Taylor",
+    "birth": {
+      "date": "1685-08-18",
+      "precision": "day",
+      "display": "1685年8月18日"
+    },
+    "death": {
+      "date": "1731-12-29",
+      "precision": "day",
+      "display": "1731年12月29日"
+    },
+    "death_status": "deceased",
+    "biography": "英国数学家，曾在剑桥学习并担任皇家学会秘书。他研究级数、透视和力学，以微积分讨论弦振动和运动问题，其展开公式后来成为物理理论中近似计算的基本工具。",
+    "contributions": [
+      "研究张紧弦的振动并把微积分用于力学问题。",
+      "发展泰勒展开与有限差分方法，为物理近似计算和数值分析提供通用工具。"
+    ],
+    "fields": [
+      "振动",
+      "数学物理"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Brook Taylor",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Taylor/"
+      },
+      {
+        "title": "Wikipedia — Brook Taylor",
+        "url": "https://en.wikipedia.org/wiki/Brook_Taylor"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "colin-maclaurin",
+    "name_zh": "科林·麦克劳林",
+    "name_en": "Colin Maclaurin",
+    "wikipedia_title": "Colin Maclaurin",
+    "birth": {
+      "date": "1698-02",
+      "precision": "month",
+      "display": "1698年2月"
+    },
+    "death": {
+      "date": "1746-06-14",
+      "precision": "day",
+      "display": "1746年6月14日"
+    },
+    "death_status": "deceased",
+    "biography": "苏格兰数学家，曾在阿伯丁与爱丁堡任教，是牛顿方法的重要阐释者。他把分析、几何和物理问题联系起来，研究旋转流体的平衡形状、引力和潮汐，其著作促进牛顿数学传统传播。",
+    "contributions": [
+      "研究均匀旋转流体的椭球平衡形状，即麦克劳林椭球。",
+      "发展分析及级数方法，并把它们用于引力、潮汐和机械问题。"
+    ],
+    "fields": [
+      "流体力学",
+      "引力",
+      "数学物理"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Colin Maclaurin",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Maclaurin/"
+      },
+      {
+        "title": "Wikipedia — Colin Maclaurin",
+        "url": "https://en.wikipedia.org/wiki/Colin_Maclaurin"
+      }
+    ],
+    "notes": [
+      "确切生日没有可靠共识，只记1698年2月。"
+    ]
+  },
+  {
+    "id": "charles-francois-de-cisternay-du-fay",
+    "name_zh": "夏尔·弗朗索瓦·迪费",
+    "name_en": "Charles François de Cisternay du Fay",
+    "wikipedia_title": "Charles François de Cisternay du Fay",
+    "birth": {
+      "date": "1698-09-14",
+      "precision": "day",
+      "display": "1698年9月14日"
+    },
+    "death": {
+      "date": "1739-07-16",
+      "precision": "day",
+      "display": "1739年7月16日"
+    },
+    "death_status": "deceased",
+    "biography": "法国科学家，曾任军官，后主持巴黎王家植物园并加入科学院。他重复和扩展格雷等人的电学实验，1733年提出两种不同电性的区分，以吸引和排斥规律整理摩擦起电现象。",
+    "contributions": [
+      "区分玻璃电与树脂电两类电性，是后来正负电荷区分的重要前史。",
+      "研究同类相斥、异类相吸及电作用传递，推动静电现象的系统分类。"
+    ],
+    "fields": [
+      "静电学"
+    ],
+    "sources": [
+      {
+        "title": "Larousse — Charles François de Cisternay Du Fay",
+        "url": "https://www.larousse.fr/encyclopedie/personnage/Charles_François_de_Cisternay_Du_Fay/117257"
+      },
+      {
+        "title": "SPARK Museum — Two kinds of electrical fluid: Vitreous and Resinous",
+        "url": "http://www.sparkmuseum.com/BOOK_DUFAY.HTM"
+      },
+      {
+        "title": "Wikipedia — Charles François de Cisternay du Fay",
+        "url": "https://en.wikipedia.org/wiki/Charles_Fran%C3%A7ois_de_Cisternay_du_Fay"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "pierre-louis-maupertuis",
+    "name_zh": "皮埃尔·路易·莫佩尔蒂",
+    "name_en": "Pierre Louis Maupertuis",
+    "wikipedia_title": "Pierre Louis Maupertuis",
+    "birth": {
+      "date": "1698-09-28",
+      "precision": "day",
+      "display": "1698年9月28日"
+    },
+    "death": {
+      "date": "1759-07-27",
+      "precision": "day",
+      "display": "1759年7月27日"
+    },
+    "death_status": "deceased",
+    "biography": "法国数学家和天文学家，曾领导拉普兰子午线弧测量，后主持柏林科学院。他用地球测量检验牛顿关于地球形状的预言，也提出作用量的极值观念，其哲学论述和优先权争议影响十八世纪科学。",
+    "contributions": [
+      "通过拉普兰测量支持地球两极扁平的形状。",
+      "提出早期最小作用量原则，推动变分思想在自然理论中的发展。"
+    ],
+    "fields": [
+      "大地测量",
+      "变分原理"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Pierre Louis Maupertuis",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Maupertuis/"
+      },
+      {
+        "title": "Wikipedia — Pierre Louis Maupertuis",
+        "url": "https://en.wikipedia.org/wiki/Pierre_Louis_Maupertuis"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "benjamin-robins",
+    "name_zh": "本杰明·罗宾斯",
+    "name_en": "Benjamin Robins",
+    "wikipedia_title": "Benjamin Robins",
+    "birth": {
+      "date": "1706",
+      "precision": "approximate",
+      "display": "约1706—1707年"
+    },
+    "death": {
+      "date": "1751-07-20",
+      "precision": "day",
+      "display": "1751年7月20日"
+    },
+    "death_status": "deceased",
+    "biography": "英国数学家和工程师，出身贵格会家庭，研究牛顿数学、炮术与空气阻力，后来赴印度工作。他在1742年《炮术新原理》中把实验速度测量用于弹道，改变依靠经验的火炮研究方式。",
+    "contributions": [
+      "发明弹道摆，以动量传递测量弹丸速度。",
+      "研究高速弹丸的空气阻力，将实验测量和数学分析用于弹道学。"
+    ],
+    "fields": [
+      "弹道学",
+      "实验力学"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Benjamin Robins",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Robins/"
+      },
+      {
+        "title": "Wikipedia — Benjamin Robins",
+        "url": "https://en.wikipedia.org/wiki/Benjamin_Robins"
+      }
+    ],
+    "notes": [
+      "出生年常记1707，MacTutor依据教友会记录记1706年4月16日；本档保留约1706—1707年。"
+    ]
+  },
+  {
+    "id": "laura-bassi",
+    "name_zh": "劳拉·巴西",
+    "name_en": "Laura Bassi",
+    "wikipedia_title": "Laura Bassi",
+    "birth": {
+      "date": "1711-10-29",
+      "precision": "day",
+      "display": "1711年10月29日"
+    },
+    "death": {
+      "date": "1778-02-20",
+      "precision": "day",
+      "display": "1778年2月20日"
+    },
+    "death_status": "deceased",
+    "biography": "意大利物理学家，1732年在博洛尼亚获学位并获得有薪大学教学职位，后来担任实验物理教席。她与丈夫韦拉蒂共同建立家庭实验室，研究电、流体和光学，并在限制女性教育的环境中长期教授牛顿物理。",
+    "contributions": [
+      "通过教学、实验和学术交流推进牛顿物理在意大利传播。",
+      "研究电学、流体力学和光学，发展家庭实验室中的实验教学与研究。"
+    ],
+    "fields": [
+      "实验物理",
+      "电学",
+      "流体力学"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Laura Bassi",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bassi/"
+      },
+      {
+        "title": "University of Bologna Historical Archive — Laura Bassi Veratti",
+        "url": "https://archiviostorico.unibo.it/it/patrimonio-documentario/ritratti-di-docenti?record=95198"
+      },
+      {
+        "title": "University of Bologna Magazine — Laura Bassi compie trecento anni",
+        "url": "https://magazine.unibo.it/it/articoli/laura_bassi_compie_trecento_anni"
+      },
+      {
+        "title": "Wikipedia — Laura Bassi",
+        "url": "https://en.wikipedia.org/wiki/Laura_Bassi"
+      }
+    ],
+    "notes": [
+      "出生日期采用博洛尼亚大学档案及纪念资料的1711年10月29日；MacTutor及部分资料列31日。"
+    ]
+  },
+  {
+    "id": "alexis-clairaut",
+    "name_zh": "亚历克西·克莱罗",
+    "name_en": "Alexis Clairaut",
+    "wikipedia_title": "Alexis Clairaut",
+    "birth": {
+      "date": "1713-05-13",
+      "precision": "day",
+      "display": "1713年5月13日"
+    },
+    "death": {
+      "date": "1765-05-17",
+      "precision": "day",
+      "display": "1765年5月17日"
+    },
+    "death_status": "deceased",
+    "biography": "法国数学家和天文学家，年少时即进入科学院，参加莫佩尔蒂领导的拉普兰测量。他把微分方程用于地球形状、月球运动和彗星轨道，协助杜夏特莱研究牛顿力学，是十八世纪数学物理的重要代表。",
+    "contributions": [
+      "建立联系地球形状、重力与自转的克莱罗理论。",
+      "改进月球摄动计算，并与合作者计算哈雷彗星的回归时间。"
+    ],
+    "fields": [
+      "天体力学",
+      "地球物理"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Alexis Clairaut",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Clairaut/"
+      },
+      {
+        "title": "French Academy of Sciences — Clairaut tercentenary programme, 2013",
+        "url": "https://www.academie-sciences.fr/pdf/conf/colloque_130513.pdf"
+      },
+      {
+        "title": "Wikipedia — Alexis Clairaut",
+        "url": "https://en.wikipedia.org/wiki/Alexis_Clairaut"
+      }
+    ],
+    "notes": [
+      "出生日期采用法国科学院三百周年纪念资料的1713年5月13日；MacTutor及部分旧资料记5月7日。"
+    ]
+  },
+  {
+    "id": "jean-le-rond-dalembert",
+    "name_zh": "让·勒朗·达朗贝尔",
+    "name_en": "Jean le Rond d'Alembert",
+    "wikipedia_title": "Jean le Rond d'Alembert",
+    "birth": {
+      "date": "1717-11-16",
+      "precision": "day",
+      "display": "1717年11月16日"
+    },
+    "death": {
+      "date": "1783-10-29",
+      "precision": "day",
+      "display": "1783年10月29日"
+    },
+    "death_status": "deceased",
+    "biography": "法国数学家和启蒙思想家，出生后成为弃婴，在巴黎受教育，后来参与主编《百科全书》。他将力学问题转写为数学关系，研究振动、流体和天体运动，对微分方程及分析力学的发展影响深远。",
+    "contributions": [
+      "提出达朗贝尔原理，把动力学与虚功形式的平衡问题联系起来。",
+      "建立并求解弦振动的波动方程，研究流体运动与阻力问题。"
+    ],
+    "fields": [
+      "分析力学",
+      "波动方程",
+      "流体力学"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Jean le Rond d'Alembert",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/DAlembert/"
+      },
+      {
+        "title": "Académie française — Jean Le Rond, dit d’Alembert",
+        "url": "https://www.academie-francaise.fr/les-immortels/jean-le-rond-dit-dalembert"
+      },
+      {
+        "title": "Wikipedia — Jean le Rond d'Alembert",
+        "url": "https://en.wikipedia.org/wiki/Jean_le_Rond_d%27Alembert"
+      }
+    ],
+    "notes": [
+      "出生日期采用法兰西学院资料的1717年11月16日；MacTutor列17日，保留此差异。"
+    ]
+  },
+  {
+    "id": "franz-aepinus",
+    "name_zh": "弗朗茨·埃皮努斯",
+    "name_en": "Franz Aepinus",
+    "wikipedia_title": "Franz Aepinus",
+    "birth": {
+      "date": "1724-12-13",
+      "precision": "day",
+      "display": "1724年12月13日"
+    },
+    "death": {
+      "date": "1802-08-10",
+      "precision": "day",
+      "display": "1802年8月10日"
+    },
+    "death_status": "deceased",
+    "biography": "德意志出身的物理学家，曾在柏林工作，后长期服务圣彼得堡科学院。他把电与磁置于共同的数学框架中研究，并研究电气石受热后的电现象，1759年发表电磁理论的重要著作。",
+    "contributions": [
+      "用数学化的单流体电理论描述静电感应等现象。",
+      "研究电气石的热释电现象，并尝试统一分析电与磁的作用。"
+    ],
+    "fields": [
+      "静电学",
+      "磁学",
+      "热释电"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Franz Aepinus",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Aepinus/"
+      },
+      {
+        "title": "Wikipedia — Franz Aepinus",
+        "url": "https://en.wikipedia.org/wiki/Franz_Aepinus"
+      }
+    ],
+    "notes": [
+      "其电流体理论是历史模型，不等同于现代电子或电磁场理论。"
+    ]
+  },
+  {
+    "id": "john-michell",
+    "name_zh": "约翰·米歇尔",
+    "name_en": "John Michell",
+    "wikipedia_title": "John Michell",
+    "birth": {
+      "date": "1724-12-25",
+      "precision": "day",
+      "display": "1724年12月25日"
+    },
+    "death": {
+      "date": "1793-04-21",
+      "precision": "day",
+      "display": "1793年4月21日"
+    },
+    "death_status": "deceased",
+    "biography": "英国牧师与自然研究者，曾在剑桥任教，后在约克郡担任教区职务。他研究磁性、地震、恒星和引力，提出扭秤测量地球密度的方案；其装置后来由卡文迪许使用并完成著名实验。",
+    "contributions": [
+      "设计利用扭秤测量微弱引力及地球密度的装置。",
+      "在牛顿引力和微粒光理论背景下讨论光无法逃逸的“暗星”，并研究双星的统计证据。"
+    ],
+    "fields": [
+      "引力实验",
+      "天体物理史",
+      "地球物理"
+    ],
+    "sources": [
+      {
+        "title": "Royal Society — John Michell",
+        "url": "https://makingscience.royalsociety.org/people/na7798/john-michell"
+      },
+      {
+        "title": "Queens’ College Cambridge History Archive — John Michell",
+        "url": "https://history.queens.cam.ac.uk/individuals-interest/john-michell"
+      },
+      {
+        "title": "Wikipedia — John Michell",
+        "url": "https://en.wikipedia.org/wiki/John_Michell"
+      }
+    ],
+    "notes": [
+      "其“暗星”基于牛顿引力和微粒光观念，不等同于广义相对论黑洞。",
+      "尚未取得经确证的本人生前肖像；后世形象或相关资料图必须说明性质。"
+    ]
+  },
+  {
+    "id": "johann-heinrich-lambert",
+    "name_zh": "约翰·海因里希·朗伯",
+    "name_en": "Johann Heinrich Lambert",
+    "wikipedia_title": "Johann Heinrich Lambert",
+    "birth": {
+      "date": "1728-08-26",
+      "precision": "day",
+      "display": "1728年8月26日"
+    },
+    "death": {
+      "date": "1777-09-25",
+      "precision": "day",
+      "display": "1777年9月25日"
+    },
+    "death_status": "deceased",
+    "biography": "出生于米卢斯的数学家、物理学家和天文学家，主要靠自学，后进入柏林科学院。他研究光的强度、反射、热和天体系统，在1760年《光度学》中把亮度与照明问题系统地定量化。",
+    "contributions": [
+      "建立光度学的定量研究框架，讨论照明强度、吸收和漫反射规律。",
+      "研究热传导、天文距离及宇宙结构，发展物理测量和数学模型。"
+    ],
+    "fields": [
+      "光度学",
+      "热学",
+      "天文学"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Johann Heinrich Lambert",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Lambert/"
+      },
+      {
+        "title": "Wikipedia — Johann Heinrich Lambert",
+        "url": "https://en.wikipedia.org/wiki/Johann_Heinrich_Lambert"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "rene-just-hauy",
+    "name_zh": "勒内·朱斯特·阿维",
+    "name_en": "René Just Haüy",
+    "wikipedia_title": "René Just Haüy",
+    "birth": {
+      "date": "1743-02-28",
+      "precision": "day",
+      "display": "1743年2月28日"
+    },
+    "death": {
+      "date": "1822-06",
+      "precision": "month",
+      "display": "1822年6月1日或3日"
+    },
+    "death_status": "deceased",
+    "biography": "法国神父和矿物学家，长期在巴黎从事教学与收藏研究。他从晶体的解理和几何形状出发，提出用规则微小单元组合解释晶体外形，并研究矿物的物理性质，是几何晶体学的重要奠基者。",
+    "contributions": [
+      "以结构单元与有理几何关系解释晶体外形，推进几何晶体学。",
+      "研究矿物的解理、对称性及电学等物理性质，促进矿物学与物理的联系。"
+    ],
+    "fields": [
+      "晶体学",
+      "矿物物理"
+    ],
+    "sources": [
+      {
+        "title": "Royal Society — René Just Haüy",
+        "url": "https://catalogues.royalsociety.org/calmview/Record.aspx?id=NA3462&src=CalmView.Persons"
+      },
+      {
+        "title": "Wikipedia — René Just Haüy",
+        "url": "https://en.wikipedia.org/wiki/Ren%C3%A9_Just_Ha%C3%BCy"
+      }
+    ],
+    "notes": [
+      "卒日有1822年6月1日与3日两说；后者亦被解释为安葬日，故保留月份与差异。"
+    ]
+  },
+  {
+    "id": "george-atwood",
+    "name_zh": "乔治·阿特伍德",
+    "name_en": "George Atwood",
+    "wikipedia_title": "George Atwood",
+    "birth": {
+      "date": "1745-10",
+      "precision": "month",
+      "display": "1745年10月"
+    },
+    "death": {
+      "date": "1807-07-11",
+      "precision": "day",
+      "display": "1807年7月11日"
+    },
+    "death_status": "deceased",
+    "biography": "英国数学家和实验物理教师，曾在剑桥任教并成为皇家学会成员。他设计低摩擦的滑轮与重物装置，借较小的加速度检验落体运动，也研究摆、力学教学及船舶稳定问题。",
+    "contributions": [
+      "发明阿特伍德机，使重力作用下的加速运动便于定量演示和测量。",
+      "通过仪器与教学研究传播牛顿力学，并研究摆和机械平衡。"
+    ],
+    "fields": [
+      "实验力学",
+      "精密测量"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — George Atwood",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Atwood/"
+      },
+      {
+        "title": "Wikipedia — George Atwood",
+        "url": "https://en.wikipedia.org/wiki/George_Atwood"
+      }
+    ],
+    "notes": [
+      "1745年10月15日为受洗日，出生日期仅保留到月份。"
+    ]
+  },
+  {
+    "id": "gaspard-monge",
+    "name_zh": "加斯帕尔·蒙日",
+    "name_en": "Gaspard Monge",
+    "wikipedia_title": "Gaspard Monge",
+    "birth": {
+      "date": "1746-05-09",
+      "precision": "day",
+      "display": "1746年5月9日"
+    },
+    "death": {
+      "date": "1818-07-28",
+      "precision": "day",
+      "display": "1818年7月28日"
+    },
+    "death_status": "deceased",
+    "biography": "法国数学家、工程教育组织者和政治人物，曾在梅济耶尔军校及巴黎工作，并参与创建综合理工学院。他研究曲面、几何和微分方程，也把数学与机械制造和工程训练联系起来。",
+    "contributions": [
+      "建立画法几何体系，使空间构造和工程设计能够系统表示。",
+      "研究曲面与偏微分方程，为几何光学、连续介质和其他数学物理问题提供方法。"
+    ],
+    "fields": [
+      "数学物理",
+      "工程几何"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Gaspard Monge",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Monge/"
+      },
+      {
+        "title": "Wikipedia — Gaspard Monge",
+        "url": "https://en.wikipedia.org/wiki/Gaspard_Monge"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "giovanni-battista-venturi",
+    "name_zh": "乔瓦尼·巴蒂斯塔·文丘里",
+    "name_en": "Giovanni Battista Venturi",
+    "wikipedia_title": "Giovanni Battista Venturi",
+    "birth": {
+      "date": "1746-09-11",
+      "precision": "day",
+      "display": "1746年9月11日"
+    },
+    "death": {
+      "date": "1822-09-10",
+      "precision": "day",
+      "display": "1822年9月10日"
+    },
+    "death_status": "deceased",
+    "biography": "意大利神职人员、物理学家和外交官，曾在摩德纳与帕维亚任教。他研究流体、电磁及科学史，在巴黎发表有关流动液体的实验研究，后来以他的名字命名的效应成为流量测量的重要基础。",
+    "contributions": [
+      "研究流体通过收缩管道时速度与压力的变化，即文丘里效应。",
+      "将流体实验与水力工程联系起来，为后来的文丘里流量计提供物理依据。"
+    ],
+    "fields": [
+      "流体力学",
+      "实验物理"
+    ],
+    "sources": [
+      {
+        "title": "Treccani, Dizionario Biografico — Giovanni Battista Venturi",
+        "url": "https://www.treccani.it/enciclopedia/giovanni-battista-venturi_(Dizionario-Biografico)"
+      },
+      {
+        "title": "Wikipedia — Giovanni Battista Venturi",
+        "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Venturi"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "jacques-charles",
+    "name_zh": "雅克·夏尔",
+    "name_en": "Jacques Charles",
+    "wikipedia_title": "Jacques Charles",
+    "birth": {
+      "date": "1746-11-12",
+      "precision": "day",
+      "display": "1746年11月12日"
+    },
+    "death": {
+      "date": "1823-04",
+      "precision": "month",
+      "display": "1823年4月7日或8日"
+    },
+    "death_status": "deceased",
+    "biography": "法国物理研究者、仪器收藏家和气球先驱，在巴黎讲授实验物理。他与罗贝尔兄弟合作发展氢气球，并研究气体受热膨胀，其实验结果由盖-吕萨克等人传播，名字与气体定律相联系。",
+    "contributions": [
+      "研究气体在恒压条件下体积随温度变化的规律。",
+      "参与制造和乘坐早期载人氢气球，推动气体性质知识与航空实验结合。"
+    ],
+    "fields": [
+      "气体物理",
+      "实验仪器"
+    ],
+    "sources": [
+      {
+        "title": "Musée des Arts et Métiers — Animorphose, Charles’s physics cabinet",
+        "url": "https://www.arts-et-metiers.net/musee/animorphose"
+      },
+      {
+        "title": "Le Moyne College — Gay-Lussac’s 1802 paper, including Charles’s earlier experiments",
+        "url": "https://web.lemoyne.edu/~giunta/gaygas.html"
+      },
+      {
+        "title": "Wikipedia — Jacques Charles",
+        "url": "https://en.wikipedia.org/wiki/Jacques_Charles"
+      }
+    ],
+    "notes": [
+      "死亡日期来源有1823年4月7日与8日两说，保留差异；其气体实验结果主要由后来的盖-吕萨克文献传播。"
+    ]
+  },
+  {
+    "id": "caroline-herschel",
+    "name_zh": "卡罗琳·赫歇尔",
+    "name_en": "Caroline Herschel",
+    "wikipedia_title": "Caroline Herschel",
+    "birth": {
+      "date": "1750-03-16",
+      "precision": "day",
+      "display": "1750年3月16日"
+    },
+    "death": {
+      "date": "1848-01-09",
+      "precision": "day",
+      "display": "1848年1月9日"
+    },
+    "death_status": "deceased",
+    "biography": "出生于汉诺威的天文学家，移居英国后与兄长威廉长期合作，承担观测、计算和目录整理。她也独立发现彗星和星云，后来获得皇家天文学会奖章，是早期获得科学工作报酬的重要女性天文学家。",
+    "contributions": [
+      "独立发现多颗彗星并观测星云。",
+      "整理、校订和扩充恒星与星云目录，提升天体观测资料的可靠性。"
+    ],
+    "fields": [
+      "观测天文学",
+      "天文目录"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Caroline Herschel",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Herschel_Caroline/"
+      },
+      {
+        "title": "Wikipedia — Caroline Herschel",
+        "url": "https://en.wikipedia.org/wiki/Caroline_Herschel"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "pierre-prevost",
+    "name_zh": "皮埃尔·普雷沃斯特",
+    "name_en": "Pierre Prévost",
+    "wikipedia_title": "Pierre Prevost (physicist)",
+    "birth": {
+      "date": "1751-03-03",
+      "precision": "day",
+      "display": "1751年3月3日"
+    },
+    "death": {
+      "date": "1839-04-08",
+      "precision": "day",
+      "display": "1839年4月8日"
+    },
+    "death_status": "deceased",
+    "biography": "日内瓦哲学家和物理学家，早年学习法律，曾在柏林和日内瓦教授哲学，后任普通物理学教授。他研究磁性和热，1791年提出热辐射交换观念，以持续发射和吸收解释热平衡。",
+    "contributions": [
+      "提出热辐射交换理论，说明热平衡可由双向辐射的动态平衡维持。",
+      "反对把“冷”作为独立辐射物质的解释，推动热辐射研究的概念转变。"
+    ],
+    "fields": [
+      "热辐射",
+      "热学史"
+    ],
+    "sources": [
+      {
+        "title": "Royal Society — Pierre Prevost",
+        "url": "https://catalogues.royalsociety.org/CalmView/Record.aspx?AddBasket=NA3134&id=NA3134&src=CalmView.Persons"
+      },
+      {
+        "title": "ETH Library — Recherches physico-mécaniques sur la chaleur, 1792",
+        "url": "https://www.e-rara.ch/zut/content/titleinfo/1431800"
+      },
+      {
+        "title": "Wikipedia — Pierre Prévost",
+        "url": "https://en.wikipedia.org/wiki/Pierre_Prevost_%28physicist%29"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "adrien-marie-legendre",
+    "name_zh": "阿德里安·玛丽·勒让德",
+    "name_en": "Adrien-Marie Legendre",
+    "wikipedia_title": "Adrien-Marie Legendre",
+    "birth": {
+      "date": "1752-09-18",
+      "precision": "day",
+      "display": "1752年9月18日"
+    },
+    "death": {
+      "date": "1833-01-09",
+      "precision": "day",
+      "display": "1833年1月9日"
+    },
+    "death_status": "deceased",
+    "biography": "法国数学家，曾在巴黎军校任教，并参加科学院与大地测量工作。他研究行星引力、椭圆积分和测量误差，发展后来广泛用于场论与力学的特殊函数和变换方法；其肖像长期存在误认。",
+    "contributions": [
+      "发展勒让德多项式和相关势理论方法，用于引力及边值问题。",
+      "研究椭圆积分、最小二乘法与勒让德变换，为力学和数学物理提供重要工具。"
+    ],
+    "fields": [
+      "势理论",
+      "数学物理",
+      "测量误差"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Adrien-Marie Legendre",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Legendre/"
+      },
+      {
+        "title": "Inventaire Condorcet — Adrien Marie Le Gendre, archival death-record citation",
+        "url": "https://www.inventaire-condorcet.com/Inventario/Personas_e_instituciones?ID=987"
+      },
+      {
+        "title": "French Academy of Sciences — La Science en caricatures, Lettre 28",
+        "url": "https://www.academie-sciences.fr/pdf/lettre/lettre28.pdf"
+      },
+      {
+        "title": "Wikipedia — Adrien-Marie Legendre",
+        "url": "https://en.wikipedia.org/wiki/Adrien-Marie_Legendre"
+      }
+    ],
+    "notes": [
+      "卒日采用引用巴黎死亡记录的Inventaire Condorcet之1833年1月9日；MacTutor记10日，后者亦为葬礼日期。",
+      "长期流传的端正头像实际多为政治人物路易·勒让德；本人物已鉴定的同时代形象是博伊1820年的漫画。"
+    ]
+  },
+  {
+    "id": "lazare-carnot",
+    "name_zh": "拉扎尔·卡诺",
+    "name_en": "Lazare Carnot",
+    "wikipedia_title": "Lazare Carnot",
+    "birth": {
+      "date": "1753-05-13",
+      "precision": "day",
+      "display": "1753年5月13日"
+    },
+    "death": {
+      "date": "1823-08-02",
+      "precision": "day",
+      "display": "1823年8月2日"
+    },
+    "death_status": "deceased",
+    "biography": "法国军事工程师、政治人物和数学家，也是萨迪·卡诺的父亲。他在战争及公共事务之外研究机器、碰撞与几何，以机械运动的损失和转换分析机器效率，是热机理论形成前的重要机械学研究者。",
+    "contributions": [
+      "研究碰撞及机器运动中的机械效应损失。",
+      "以一般化的几何与力学方法分析机器，为工程力学和后来的能量思想提供历史基础。"
+    ],
+    "fields": [
+      "工程力学",
+      "分析力学"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Lazare Carnot",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Carnot/"
+      },
+      {
+        "title": "Wikipedia — Lazare Carnot",
+        "url": "https://en.wikipedia.org/wiki/Lazare_Carnot"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "ernst-chladni",
+    "name_zh": "恩斯特·克拉德尼",
+    "name_en": "Ernst Chladni",
+    "wikipedia_title": "Ernst Chladni",
+    "birth": {
+      "date": "1756-11-30",
+      "precision": "day",
+      "display": "1756年11月30日"
+    },
+    "death": {
+      "date": "1827-04-03",
+      "precision": "day",
+      "display": "1827年4月3日"
+    },
+    "death_status": "deceased",
+    "biography": "德意志物理学家，原受法律教育，后来转向声学，靠巡回讲演与乐器演示传播实验成果。他以砂粒显示振动板的节线，也研究声速、乐器及陨石，成为实验声学和陨石科学的重要先驱。",
+    "contributions": [
+      "通过克拉德尼图形使板振动的模态和节线可视化。",
+      "研究固体及气体中的声音传播，并为陨石具有地外来源提供论证。"
+    ],
+    "fields": [
+      "声学",
+      "振动",
+      "陨石研究"
+    ],
+    "sources": [
+      {
+        "title": "Deutsche Biographie — Ernst Florenz Friedrich Chladni",
+        "url": "https://www.deutsche-biographie.de/gnd118520490.html?language=en"
+      },
+      {
+        "title": "Wikipedia — Ernst Chladni",
+        "url": "https://en.wikipedia.org/wiki/Ernst_Chladni"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "amedeo-avogadro",
+    "name_zh": "阿梅代奥·阿伏伽德罗",
+    "name_en": "Amedeo Avogadro",
+    "wikipedia_title": "Amedeo Avogadro",
+    "birth": {
+      "date": "1776-08-09",
+      "precision": "day",
+      "display": "1776年8月9日"
+    },
+    "death": {
+      "date": "1856-07-09",
+      "precision": "day",
+      "display": "1856年7月9日"
+    },
+    "death_status": "deceased",
+    "biography": "意大利学者，早年受法律教育，后来转向自然科学，长期在都灵教授物理。他区分分子与原子层次的概念，1811年提出在相同条件下气体体积与粒子数之间的关系，成果经后世重估后成为分子科学基础。",
+    "contributions": [
+      "提出同温同压下等体积气体含有相同数目分子的假说。",
+      "以分子观念解释气体化合体积和相对分子质量，为分子论与原子量测定提供基础。"
+    ],
+    "fields": [
+      "分子物理",
+      "气体物理"
+    ],
+    "sources": [
+      {
+        "title": "Science History Institute — Amedeo Avogadro",
+        "url": "https://www.sciencehistory.org/education/scientific-biographies/amedeo-avogadro/"
+      },
+      {
+        "title": "BibNum — Les deux hypothèses d’Avogadro en 1811",
+        "url": "https://www.bibnum.education.fr/chimie/theorie-chimique/les-deux-hypotheses-d-avogadro-en-1811"
+      },
+      {
+        "title": "Wikipedia — Amedeo Avogadro",
+        "url": "https://en.wikipedia.org/wiki/Amedeo_Avogadro"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "johann-wilhelm-ritter",
+    "name_zh": "约翰·威廉·里特尔",
+    "name_en": "Johann Wilhelm Ritter",
+    "wikipedia_title": "Johann Wilhelm Ritter",
+    "birth": {
+      "date": "1776-12-16",
+      "precision": "day",
+      "display": "1776年12月16日"
+    },
+    "death": {
+      "date": "1810-01-23",
+      "precision": "day",
+      "display": "1810年1月23日"
+    },
+    "death_status": "deceased",
+    "biography": "德意志实验物理研究者，早年学习药剂学，后在耶拿等地开展电化学与光学实验，晚年任巴伐利亚科学院成员。他以化学反应探测可见紫光以外的辐射，并研究电流的化学和生理作用。",
+    "contributions": [
+      "在太阳光谱紫端之外发现具有化学作用的不可见辐射，即紫外辐射。",
+      "研究电解、极化及蓄电现象，推进早期电化学。"
+    ],
+    "fields": [
+      "紫外光学",
+      "电化学"
+    ],
+    "sources": [
+      {
+        "title": "Deutsche Biographie — Johann Wilhelm Ritter",
+        "url": "https://www.deutsche-biographie.de/gnd118745468.html"
+      },
+      {
+        "title": "Wikipedia — Johann Wilhelm Ritter",
+        "url": "https://en.wikipedia.org/wiki/Johann_Wilhelm_Ritter"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "henry-kater",
+    "name_zh": "亨利·卡特",
+    "name_en": "Henry Kater",
+    "wikipedia_title": "Henry Kater",
+    "birth": {
+      "date": "1777-04-16",
+      "precision": "day",
+      "display": "1777年4月16日"
+    },
+    "death": {
+      "date": "1835-04-26",
+      "precision": "day",
+      "display": "1835年4月26日"
+    },
+    "death_status": "deceased",
+    "biography": "英国军人、测量学家和实验物理研究者，曾参与印度三角测量，退休后在英国研究计量仪器。他以可倒置使用的复摆改进重力测量，并研究长度、质量标准和光学准直装置。",
+    "contributions": [
+      "发明卡特可逆摆，用于精密测定当地重力加速度。",
+      "改进测地、准直和计量仪器，参与长度与质量标准的比较。"
+    ],
+    "fields": [
+      "重力测量",
+      "计量学"
+    ],
+    "sources": [
+      {
+        "title": "National Portrait Gallery — Henry Kater",
+        "url": "https://www.npg.org.uk/collections/search/person/mp02471/henry-kater?displayStyle=thumb"
+      },
+      {
+        "title": "Darwin Correspondence Project — Henry Kater",
+        "url": "https://darwin-editorial.darwinproject.ac.uk/view/nameregs/nameregs_2643"
+      },
+      {
+        "title": "Wikipedia — Henry Kater",
+        "url": "https://en.wikipedia.org/wiki/Henry_Kater"
+      }
+    ],
+    "notes": [
+      "出生日期采用通行传记及历史肖像文献的1777年4月16日；个别机构简介漏作4月6日。"
+    ]
+  },
+  {
+    "id": "joseph-louis-gay-lussac",
+    "name_zh": "约瑟夫·路易·盖-吕萨克",
+    "name_en": "Joseph Louis Gay-Lussac",
+    "wikipedia_title": "Joseph Louis Gay-Lussac",
+    "birth": {
+      "date": "1778-12-06",
+      "precision": "day",
+      "display": "1778年12月6日"
+    },
+    "death": {
+      "date": "1850-05-09",
+      "precision": "day",
+      "display": "1850年5月9日"
+    },
+    "death_status": "deceased",
+    "biography": "法国化学家和物理学家，曾在综合理工学院和巴黎学术机构工作。他研究气体体积、温度及化合关系，参加高空气球观测，把物理测量与化学定量实验结合，促进十九世纪气体科学的发展。",
+    "contributions": [
+      "研究气体热膨胀及温度与体积的关系。",
+      "提出气体化合体积的简单整数比规律，并通过高空气球实验研究大气。"
+    ],
+    "fields": [
+      "气体物理",
+      "物理化学",
+      "大气物理"
+    ],
+    "sources": [
+      {
+        "title": "BibNum — Sur la combinaison des substances gazeuses les unes avec les autres",
+        "url": "https://www.bibnum.education.fr/chimie/theorie-chimique/sur-la-combinaison-des-substances-gazeuses-les-unes-avec-les-autres"
+      },
+      {
+        "title": "Wikipedia — Joseph Louis Gay-Lussac",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Louis_Gay-Lussac"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "mary-somerville",
+    "name_zh": "玛丽·萨默维尔",
+    "name_en": "Mary Somerville",
+    "wikipedia_title": "Mary Somerville",
+    "birth": {
+      "date": "1780-12-26",
+      "precision": "day",
+      "display": "1780年12月26日"
+    },
+    "death": {
+      "date": "1872-11-29",
+      "precision": "day",
+      "display": "1872年11月29日"
+    },
+    "death_status": "deceased",
+    "biography": "苏格兰数学与科学作家，主要通过自学进入欧洲科学交流网络，晚年定居意大利。她以《天体机制》转述拉普拉斯数学天文学，并以《物理科学的联系》等著作综合光、热、电和天文知识。",
+    "contributions": [
+      "以数学阐释拉普拉斯天体力学，促进高等数学物理的传播。",
+      "综合讨论物理学各领域之间的联系，并参与磁性与太阳光相关实验。"
+    ],
+    "fields": [
+      "数学物理",
+      "天体力学",
+      "科学传播"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Mary Somerville",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Somerville/"
+      },
+      {
+        "title": "Wikipedia — Mary Somerville",
+        "url": "https://en.wikipedia.org/wiki/Mary_Somerville"
+      }
+    ],
+    "notes": [
+      "其太阳光磁化实验的部分结论未能得到后来的可靠复现；贡献在于传播综合和研究实践，不能将该实验结论当作现代定论。"
+    ]
+  },
+  {
+    "id": "friedrich-bessel",
+    "name_zh": "弗里德里希·贝塞尔",
+    "name_en": "Friedrich Bessel",
+    "wikipedia_title": "Friedrich Bessel",
+    "birth": {
+      "date": "1784-07-22",
+      "precision": "day",
+      "display": "1784年7月22日"
+    },
+    "death": {
+      "date": "1846-03-17",
+      "precision": "day",
+      "display": "1846年3月17日"
+    },
+    "death_status": "deceased",
+    "biography": "德意志天文学家，早年从商后转向天文，长期主持柯尼斯堡天文台。他把精密仪器、误差分析和数学计算结合，1838年测得天鹅座61的恒星视差，同时发展后来广泛用于物理的贝塞尔函数方法。",
+    "contributions": [
+      "首次发表被广泛接受的可靠恒星视差测量，求得天鹅座61的距离。",
+      "研究天体位置、观测误差和贝塞尔函数，为天文学与数学物理提供工具。"
+    ],
+    "fields": [
+      "天体测量",
+      "数学物理"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Friedrich Bessel",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bessel/"
+      },
+      {
+        "title": "Wikipedia — Friedrich Bessel",
+        "url": "https://en.wikipedia.org/wiki/Friedrich_Bessel"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "pierre-louis-dulong",
+    "name_zh": "皮埃尔·路易·杜隆",
+    "name_en": "Pierre Louis Dulong",
+    "wikipedia_title": "Pierre Louis Dulong",
+    "birth": {
+      "date": "1785-02",
+      "precision": "month",
+      "display": "1785年2月12日或13日"
+    },
+    "death": {
+      "date": "1838-07-19",
+      "precision": "day",
+      "display": "1838年7月19日"
+    },
+    "death_status": "deceased",
+    "biography": "法国化学家和物理学家，曾在巴黎综合理工学院任教授和负责人。他研究比热、气体性质、热膨胀与冷却，与珀蒂合作测量固体的热容量，实验工作连接原子论与热学计量。",
+    "contributions": [
+      "与珀蒂发现许多固体元素在适当温区具有近似相同摩尔热容的杜隆—珀蒂规律。",
+      "开展气体、热辐射及温度测量实验，推进精密热学。"
+    ],
+    "fields": [
+      "热学",
+      "量热学",
+      "气体物理"
+    ],
+    "sources": [
+      {
+        "title": "CTHS — Pierre Louis Dulong",
+        "url": "https://www.cths.fr/an/savant.php?id=101613"
+      },
+      {
+        "title": "Wikipedia — Pierre Louis Dulong",
+        "url": "https://en.wikipedia.org/wiki/Pierre_Louis_Dulong"
+      }
+    ],
+    "notes": [
+      "出生日期有1785年2月12日与13日两说；CTHS记13日，故保留月份及差异。",
+      "杜隆—珀蒂规律为适用温区内的近似规律，在低温等条件下会失效。"
+    ]
+  },
+  {
+    "id": "jean-charles-athanase-peltier",
+    "name_zh": "让·夏尔·阿塔纳斯·珀耳帖",
+    "name_en": "Jean Charles Athanase Peltier",
+    "wikipedia_title": "Jean Charles Athanase Peltier",
+    "birth": {
+      "date": "1785-02-22",
+      "precision": "day",
+      "display": "1785年2月22日"
+    },
+    "death": {
+      "date": "1845-10-27",
+      "precision": "day",
+      "display": "1845年10月27日"
+    },
+    "death_status": "deceased",
+    "biography": "法国物理学家，原从事钟表制造与销售，约三十岁后主要投入实验研究。他研究电流、热和大气电现象，1834年报告异种材料接点的电流致吸热与放热，开辟热电制冷的重要实验基础。",
+    "contributions": [
+      "发现电流通过异种导体接点时可产生吸热或放热的珀耳帖效应。",
+      "研究精密电学测量、大气电学和温度现象，扩展热电实验。"
+    ],
+    "fields": [
+      "热电效应",
+      "电学"
+    ],
+    "sources": [
+      {
+        "title": "Florida State University MagLab Magnet Academy — Jean-Charles-Athanase Peltier",
+        "url": "https://maglabweb.magnet.fsu.edu/magnet-academy/history-of-electricity-magnetism/pioneers/jean-charles-athanase-peltier/"
+      },
+      {
+        "title": "Technical University of Munich — Jean Charles Athanase Peltier",
+        "url": "https://av.ph.nat.tum.de/Bios/Peltier.php"
+      },
+      {
+        "title": "Wikipedia — Jean Charles Athanase Peltier",
+        "url": "https://en.wikipedia.org/wiki/Jean_Charles_Athanase_Peltier"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "joseph-von-fraunhofer",
+    "name_zh": "约瑟夫·冯·夫琅禾费",
+    "name_en": "Joseph von Fraunhofer",
+    "wikipedia_title": "Joseph von Fraunhofer",
+    "birth": {
+      "date": "1787-03-06",
+      "precision": "day",
+      "display": "1787年3月6日"
+    },
+    "death": {
+      "date": "1826-06-07",
+      "precision": "day",
+      "display": "1826年6月7日"
+    },
+    "death_status": "deceased",
+    "biography": "巴伐利亚光学家和物理学家，少年做玻璃工学徒，后在贝内迪克特博伊恩与慕尼黑主持光学玻璃和仪器生产。他结合材料制作、精密测量和研究，系统绘制太阳光谱暗线，推动光谱学和高质量天文仪器发展。",
+    "contributions": [
+      "系统测绘太阳光谱中的夫琅禾费暗线，为光谱分析建立精密参照。",
+      "发展衍射光栅与光波长测量，并改进光学玻璃、消色差镜头和望远镜。"
+    ],
+    "fields": [
+      "光谱学",
+      "衍射",
+      "光学仪器"
+    ],
+    "sources": [
+      {
+        "title": "Fraunhofer-Gesellschaft — Joseph von Fraunhofer, biography and timeline",
+        "url": "https://www.fraunhofer.de/en/about-fraunhofer/profile-structure/chronicles/joseph-von-fraunhofer.html"
+      },
+      {
+        "title": "Wikipedia — Joseph von Fraunhofer",
+        "url": "https://en.wikipedia.org/wiki/Joseph_von_Fraunhofer"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "augustin-louis-cauchy",
+    "name_zh": "奥古斯丁·路易·柯西",
+    "name_en": "Augustin-Louis Cauchy",
+    "wikipedia_title": "Augustin-Louis Cauchy",
+    "birth": {
+      "date": "1789-08-21",
+      "precision": "day",
+      "display": "1789年8月21日"
+    },
+    "death": {
+      "date": "1857-05-23",
+      "precision": "day",
+      "display": "1857年5月23日"
+    },
+    "death_status": "deceased",
+    "biography": "法国数学家，曾受工程教育并在巴黎任教，因政治与宗教立场经历流亡和职位变动。他建立分析学的重要基础，也系统研究弹性、应力、波动和连续介质，使微分方程方法深入物理理论。",
+    "contributions": [
+      "建立连续介质中的应力张量和牵引力描述，推进弹性理论。",
+      "研究波动、光学与流体问题，并为物理使用的分析方法提供严格基础。"
+    ],
+    "fields": [
+      "连续介质力学",
+      "弹性力学",
+      "数学物理"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Augustin-Louis Cauchy",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Cauchy/"
+      },
+      {
+        "title": "Wikipedia — Augustin-Louis Cauchy",
+        "url": "https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "felix-savart",
+    "name_zh": "费利克斯·萨伐尔",
+    "name_en": "Félix Savart",
+    "wikipedia_title": "Félix Savart",
+    "birth": {
+      "date": "1791-06-30",
+      "precision": "day",
+      "display": "1791年6月30日"
+    },
+    "death": {
+      "date": "1841-03-16",
+      "precision": "day",
+      "display": "1841年3月16日"
+    },
+    "death_status": "deceased",
+    "biography": "法国医生和物理学家，早年任军医，后在巴黎研究声学、电磁学和乐器。他与毕奥共同测量电流对磁针的作用，也以振动、声波及材料实验连接音乐制作与定量物理。",
+    "contributions": [
+      "与毕奥建立电流产生磁场的定量关系，即毕奥—萨伐尔定律。",
+      "研究弦、板和液体振动及声波干涉，发展实验声学。"
+    ],
+    "fields": [
+      "电磁学",
+      "声学"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Félix Savart",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Savart/"
+      },
+      {
+        "title": "Wikipedia — Félix Savart",
+        "url": "https://en.wikipedia.org/wiki/F%C3%A9lix_Savart"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "alexis-therese-petit",
+    "name_zh": "亚历克西·泰雷兹·珀蒂",
+    "name_en": "Alexis Thérèse Petit",
+    "wikipedia_title": "Alexis Thérèse Petit",
+    "birth": {
+      "date": "1791-10-02",
+      "precision": "day",
+      "display": "1791年10月2日"
+    },
+    "death": {
+      "date": "1820-06-21",
+      "precision": "day",
+      "display": "1820年6月21日"
+    },
+    "death_status": "deceased",
+    "biography": "法国物理学家，少年即显露数学才能，曾在巴黎综合理工学院学习和任教。他与杜隆合作研究固体比热、气体温度计及冷却规律，因病早逝，但其热学测量成为十九世纪原子量和物性研究的重要依据。",
+    "contributions": [
+      "与杜隆建立固体元素摩尔热容的近似经验规律。",
+      "研究冷却、热膨胀及温度测量，提高定量热学实验精度。"
+    ],
+    "fields": [
+      "量热学",
+      "温度计量"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Alexis Thérèse Petit",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Petit/"
+      },
+      {
+        "title": "Wikipedia — Alexis Thérèse Petit",
+        "url": "https://en.wikipedia.org/wiki/Alexis_Th%C3%A9r%C3%A8se_Petit"
+      }
+    ],
+    "notes": [
+      "杜隆—珀蒂规律不是所有固体在任意温度下都精确满足的普遍等式。"
+    ]
+  },
+  {
+    "id": "gaspard-gustave-de-coriolis",
+    "name_zh": "加斯帕尔·古斯塔夫·科里奥利",
+    "name_en": "Gaspard-Gustave de Coriolis",
+    "wikipedia_title": "Gaspard-Gustave de Coriolis",
+    "birth": {
+      "date": "1792-05-21",
+      "precision": "day",
+      "display": "1792年5月21日"
+    },
+    "death": {
+      "date": "1843-09-19",
+      "precision": "day",
+      "display": "1843年9月19日"
+    },
+    "death_status": "deceased",
+    "biography": "法国工程师和数学物理学家，曾在桥路工程系统与综合理工学院工作。他研究机器作功、碰撞和旋转系统的运动，1835年明确写出旋转参考系中的附加惯性力项，后来广泛用于地球物理。",
+    "contributions": [
+      "建立旋转参考系中与相对速度相关的科里奥利项。",
+      "推动机械功和动能的定量工程分析，并研究机器与碰撞问题。"
+    ],
+    "fields": [
+      "经典力学",
+      "旋转参考系",
+      "工程力学"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Gaspard-Gustave de Coriolis",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Coriolis/"
+      },
+      {
+        "title": "Wikipedia — Gaspard-Gustave de Coriolis",
+        "url": "https://en.wikipedia.org/wiki/Gaspard-Gustave_de_Coriolis"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "george-green",
+    "name_zh": "乔治·格林",
+    "name_en": "George Green",
+    "wikipedia_title": "George Green (mathematician)",
+    "birth": {
+      "date": "1793",
+      "precision": "year",
+      "display": "1793年（7月14日受洗，确切生日不详）"
+    },
+    "death": {
+      "date": "1841-05-31",
+      "precision": "day",
+      "display": "1841年5月31日"
+    },
+    "death_status": "deceased",
+    "biography": "英国数学家，早年在诺丁汉经营磨坊，主要靠自学研究物理数学，后来进入剑桥学习。他1828年的论文把势函数和边界方法用于电与磁，此后又研究光、声和弹性，作品在去世后得到更广泛重视。",
+    "contributions": [
+      "发展格林函数和格林公式，为势场及边值问题提供通用方法。",
+      "将数学方法用于电、磁、波动和弹性介质，奠定重要的场论计算工具。"
+    ],
+    "fields": [
+      "势理论",
+      "数学物理"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — George Green",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Green/"
+      },
+      {
+        "title": "Wikipedia — George Green",
+        "url": "https://en.wikipedia.org/wiki/George_Green_%28mathematician%29"
+      }
+    ],
+    "notes": [
+      "7月14日为受洗日期，确切生日不详。MacTutor速览把该日列作出生日期，但传记正文明确说明这是受洗记录；本库保留年份并另行标注仪式日期。"
+    ]
+  },
+  {
+    "id": "franz-ernst-neumann",
+    "name_zh": "弗朗茨·恩斯特·诺伊曼",
+    "name_en": "Franz Ernst Neumann",
+    "wikipedia_title": "Franz Ernst Neumann",
+    "birth": {
+      "date": "1798-09-11",
+      "precision": "day",
+      "display": "1798年9月11日"
+    },
+    "death": {
+      "date": "1895-05-23",
+      "precision": "day",
+      "display": "1895年5月23日"
+    },
+    "death_status": "deceased",
+    "biography": "德意志物理学家和矿物学家，长期在柯尼斯堡任教，并与雅可比共同组织数学物理讨论班。他研究晶体、弹性、电磁感应及光学，把精密实验与数学理论结合，培养出基尔霍夫等重要物理学家。",
+    "contributions": [
+      "发展电磁感应的数学理论，研究相互作用电路的感应。",
+      "研究晶体对称性与物理性质的关系，并推进弹性和光学理论。"
+    ],
+    "fields": [
+      "电磁学",
+      "晶体物理",
+      "数学物理"
+    ],
+    "sources": [
+      {
+        "title": "Deutsche Biographie — Franz Ernst Neumann",
+        "url": "https://www.deutsche-biographie.de/118786008.html?language=en"
+      },
+      {
+        "title": "Wikipedia — Franz Ernst Neumann",
+        "url": "https://en.wikipedia.org/wiki/Franz_Ernst_Neumann"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "benoit-paul-emile-clapeyron",
+    "name_zh": "伯努瓦·保罗·埃米尔·克拉佩龙",
+    "name_en": "Benoît Paul Émile Clapeyron",
+    "wikipedia_title": "Benoît Paul Émile Clapeyron",
+    "birth": {
+      "date": "1799-01-26",
+      "precision": "day",
+      "display": "1799年1月26日"
+    },
+    "death": {
+      "date": "1864-01-28",
+      "precision": "day",
+      "display": "1864年1月28日"
+    },
+    "death_status": "deceased",
+    "biography": "法国工程师和物理学家，曾在圣彼得堡工作，回国后从事铁路工程与教学。他把萨迪·卡诺的热机思想转写为数学和图形形式，也研究相平衡与梁的力学，是热力学形成过程的重要人物。",
+    "contributions": [
+      "用压力—体积图等方法重新表述卡诺热机理论，促进其传播。",
+      "建立联系相变时压力、温度及潜热的克拉佩龙关系，并研究结构力学。"
+    ],
+    "fields": [
+      "热力学",
+      "相平衡",
+      "结构力学"
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Benoît Paul Émile Clapeyron",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Clapeyron/"
+      },
+      {
+        "title": "Wikipedia — Benoît Paul Émile Clapeyron",
+        "url": "https://en.wikipedia.org/wiki/Beno%C3%AEt_Paul_%C3%89mile_Clapeyron"
+      }
+    ],
+    "notes": []
+  }
+]
