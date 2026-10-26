@@ -68,3 +68,11 @@ test('colorbar labels handle tiny or large densities without changing their line
   assert.deepEqual(colorbarTicks(0),[{position:0,value:0,label:'0'}]);
   assert.throws(()=>colorbarTicks(-1));assert.throws(()=>colorbarTicks(1,{count:1}));
 });
+
+test('integer colorbar ticks use actual integer values without rounding fractional tick labels',()=>{
+  const ticks=colorbarTicks(8.3,{integers:true});
+  assert.deepEqual(ticks.map(t=>t.value),[0,2,4,6,8]);
+  assert.deepEqual(ticks.map(t=>t.label),['0','2','4','6','8']);
+  for(const t of ticks)assert.equal(t.position,t.value/8.3);
+  assert.ok(ticks.at(-1).position<1);
+});

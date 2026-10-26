@@ -56,6 +56,14 @@
     const count=options.count??5;
     if(!Number.isInteger(count)||count<2||count>21)throw new RangeError('Colorbar tick count must be between 2 and 21');
     if(max===0)return [{position:0,value:0,label:'0'}];
+    if(options.integers){
+      const target=Math.max(1,max/(count-1)),power=10**Math.floor(Math.log10(target));
+      const candidates=[1,2,5,10].map(n=>n*power).filter(n=>Number.isFinite(n)&&n>=1);
+      const step=candidates.reduce((a,b)=>Math.abs(Math.log(b/target))<Math.abs(Math.log(a/target))?b:a);
+      return Array.from({length:Math.floor(max/step)+1},(_,i)=>{
+        const value=i*step;return {position:value/max,value,label:String(value)};
+      });
+    }
     const step=max/(count-1);
     return Array.from({length:count},(_,i)=>{
       const position=i/(count-1),value=i===count-1?max:max*position;

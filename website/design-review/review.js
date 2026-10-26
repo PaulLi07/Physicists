@@ -133,7 +133,7 @@
   }
   function renderDensityLegend(max){
     const svg=$('density-scale'),width=Math.max(140,svg.clientWidth),left=10,right=width-10,y=6,h=13,edge=y+h,span=right-left;
-    const ticks=PlotDisplay.colorbarTicks(max).map(tick=>{const x=left+tick.position*span;return '<line class="density-tick" x1="'+x+'" x2="'+x+'" y1="'+edge+'" y2="'+(edge+4)+'" stroke="#555" stroke-width=".7"/><text x="'+x+'" y="35" text-anchor="middle">'+esc(tick.label)+'</text>';}).join('');
+    const ticks=PlotDisplay.colorbarTicks(max,{integers:true}).map(tick=>{const x=left+tick.position*span;return '<line class="density-tick" x1="'+x+'" x2="'+x+'" y1="'+edge+'" y2="'+(edge+4)+'" stroke="#555" stroke-width=".7"/><text x="'+x+'" y="35" text-anchor="middle">'+esc(tick.label)+'</text>';}).join('');
     svg.setAttribute('viewBox','0 0 '+width+' 42');svg.setAttribute('aria-label',t('density')+' · 0–'+max.toFixed(1)+' '+t('contributorUnit'));
     svg.innerHTML='<defs><linearGradient id="density-gradient"><stop offset="0%" stop-color="rgb(230,230,230)"/><stop offset="25%" stop-color="rgb(38,38,38)"/><stop offset="100%" stop-color="rgb(255,0,0)"/></linearGradient></defs><rect class="density-ramp" x="'+left+'" y="'+y+'" width="'+span+'" height="'+h+'" fill="url(#density-gradient)" stroke="#777" stroke-width=".5"/>'+ticks;
     $('density-unit').textContent=t('contributorUnit');
