@@ -2797,8 +2797,7 @@
     "people": [
       "douglas-osheroff",
       "david-lee-physicist",
-      "robert-coleman-richardson",
-      "anthony-james-leggett"
+      "robert-coleman-richardson"
     ],
     "weight": 2,
     "rationale": {
@@ -2812,8 +2811,8 @@
       }
     ],
     "dateNote": {
-      "zh": "1971年观察异常，1972年确认液体超流相并发表；Leggett的解释随后发展。",
-      "en": "Anomalies were observed in 1971; liquid superfluid phases were established in 1972, followed by Leggett’s interpretation."
+      "zh": "1972年实验发现由Osheroff、Richardson和Lee完成；Leggett的1972年超流配对理论另列独立事件，不将理论作者归为实验作者。",
+      "en": "The 1972 experimental discovery was by Osheroff, Richardson and Lee. Leggett’s 1972 pairing theory is recorded separately; the theorist is not assigned authorship of the experiment."
     },
     "status": "reviewed"
   },
@@ -3394,13 +3393,12 @@
     "field": "matter",
     "people": [
       "daniel-c-tsui",
-      "horst-ludwig-stormer",
-      "robert-b-laughlin"
+      "horst-ludwig-stormer"
     ],
     "weight": 4,
     "rationale": {
-      "zh": "强关联电子产生分数量子化与分数电荷准粒子。",
-      "en": "Correlated electrons produced fractional quantization and fractionally charged quasiparticles."
+      "zh": "在二维电子系统中发现分数化的量子霍尔平台，确立新的强关联电子现象。",
+      "en": "Fractional quantum Hall plateaux in a two-dimensional electron system established a new strongly correlated electronic phenomenon."
     },
     "sources": [
       {
@@ -3408,13 +3406,13 @@
         "url": "https://doi.org/10.1103/PhysRevLett.48.1559"
       },
       {
-        "title": "Laughlin: Anomalous Quantum Hall Effect: An Incompressible Quantum Fluid with Fractionally Charged Excitations (1983)",
-        "url": "https://doi.org/10.1103/PhysRevLett.50.1395"
+        "title": "The Nobel Prize in Physics 1998 — discovery and theoretical explanation",
+        "url": "https://www.nobelprize.org/prizes/physics/1998/summary/"
       }
     ],
     "dateNote": {
-      "zh": "1982年发现，Laughlin于1983年提出解释。",
-      "en": "Discovered in 1982; Laughlin’s explanation followed in 1983."
+      "zh": "1982年实验由Tsui、Stormer和Gossard完成；Laughlin的1983年理论解释另列独立事件，不将其归为1982实验作者。",
+      "en": "The 1982 experiment was by Tsui, Stormer and Gossard. Laughlin’s 1983 theoretical explanation is a separate event; he is not assigned authorship of the 1982 experiment."
     },
     "status": "reviewed",
     "groups": [

@@ -1,5 +1,6 @@
 {
   "asOf": "2026-10-26",
+  "methodVersion": "2.0",
   "primaryWeights": [
     1,
     2,
@@ -16,59 +17,60 @@
     1800,
     2021
   ],
-  "annualPearsonCorrelation": 0.986206891223152,
+  "annualPearsonCorrelation": 0.9895114382021152,
   "primaryPeaks": [
     {
-      "year": 1926,
-      "value": 9.666666666666666
-    },
-    {
       "year": 1964,
-      "value": 8.111111111111112
+      "value": 11.687022129437413
     },
     {
-      "year": 1910,
-      "value": 5.388888888888889
-    },
-    {
-      "year": 1947,
-      "value": 5.277777777777777
+      "year": 1926,
+      "value": 11.500348339136709
     },
     {
       "year": 1983,
-      "value": 4.762626262626262
+      "value": 7.937186449511841
+    },
+    {
+      "year": 1947,
+      "value": 6.447358975681102
+    },
+    {
+      "year": 1910,
+      "value": 6.165655872593801
     },
     {
       "year": 1999,
-      "value": 3.316666666666666
+      "value": 5.812964271950272
     }
   ],
   "alternativePeaks": [
     {
+      "year": 1963,
+      "value": 10.097439493907864
+    },
+    {
       "year": 1927,
-      "value": 6.75
+      "value": 8.418800445856077
     },
     {
-      "year": 1964,
-      "value": 6.708333333333334
-    },
-    {
-      "year": 1911,
-      "value": 4.638888888888889
+      "year": 1983,
+      "value": 6.81597432829972
     },
     {
       "year": 1947,
-      "value": 4.305555555555555
+      "value": 5.475136753458878
     },
     {
-      "year": 1984,
-      "value": 4.142424242424242
+      "year": 1911,
+      "value": 5.377901589680766
     },
     {
-      "year": 2000,
-      "value": 2.65
+      "year": 1999,
+      "value": 5.212964271950272
     }
   ],
   "peaksWithinTenYears": 6,
-  "note": "Only tests sensitivity to editorial weights. It does not establish historical completeness or objective importance."
+  "estimatesKeptFixed": true,
+  "note": "Tests source-event weight sensitivity with residual estimates fixed. Does not establish historical completeness or objective importance."
 }

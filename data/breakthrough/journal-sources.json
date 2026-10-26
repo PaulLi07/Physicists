@@ -1,0 +1,50 @@
+[
+  {
+    "id": "prl50",
+    "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+    "publisher": "American Physical Society",
+    "url": "https://journals.aps.org/prl/50years/milestones",
+    "access": "Publisher collection full HTML read through web retrieval; direct ordinary HTTP returned 403. Original-paper bibliographic metadata checked separately.",
+    "usedFor": "Explicit editorial selection of long-lived research contributions; source discovery and membership, never an official numeric importance score."
+  },
+  {
+    "id": "pr125",
+    "title": "Celebrating 125 years of the Physical Review",
+    "publisher": "American Physical Society",
+    "url": "https://journals.aps.org/125years",
+    "access": "Publisher editor-curated timeline read directly through web retrieval.",
+    "usedFor": "Identify selected historic research milestones, cross-check dates and distinguish journal-administration events, which are excluded."
+  },
+  {
+    "id": "pra50",
+    "title": "50 Years of Physical Review A: The Legacy of Three Classics",
+    "publisher": "American Physical Society",
+    "url": "https://physics.aps.org/articles/v13/24",
+    "access": "Publisher feature and its three original-paper references read directly.",
+    "usedFor": "The three editor-selected papers on optical orbital angular momentum, entanglement negativity, and strong-field harmonic theory."
+  },
+  {
+    "id": "spin",
+    "title": "Nature Milestones in Spin",
+    "publisher": "Springer Nature / Nature Physics",
+    "url": "https://www.nature.com/collections/idgejiafca",
+    "access": "Collection list read; selected milestone previews and original-paper reference lists read. Some pages redirect through cookies and some full articles require subscription.",
+    "usedFor": "Editorial historical selection; originals for electron spin, quantum magnetism, Kondo theory, supersymmetry and magnetization tunnelling. No subscription circumvention."
+  },
+  {
+    "id": "aps2016",
+    "title": "APS Journals — 2016 Nobel Prize in Physics: five key Physical Review articles",
+    "publisher": "American Physical Society",
+    "url": "https://journals.aps.org/2016/10/04/2016-nobel-prize-in-physics",
+    "access": "Official publisher key-paper list read directly.",
+    "usedFor": "Verify editor-selected Haldane-chain, Haldane-Hall, and TKNN original research papers, using original publication years rather than the 2016 prize year."
+  },
+  {
+    "id": "prl-timeline",
+    "title": "PRL 50th Anniversary Timeline",
+    "publisher": "American Physical Society",
+    "url": "https://journals.aps.org/prl/50years/timeline",
+    "access": "Official timeline full HTML read through web retrieval.",
+    "usedFor": "Additional cross-journal historic papers, including Anderson localization, which is a Physical Review article rather than a PRL Letter."
+  }
+]

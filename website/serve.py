@@ -24,7 +24,10 @@ def main():
         nonlocal source_stamp
         with build_lock:
             inputs = sorted((base.parent / 'data/breakthrough').glob('events-*.json'))
+            inputs += [p for p in [base.parent / 'data/breakthrough/existing-source-patches.json',
+                                   base.parent / 'data/breakthrough/journal-sources.json'] if p.exists()]
             inputs += [base / 'dist/data/archive.js', base / 'design-review/breakthrough.js',
+                       base / 'design-review/person-estimates.js',
                        base.parent / 'scripts/build_breakthrough.cjs']
             stamp = [(str(p), p.stat().st_mtime_ns, p.stat().st_size) for p in inputs]
             if stamp != source_stamp:

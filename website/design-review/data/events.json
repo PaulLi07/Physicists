@@ -4580,13 +4580,23 @@
       {
         "title": "Nobel Prize — Physics 1901–2000, historical survey",
         "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/"
+      },
+      {
+        "title": "Nature Milestones in Spin",
+        "url": "https://www.nature.com/collections/idgejiafca"
       }
     ],
     "dateNote": {
       "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
       "en": "Dated by the cited publication or public result, not the award year."
     },
-    "status": "reviewed"
+    "status": "reviewed",
+    "publisherCollections": [
+      {
+        "title": "Nature Milestones in Spin",
+        "url": "https://www.nature.com/collections/idgejiafca"
+      }
+    ]
   },
   {
     "id": "thomson-electron",
@@ -5357,13 +5367,23 @@
       {
         "title": "Millikan — On the Elementary Electrical Charge … (1913), Caltech original paper",
         "url": "https://authors.library.caltech.edu/records/sfc90-k2g07"
+      },
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
       }
     ],
     "dateNote": {
       "zh": "1909–1912年已有实验和公开报告；本条只计1913年完整精密测量论文，不再另计早期试验。",
       "en": "Earlier experiments and reports date to 1909–1912; this event counts the complete 1913 precision report once."
     },
-    "status": "reviewed"
+    "status": "reviewed",
+    "publisherCollections": [
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
+      }
+    ]
   },
   {
     "id": "franck-hertz-excitation",
@@ -5703,13 +5723,23 @@
       {
         "title": "Nobel Prize — The dual nature of light",
         "url": "https://www.nobelprize.org/prizes/physics/the-dual-nature-of-light-as-reflected-in-the-nobel-archives/"
+      },
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
       }
     ],
     "dateNote": {
       "zh": "1922年底已取得结果并提交论文；以1923年正式论文发表定位。",
       "en": "Results were obtained and submitted in late 1922; anchored here to the 1923 published paper."
     },
-    "status": "reviewed"
+    "status": "reviewed",
+    "publisherCollections": [
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
+      }
+    ]
   },
   {
     "id": "de-broglie-matter-waves",
@@ -5779,6 +5809,57 @@
       "en": "The 1924 photon counting and 1924–1925 gas extension are counted as one event family at its first year."
     },
     "status": "reviewed"
+  },
+  {
+    "id": "journal-electron-spin",
+    "title": {
+      "zh": "电子自旋假说的公开提出",
+      "en": "Public proposal of electron spin"
+    },
+    "year": 1925,
+    "precision": "year",
+    "type": "theory",
+    "field": "quantum",
+    "people": [
+      "george-uhlenbeck",
+      "samuel-goudsmit"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "引入电子内禀角动量以理解光谱结构，为自旋量子力学提供关键起点。",
+      "en": "Introduced intrinsic electron angular momentum as a key ingredient of atomic spectra."
+    },
+    "sources": [
+      {
+        "title": "Die Naturwissenschaften (1925), DOI 10.1007/BF01558878",
+        "url": "https://doi.org/10.1007/BF01558878"
+      },
+      {
+        "title": "Nature Milestones in Spin",
+        "url": "https://www.nature.com/collections/idgejiafca"
+      },
+      {
+        "title": "Nature Physics: The spinning electron",
+        "url": "https://www.nature.com/articles/milespin03"
+      }
+    ],
+    "dateNote": {
+      "zh": "采用1925年Naturwissenschaften短文；1926年Nature扩展论述不重复计数。旋转小球图像本身并非现代自旋定义。",
+      "en": "Uses the 1925 Naturwissenschaften note, not the 1926 Nature expansion. A literal rotating sphere is not the modern definition of spin."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "spin"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1007/BF01558878"
+      ],
+      "metadataVerifiedDois": [
+        "10.1007/BF01558878"
+      ]
+    }
   },
   {
     "id": "matrix-quantum-mechanics",
@@ -6015,13 +6096,23 @@
       {
         "title": "Nobel Prize — The dual nature of light",
         "url": "https://www.nobelprize.org/prizes/physics/the-dual-nature-of-light-as-reflected-in-the-nobel-archives/"
+      },
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
       }
     ],
     "dateNote": {
       "zh": "戴维孙—革末晶体实验与汤姆孙薄膜实验是独立证据，同一物质波验证成果族合并计一次。",
       "en": "Crystal and thin-film experiments were independent evidence, grouped as one matter-wave verification family."
     },
-    "status": "reviewed"
+    "status": "reviewed",
+    "publisherCollections": [
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
+      }
+    ]
   },
   {
     "id": "heisenberg-uncertainty",
@@ -6117,13 +6208,71 @@
       {
         "title": "Nobel Prize — Paul A. M. Dirac, Facts",
         "url": "https://www.nobelprize.org/prizes/physics/1933/dirac/facts/"
+      },
+      {
+        "title": "Nature Milestones in Spin",
+        "url": "https://www.nature.com/collections/idgejiafca"
       }
     ],
     "dateNote": {
       "zh": "按所列史料的发表或公开成果节点定位，不采用获奖年份。",
       "en": "Dated by the cited publication or public result, not the award year."
     },
-    "status": "reviewed"
+    "status": "reviewed",
+    "publisherCollections": [
+      {
+        "title": "Nature Milestones in Spin",
+        "url": "https://www.nature.com/collections/idgejiafca"
+      }
+    ]
+  },
+  {
+    "id": "journal-quantum-ferromagnetism",
+    "title": {
+      "zh": "铁磁性的交换作用解释",
+      "en": "Exchange explanation of ferromagnetism"
+    },
+    "year": 1928,
+    "precision": "year",
+    "type": "theory",
+    "field": "matter",
+    "people": [
+      "werner-heisenberg"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "用量子交换作用说明铁磁自旋关联，奠定量子磁性模型。",
+      "en": "Established an exchange-based description of magnetic ordering."
+    },
+    "sources": [
+      {
+        "title": "Heisenberg, Zeitschrift für Physik 49, 619–636 (1928)",
+        "url": "https://doi.org/10.1007/BF01328601"
+      },
+      {
+        "title": "Nature Milestones in Spin",
+        "url": "https://www.nature.com/collections/idgejiafca"
+      },
+      {
+        "title": "Nature Physics: An attractive theory",
+        "url": "https://www.nature.com/articles/milespin05"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引原始论文公开出版年；不是后来的回顾文章年份。",
+      "en": "Dated to the original publication, not the later editorial retrospective."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "spin"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1007/BF01328601"
+      ],
+      "metadataVerifiedDois": []
+    }
   },
   {
     "id": "raman-inelastic-light-scattering",
@@ -6353,13 +6502,23 @@
       {
         "title": "Onsager reciprocal relations",
         "url": "https://doi.org/10.1103/PhysRev.37.405"
+      },
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
       }
     ],
     "dateNote": {
       "zh": "按所引论文发表年或机构记载的首次公开年。",
       "en": "Dated by the cited publication or institutional record of first disclosure."
     },
-    "status": "reviewed"
+    "status": "reviewed",
+    "publisherCollections": [
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
+      }
+    ]
   },
   {
     "id": "accelerator-nuclear-transmutation",
@@ -6391,6 +6550,55 @@
       "en": "Dated by the cited publication or institutional record of first disclosure."
     },
     "status": "reviewed"
+  },
+  {
+    "id": "journal-deuterium",
+    "title": {
+      "zh": "氘的发现",
+      "en": "Discovery of deuterium"
+    },
+    "year": 1932,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "通过氢同位素光谱确认质量数为2的氢，扩展核结构与同位素物理。",
+      "en": "Established a mass-two hydrogen isotope through spectroscopy."
+    },
+    "sources": [
+      {
+        "title": "Physical Review (1932), DOI 10.1103/PhysRev.39.164",
+        "url": "https://doi.org/10.1103/PhysRev.39.164"
+      },
+      {
+        "title": "Physical Review: 125th Anniversary Editors’ Timeline",
+        "url": "https://journals.aps.org/125years"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引原始论文公开出版年；不是后来的回顾文章年份。",
+      "en": "Dated to the original publication, not the later editorial retrospective."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "pr125"
+    ],
+    "groups": [
+      "Harold Urey",
+      "Ferdinand Brickwedde",
+      "George Murphy"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRev.39.164"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRev.39.164"
+      ]
+    }
   },
   {
     "id": "neutron-discovery",
@@ -6452,13 +6660,23 @@
       {
         "title": "Anderson: The apparent existence of easily deflectable positives (1932)",
         "url": "https://doi.org/10.1126/science.76.1967.238"
+      },
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
       }
     ],
     "dateNote": {
       "zh": "按所引论文发表年或机构记载的首次公开年。",
       "en": "Dated by the cited publication or institutional record of first disclosure."
     },
-    "status": "reviewed"
+    "status": "reviewed",
+    "publisherCollections": [
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
+      }
+    ]
   },
   {
     "id": "coma-dark-matter",
@@ -6705,6 +6923,10 @@
       {
         "title": "The EPR argument and quantum correlations",
         "url": "https://doi.org/10.1103/PhysRev.47.777"
+      },
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
       }
     ],
     "dateNote": {
@@ -6715,6 +6937,12 @@
     "groups": [
       "Boris Podolsky",
       "Nathan Rosen"
+    ],
+    "publisherCollections": [
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
+      }
     ]
   },
   {
@@ -6839,6 +7067,10 @@
       {
         "title": "Molecular-beam magnetic resonance",
         "url": "https://doi.org/10.1103/PhysRev.53.318"
+      },
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
       }
     ],
     "dateNote": {
@@ -6849,6 +7081,12 @@
     "groups": [
       "J. R. Zacharias",
       "S. Millman"
+    ],
+    "publisherCollections": [
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
+      }
     ]
   },
   {
@@ -6926,6 +7164,51 @@
     ]
   },
   {
+    "id": "journal-fission-liquid-drop",
+    "title": {
+      "zh": "核裂变的液滴模型计算",
+      "en": "Liquid-drop calculation of nuclear fission"
+    },
+    "year": 1939,
+    "precision": "year",
+    "type": "theory",
+    "field": "particle",
+    "people": [
+      "niels-bohr",
+      "john-archibald-wheeler"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "将裂变势垒与核形变作定量处理，推进对裂变动力学的理解。",
+      "en": "Developed quantitative deformation and barrier calculations for nuclear fission."
+    },
+    "sources": [
+      {
+        "title": "Bohr and Wheeler, Phys. Rev. 56, 426 (1939)",
+        "url": "https://doi.org/10.1103/PhysRev.56.426"
+      },
+      {
+        "title": "Physical Review: 125th Anniversary Editors’ Timeline",
+        "url": "https://journals.aps.org/125years"
+      }
+    ],
+    "dateNote": {
+      "zh": "这是Bohr–Wheeler的裂变模型；不重复记录1938–1939年的裂变发现及Meitner–Frisch的能量解释。",
+      "en": "Records the Bohr–Wheeler model, distinct from the discovery and the Meitner–Frisch energy interpretation."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "pr125"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRev.56.426"
+      ],
+      "metadataVerifiedDois": []
+    }
+  },
+  {
     "id": "stellar-energy-fusion",
     "title": {
       "zh": "恒星核聚变能量机制",
@@ -6948,13 +7231,23 @@
       {
         "title": "Nuclear fusion as the source of stellar energy",
         "url": "https://doi.org/10.1103/PhysRev.55.434"
+      },
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
       }
     ],
     "dateNote": {
       "zh": "采用Bethe综合论文发表年；关键工作亦包括1938年Bethe–Critchfield及Weizsäcker论文。",
       "en": "Dated to Bethe’s synthesis; important 1938 contributions included Bethe–Critchfield and Weizsäcker."
     },
-    "status": "reviewed"
+    "status": "reviewed",
+    "publisherCollections": [
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
+      }
+    ]
   },
   {
     "id": "kolmogorov-turbulence-scaling",
@@ -7108,6 +7401,10 @@
       {
         "title": "Bloch: Nuclear Induction (1946)",
         "url": "https://doi.org/10.1103/PhysRev.70.460"
+      },
+      {
+        "title": "Nature Milestones in Spin",
+        "url": "https://www.nature.com/collections/idgejiafca"
       }
     ],
     "dateNote": {
@@ -7117,6 +7414,12 @@
     "status": "reviewed",
     "groups": [
       "Harvard and Stanford NMR teams"
+    ],
+    "publisherCollections": [
+      {
+        "title": "Nature Milestones in Spin",
+        "url": "https://www.nature.com/collections/idgejiafca"
+      }
     ]
   },
   {
@@ -7161,6 +7464,10 @@
       {
         "title": "Tomonaga: On a Relativistically Invariant Formulation of the Quantum Theory of Wave Fields (1946)",
         "url": "https://www.jstage.jst.go.jp/article/ptp1946/1/2/1_2_27/_article"
+      },
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
       }
     ],
     "dateNote": {
@@ -7171,6 +7478,12 @@
     "dateRange": [
       1946,
       1949
+    ],
+    "publisherCollections": [
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
+      }
     ]
   },
   {
@@ -7228,6 +7541,10 @@
       {
         "title": "The Lamb shift",
         "url": "https://doi.org/10.1103/PhysRev.72.241"
+      },
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
       }
     ],
     "dateNote": {
@@ -7237,6 +7554,12 @@
     "status": "reviewed",
     "groups": [
       "Robert Retherford"
+    ],
+    "publisherCollections": [
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
+      }
     ]
   },
   {
@@ -7632,13 +7955,23 @@
       {
         "title": "50 Years of Yang–Mills Theory — CERN Courier",
         "url": "https://cern-courier.web.cern.ch/a/50-years-of-yang-mills-theory/"
+      },
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
       }
     ],
     "dateNote": {
       "zh": "按所引论文发表年或机构记载的首次公开年。",
       "en": "Dated by the cited publication or institutional record of first disclosure."
     },
-    "status": "reviewed"
+    "status": "reviewed",
+    "publisherCollections": [
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
+      }
+    ]
   },
   {
     "id": "antiproton-discovery",
@@ -7739,6 +8072,10 @@
       {
         "title": "Lee and Yang: Question of Parity Conservation in Weak Interactions (1956)",
         "url": "https://doi.org/10.1103/PhysRev.104.254"
+      },
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
       }
     ],
     "dateNote": {
@@ -7752,6 +8089,12 @@
     "dateRange": [
       1956,
       1957
+    ],
+    "publisherCollections": [
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
+      }
     ]
   },
   {
@@ -7812,13 +8155,23 @@
       {
         "title": "Cooper: Bound Electron Pairs in a Degenerate Fermi Gas (1956)",
         "url": "https://doi.org/10.1103/PhysRev.104.1189"
+      },
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
       }
     ],
     "dateNote": {
       "zh": "按所引论文发表年或机构记载的首次公开年。",
       "en": "Dated by the cited publication or institutional record of first disclosure."
     },
-    "status": "reviewed"
+    "status": "reviewed",
+    "publisherCollections": [
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
+    ]
   },
   {
     "id": "stellar-nucleosynthesis-synthesis",
@@ -7875,13 +8228,67 @@
       {
         "title": "Anderson localization",
         "url": "https://doi.org/10.1103/PhysRev.109.1492"
+      },
+      {
+        "title": "PRL 50th Anniversary Timeline",
+        "url": "https://journals.aps.org/prl/50years/timeline"
       }
     ],
     "dateNote": {
       "zh": "按所引论文发表年或机构记载的首次公开年。",
       "en": "Dated by the cited publication or institutional record of first disclosure."
     },
-    "status": "reviewed"
+    "status": "reviewed",
+    "publisherCollections": [
+      {
+        "title": "PRL 50th Anniversary Timeline",
+        "url": "https://journals.aps.org/prl/50years/timeline"
+      }
+    ]
+  },
+  {
+    "id": "journal-neutrino-helicity",
+    "title": {
+      "zh": "中微子螺旋度的实验测定",
+      "en": "Experimental determination of neutrino helicity"
+    },
+    "year": 1958,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [
+      "maurice-goldhaber"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "以核反应与伽马射线偏振确定中微子的螺旋度。",
+      "en": "Determined neutrino helicity using a nuclear reaction and photon polarization."
+    },
+    "sources": [
+      {
+        "title": "Physical Review (1958), DOI 10.1103/PhysRev.109.1015",
+        "url": "https://doi.org/10.1103/PhysRev.109.1015"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引原始论文公开出版年；不是后来的回顾文章年份。",
+      "en": "Dated to the original publication, not the later editorial retrospective."
+    },
+    "status": "reviewed",
+    "publisherCollections": [],
+    "groups": [
+      "Lee Grodzins",
+      "Andrew Sunyar"
+    ],
+    "literatureEvidence": {
+      "mode": "original-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRev.109.1015"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRev.109.1015"
+      ]
+    }
   },
   {
     "id": "mossbauer-effect",
@@ -7975,6 +8382,202 @@
     "status": "reviewed"
   },
   {
+    "id": "journal-hubbard-auxiliary-field",
+    "title": {
+      "zh": "多体配分函数的辅助场方法",
+      "en": "Auxiliary-field method for many-body partition functions"
+    },
+    "year": 1959,
+    "precision": "year",
+    "type": "method",
+    "field": "methods",
+    "people": [
+      "john-hubbard"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "将多体相互作用改写为辅助场问题，为量子统计数值计算提供方法。",
+      "en": "Recast interactions using auxiliary fields for quantum statistical calculations."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (1959), DOI 10.1103/PhysRevLett.3.77",
+        "url": "https://doi.org/10.1103/PhysRevLett.3.77"
+      },
+      {
+        "title": "Physical Review Letters: 50th Anniversary Milestone Letters",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
+    ],
+    "dateNote": {
+      "zh": "记录Hubbard1959年的配分函数表述；不是1963年的Hubbard关联电子模型。",
+      "en": "Records Hubbard’s 1959 partition-function formulation, not the 1963 correlated-electron model."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "prl50"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.3.77"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.3.77"
+      ]
+    }
+  },
+  {
+    "id": "journal-neutron-phonon-spectra",
+    "title": {
+      "zh": "非弹性中子散射测量晶格振动",
+      "en": "Lattice vibrations measured with inelastic neutron scattering"
+    },
+    "year": 1959,
+    "precision": "year",
+    "type": "method",
+    "field": "matter",
+    "people": [
+      "bertram-brockhouse"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "通过声子色散测量把非弹性中子散射发展为凝聚态动力学工具。",
+      "en": "Established inelastic-neutron measurements of lattice excitations."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (1959), DOI 10.1103/PhysRevLett.2.256",
+        "url": "https://doi.org/10.1103/PhysRevLett.2.256"
+      },
+      {
+        "title": "Physical Review Letters: 50th Anniversary Milestone Letters",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
+    ],
+    "dateNote": {
+      "zh": "选取编辑精选的1959年声子谱论文作为具体里程碑；不把整个仪器发展的时间压为一年。",
+      "en": "Uses a specific 1959 phonon-spectrum milestone, not a one-year date for the entire instrument history."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "prl50"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.2.256"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.2.256"
+      ]
+    }
+  },
+  {
+    "id": "journal-nambu-spontaneous-symmetry-breaking",
+    "title": {
+      "zh": "粒子物理中的自发对称破缺机制",
+      "en": "Spontaneous symmetry breaking in particle theory"
+    },
+    "year": 1960,
+    "precision": "year",
+    "type": "theory",
+    "field": "particle",
+    "people": [
+      "yoichiro-nambu"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "将超导类比引入粒子理论，为自发对称破缺提供动力学途径。",
+      "en": "Connected superconducting ideas to dynamical symmetry breaking in particle theory."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (1960), DOI 10.1103/PhysRevLett.4.380",
+        "url": "https://doi.org/10.1103/PhysRevLett.4.380"
+      },
+      {
+        "title": "Nambu and Jona-Lasinio, Phys. Rev. 122, 345 (1961)",
+        "url": "https://doi.org/10.1103/PhysRev.122.345"
+      },
+      {
+        "title": "Physical Review Letters: 50th Anniversary Milestone Letters",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      },
+      {
+        "title": "Physical Review: 125th Anniversary Editors’ Timeline",
+        "url": "https://journals.aps.org/125years"
+      }
+    ],
+    "dateNote": {
+      "zh": "按Nambu1960年公开论文定位；1961年与Jona-Lasinio的模型作为同一成果族的后续发展，不另累加。",
+      "en": "Anchored to Nambu’s 1960 paper; the 1961 Nambu–Jona-Lasinio model is treated as development of the same milestone family."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "prl50",
+      "pr125"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.4.380",
+        "10.1103/PhysRev.122.345"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.4.380"
+      ]
+    }
+  },
+  {
+    "id": "journal-pound-rebka-redshift",
+    "title": {
+      "zh": "Pound–Rebka引力红移实验",
+      "en": "Pound–Rebka gravitational-redshift experiment"
+    },
+    "year": 1960,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "用共振伽马射线检验地面高度差产生的引力频移。",
+      "en": "Tested gravitational frequency shifts with resonant gamma rays."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (1960), DOI 10.1103/PhysRevLett.4.337",
+        "url": "https://doi.org/10.1103/PhysRevLett.4.337"
+      },
+      {
+        "title": "Physical Review Letters: 50th Anniversary Milestone Letters",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引原始论文公开出版年；不是后来的回顾文章年份。",
+      "en": "Dated to the original publication, not the later editorial retrospective."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "prl50"
+    ],
+    "groups": [
+      "Robert Pound",
+      "Glen Rebka"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.4.337"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.4.337"
+      ]
+    }
+  },
+  {
     "id": "ruby-laser",
     "title": {
       "zh": "红宝石激光器",
@@ -8007,6 +8610,114 @@
       "en": "First operated in May 1960; the paper appeared in August."
     },
     "status": "reviewed"
+  },
+  {
+    "id": "journal-eightfold-way",
+    "title": {
+      "zh": "强相互作用粒子的八重道分类",
+      "en": "Eightfold-way classification of hadrons"
+    },
+    "year": 1961,
+    "precision": "year",
+    "type": "theory",
+    "field": "particle",
+    "people": [
+      "murray-gell-mann"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "以SU(3)对称组织强子多重态，为夸克分类提供前导结构。",
+      "en": "Organized hadron multiplets with SU(3), preceding the quark model."
+    },
+    "sources": [
+      {
+        "title": "Physical Review (1962), DOI 10.1103/PhysRev.125.1067",
+        "url": "https://doi.org/10.1103/PhysRev.125.1067"
+      },
+      {
+        "title": "Gell-Mann, Caltech CTSL-20 / OSTI 4008239 (1961)",
+        "url": "https://doi.org/10.2172/4008239"
+      },
+      {
+        "title": "Physical Review: 125th Anniversary Editors’ Timeline",
+        "url": "https://journals.aps.org/125years"
+      },
+      {
+        "title": "Caltech Library: 1961 Eightfold Way report",
+        "url": "https://feeds.library.caltech.edu/people/Gell-Mann-M/monograph.html"
+      }
+    ],
+    "dateNote": {
+      "zh": "Gell-Mann报告首次公开于1961；1962年Physical Review论文是期刊系统论述，不将两次出版重复计分。",
+      "en": "The Gell-Mann report was public in 1961; its 1962 Physical Review exposition is not counted again."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "pr125"
+    ],
+    "groups": [
+      "Yuval Ne’eman (independent classification)"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRev.125.1067",
+        "10.2172/4008239"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRev.125.1067"
+      ]
+    }
+  },
+  {
+    "id": "journal-optical-second-harmonic",
+    "title": {
+      "zh": "光学二次谐波产生的实验",
+      "en": "Experimental optical second-harmonic generation"
+    },
+    "year": 1961,
+    "precision": "year",
+    "type": "discovery",
+    "field": "light",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "强激光驱动石英产生倍频光，打开非线性光学实验。",
+      "en": "Demonstrated frequency doubling of laser light in quartz."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (1961), DOI 10.1103/PhysRevLett.7.118",
+        "url": "https://doi.org/10.1103/PhysRevLett.7.118"
+      },
+      {
+        "title": "Physical Review Letters: 50th Anniversary Milestone Letters",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引原始论文公开出版年；不是后来的回顾文章年份。",
+      "en": "Dated to the original publication, not the later editorial retrospective."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "prl50"
+    ],
+    "groups": [
+      "Peter Franken",
+      "A. E. Hill",
+      "C. W. Peters",
+      "Gabriel Weinreich"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.7.118"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.7.118"
+      ]
+    }
   },
   {
     "id": "landauer-erasure-bound",
@@ -8067,6 +8778,62 @@
       "en": "Dated by publication of the cited paper."
     },
     "status": "reviewed"
+  },
+  {
+    "id": "journal-extrasolar-xrays",
+    "title": {
+      "zh": "太阳系外X射线源的发现",
+      "en": "Discovery of an extrasolar X-ray source"
+    },
+    "year": 1962,
+    "precision": "year",
+    "type": "discovery",
+    "field": "cosmos",
+    "people": [
+      "riccardo-giacconi",
+      "bruno-rossi"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "火箭探测打开X射线天文学观测窗口。",
+      "en": "Rocket observations opened the field of extrasolar X-ray astronomy."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (1962), DOI 10.1103/PhysRevLett.9.439",
+        "url": "https://doi.org/10.1103/PhysRevLett.9.439"
+      },
+      {
+        "title": "Physical Review Letters: 50th Anniversary Milestone Letters",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      },
+      {
+        "title": "Physical Review: 125th Anniversary Editors’ Timeline",
+        "url": "https://journals.aps.org/125years"
+      }
+    ],
+    "dateNote": {
+      "zh": "按1962年原始论文定位，不采用2002年诺奖年。",
+      "en": "Dated to the 1962 original paper, not the 2002 Nobel Prize."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "prl50",
+      "pr125"
+    ],
+    "groups": [
+      "Herbert Gursky",
+      "Frank Paolini"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.9.439"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.9.439"
+      ]
+    }
   },
   {
     "id": "muon-neutrino-discovery",
@@ -8136,6 +8903,52 @@
       "Martin Gutzwiller",
       "Junjiro Kanamori"
     ]
+  },
+  {
+    "id": "journal-cabibbo-mixing",
+    "title": {
+      "zh": "弱相互作用的Cabibbo混合",
+      "en": "Cabibbo mixing in weak interactions"
+    },
+    "year": 1963,
+    "precision": "year",
+    "type": "theory",
+    "field": "particle",
+    "people": [
+      "nicola-cabibbo"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "用混合角描述强子弱衰变，成为后续夸克味混合的组成部分。",
+      "en": "Introduced a mixing angle into hadronic weak decays."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (1963), DOI 10.1103/PhysRevLett.10.531",
+        "url": "https://doi.org/10.1103/PhysRevLett.10.531"
+      },
+      {
+        "title": "Physical Review: 125th Anniversary Editors’ Timeline",
+        "url": "https://journals.aps.org/125years"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引原始论文公开出版年；不是后来的回顾文章年份。",
+      "en": "Dated to the original publication, not the later editorial retrospective."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "pr125"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.10.531"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.10.531"
+      ]
+    }
   },
   {
     "id": "kerr-black-hole",
@@ -8221,13 +9034,23 @@
       {
         "title": "Quantum theory of optical coherence",
         "url": "https://doi.org/10.1103/PhysRev.131.2766"
+      },
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
       }
     ],
     "dateNote": {
       "zh": "Glauber与Sudarshan在1963年分别提出重要的量子光学描述。",
       "en": "Glauber and Sudarshan independently developed important quantum-optical descriptions in 1963."
     },
-    "status": "reviewed"
+    "status": "reviewed",
+    "publisherCollections": [
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
+    ]
   },
   {
     "id": "quasar-redshift",
@@ -8322,6 +9145,10 @@
       {
         "title": "Brookhaven: the 1980 Nobel Prize and the 1964 CP discovery",
         "url": "https://www.bnl.gov/bnlweb/history/nobel/1980.php"
+      },
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
       }
     ],
     "dateNote": {
@@ -8332,6 +9159,12 @@
     "groups": [
       "James Christenson",
       "René Turlay"
+    ],
+    "publisherCollections": [
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
     ]
   },
   {
@@ -8362,6 +9195,10 @@
       {
         "title": "Kohn and Sham: Self-Consistent Equations Including Exchange and Correlation Effects (1965)",
         "url": "https://doi.org/10.1103/PhysRev.140.A1133"
+      },
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
       }
     ],
     "dateNote": {
@@ -8372,6 +9209,12 @@
     "dateRange": [
       1964,
       1965
+    ],
+    "publisherCollections": [
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
+      }
     ]
   },
   {
@@ -8407,6 +9250,10 @@
       {
         "title": "Guralnik, Hagen and Kibble: Global Conservation Laws and Massless Particles (1964)",
         "url": "https://doi.org/10.1103/PhysRevLett.13.585"
+      },
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
       }
     ],
     "dateNote": {
@@ -8417,7 +9264,64 @@
     "groups": [
       "Gerald Guralnik",
       "C. R. Hagen"
+    ],
+    "publisherCollections": [
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
     ]
+  },
+  {
+    "id": "journal-kondo-resistance",
+    "title": {
+      "zh": "稀磁合金电阻极小值的量子解释",
+      "en": "Quantum explanation of the Kondo resistance minimum"
+    },
+    "year": 1964,
+    "precision": "year",
+    "type": "theory",
+    "field": "matter",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "交换散射的量子修正解释低温电阻异常，为量子杂质研究建立出发点。",
+      "en": "Exchange-scattering corrections explained an anomalous low-temperature resistance trend."
+    },
+    "sources": [
+      {
+        "title": "Progress of Theoretical Physics (1964), DOI 10.1143/PTP.32.37",
+        "url": "https://doi.org/10.1143/PTP.32.37"
+      },
+      {
+        "title": "Nature Milestones in Spin",
+        "url": "https://www.nature.com/collections/idgejiafca"
+      },
+      {
+        "title": "Nature Physics: Odd one out",
+        "url": "https://www.nature.com/articles/milespin12"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引原始论文公开出版年；不是后来的回顾文章年份。",
+      "en": "Dated to the original publication, not the later editorial retrospective."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "spin"
+    ],
+    "groups": [
+      "Jun Kondo"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1143/PTP.32.37"
+      ],
+      "metadataVerifiedDois": [
+        "10.1143/PTP.32.37"
+      ]
+    }
   },
   {
     "id": "quark-model",
@@ -8496,6 +9400,54 @@
     ]
   },
   {
+    "id": "journal-soliton-recurrence",
+    "title": {
+      "zh": "非线性波中孤子的数值识别",
+      "en": "Numerical identification of soliton behavior"
+    },
+    "year": 1965,
+    "precision": "year",
+    "type": "discovery",
+    "field": "mechanics",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "数值研究展示局域非线性波碰撞后的稳定行为，推动孤子物理。",
+      "en": "Numerical wave studies identified stable localized excitations after collisions."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (1965), DOI 10.1103/PhysRevLett.15.240",
+        "url": "https://doi.org/10.1103/PhysRevLett.15.240"
+      },
+      {
+        "title": "Physical Review Letters: 50th Anniversary Milestone Letters",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引原始论文公开出版年；不是后来的回顾文章年份。",
+      "en": "Dated to the original publication, not the later editorial retrospective."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "prl50"
+    ],
+    "groups": [
+      "Norman Zabusky",
+      "Martin Kruskal"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.15.240"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.15.240"
+      ]
+    }
+  },
+  {
     "id": "penrose-singularity-theorem",
     "title": {
       "zh": "彭罗斯奇性定理",
@@ -8524,6 +9476,55 @@
       "en": "Dated by publication of the cited paper."
     },
     "status": "reviewed"
+  },
+  {
+    "id": "journal-mermin-wagner",
+    "title": {
+      "zh": "低维磁序的Mermin–Wagner定理",
+      "en": "Mermin–Wagner theorem for low-dimensional magnetism"
+    },
+    "year": 1966,
+    "precision": "year",
+    "type": "theory",
+    "field": "matter",
+    "people": [
+      "n-david-mermin"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "严格限制低维各向同性短程模型在有限温度下的长程磁序。",
+      "en": "Established a finite-temperature restriction on ordering in low-dimensional isotropic models."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (1966), DOI 10.1103/PhysRevLett.17.1133",
+        "url": "https://doi.org/10.1103/PhysRevLett.17.1133"
+      },
+      {
+        "title": "Physical Review Letters: 50th Anniversary Milestone Letters",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
+    ],
+    "dateNote": {
+      "zh": "原文与同年勘误应结合阅读；不将结论扩展到任意相互作用或任意各向异性模型。",
+      "en": "Read with the same-year erratum; the conclusion does not apply to arbitrary interactions or anisotropies."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "prl50"
+    ],
+    "groups": [
+      "Herbert Wagner"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.17.1133"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.17.1133"
+      ]
+    }
   },
   {
     "id": "low-loss-fibre-proposal",
@@ -8590,13 +9591,23 @@
       {
         "title": "IOP: 100 incredible years — particle physics",
         "url": "https://www.iop.org/about/iop-history/100th-anniversary/100-incredible-years/particle-physics"
+      },
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
       }
     ],
     "dateNote": {
       "zh": "1967年论文为代表；Glashow的规范结构发表于1961年，Salam于1968年发表相关理论。",
       "en": "The representative paper is from 1967; Glashow’s gauge structure dates to 1961 and Salam’s formulation to 1968."
     },
-    "status": "reviewed"
+    "status": "reviewed",
+    "publisherCollections": [
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
+    ]
   },
   {
     "id": "pulsar-discovery",
@@ -8693,6 +9704,10 @@
       {
         "title": "Breidenbach et al.: Observed Behavior of Highly Inelastic Electron-Proton Scattering (1969)",
         "url": "https://doi.org/10.1103/PhysRevLett.23.935"
+      },
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
       }
     ],
     "dateNote": {
@@ -8702,7 +9717,53 @@
     "status": "reviewed",
     "groups": [
       "SLAC–MIT collaboration"
+    ],
+    "publisherCollections": [
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
+      }
     ]
+  },
+  {
+    "id": "journal-veneziano-amplitude",
+    "title": {
+      "zh": "Veneziano对偶散射振幅",
+      "en": "Veneziano dual scattering amplitude"
+    },
+    "year": 1968,
+    "precision": "year",
+    "type": "theory",
+    "field": "particle",
+    "people": [
+      "gabriele-veneziano"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "构造满足对偶性与Regge行为的振幅，成为弦理论史的重要起点。",
+      "en": "Constructed a dual amplitude with Regge behavior, an important antecedent of string theory."
+    },
+    "sources": [
+      {
+        "title": "Il Nuovo Cimento A (1968), DOI 10.1007/BF02824451",
+        "url": "https://doi.org/10.1007/BF02824451"
+      }
+    ],
+    "dateNote": {
+      "zh": "记录可明确发表定年的数学模型，不表示弦理论已得到实验确认。",
+      "en": "Records a dated mathematical model, not experimental confirmation of string theory."
+    },
+    "status": "reviewed",
+    "publisherCollections": [],
+    "literatureEvidence": {
+      "mode": "original-paper-metadata",
+      "originalDois": [
+        "10.1007/BF02824451"
+      ],
+      "metadataVerifiedDois": [
+        "10.1007/BF02824451"
+      ]
+    }
   },
   {
     "id": "multiwire-proportional-chamber",
@@ -8879,6 +9940,46 @@
     "status": "reviewed"
   },
   {
+    "id": "journal-environment-decoherence",
+    "title": {
+      "zh": "测量中的环境退相干思想",
+      "en": "Environmental decoherence in measurement theory"
+    },
+    "year": 1970,
+    "precision": "year",
+    "type": "theory",
+    "field": "quantum",
+    "people": [
+      "h-dieter-zeh"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "将测量体系与环境的关联引入量子测量讨论，推动退相干研究。",
+      "en": "Examined correlations with the environment in quantum measurement."
+    },
+    "sources": [
+      {
+        "title": "Foundations of Physics (1970), DOI 10.1007/BF00708656",
+        "url": "https://doi.org/10.1007/BF00708656"
+      }
+    ],
+    "dateNote": {
+      "zh": "这是1970年测量理论论文；并非1973年另一篇“The inexactness of time”。不宣称单篇论文解决了全部测量解释问题。",
+      "en": "The 1970 measurement paper, not the different 1973 paper on time; it does not claim a complete resolution of the measurement problem."
+    },
+    "status": "reviewed",
+    "publisherCollections": [],
+    "literatureEvidence": {
+      "mode": "original-paper-metadata",
+      "originalDois": [
+        "10.1007/BF00708656"
+      ],
+      "metadataVerifiedDois": [
+        "10.1007/BF00708656"
+      ]
+    }
+  },
+  {
     "id": "gauge-theory-renormalizability",
     "title": {
       "zh": "破缺规范理论的可重整性",
@@ -8935,6 +10036,10 @@
       {
         "title": "Wilson and Fisher: Critical Exponents in 3.99 Dimensions (1972)",
         "url": "https://doi.org/10.1103/PhysRevLett.28.240"
+      },
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
       }
     ],
     "dateNote": {
@@ -8944,6 +10049,12 @@
     "status": "reviewed",
     "groups": [
       "Leo Kadanoff and other scaling-theory contributors"
+    ],
+    "publisherCollections": [
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
+      }
     ]
   },
   {
@@ -9003,8 +10114,7 @@
     "people": [
       "douglas-osheroff",
       "david-lee-physicist",
-      "robert-coleman-richardson",
-      "anthony-james-leggett"
+      "robert-coleman-richardson"
     ],
     "weight": 2,
     "rationale": {
@@ -9015,13 +10125,69 @@
       {
         "title": "Discovery of helium-3 superfluidity",
         "url": "https://www.aps.org/apsnews/2021/10/publication-discovery-superfluid-helium3"
+      },
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
       }
     ],
     "dateNote": {
-      "zh": "1971年观察异常，1972年确认液体超流相并发表；Leggett的解释随后发展。",
-      "en": "Anomalies were observed in 1971; liquid superfluid phases were established in 1972, followed by Leggett’s interpretation."
+      "zh": "1972年实验发现由Osheroff、Richardson和Lee完成；Leggett的1972年超流配对理论另列独立事件，不将理论作者归为实验作者。",
+      "en": "The 1972 experimental discovery was by Osheroff, Richardson and Lee. Leggett’s 1972 pairing theory is recorded separately; the theorist is not assigned authorship of the experiment."
     },
-    "status": "reviewed"
+    "status": "reviewed",
+    "publisherCollections": [
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
+    ]
+  },
+  {
+    "id": "journal-helium-three-pairing-theory",
+    "title": {
+      "zh": "氦三超流相的配对理论",
+      "en": "Pairing theory of helium-3 superfluid phases"
+    },
+    "year": 1972,
+    "precision": "year",
+    "type": "theory",
+    "field": "matter",
+    "people": [
+      "anthony-james-leggett"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "建立理解氦三多种超流相的理论基础。",
+      "en": "Provided theoretical foundations for multiple superfluid phases of helium-3."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (1972), DOI 10.1103/PhysRevLett.29.1227",
+        "url": "https://doi.org/10.1103/PhysRevLett.29.1227"
+      },
+      {
+        "title": "Physical Review Letters: 50th Anniversary Milestone Letters",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
+    ],
+    "dateNote": {
+      "zh": "区别于同年超流转变的实验发现；原文需结合1973年勘误。",
+      "en": "Distinct from the experimental discovery of the transition; read with the 1973 erratum."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "prl50"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.29.1227"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.29.1227"
+      ]
+    }
   },
   {
     "id": "black-hole-entropy",
@@ -9107,13 +10273,23 @@
       {
         "title": "Spatial magnetic-resonance imaging",
         "url": "https://www.nature.com/articles/242190a0"
+      },
+      {
+        "title": "Nature Milestones in Spin",
+        "url": "https://www.nature.com/collections/idgejiafca"
       }
     ],
     "dateNote": {
       "zh": "Lauterbur的空间成像与Mansfield的梯度/傅里叶方法均发表于1973年；不采用2003年获奖年。",
       "en": "Lauterbur’s imaging and Mansfield’s gradient/Fourier methods appeared in 1973; the 2003 award is not the event date."
     },
-    "status": "reviewed"
+    "status": "reviewed",
+    "publisherCollections": [
+      {
+        "title": "Nature Milestones in Spin",
+        "url": "https://www.nature.com/collections/idgejiafca"
+      }
+    ]
   },
   {
     "id": "qcd-asymptotic-freedom",
@@ -9152,6 +10328,10 @@
       {
         "title": "APS: 50 Years of QCD",
         "url": "https://journals.aps.org/collections/50-years-QCD"
+      },
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
       }
     ],
     "dateNote": {
@@ -9162,6 +10342,12 @@
     "groups": [
       "Harald Fritzsch",
       "Heinrich Leutwyler"
+    ],
+    "publisherCollections": [
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
     ]
   },
   {
@@ -9261,6 +10447,59 @@
     "status": "reviewed"
   },
   {
+    "id": "journal-wess-zumino-supersymmetry",
+    "title": {
+      "zh": "四维相互作用超对称模型",
+      "en": "Interacting supersymmetric model in four dimensions"
+    },
+    "year": 1974,
+    "precision": "year",
+    "type": "theory",
+    "field": "particle",
+    "people": [
+      "bruno-zumino"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "构造四维相互作用超对称场论模型，为后续理论研究提供基础实例。",
+      "en": "Constructed an interacting four-dimensional supersymmetric field model."
+    },
+    "sources": [
+      {
+        "title": "Nuclear Physics B (1974), DOI 10.1016/0550-3213(74)90355-1",
+        "url": "https://doi.org/10.1016/0550-3213(74)90355-1"
+      },
+      {
+        "title": "Nature Milestones in Spin",
+        "url": "https://www.nature.com/collections/idgejiafca"
+      },
+      {
+        "title": "Nature Physics: Super symmetry",
+        "url": "https://www.nature.com/articles/milespin13"
+      }
+    ],
+    "dateNote": {
+      "zh": "记录1974年模型的期刊发表；承认1971年先行代数和弦论工作，不宣称超对称已被实验发现。",
+      "en": "Dated to the 1974 journal model, acknowledging 1971 antecedents; supersymmetry is not claimed as experimentally discovered."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "spin"
+    ],
+    "groups": [
+      "Julius Wess"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1016/0550-3213(74)90355-1"
+      ],
+      "metadataVerifiedDois": [
+        "10.1016/0550-3213(74)90355-1"
+      ]
+    }
+  },
+  {
     "id": "jpsi-charmonium-discovery",
     "title": {
       "zh": "J/ψ与粲偶素的发现",
@@ -9287,6 +10526,10 @@
       {
         "title": "Augustin et al.: Discovery of a Narrow Resonance in e+e− Annihilation (1974)",
         "url": "https://doi.org/10.1103/PhysRevLett.33.1406"
+      },
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
       }
     ],
     "dateNote": {
@@ -9297,6 +10540,12 @@
     "groups": [
       "Brookhaven E598 collaboration",
       "SLAC–LBL collaboration"
+    ],
+    "publisherCollections": [
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
     ]
   },
   {
@@ -9333,6 +10582,56 @@
     ]
   },
   {
+    "id": "journal-supergravity",
+    "title": {
+      "zh": "四维超引力的构造",
+      "en": "Construction of four-dimensional supergravity"
+    },
+    "year": 1976,
+    "precision": "year",
+    "type": "theory",
+    "field": "particle",
+    "people": [
+      "daniel-freedman",
+      "sergio-ferrara",
+      "peter-van-nieuwenhuizen",
+      "stanley-deser",
+      "bruno-zumino"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "构造包含引力与局域超对称性的相互作用理论。",
+      "en": "Constructed interacting theories combining gravity and local supersymmetry."
+    },
+    "sources": [
+      {
+        "title": "Physical Review D (1976), DOI 10.1103/PhysRevD.13.3214",
+        "url": "https://doi.org/10.1103/PhysRevD.13.3214"
+      },
+      {
+        "title": "Physics Letters B (1976), DOI 10.1016/0370-2693(76)90089-7",
+        "url": "https://doi.org/10.1016/0370-2693(76)90089-7"
+      }
+    ],
+    "dateNote": {
+      "zh": "合并1976年两组互补构造；这是理论成果，未声称已观测到引力微子或超对称粒子。",
+      "en": "Combines complementary 1976 constructions; it does not imply observed gravitinos or supersymmetric particles."
+    },
+    "status": "reviewed",
+    "publisherCollections": [],
+    "literatureEvidence": {
+      "mode": "original-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevD.13.3214",
+        "10.1016/0370-2693(76)90089-7"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevD.13.3214",
+        "10.1016/0370-2693(76)90089-7"
+      ]
+    }
+  },
+  {
     "id": "bottom-quark-discovery",
     "title": {
       "zh": "底夸克的发现",
@@ -9364,6 +10663,95 @@
     "groups": [
       "Fermilab E288 collaboration"
     ]
+  },
+  {
+    "id": "journal-altarelli-parisi-evolution",
+    "title": {
+      "zh": "部分子分布演化的Altarelli–Parisi表述",
+      "en": "Altarelli–Parisi formulation of parton evolution"
+    },
+    "year": 1977,
+    "precision": "year",
+    "type": "theory",
+    "field": "particle",
+    "people": [
+      "guido-altarelli",
+      "giorgio-parisi"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "以部分子分裂概率表述强子内部的尺度演化，支持QCD现象学计算。",
+      "en": "Formulated scale evolution through parton splitting probabilities for QCD phenomenology."
+    },
+    "sources": [
+      {
+        "title": "Nuclear Physics B (1977), DOI 10.1016/0550-3213(77)90384-4",
+        "url": "https://doi.org/10.1016/0550-3213(77)90384-4"
+      }
+    ],
+    "dateNote": {
+      "zh": "本条限定1977年Altarelli–Parisi表述，不抹去Gribov–Lipatov和Dokshitzer的先行及平行工作。",
+      "en": "Specifically the 1977 Altarelli–Parisi formulation, acknowledging earlier and parallel Gribov–Lipatov and Dokshitzer work."
+    },
+    "status": "reviewed",
+    "publisherCollections": [],
+    "literatureEvidence": {
+      "mode": "original-paper-metadata",
+      "originalDois": [
+        "10.1016/0550-3213(77)90384-4"
+      ],
+      "metadataVerifiedDois": [
+        "10.1016/0550-3213(77)90384-4"
+      ]
+    }
+  },
+  {
+    "id": "journal-hexatic-melting",
+    "title": {
+      "zh": "二维熔化的六角相机制",
+      "en": "Hexatic-phase mechanism of two-dimensional melting"
+    },
+    "year": 1978,
+    "precision": "year",
+    "type": "theory",
+    "field": "matter",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "给出二维固体经中间六角相熔化的机制，扩展低维相变理论。",
+      "en": "Proposed an intermediate hexatic phase in two-dimensional melting."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (1978), DOI 10.1103/PhysRevLett.41.121",
+        "url": "https://doi.org/10.1103/PhysRevLett.41.121"
+      },
+      {
+        "title": "Physical Review: 125th Anniversary Editors’ Timeline",
+        "url": "https://journals.aps.org/125years"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引原始论文公开出版年；不是后来的回顾文章年份。",
+      "en": "Dated to the original publication, not the later editorial retrospective."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "pr125"
+    ],
+    "groups": [
+      "Bertrand Halperin",
+      "David Nelson"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.41.121"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.41.121"
+      ]
+    }
   },
   {
     "id": "laser-cooling-trapped-ions",
@@ -9499,6 +10887,10 @@
       {
         "title": "Starobinsky: A new type of isotropic cosmological models without singularity (1980)",
         "url": "https://doi.org/10.1016/0370-2693(80)90670-X"
+      },
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
       }
     ],
     "dateNote": {
@@ -9509,6 +10901,12 @@
     "dateRange": [
       1980,
       1982
+    ],
+    "publisherCollections": [
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
+      }
     ]
   },
   {
@@ -9537,6 +10935,10 @@
       {
         "title": "NIST: Quantum Hall resistance and electrical metrology",
         "url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=934044"
+      },
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
       }
     ],
     "dateNote": {
@@ -9547,7 +10949,53 @@
     "groups": [
       "Gerhard Dorda",
       "Michael Pepper"
+    ],
+    "publisherCollections": [
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
+      }
     ]
+  },
+  {
+    "id": "journal-pointer-basis",
+    "title": {
+      "zh": "环境选择测量指针基的理论",
+      "en": "Environment-selected pointer basis"
+    },
+    "year": 1981,
+    "precision": "year",
+    "type": "theory",
+    "field": "quantum",
+    "people": [
+      "wojciech-zurek"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "刻画环境相互作用对稳定测量态的选择，为经典行为的量子描述提供机制。",
+      "en": "Characterized environmentally selected stable measurement states."
+    },
+    "sources": [
+      {
+        "title": "Physical Review D (1981), DOI 10.1103/PhysRevD.24.1516",
+        "url": "https://doi.org/10.1103/PhysRevD.24.1516"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引原始论文公开出版年；不是后来的回顾文章年份。",
+      "en": "Dated to the original publication, not the later editorial retrospective."
+    },
+    "status": "reviewed",
+    "publisherCollections": [],
+    "literatureEvidence": {
+      "mode": "original-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevD.24.1516"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevD.24.1516"
+      ]
+    }
   },
   {
     "id": "scanning-tunnelling-microscope",
@@ -9576,6 +11024,10 @@
       {
         "title": "Scanning tunneling microscope — IBM history",
         "url": "https://www.ibm.com/history/scanning-tunneling-microscope"
+      },
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
       }
     ],
     "dateNote": {
@@ -9586,6 +11038,12 @@
     "groups": [
       "Christoph Gerber",
       "Edmund Weibel"
+    ],
+    "publisherCollections": [
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
     ]
   },
   {
@@ -9600,13 +11058,12 @@
     "field": "matter",
     "people": [
       "daniel-c-tsui",
-      "horst-ludwig-stormer",
-      "robert-b-laughlin"
+      "horst-ludwig-stormer"
     ],
     "weight": 4,
     "rationale": {
-      "zh": "强关联电子产生分数量子化与分数电荷准粒子。",
-      "en": "Correlated electrons produced fractional quantization and fractionally charged quasiparticles."
+      "zh": "在二维电子系统中发现分数化的量子霍尔平台，确立新的强关联电子现象。",
+      "en": "Fractional quantum Hall plateaux in a two-dimensional electron system established a new strongly correlated electronic phenomenon."
     },
     "sources": [
       {
@@ -9614,18 +11071,171 @@
         "url": "https://doi.org/10.1103/PhysRevLett.48.1559"
       },
       {
-        "title": "Laughlin: Anomalous Quantum Hall Effect: An Incompressible Quantum Fluid with Fractionally Charged Excitations (1983)",
-        "url": "https://doi.org/10.1103/PhysRevLett.50.1395"
+        "title": "The Nobel Prize in Physics 1998 — discovery and theoretical explanation",
+        "url": "https://www.nobelprize.org/prizes/physics/1998/summary/"
+      },
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
       }
     ],
     "dateNote": {
-      "zh": "1982年发现，Laughlin于1983年提出解释。",
-      "en": "Discovered in 1982; Laughlin’s explanation followed in 1983."
+      "zh": "1982年实验由Tsui、Stormer和Gossard完成；Laughlin的1983年理论解释另列独立事件，不将其归为1982实验作者。",
+      "en": "The 1982 experiment was by Tsui, Stormer and Gossard. Laughlin’s 1983 theoretical explanation is a separate event; he is not assigned authorship of the 1982 experiment."
     },
     "status": "reviewed",
     "groups": [
       "Arthur Gossard"
+    ],
+    "publisherCollections": [
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
     ]
+  },
+  {
+    "id": "journal-tknn-topological-conductance",
+    "title": {
+      "zh": "霍尔电导与拓扑不变量的联系",
+      "en": "Topological invariant for quantized Hall conductance"
+    },
+    "year": 1982,
+    "precision": "year",
+    "type": "theory",
+    "field": "matter",
+    "people": [
+      "david-j-thouless"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "把量子化霍尔电导与能带的整数拓扑不变量联系起来。",
+      "en": "Related quantized Hall conductance to integer band topology."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (1982), DOI 10.1103/PhysRevLett.49.405",
+        "url": "https://doi.org/10.1103/PhysRevLett.49.405"
+      },
+      {
+        "title": "APS key papers for the 2016 Physics Nobel Prize",
+        "url": "https://journals.aps.org/2016/10/04/2016-nobel-prize-in-physics"
+      }
+    ],
+    "dateNote": {
+      "zh": "这是1982年TKNN理论，与1980年整数量子霍尔实验为不同成果。",
+      "en": "The 1982 TKNN theory is distinct from the 1980 experimental integer Hall discovery."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "aps2016"
+    ],
+    "groups": [
+      "Mahito Kohmoto",
+      "M. P. Nightingale",
+      "Marcel den Nijs"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.49.405"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.49.405"
+      ]
+    }
+  },
+  {
+    "id": "journal-haldane-spin-chain",
+    "title": {
+      "zh": "整数自旋反铁磁链的能隙预言",
+      "en": "Haldane prediction for integer-spin chains"
+    },
+    "year": 1983,
+    "precision": "year",
+    "type": "theory",
+    "field": "matter",
+    "people": [
+      "duncan-haldane"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "揭示整数与半整数自旋反铁磁链不同的低能行为，推进量子磁性与拓扑物态研究。",
+      "en": "Distinguished low-energy behavior of integer and half-integer antiferromagnetic chains."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (1983), DOI 10.1103/PhysRevLett.50.1153",
+        "url": "https://doi.org/10.1103/PhysRevLett.50.1153"
+      },
+      {
+        "title": "APS key papers for the 2016 Physics Nobel Prize",
+        "url": "https://journals.aps.org/2016/10/04/2016-nobel-prize-in-physics"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引原始论文公开出版年；不是后来的回顾文章年份。",
+      "en": "Dated to the original publication, not the later editorial retrospective."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "aps2016"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.50.1153"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.50.1153"
+      ]
+    }
+  },
+  {
+    "id": "journal-laughlin-fractional-fluid",
+    "title": {
+      "zh": "分数量子霍尔液体的Laughlin理论",
+      "en": "Laughlin theory of the fractional quantum Hall fluid"
+    },
+    "year": 1983,
+    "precision": "year",
+    "type": "theory",
+    "field": "matter",
+    "people": [
+      "robert-b-laughlin"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "以关联多体波函数说明分数量子霍尔态及分数电荷激发。",
+      "en": "Explained fractional Hall states through correlated many-body wavefunctions and fractional excitations."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (1983), DOI 10.1103/PhysRevLett.50.1395",
+        "url": "https://doi.org/10.1103/PhysRevLett.50.1395"
+      },
+      {
+        "title": "Physical Review Letters: 50th Anniversary Milestone Letters",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
+    ],
+    "dateNote": {
+      "zh": "1983年理论与1982年Tsui–Stormer–Gossard实验为不同成果，不把Laughlin记成1982年实验作者。",
+      "en": "This 1983 theory is distinct from the 1982 experiment; Laughlin is not an author of that experimental discovery."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "prl50"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.50.1395"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.50.1395"
+      ]
+    }
   },
   {
     "id": "w-z-boson-discovery",
@@ -9818,6 +11428,10 @@
       {
         "title": "Optical molasses for neutral atoms",
         "url": "https://doi.org/10.1103/PhysRevLett.55.48"
+      },
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
       }
     ],
     "dateNote": {
@@ -9830,6 +11444,12 @@
       "J. Bjorkholm",
       "A. Cable",
       "A. Ashkin"
+    ],
+    "publisherCollections": [
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
+      }
     ]
   },
   {
@@ -9884,6 +11504,10 @@
       {
         "title": "The atomic force microscope",
         "url": "https://doi.org/10.1103/PhysRevLett.56.930"
+      },
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
       }
     ],
     "dateNote": {
@@ -9894,6 +11518,12 @@
     "groups": [
       "Calvin Quate",
       "Christoph Gerber"
+    ],
+    "publisherCollections": [
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
     ]
   },
   {
@@ -9932,6 +11562,158 @@
     "status": "reviewed"
   },
   {
+    "id": "journal-lattice-gas-fluids",
+    "title": {
+      "zh": "流体方程的格子气自动机方法",
+      "en": "Lattice-gas automata for fluid equations"
+    },
+    "year": 1986,
+    "precision": "year",
+    "type": "method",
+    "field": "mechanics",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "以离散粒子与碰撞规则重现流体方程，拓展计算流体方法。",
+      "en": "Recovered fluid equations from discrete lattice-gas rules."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (1986), DOI 10.1103/PhysRevLett.56.1505",
+        "url": "https://doi.org/10.1103/PhysRevLett.56.1505"
+      },
+      {
+        "title": "Physical Review: 125th Anniversary Editors’ Timeline",
+        "url": "https://journals.aps.org/125years"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引原始论文公开出版年；不是后来的回顾文章年份。",
+      "en": "Dated to the original publication, not the later editorial retrospective."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "pr125"
+    ],
+    "groups": [
+      "Uriel Frisch",
+      "Brosl Hasslacher",
+      "Yves Pomeau"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.56.1505"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.56.1505"
+      ]
+    }
+  },
+  {
+    "id": "journal-optical-tweezers",
+    "title": {
+      "zh": "单束梯度力光镊",
+      "en": "Single-beam gradient-force optical tweezers"
+    },
+    "year": 1986,
+    "precision": "year",
+    "type": "method",
+    "field": "light",
+    "people": [
+      "arthur-ashkin",
+      "steven-chu"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "用紧聚焦光束稳定俘获介电微粒，开辟精密光学操纵。",
+      "en": "Trapped dielectric particles with a focused beam for precise optical manipulation."
+    },
+    "sources": [
+      {
+        "title": "Optics Letters (1986), DOI 10.1364/OL.11.000288",
+        "url": "https://doi.org/10.1364/OL.11.000288"
+      },
+      {
+        "title": "Ashkin: Optical trapping and manipulation, PNAS (1997)",
+        "url": "https://doi.org/10.1073/pnas.94.10.4853"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引原始论文公开出版年；不是后来的回顾文章年份。",
+      "en": "Dated to the original publication, not the later editorial retrospective."
+    },
+    "status": "reviewed",
+    "publisherCollections": [],
+    "groups": [
+      "J. M. Dziedzic",
+      "J. E. Bjorkholm"
+    ],
+    "literatureEvidence": {
+      "mode": "original-paper-metadata",
+      "originalDois": [
+        "10.1364/OL.11.000288"
+      ],
+      "metadataVerifiedDois": [
+        "10.1364/OL.11.000288"
+      ]
+    }
+  },
+  {
+    "id": "journal-single-ion-quantum-jumps",
+    "title": {
+      "zh": "单离子量子跃迁的直接观测",
+      "en": "Direct observation of quantum jumps in single ions"
+    },
+    "year": 1986,
+    "precision": "year",
+    "type": "discovery",
+    "field": "quantum",
+    "people": [
+      "hans-georg-dehmelt",
+      "david-j-wineland"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "通过电子搁置与荧光间歇直接观测单离子的量子跃迁。",
+      "en": "Resolved individual quantum jumps through electron shelving and intermittent fluorescence."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (1986), DOI 10.1103/PhysRevLett.56.2797",
+        "url": "https://doi.org/10.1103/PhysRevLett.56.2797"
+      },
+      {
+        "title": "Physical Review Letters (1986), DOI 10.1103/PhysRevLett.57.1699",
+        "url": "https://doi.org/10.1103/PhysRevLett.57.1699"
+      }
+    ],
+    "dateNote": {
+      "zh": "两组1986年独立观测合并为一项成果；不将激光冷却或离子阱本身重复计入。",
+      "en": "Combines independent 1986 observations; laser cooling and ion trapping are separate earlier milestones."
+    },
+    "status": "reviewed",
+    "publisherCollections": [],
+    "groups": [
+      "W. Nagourney",
+      "J. Sandberg",
+      "J. Bergquist",
+      "R. Hulet",
+      "W. Itano"
+    ],
+    "literatureEvidence": {
+      "mode": "original-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.56.2797",
+        "10.1103/PhysRevLett.57.1699"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.56.2797",
+        "10.1103/PhysRevLett.57.1699"
+      ]
+    }
+  },
+  {
     "id": "supernova-neutrinos",
     "title": {
       "zh": "超新星1987A的中微子",
@@ -9953,6 +11735,10 @@
       {
         "title": "Neutrinos from supernova 1987A",
         "url": "https://doi.org/10.1103/PhysRevLett.58.1490"
+      },
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
       }
     ],
     "dateNote": {
@@ -9964,6 +11750,12 @@
       "Kamiokande-II",
       "IMB",
       "Baksan"
+    ],
+    "publisherCollections": [
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
     ]
   },
   {
@@ -9989,6 +11781,10 @@
       {
         "title": "Giant magnetoresistance",
         "url": "https://doi.org/10.1103/PhysRevLett.61.2472"
+      },
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
       }
     ],
     "dateNote": {
@@ -9998,7 +11794,59 @@
     "status": "reviewed",
     "groups": [
       "Fert and Grünberg research groups"
+    ],
+    "publisherCollections": [
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
+      }
     ]
+  },
+  {
+    "id": "journal-haldane-chern-insulator",
+    "title": {
+      "zh": "零净磁通下的量子霍尔模型",
+      "en": "Quantum Hall model without net magnetic flux"
+    },
+    "year": 1988,
+    "precision": "year",
+    "type": "theory",
+    "field": "matter",
+    "people": [
+      "duncan-haldane"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "展示晶格体系无需净磁通也可具有量子霍尔拓扑性质。",
+      "en": "Demonstrated a lattice route to quantized Hall topology without net magnetic flux."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (1988), DOI 10.1103/PhysRevLett.61.2015",
+        "url": "https://doi.org/10.1103/PhysRevLett.61.2015"
+      },
+      {
+        "title": "APS key papers for the 2016 Physics Nobel Prize",
+        "url": "https://journals.aps.org/2016/10/04/2016-nobel-prize-in-physics"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引原始论文公开出版年；不是后来的回顾文章年份。",
+      "en": "Dated to the original publication, not the later editorial retrospective."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "aps2016"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.61.2015"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.61.2015"
+      ]
+    }
   },
   {
     "id": "efficient-blue-led",
@@ -10073,6 +11921,149 @@
     ]
   },
   {
+    "id": "journal-control-chaos",
+    "title": {
+      "zh": "混沌轨道的反馈控制",
+      "en": "Feedback control of chaotic trajectories"
+    },
+    "year": 1990,
+    "precision": "year",
+    "type": "method",
+    "field": "mechanics",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "利用小反馈稳定混沌系统的不稳定周期轨道。",
+      "en": "Used small feedback perturbations to stabilize unstable periodic orbits."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (1990), DOI 10.1103/PhysRevLett.64.1196",
+        "url": "https://doi.org/10.1103/PhysRevLett.64.1196"
+      },
+      {
+        "title": "Physical Review Letters: 50th Anniversary Milestone Letters",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引原始论文公开出版年；不是后来的回顾文章年份。",
+      "en": "Dated to the original publication, not the later editorial retrospective."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "prl50"
+    ],
+    "groups": [
+      "Edward Ott",
+      "Celso Grebogi",
+      "James Yorke"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.64.1196"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.64.1196"
+      ]
+    }
+  },
+  {
+    "id": "journal-synchronize-chaos",
+    "title": {
+      "zh": "混沌系统的同步",
+      "en": "Synchronization of chaotic systems"
+    },
+    "year": 1990,
+    "precision": "year",
+    "type": "method",
+    "field": "mechanics",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "证明适当耦合可使混沌子系统同步，推进非线性动力学控制。",
+      "en": "Showed synchronization of appropriately coupled chaotic subsystems."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (1990), DOI 10.1103/PhysRevLett.64.821",
+        "url": "https://doi.org/10.1103/PhysRevLett.64.821"
+      },
+      {
+        "title": "Physical Review Letters: 50th Anniversary Milestone Letters",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引原始论文公开出版年；不是后来的回顾文章年份。",
+      "en": "Dated to the original publication, not the later editorial retrospective."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "prl50"
+    ],
+    "groups": [
+      "Louis Pecora",
+      "Thomas Carroll"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.64.821"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.64.821"
+      ]
+    }
+  },
+  {
+    "id": "journal-ekert-entanglement-cryptography",
+    "title": {
+      "zh": "基于纠缠的量子密钥分发",
+      "en": "Entanglement-based quantum key distribution"
+    },
+    "year": 1991,
+    "precision": "year",
+    "type": "method",
+    "field": "quantum",
+    "people": [
+      "artur-ekert"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "将量子纠缠与Bell检验用于密钥分发，为量子信息安全提供另一条路线。",
+      "en": "Applied entanglement and Bell tests to quantum key distribution."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (1991), DOI 10.1103/PhysRevLett.67.661",
+        "url": "https://doi.org/10.1103/PhysRevLett.67.661"
+      },
+      {
+        "title": "Physical Review Letters: 50th Anniversary Milestone Letters",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引原始论文公开出版年；不是后来的回顾文章年份。",
+      "en": "Dated to the original publication, not the later editorial retrospective."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "prl50"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.67.661"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.67.661"
+      ]
+    }
+  },
+  {
     "id": "cobe-cmb-anisotropies",
     "title": {
       "zh": "COBE发现原初背景各向异性",
@@ -10110,6 +12101,103 @@
     ]
   },
   {
+    "id": "journal-dmrg",
+    "title": {
+      "zh": "密度矩阵重整化群方法",
+      "en": "Density-matrix renormalization group method"
+    },
+    "year": 1992,
+    "precision": "year",
+    "type": "method",
+    "field": "matter",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "以约化密度矩阵选择有效态，显著改进一维强关联体系计算。",
+      "en": "Used reduced density matrices to choose effective states for strongly correlated calculations."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (1992), DOI 10.1103/PhysRevLett.69.2863",
+        "url": "https://doi.org/10.1103/PhysRevLett.69.2863"
+      },
+      {
+        "title": "Physical Review Letters: 50th Anniversary Milestone Letters",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引原始论文公开出版年；不是后来的回顾文章年份。",
+      "en": "Dated to the original publication, not the later editorial retrospective."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "prl50"
+    ],
+    "groups": [
+      "Steven R. White"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.69.2863"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.69.2863"
+      ]
+    }
+  },
+  {
+    "id": "journal-light-orbital-angular-momentum",
+    "title": {
+      "zh": "拉盖尔–高斯光束的轨道角动量",
+      "en": "Orbital angular momentum of Laguerre–Gaussian beams"
+    },
+    "year": 1992,
+    "precision": "year",
+    "type": "theory",
+    "field": "light",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "明确特定激光模式的轨道角动量，为结构光与高维量子信息提供工具。",
+      "en": "Identified orbital angular momentum in structured laser modes."
+    },
+    "sources": [
+      {
+        "title": "Physical Review A (1992), DOI 10.1103/PhysRevA.45.8185",
+        "url": "https://doi.org/10.1103/PhysRevA.45.8185"
+      },
+      {
+        "title": "Physical Review A: The Legacy of Three Classics",
+        "url": "https://physics.aps.org/articles/v13/24"
+      }
+    ],
+    "dateNote": {
+      "zh": "不是首次发现光具有任何形式的角动量；本条限定1992年的模式理论。",
+      "en": "Not the first recognition of all optical angular momentum; this event concerns the 1992 mode theory."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "pra50"
+    ],
+    "groups": [
+      "Les Allen",
+      "M. Beijersbergen",
+      "R. Spreeuw",
+      "J. Woerdman"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevA.45.8185"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevA.45.8185"
+      ]
+    }
+  },
+  {
     "id": "quantum-teleportation-protocol",
     "title": {
       "zh": "量子隐形传态协议",
@@ -10132,6 +12220,10 @@
       {
         "title": "The quantum teleportation protocol",
         "url": "https://doi.org/10.1103/PhysRevLett.70.1895"
+      },
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
       }
     ],
     "dateNote": {
@@ -10144,7 +12236,65 @@
       "Claude Crépeau",
       "Richard Jozsa",
       "William Wootters"
+    ],
+    "publisherCollections": [
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
     ]
+  },
+  {
+    "id": "journal-strong-field-harmonic-theory",
+    "title": {
+      "zh": "强场高次谐波产生的量子理论",
+      "en": "Quantum theory of strong-field high-harmonic generation"
+    },
+    "year": 1994,
+    "precision": "year",
+    "type": "theory",
+    "field": "light",
+    "people": [
+      "anne-l-huillier",
+      "paul-corkum"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "建立高次谐波谱的强场量子计算方法，支持后来的阿秒物理。",
+      "en": "Developed strong-field quantum calculations of harmonic spectra."
+    },
+    "sources": [
+      {
+        "title": "Physical Review A (1994), DOI 10.1103/PhysRevA.49.2117",
+        "url": "https://doi.org/10.1103/PhysRevA.49.2117"
+      },
+      {
+        "title": "Physical Review A: The Legacy of Three Classics",
+        "url": "https://physics.aps.org/articles/v13/24"
+      }
+    ],
+    "dateNote": {
+      "zh": "区别于2001年阿秒光脉冲的实验实现；此项为1994年理论方法。",
+      "en": "A 1994 theoretical method, distinct from experimental attosecond-pulse milestones in 2001."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "pra50"
+    ],
+    "groups": [
+      "Maciej Lewenstein",
+      "Philippe Balcou",
+      "Mikhail Ivanov"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevA.49.2117"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevA.49.2117"
+      ]
+    }
   },
   {
     "id": "shor-algorithm",
@@ -10204,6 +12354,10 @@
       {
         "title": "Davis et al.: Bose-Einstein Condensation in a Gas of Sodium Atoms (1995)",
         "url": "https://doi.org/10.1103/PhysRevLett.75.3969"
+      },
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
       }
     ],
     "dateNote": {
@@ -10214,6 +12368,12 @@
     "groups": [
       "JILA rubidium team",
       "MIT sodium team"
+    ],
+    "publisherCollections": [
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
     ]
   },
   {
@@ -10300,6 +12460,10 @@
       {
         "title": "Discovery of the top quark",
         "url": "https://doi.org/10.1103/PhysRevLett.74.2626"
+      },
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
       }
     ],
     "dateNote": {
@@ -10310,6 +12474,12 @@
     "groups": [
       "CDF collaboration",
       "DØ collaboration"
+    ],
+    "publisherCollections": [
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
     ]
   },
   {
@@ -10347,6 +12517,116 @@
       "B. E. King",
       "W. M. Itano"
     ]
+  },
+  {
+    "id": "journal-cavity-field-decoherence",
+    "title": {
+      "zh": "腔场量子态退相干的观测",
+      "en": "Observation of decoherence in a cavity field"
+    },
+    "year": 1996,
+    "precision": "year",
+    "type": "discovery",
+    "field": "quantum",
+    "people": [
+      "serge-haroche"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "利用原子探针跟踪腔场量子相干的丧失，检验测量与退相干机制。",
+      "en": "Used atomic probes to track the loss of cavity-field coherence."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (1996), DOI 10.1103/PhysRevLett.77.4887",
+        "url": "https://doi.org/10.1103/PhysRevLett.77.4887"
+      }
+    ],
+    "dateNote": {
+      "zh": "按1996年具体退相干观测论文定位；不把APS概览中较笼统的1992年研究阶段误当此实验发表年。",
+      "en": "Uses the specific 1996 decoherence paper, not the broader 1992 program date mentioned in the APS overview."
+    },
+    "status": "reviewed",
+    "publisherCollections": [],
+    "groups": [
+      "Michel Brune",
+      "Emmanuel Hagley",
+      "Jean Dreyer",
+      "Xavier Maître",
+      "Alexandre Maali",
+      "Claude Wunderlich",
+      "Jean-Michel Raimond"
+    ],
+    "literatureEvidence": {
+      "mode": "original-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.77.4887"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.77.4887"
+      ]
+    }
+  },
+  {
+    "id": "journal-spin-magnetization-tunnelling",
+    "title": {
+      "zh": "高自旋分子中的共振磁化隧穿",
+      "en": "Resonant magnetization tunnelling in high-spin molecules"
+    },
+    "year": 1996,
+    "precision": "year",
+    "type": "discovery",
+    "field": "matter",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "在分子磁体中识别集体自旋态之间的量子隧穿。",
+      "en": "Identified quantum tunnelling between collective spin states in molecular magnets."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (1996), DOI 10.1103/PhysRevLett.76.3830",
+        "url": "https://doi.org/10.1103/PhysRevLett.76.3830"
+      },
+      {
+        "title": "Nature (1996), DOI 10.1038/383145a0",
+        "url": "https://doi.org/10.1038/383145a0"
+      },
+      {
+        "title": "Nature Milestones in Spin",
+        "url": "https://www.nature.com/collections/idgejiafca"
+      },
+      {
+        "title": "Nature Physics: The difficult middle ground",
+        "url": "https://www.nature.com/articles/milespin22"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引原始论文公开出版年；不是后来的回顾文章年份。",
+      "en": "Dated to the original publication, not the later editorial retrospective."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "spin"
+    ],
+    "groups": [
+      "Jonathan Friedman",
+      "Myriam Sarachik",
+      "Javier Tejada",
+      "Robert Ziolo",
+      "Luc Thomas and collaborators"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.76.3830",
+        "10.1038/383145a0"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.76.3830",
+        "10.1038/383145a0"
+      ]
+    }
   },
   {
     "id": "ads-cft-correspondence",
@@ -10420,6 +12700,53 @@
     ]
   },
   {
+    "id": "journal-jarzynski-equality",
+    "title": {
+      "zh": "非平衡功与自由能差的Jarzynski等式",
+      "en": "Jarzynski equality for nonequilibrium work"
+    },
+    "year": 1997,
+    "precision": "year",
+    "type": "theory",
+    "field": "heat",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "连接非平衡功的统计平均与平衡自由能差，扩展小体系热力学。",
+      "en": "Connected nonequilibrium work statistics with equilibrium free-energy differences."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (1997), DOI 10.1103/PhysRevLett.78.2690",
+        "url": "https://doi.org/10.1103/PhysRevLett.78.2690"
+      },
+      {
+        "title": "Physical Review Letters: 50th Anniversary Milestone Letters",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引原始论文公开出版年；不是后来的回顾文章年份。",
+      "en": "Dated to the original publication, not the later editorial retrospective."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "prl50"
+    ],
+    "groups": [
+      "Christopher Jarzynski"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.78.2690"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.78.2690"
+      ]
+    }
+  },
+  {
     "id": "accelerating-universe",
     "title": {
       "zh": "宇宙加速膨胀",
@@ -10486,6 +12813,10 @@
       {
         "title": "SNO: Direct Evidence for Neutrino Flavor Transformation from Neutral-Current Interactions (2002)",
         "url": "https://doi.org/10.1103/PhysRevLett.89.011301"
+      },
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
       }
     ],
     "dateNote": {
@@ -10500,7 +12831,68 @@
     "dateRange": [
       1998,
       2002
+    ],
+    "publisherCollections": [
+      {
+        "title": "Physical Review Letters — Letters from the Past: A PRL Retrospective",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
     ]
+  },
+  {
+    "id": "journal-warped-extra-dimension",
+    "title": {
+      "zh": "翘曲额外维度的Randall–Sundrum模型",
+      "en": "Randall–Sundrum models of warped extra dimensions"
+    },
+    "year": 1999,
+    "precision": "year",
+    "type": "theory",
+    "field": "particle",
+    "people": [
+      "lisa-randall"
+    ],
+    "weight": 2,
+    "rationale": {
+      "zh": "构造利用翘曲几何处理引力与质量层级的高维模型，拓展理论研究。",
+      "en": "Developed warped-dimensional models of gravity and mass hierarchies."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (1999), DOI 10.1103/PhysRevLett.83.3370",
+        "url": "https://doi.org/10.1103/PhysRevLett.83.3370"
+      },
+      {
+        "title": "Physical Review Letters (1999), DOI 10.1103/PhysRevLett.83.4690",
+        "url": "https://doi.org/10.1103/PhysRevLett.83.4690"
+      },
+      {
+        "title": "Physical Review Letters: 50th Anniversary Milestone Letters",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
+    ],
+    "dateNote": {
+      "zh": "同年两个相关模型合为一项理论里程碑；额外维度尚未得到实验确认。",
+      "en": "Combines the related same-year models; extra dimensions remain experimentally unconfirmed."
+    },
+    "status": "provisional",
+    "publisherCollections": [
+      "prl50"
+    ],
+    "groups": [
+      "Raman Sundrum"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.83.3370",
+        "10.1103/PhysRevLett.83.4690"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.83.3370",
+        "10.1103/PhysRevLett.83.4690"
+      ]
+    }
   },
   {
     "id": "slow-light-ultracold-gas",
@@ -10536,6 +12928,162 @@
       "Zachary Dutton",
       "Cyrus Behroozi"
     ]
+  },
+  {
+    "id": "journal-negative-index-medium",
+    "title": {
+      "zh": "负介电与负磁导复合介质",
+      "en": "Composite medium with negative permittivity and permeability"
+    },
+    "year": 2000,
+    "precision": "year",
+    "type": "discovery",
+    "field": "light",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "实验构造兼具负介电与负磁导响应的复合介质，推动电磁超材料。",
+      "en": "Demonstrated a composite electromagnetic medium with simultaneous negative responses."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (2000), DOI 10.1103/PhysRevLett.84.4184",
+        "url": "https://doi.org/10.1103/PhysRevLett.84.4184"
+      },
+      {
+        "title": "Physical Review Letters: 50th Anniversary Milestone Letters",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引原始论文公开出版年；不是后来的回顾文章年份。",
+      "en": "Dated to the original publication, not the later editorial retrospective."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "prl50"
+    ],
+    "groups": [
+      "David R. Smith",
+      "Willie Padilla",
+      "D. C. Vier",
+      "S. C. Nemat-Nasser",
+      "Sheldon Schultz"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.84.4184"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.84.4184"
+      ]
+    }
+  },
+  {
+    "id": "journal-optical-frequency-comb",
+    "title": {
+      "zh": "光频与微波频率的频梳连接",
+      "en": "Frequency-comb connection between optical and microwave frequencies"
+    },
+    "year": 2000,
+    "precision": "year",
+    "type": "method",
+    "field": "light",
+    "people": [
+      "john-l-hall",
+      "theodor-w-hansch",
+      "jun-ye"
+    ],
+    "weight": 4,
+    "rationale": {
+      "zh": "建立光频到微波频率的相干桥梁，推动精密光谱与频率计量。",
+      "en": "Linked optical and microwave frequencies coherently for precision metrology."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (2000), DOI 10.1103/PhysRevLett.84.5102",
+        "url": "https://doi.org/10.1103/PhysRevLett.84.5102"
+      },
+      {
+        "title": "Original research (2000), DOI 10.1103/PhysRevLett.84.3232",
+        "url": "https://doi.org/10.1103/PhysRevLett.84.3232"
+      },
+      {
+        "title": "Physical Review Letters: 50th Anniversary Milestone Letters",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      }
+    ],
+    "dateNote": {
+      "zh": "合并2000年两组互补频梳论文为一项里程碑，不按每个作者或2005年诺奖重复加分。",
+      "en": "Combines complementary 2000 frequency-comb papers as one milestone, not one event per author or prize."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "prl50"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.84.5102",
+        "10.1103/PhysRevLett.84.3232"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.84.5102"
+      ]
+    }
+  },
+  {
+    "id": "journal-perfect-lens-proposal",
+    "title": {
+      "zh": "负折射超透镜的理论方案",
+      "en": "Negative-refraction superlens proposal"
+    },
+    "year": 2000,
+    "precision": "year",
+    "type": "theory",
+    "field": "light",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "提出利用负折射介质重建倏逝场的成像方案。",
+      "en": "Proposed evanescent-field reconstruction with a negative-refraction lens."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (2000), DOI 10.1103/PhysRevLett.85.3966",
+        "url": "https://doi.org/10.1103/PhysRevLett.85.3966"
+      },
+      {
+        "title": "Physical Review Letters: 50th Anniversary Milestone Letters",
+        "url": "https://journals.aps.org/prl/50years/milestones"
+      },
+      {
+        "title": "Physical Review: 125th Anniversary Editors’ Timeline",
+        "url": "https://journals.aps.org/125years"
+      }
+    ],
+    "dateNote": {
+      "zh": "记录理想化理论方案；不是声称无损完美透镜已经被制造。",
+      "en": "An idealized theoretical proposal, not a claim that a lossless perfect lens was built."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "prl50",
+      "pr125"
+    ],
+    "groups": [
+      "John Pendry"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.85.3966"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.85.3966"
+      ]
+    }
   },
   {
     "id": "tau-neutrino-discovery",
@@ -10604,6 +13152,103 @@
       "Pierre Paul and collaborators",
       "Max Hentschel and collaborators"
     ]
+  },
+  {
+    "id": "journal-arbitrary-degree-random-graphs",
+    "title": {
+      "zh": "任意度分布随机网络的解析方法",
+      "en": "Random networks with arbitrary degree distributions"
+    },
+    "year": 2001,
+    "precision": "year",
+    "type": "method",
+    "field": "methods",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "用生成函数分析一般度分布网络，扩展统计物理的网络模型。",
+      "en": "Extended generating-function methods to networks with general degree distributions."
+    },
+    "sources": [
+      {
+        "title": "Physical Review E (2001), DOI 10.1103/PhysRevE.64.026118",
+        "url": "https://doi.org/10.1103/PhysRevE.64.026118"
+      },
+      {
+        "title": "Physical Review: 125th Anniversary Editors’ Timeline",
+        "url": "https://journals.aps.org/125years"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引原始论文公开出版年；不是后来的回顾文章年份。",
+      "en": "Dated to the original publication, not the later editorial retrospective."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "pr125"
+    ],
+    "groups": [
+      "Mark Newman",
+      "Steven Strogatz",
+      "Duncan Watts"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevE.64.026118"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevE.64.026118"
+      ]
+    }
+  },
+  {
+    "id": "journal-entanglement-negativity",
+    "title": {
+      "zh": "可计算的纠缠负性度量",
+      "en": "Computable entanglement negativity"
+    },
+    "year": 2002,
+    "precision": "year",
+    "type": "method",
+    "field": "quantum",
+    "people": [],
+    "weight": 1,
+    "rationale": {
+      "zh": "为混合量子态提供可计算的纠缠度量。",
+      "en": "Provided a computable entanglement measure for mixed states."
+    },
+    "sources": [
+      {
+        "title": "Physical Review A (2002), DOI 10.1103/PhysRevA.65.032314",
+        "url": "https://doi.org/10.1103/PhysRevA.65.032314"
+      },
+      {
+        "title": "Physical Review A: The Legacy of Three Classics",
+        "url": "https://physics.aps.org/articles/v13/24"
+      }
+    ],
+    "dateNote": {
+      "zh": "按所引原始论文公开出版年；不是后来的回顾文章年份。",
+      "en": "Dated to the original publication, not the later editorial retrospective."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "pra50"
+    ],
+    "groups": [
+      "Guifré Vidal",
+      "Reinhard Werner"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevA.65.032314"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevA.65.032314"
+      ]
+    }
   },
   {
     "id": "ultracold-mott-transition",
@@ -10778,6 +13423,102 @@
     ]
   },
   {
+    "id": "journal-element-118-confirmation",
+    "title": {
+      "zh": "118号元素合成结果的公开确认",
+      "en": "Public confirmation of element-118 synthesis"
+    },
+    "year": 2006,
+    "precision": "year",
+    "type": "discovery",
+    "field": "particle",
+    "people": [],
+    "weight": 1,
+    "rationale": {
+      "zh": "重离子聚变与衰变链证据扩展超重核的实验范围。",
+      "en": "Fusion and decay-chain evidence extended experimental access to superheavy nuclei."
+    },
+    "sources": [
+      {
+        "title": "Physical Review C (2006), DOI 10.1103/PhysRevC.74.044602",
+        "url": "https://doi.org/10.1103/PhysRevC.74.044602"
+      },
+      {
+        "title": "Physical Review: 125th Anniversary Editors’ Timeline",
+        "url": "https://journals.aps.org/125years"
+      }
+    ],
+    "dateNote": {
+      "zh": "按2006年系统公开报告定位，区分2002年先期事件和2016年正式命名。",
+      "en": "Dated to the systematic 2006 report, distinct from early 2002 events and the 2016 naming."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "pr125"
+    ],
+    "groups": [
+      "Yuri Oganessian and collaborators"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevC.74.044602"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevC.74.044602"
+      ]
+    }
+  },
+  {
+    "id": "journal-three-dimensional-topological-insulator",
+    "title": {
+      "zh": "三维拓扑绝缘体的理论分类",
+      "en": "Theory of three-dimensional topological insulators"
+    },
+    "year": 2007,
+    "precision": "year",
+    "type": "theory",
+    "field": "matter",
+    "people": [],
+    "weight": 2,
+    "rationale": {
+      "zh": "将拓扑绝缘态推广到三维，为材料寻找提供分类标准。",
+      "en": "Extended topological insulating phases to three dimensions."
+    },
+    "sources": [
+      {
+        "title": "Physical Review Letters (2007), DOI 10.1103/PhysRevLett.98.106803",
+        "url": "https://doi.org/10.1103/PhysRevLett.98.106803"
+      },
+      {
+        "title": "Physical Review: 125th Anniversary Editors’ Timeline",
+        "url": "https://journals.aps.org/125years"
+      }
+    ],
+    "dateNote": {
+      "zh": "这是三维理论分类，不重复计入同年二维量子自旋霍尔实验。",
+      "en": "The three-dimensional theoretical classification is distinct from the same-year two-dimensional quantum spin Hall experiment."
+    },
+    "status": "reviewed",
+    "publisherCollections": [
+      "pr125"
+    ],
+    "groups": [
+      "Liang Fu",
+      "Charles Kane",
+      "Eugene Mele"
+    ],
+    "literatureEvidence": {
+      "mode": "publisher-editorial-selection-and-paper-metadata",
+      "originalDois": [
+        "10.1103/PhysRevLett.98.106803"
+      ],
+      "metadataVerifiedDois": [
+        "10.1103/PhysRevLett.98.106803"
+      ]
+    }
+  },
+  {
     "id": "quantum-spin-hall-insulator",
     "title": {
       "zh": "量子自旋霍尔绝缘体",
@@ -10937,6 +13678,10 @@
       {
         "title": "Experimental discovery of Weyl semimetals",
         "url": "https://doi.org/10.1126/science.aaa9297"
+      },
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
       }
     ],
     "dateNote": {
@@ -10947,6 +13692,12 @@
     "groups": [
       "S.-Y. Xu and collaborators",
       "B. Q. Lv and collaborators"
+    ],
+    "publisherCollections": [
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
+      }
     ]
   },
   {
@@ -10978,6 +13729,10 @@
       {
         "title": "LIGO: Gravitational Waves Detected 100 Years After Einstein’s Prediction",
         "url": "https://ligo.org/gravitational-waves-detected-100-years-after-einsteins-general-relativity/"
+      },
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
       }
     ],
     "dateNote": {
@@ -10988,6 +13743,12 @@
     "groups": [
       "LIGO Scientific Collaboration",
       "Virgo Collaboration"
+    ],
+    "publisherCollections": [
+      {
+        "title": "Celebrating 125 years of the Physical Review",
+        "url": "https://journals.aps.org/125years"
+      }
     ]
   },
   {
